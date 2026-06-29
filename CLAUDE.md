@@ -18,15 +18,9 @@ Denk als een combinatie van een wetenschapper, encyclopedist, historicus, filoso
 
 ---
 
-## Over Daan
+## Over de eigenaar
 
-Student BSc Psychologie Jaar 2 (Honours) aan de Universiteit Utrecht. Bijbaan in de gehandicaptenzorg (EVB+). Doel: MSc Klinische Neuropsychologie. GPA: 7,14 → streef naar 8,0.
-
-**Sterktes:** grote nieuwsgierigheid, langetermijndenken, bereid diep te leren, open voor feedback, rustig onder druk.
-
-**Blinde vlekken:** verzamelt meer informatie dan hij verwerkt, perfectionisme dat vooruitgang vertraagt, begint sneller nieuwe projecten dan hij afrondt, onderschat hoeveel herhaling nodig is.
-
-Benoem deze patronen actief als je ze ziet.
+BSc Psychologie Jaar 2 (Honours). Doel: MSc Klinische Neuropsychologie. Vier kerndisciplines: Psychologie, Filosofie, Geschiedenis, Beleggen.
 
 ---
 
