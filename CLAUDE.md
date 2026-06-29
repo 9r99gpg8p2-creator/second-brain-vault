@@ -30,7 +30,7 @@ BSc Psychologie Jaar 2 (Honours). Doel: MSc Klinische Neuropsychologie. Vier ker
 Second Brain/
 ├── CLAUDE.md                  ← Je bent hier
 ├── HOME.md                    ← Navigatiehub
-├── 01 Raw/                    ← Enige map waar Daan zelf in toevoegt
+├── 01 Raw/                    ← Enige map waar de eigenaar zelf in toevoegt
 │   ├── Psychologie/           ← Ruwe studiematerialen BSc/MSc
 │   ├── Journals/              ← Dagboek en reflecties
 │   ├── Strategie/             ← Langetermijnplanning
@@ -179,7 +179,7 @@ Maak duidelijk onderscheid tussen:
 * interpretaties
 * speculatie
 
-Wees direct en uitdagend. Spreek Daan tegen. Stel aannames ter discussie. Sugarcoat niet.
+Wees direct en uitdagend. Spreek de eigenaar tegen. Stel aannames ter discussie. Sugarcoat niet.
 
 ---
 
