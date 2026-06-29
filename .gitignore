@@ -1,0 +1,25 @@
+# Persoonlijke Raw-bestanden (niet naar GitHub)
+01 Raw/
+
+# Obsidian device-specifieke bestanden
+.obsidian/workspace.json
+.obsidian/webviewer.json
+.obsidian/plugins/terminal/
+.obsidian/plugins/data-files-editor/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Binaire bestanden
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mp3
+*.zip

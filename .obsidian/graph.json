@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"01 Raw\"",
+      "color": {
+        "a": 1,
+        "rgb": 5533306
+      }
+    },
+    {
+      "query": "path:\"04 Claude\"",
+      "color": {
+        "a": 1,
+        "rgb": 5533306
+      }
+    },
+    {
+      "query": "path:\"02 Wiki/Psychologie\"",
+      "color": {
+        "a": 1,
+        "rgb": 6732650
+      }
+    },
+    {
+      "query": "path:\"02 Wiki/Filosofie\"",
+      "color": {
+        "a": 1,
+        "rgb": 6600182
+      }
+    },
+    {
+      "query": "path:\"02 Wiki/Geschiedenis\"",
+      "color": {
+        "a": 1,
+        "rgb": 16752640
+      }
+    },
+    {
+      "query": "path:\"02 Wiki/Beleggen\"",
+      "color": {
+        "a": 1,
+        "rgb": 15702682
+      }
+    },
+    {
+      "query": "path:\"02 Wiki/Psychologie\" file:\"MOC\"",
+      "color": {
+        "a": 1,
+        "rgb": 51283
+      }
+    },
+    {
+      "query": "path:\"02 Wiki/Filosofie\" file:\"MOC\"",
+      "color": {
+        "a": 1,
+        "rgb": 2718207
+      }
+    },
+    {
+      "query": "path:\"02 Wiki/Geschiedenis\" file:\"MOC\"",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "path:\"02 Wiki/Beleggen\" file:\"MOC\"",
+      "color": {
+        "a": 1,
+        "rgb": 16717636
+      }
+    },
+    {
+      "query": "tag:home",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.5,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.35,
+  "repelStrength": 16,
+  "linkStrength": 1,
+  "linkDistance": 22,
+  "scale": 1,
+  "close": false
+}
