@@ -43,4 +43,10 @@ tags: [home, index]
 
 ---
 
-> **Tip:** Begin elke sessie hier. Open de MOC van het domein waar je aan werkt.
+## Dagelijkse Update
+
+→ `04 Claude/Daily Summaries/` — open de note van vandaag
+
+---
+
+> **Tip:** Begin elke sessie hier. Lees eerst de dagelijkse update, open dan de MOC van het domein waar je aan werkt.
