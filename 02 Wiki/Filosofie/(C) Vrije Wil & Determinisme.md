@@ -1,0 +1,99 @@
+---
+type: concept
+id: e1dcf985-2b54-4724-8c41-c0d56d405031
+title: Vrije Wil & Determinisme
+summary: Het debat over vrije wil draait om de vraag of menselijk handelen causaal bepaald is; Libet's readiness potential heeft het debat naar de neurowetenschappen verschoven zonder het definitief te beslechten.
+category: Filosofie
+tags: [concept, filosofie, vrije-wil, determinisme, compatibilisme, Libet, bewustzijn, neurofilosofie]
+aliases: [Free Will, Determinism, Readiness Potential, Compatibilism]
+sources:
+  - url: https://pubmed.ncbi.nlm.nih.gov/6640273/
+    title: "Libet et al. (1983) — Readiness Potential experimenten"
+    trust_level: 10
+    publication_date: 1983
+  - url: https://www.sciencedirect.com/science/article/pii/S0149763420303432
+    title: "Why neuroscience does not disprove free will (ScienceDirect 2020)"
+    trust_level: 8
+    publication_date: 2020
+  - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5177994/
+    title: "Free Will and Neuroscience (PMC 2016)"
+    trust_level: 8
+    publication_date: 2016
+confidence_score: 0.85
+quality_score: 0.88
+freshness_score: 0.82
+importance_score: 0.92
+novelty_score: 0.85
+knowledge_score: 0.87
+usage_score: 0.0
+related_nodes: []
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Knowledge-Synthesizer
+    change: initial creation
+---
+
+# Vrije Wil & Determinisme
+
+**Kern:** Vrije wil is het vermogen van een actor om anders te kunnen handelen dan hij feitelijk deed; determinisme stelt dat alle gebeurtenissen causaal bepaald zijn — de neurowetenschappelijke vondst van de readiness potential heeft dit klassieke debat nieuw leven ingeblazen zonder het te beslechten.
+
+## Inhoud
+
+### FEIT: Libet's readiness potential (RP) experiment
+
+Benjamin Libet (1983) voerde het meest geciteerde experiment in de vrije-wil-discussie uit. Proefpersonen bewogen een pols naar eigen goeddunken en noteerden de positie van een klokwijzer op het moment dat zij de *intentie* tot bewegen ervaarden. Gelijktijdig mat een EEG de *readiness potential* (RP) — een elektrisch hersensignaal dat optreedt vóór voluntaire beweging.
+
+Bevinding: het RP begon gemiddeld **500 milliseconden** vóór de beweging, terwijl de bewuste intentie gemiddeld slechts **200 milliseconden** vóór de beweging gerapporteerd werd. Conclusie (Libet): de hersenen initiëren de beweging **vóór** het bewuste beslissingsmoment.
+
+Libet zelf introduceerde echter het concept van **"free won't"**: het bewuste bewustzijn kan een al gestarte neurale voorbereiding *onderdrukken*. De vrijheid zit niet in het initiëren maar in het vetoen.
+
+### FEIT: fMRI-uitbreiding (Haynes 2008)
+
+John-Dylan Haynes (2008, Nature Neuroscience) liet zien dat hersenactiviteit in prefrontale cortex de keuze van een proefpersoon tot **10 seconden** voor het bewuste beslissingsmoment voorspelde. Dit is methodologisch invloedrijker dan Libet maar onderhevig aan dezelfde kritiek.
+
+### THEORIE: Filosofische posities
+
+**Harde determinisme**: alle gebeurtenissen, inclusief menselijke beslissingen, zijn volledig causaal bepaald door voorafgaande toestanden en natuurwetten. Vrije wil bestaat niet; het gevoel van vrijheid is een illusie (epifenomenalisme).
+
+**Compatibilisme** (dominante academische positie): vrije wil en determinisme zijn logisch verenigbaar. Vrijheid wordt geherdefinieerd als: handelen vanuit eigen verlangens, intenties en redeneringen, zonder externe dwang of pathologische dwang. Vertegenwoordigers: Hume, Frankfurt, Dennett.
+
+**Filosofisch libertarianisme**: echte vrije wil vereist ontologisch indeterminisme — dat de wereld op kwantumniveau niet volledig deterministisch is. Kwantumfluctuaties als fysische basis van vrijheid is een speculatieve positie.
+
+**Illusionisme**: vrije wil is een zelf geconstrueerde narratieve illusie. Het bewustzijn bouwt post-hoc een verhaal van intentie en controle (Wegner, *The Illusion of Conscious Will*, 2002).
+
+### INTERPRETATIE: Wat bewijzen Libet's experimenten wél en niet?
+
+**Niet aangetoond:** dat vrije wil een illusie is bij complexe cognitieve keuzes. Libet-paradigma's zijn beperkt tot simpele motorische beslissingen in tijdloze, contextloze laboratoriumsituaties. Dagelijkse beslissingen (wel of niet studeren, huizen kopen) hebben een fundamenteel ander tijdsprofiel en betrekken langetermijnplanning.
+
+**Omstreden:** het RP kan de "ebb and flow of background neuronal noise" weerspiegelen — fluctuaties in hersenactiviteit die soms leiden tot beweging — in plaats van een bewust beslissingsmoces. Latere analyses suggereren dat de causaliteitsrichting niet eenduidig is.
+
+**Aangetoond:** er bestaat een neurale voorbereiding die bewuste rapportage van intentie voorafgaat, bij simpele motorische taken.
+
+### INTERPRETATIE: Neurowetenschappen en determinisme
+
+De neurowetenschappelijke literatuur onderbouwt een deterministisch beeld van de menselijke geest (hersenactiviteit bepaalt gedrag) maar bewijst dit niet *definitief*. Statistische voorspelbaarheid van keuzes (Haynes) ≠ volledig deterministisch bewijs. Compatibilisme lost het praktische probleem op: zelfs als gedrag neuronaal bepaald is, onderscheidt de kwaliteit van de causale keten (redelijk overwegen vs. pathologische dwang) vrij van onvrij handelen.
+
+Zie [[Vrije Wil & Determinisme — Forensisch]] voor de toepassingen in toerekeningsvatbaarheid en strafrecht.
+
+## Klinische Relevantie
+
+Voor Klinische Neuropsychologie is dit concept cruciaal bij de beoordeling van **toerekeningsvatbaarheid**. Frontaalkwabschade kan wilscontrole ernstig aantasten (pseudo-psychopathie). De vraag wanneer iemand verantwoordelijk is voor zijn handelen is een directe toepassingsvraag van dit filosofisch debat. Neurofilosofisch geïnformeerde neuropsychologen begrijpen de limieten van hersenbewijsmateriaal in juridische contexten.
+
+## Verbanden
+
+- [[Filosofie van de Geest]] — vrije wil als vraagstuk over bewustzijn, intentionaliteit en mentale causaliteit
+- [[Epistemologie & Kennistheorie]] — grenzen van wat we kunnen weten over interne intentionele toestanden
+- [[Executieve Functies & Prefrontale Cortex]] — prefrontale cortex als neurale basis van wilscontrole
+- [[Falsifieerbaarheid & Wetenschapsfilosofie]] — zijn Libet-experimenten falsifieerbaar? Wat bewijst statistisch bewijs?
+- [[Vrije Wil & Determinisme — Forensisch]] — forensisch-juridische verdieping
+- [[Stoïcisme]] — prohairesis: Stoïcijnse oplossing voor de vrijheidsvraag (wat in onze macht staat)
+
+## Bronnen
+
+- Libet, B., Gleason, C.A., Wright, E.W. & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623–642.
+- Soon, C.S., Brass, M., Heinze, H.J. & Haynes, J.D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543–545.
+- Mele, A.R. (2014). *Free: Why Science Hasn't Disproved Free Will*. Oxford University Press.
+- Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
+
+> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-01
