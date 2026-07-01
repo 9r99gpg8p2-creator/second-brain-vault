@@ -1,0 +1,63 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-01T12:07:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-01/1207",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Default Mode Network",
+        "source_score": 9,
+        "confidence": 0.88,
+        "novelty": 0.95,
+        "trust_level": "hoog",
+        "key_sources": [
+          "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12025022/",
+          "https://pubmed.ncbi.nlm.nih.gov/41747373/",
+          "https://www.sciencedirect.com/science/article/pii/S2352154626000227"
+        ]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Stoïcisme",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.80,
+        "trust_level": "hoog",
+        "key_sources": [
+          "https://plato.stanford.edu/entries/stoicism/",
+          "https://iep.utm.edu/stoicism/",
+          "https://plato.stanford.edu/entries/epictetus/"
+        ]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Koude Oorlog",
+        "source_score": 9,
+        "confidence": 0.95,
+        "novelty": 0.75,
+        "trust_level": "hoog",
+        "key_sources": [
+          "https://www.britannica.com/event/Cold-War",
+          "https://www.history.com/articles/cold-war-history",
+          "https://www.cfr.org/event/coalition-rivalry-soviet-union-and-united-states-beginning-cold-war"
+        ]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Waardebeleggen",
+        "source_score": 8,
+        "confidence": 0.90,
+        "novelty": 0.70,
+        "trust_level": "hoog",
+        "key_sources": [
+          "https://ryanoconnellfinance.com/value-investing/",
+          "https://astuteinvestorscalculus.com/understanding-margin-of-safety/",
+          "https://www.trustnet.com/investing/13445247/the-influence-of-benjamin-graham-on-warren-buffett"
+        ]
+      }
+    ]
+  }
+}
