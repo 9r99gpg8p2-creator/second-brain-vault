@@ -1,0 +1,27 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-01T20:45:00Z",
+  "status": "pending",
+  "data": {
+    "events_processed": [
+      "knowledge_discovered_1636.json",
+      "knowledge_discovered_2008.json"
+    ],
+    "skipped_duplicates": [
+      "02 Wiki/Psychologie/(C) Ruminatie & Piekeren.md",
+      "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme.md",
+      "02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde.md",
+      "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine.md"
+    ],
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Trauma & PTSS.md",
+      "02 Wiki/Filosofie/(C) Logica & Kritisch Denken.md",
+      "02 Wiki/Geschiedenis/(C) De Renaissance.md",
+      "02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Cycli van Extinctie en Wedergeboorte.md"
+    ]
+  }
+}
