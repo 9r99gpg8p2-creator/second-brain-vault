@@ -1,0 +1,51 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-01T16:07:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-01/1607",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Aandacht & Cognitieve Controle",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "key_concept": "Posner's drie aandachtsnetwerken (alerting, orienting, executive control); ACC en DLPFC als neurale basis",
+        "wiki_connections": ["Executieve Functies & Prefrontale Cortex", "ADHD & Executieve Disfunctie", "Default Mode Network"]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Vrije Wil & Determinisme",
+        "source_score": 8,
+        "confidence": 0.85,
+        "novelty": 0.85,
+        "trust_level": "hoog",
+        "key_concept": "Libet's readiness potential; compatibilisme vs. hard determinisme; 'free won't' als alternatief",
+        "wiki_connections": ["Filosofie van de Geest", "Epistemologie & Kennistheorie", "Executieve Functies & Prefrontale Cortex"]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Franse Revolutie",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "key_concept": "Verlichting als ideologische motor; fiscale crisis als directe trigger; La Terreur als paradox van rationele orde",
+        "wiki_connections": ["De Verlichting", "De Wetenschappelijke Revolutie", "Ethiek"]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Rente & Centrale Bankpolitiek",
+        "source_score": 8,
+        "confidence": 0.85,
+        "novelty": 0.85,
+        "trust_level": "hoog",
+        "key_concept": "Inverse relatie rente-obligatieprijs; transmissiemechanismen van monetair beleid; Fed dubbel mandaat",
+        "wiki_connections": ["Moderne Portefeuilletheorie", "Efficiënte Markt Hypothese", "Gedragseconomie & Cognitieve Biases"]
+      }
+    ]
+  }
+}
