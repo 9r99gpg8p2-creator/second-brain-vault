@@ -1,0 +1,19 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-01T12:30:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Default Mode Network.md",
+      "02 Wiki/Filosofie/(C) Stoïcisme.md",
+      "02 Wiki/Geschiedenis/(C) De Koude Oorlog.md"
+    ],
+    "skipped_nodes": [
+      "02 Wiki/Beleggen/(C) Waardebeleggen.md — reeds aanwezig"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Wat Hangt Van Ons Af — Controle, Oordeel en Innerlijk Leven.md"
+    ]
+  }
+}
