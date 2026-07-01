@@ -1,0 +1,67 @@
+/* ============================================================
+   Second Brain — Space Graph Theme
+   ============================================================ */
+
+/* Graph achtergrond zwart */
+.graph-view-content {
+  background-color: #000011 !important;
+}
+
+.graph-view-content canvas {
+  background-color: #000011 !important;
+}
+
+/* Obsidian graph kleurvariabelen (worden gelezen door de WebGL renderer) */
+.graph-view.color-fill {
+  color: #1a1040;
+}
+
+.graph-view.color-fill-unresolved {
+  color: #0d0820;
+}
+
+.graph-view.color-circle {
+  color: #2a2060;
+}
+
+.graph-view.color-line {
+  color: #15124a;
+}
+
+.graph-view.color-text {
+  color: #9999cc;
+}
+
+.graph-view.color-fill-highlight {
+  color: #ffcc44;
+}
+
+.graph-view.color-line-highlight {
+  color: #aaaaff;
+}
+
+.graph-view.color-fill-focused {
+  color: #ffffff;
+}
+
+/* App-brede achtergrond donkerder */
+.mod-root .view-content {
+  background-color: #05051a;
+}
+
+/* Zijpaneel */
+.nav-folder-title,
+.nav-file-title {
+  color: #8888bb;
+}
+
+.nav-file-title.is-active {
+  color: #ffffff;
+  background-color: #1a1a3a;
+}
+
+/* Titelbalk */
+.view-header {
+  background-color: #08082a;
+  border-bottom: 1px solid #1a1a3a;
+}
