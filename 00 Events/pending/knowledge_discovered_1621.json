@@ -1,0 +1,51 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-01T16:21:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-01/1621",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Perceptie & Predictive Coding",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 0.92,
+        "trust_level": "hoog",
+        "key_concept": "Friston's predictive coding: brein minimaliseert predictie-errors via top-down voorspellingen en bottom-up fout-signalen; toepassingen bij schizofrenie, autisme, ADHD",
+        "wiki_connections": ["Cognitie & Gedrag", "Hersen & Gedrag", "Filosofie van de Geest", "Neuroplasticiteit", "Klinische Psychologie"]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Politieke Filosofie & Sociaal Contract",
+        "source_score": 9,
+        "confidence": 0.91,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "key_concept": "Hobbes (absolutisme/veiligheid), Locke (beperkte staat/rechten), Rousseau (volonté générale/vrijheid); legitimiteit via consent of the governed",
+        "wiki_connections": ["Ethiek", "Epistemologie & Kennistheorie", "De Verlichting", "Sociale Psychologie"]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Reformatie",
+        "source_score": 9,
+        "confidence": 0.91,
+        "novelty": 0.92,
+        "trust_level": "hoog",
+        "key_concept": "Luther's 95 stellingen (1517); aflatenhandel als trigger; boekdrukkunst als verspreider; splitsing Westers christendom; Weber's these over protestantisme en kapitalisme",
+        "wiki_connections": ["De Wetenschappelijke Revolutie", "De Verlichting", "Ethiek", "Geschiedenis van de Psychiatrie"]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Marktpsychologie & Beurscrises",
+        "source_score": 8,
+        "confidence": 0.88,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "key_concept": "Terugkerend zeepbelpatroon: FOMO + kuddegedrag + overconfidence → crash; Tulpenmania→1929→Dotcom→2008; gedragseconomische verklaring dominant",
+        "wiki_connections": ["Gedragseconomie & Cognitieve Biases", "Efficiënte Markt Hypothese", "Moderne Portefeuilletheorie", "Sociale Psychologie"]
+      }
+    ]
+  }
+}
