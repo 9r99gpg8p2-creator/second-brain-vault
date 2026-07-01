@@ -1,0 +1,51 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-01T16:14:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-01/1614",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Slaap & Geheugenconsolidatie",
+        "source_score": 9,
+        "confidence": 0.93,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "key_concept": "Twee-fasen model: SWS voor hippocampale replay + neocorticale transfer; REM voor synaptische plasticiteit; cAMP oscillaties als tijdvenster (2025)",
+        "wiki_connections": ["Geheugen & Amnesie", "Neuroplasticiteit", "ADHD & Executieve Disfunctie", "Default Mode Network"]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Fenomenologie",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 0.88,
+        "trust_level": "hoog",
+        "key_concept": "Husserl (intentionaliteit/epoché), Heidegger (Dasein/ontologie), Merleau-Ponty (lichaam als subject); eerste-persoon bewustzijnsstructuren",
+        "wiki_connections": ["Filosofie van de Geest", "Epistemologie & Kennistheorie", "Ethiek", "Cognitie & Gedrag"]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Tweede Wereldoorlog",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.92,
+        "trust_level": "hoog",
+        "key_concept": "Versailles + Depressie + totalitarisme = oorlog; 70-85 miljoen doden; geopolitieke pivot naar VS/USSR; begin Koude Oorlog",
+        "wiki_connections": ["De Koude Oorlog", "Ethiek", "Geschiedenis van de Psychiatrie", "De Industriële Revolutie"]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Opties & Derivaten",
+        "source_score": 8,
+        "confidence": 0.87,
+        "novelty": 0.88,
+        "trust_level": "hoog",
+        "key_concept": "Black-Scholes (1973); call/put definitie; Greeks voor risicomanagement; leverage en gevaren van complexe derivaten",
+        "wiki_connections": ["Moderne Portefeuilletheorie", "Efficiënte Markt Hypothese", "Gedragseconomie & Cognitieve Biases", "Rente & Centrale Bankpolitiek"]
+      }
+    ]
+  }
+}
