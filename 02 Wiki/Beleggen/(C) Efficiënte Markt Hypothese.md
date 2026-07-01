@@ -1,7 +1,53 @@
 ---
 type: concept
+id: 752e76fb-59e2-9943-4f4d-ef220796c31e
+title: Efficiënte Markt Hypothese
+summary: "De EMH stelt dat activaprijzen altijd alle beschikbare informatie volledig weerspiegelen, waardoor het systematisch verslaan van de markt in de prakti"
+category: Beleggen
 tags: [concept, beleggen, EMH, marktefficiëntie, fama, financiële-theorie, passief-beleggen, gedragseconomie]
 aliases: ["EMH", "Efficiënte Markt Hypothese", "Efficient Market Hypothesis", "marktefficiëntie", "Fama"]
+sources:
+  - title: "Fama, E. F. (1970). Efficient capital markets: A review of theory and empirical "
+    trust_level: 8
+  - url: "Wikipedia — Efficient-market hypothesis: https://en.wikipedia.org/wiki/Efficient-market_hypothesis"
+    trust_level: 9
+  - url: "Wikipedia — Eugene Fama: https://en.wikipedia.org/wiki/Eugene_Fama"
+    trust_level: 9
+  - url: "arXiv 2012.11594 (insider trading voor fusies): https://arxiv.org/pdf/2012.11594"
+    trust_level: 9
+  - url: "arXiv 2305.17419 (random generators & efficiëntie): https://arxiv.org/pdf/2305.17419"
+    trust_level: 9
+  - url: "arXiv 2208.07254 (Bitcoin & EMH): https://arxiv.org/pdf/2208.07254"
+    trust_level: 9
+  - url: "arXiv 1909.05151 (ML & zwakke-vorm EMH): https://arxiv.org/pdf/1909.05151"
+    trust_level: 9
+  - title: "Lo, A. W. (2004). The Adaptive Markets Hypothesis. *Journal of Portfolio Managem"
+    trust_level: 8
+  - title: "> **Status:** Verwerkt door Wiki-Agent"
+    trust_level: 8
+  - title: "> **Laatste update:** 2026-07-01"
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.92
+freshness_score: 0.8
+importance_score: 0.85
+novelty_score: 1.0
+knowledge_score: 0.868
+usage_score: 0.0645
+related_nodes:
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie"
+  - "02 Wiki/Beleggen/(C) MOC - Beleggen"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
+  - "03 Knowledge Graph/(KG) Kennis, Rede & Verlichting"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # Efficiënte Markt Hypothese (EMH)

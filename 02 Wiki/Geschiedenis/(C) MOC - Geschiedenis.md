@@ -1,6 +1,28 @@
 ---
 type: moc
+id: 7d63b61f-7957-ebc1-2e19-3c188eea4c8c
+title: MOC - Geschiedenis
+summary: "Concept note over MOC - Geschiedenis."
+category: Geschiedenis
 tags: [moc, geschiedenis]
+aliases: ["MOC - Geschiedenis"]
+sources:
+  []
+confidence_score: 0.7
+quality_score: 0.82
+freshness_score: 0.8
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.8
+usage_score: 0.0968
+related_nodes:
+  - "02 Wiki/Filosofie/(C) MOC - Filosofie"
+  - "02 Wiki/Psychologie/(C) Sociale Psychologie"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # MOC — Geschiedenis

@@ -1,6 +1,28 @@
 ---
 type: moc
+id: ce9ec1c9-fcc2-af3b-6ab7-b31dbde6c340
+title: MOC - Filosofie
+summary: "Concept note over MOC - Filosofie."
+category: Filosofie
 tags: [moc, filosofie]
+aliases: ["MOC - Filosofie"]
+sources:
+  []
+confidence_score: 0.9
+quality_score: 0.82
+freshness_score: 0.8
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.85
+usage_score: 0.2258
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Psychologie als Wetenschap"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # MOC — Filosofie

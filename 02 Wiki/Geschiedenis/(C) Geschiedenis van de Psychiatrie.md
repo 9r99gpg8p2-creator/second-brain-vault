@@ -1,7 +1,42 @@
 ---
 type: concept
+id: b8d14069-e5e1-1897-6458-1f677816d6c6
+title: Geschiedenis van de Psychiatrie
+summary: "Concept note over Geschiedenis van de Psychiatrie."
+category: Geschiedenis
 tags: [geschiedenis, psychiatrie, psychologie, ideeëngeschiedenis, wetenschap, DSM, asylum]
-discipline: Geschiedenis
+aliases: ["Geschiedenis van de Psychiatrie"]
+sources:
+  - title: "Porter, R. (2002). *Madness: A Brief History*. Oxford University Press."
+    trust_level: 8
+  - title: "Shorter, E. (1997). *A History of Psychiatry*. Wiley."
+    trust_level: 8
+  - title: "Foucault, M. (1961). *Folie et Déraison: Histoire de la folie à l'âge classique*"
+    trust_level: 8
+  - title: "Kraepelin, E. (1899). *Psychiatrie: Ein Lehrbuch für Studierende und Ärzte* (6th"
+    trust_level: 8
+  - title: "American Psychiatric Association. (2013). *Diagnostic and Statistical Manual of "
+    trust_level: 8
+  - title: "Healy, D. (2002). *The Creation of Psychopharmacology*. Harvard University Press"
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.88
+freshness_score: 0.8
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.865
+usage_score: 0.0968
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
+  - "02 Wiki/Psychologie/(C) Psychologie als Wetenschap"
+  - "02 Wiki/Filosofie/(C) Filosofie van de Geest"
+  - "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie"
+  - "03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # Geschiedenis van de Psychiatrie

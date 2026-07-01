@@ -1,7 +1,41 @@
 ---
 type: concept
+id: 3a42a10d-649c-4e4d-8ea4-f0eb0da14fb3
+title: Executieve Functies & Prefrontale Cortex
+summary: "Executieve functies zijn hogere cognitieve processen die doelgericht gedrag reguleren. Ze zijn grotendeels verankerd in de prefrontale cortex (PFC) en"
+category: Psychologie
 tags: [concept, psychologie, neuropsychologie, cognitie, executieve-functies]
 aliases: ["Executieve Functies", "Prefrontale Cortex", "EF"]
+sources:
+  - title: "Diamond, A. (2013). Executive functions. *Annual Review of Psychology, 64*, 135–"
+    trust_level: 8
+  - title: "Miyake, A., Friedman, N. P., Emerson, M. J., Witzki, A. H., Howerter, A., & Wage"
+    trust_level: 8
+  - title: "Giedd, J. N., et al. (1999). Brain development during childhood and adolescence."
+    trust_level: 8
+  - title: "Casey, B. J., Getz, S., & Galvan, A. (2008). The adolescent brain. *Developmenta"
+    trust_level: 8
+  - title: "Melby-Lervåg, M., Redick, T. S., & Hulme, C. (2016). Working memory training doe"
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.88
+freshness_score: 0.8
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.865
+usage_score: 0.1935
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
+  - "02 Wiki/Psychologie/(C) Ontwikkelingspsychologie"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # Executieve Functies & Prefrontale Cortex

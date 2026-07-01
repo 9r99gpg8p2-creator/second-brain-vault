@@ -1,7 +1,46 @@
 ---
 type: concept
+id: 5a473c45-ff40-1c80-18c9-3b6906a940f4
+title: De Verlichting
+summary: "De Verlichting was een Europese intellectuele beweging die de menselijke rede boven religieus en traditioneel gezag plaatste — en daarmee de epistemol"
+category: Geschiedenis
 tags: [concept, geschiedenis, verlichting, ideeëngeschiedenis, filosofie, moderniteit, locke, kant, rede]
 aliases: ["Verlichting", "Age of Enlightenment", "Age of Reason", "Aufklärung", "Siècle des Lumières"]
+sources:
+  - url: "Britannica — The Enlightenment Key Facts: https://www.britannica.com/summary/The-Enlightenment-Key-Facts"
+    trust_level: 9
+  - url: "Britannica — Western Philosophy (Reason, Science, Progress): https://www.britannica.com/topic/Western-philosophy/The-Enlightenment"
+    trust_level: 9
+  - url: "Stanford Encyclopedia of Philosophy — Kant: https://plato.stanford.edu/entries/kant/"
+    trust_level: 9
+  - url: "Stanford Encyclopedia of Philosophy — The Enlightenment: https://plato.stanford.edu/entries/enlightenment/"
+    trust_level: 9
+  - url: "Wikipedia — Early modern philosophy: https://en.wikipedia.org/wiki/Early_modern_philosophy"
+    trust_level: 9
+  - title: "> **Status:** Verwerkt door Wiki-Agent"
+    trust_level: 8
+  - title: "> **Laatste update:** 2026-07-01"
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.92
+freshness_score: 0.8
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.875
+usage_score: 0.1613
+related_nodes:
+  - "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie"
+  - "02 Wiki/Geschiedenis/(C) MOC - Geschiedenis"
+  - "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+  - "02 Wiki/Filosofie/(C) MOC - Filosofie"
+  - "03 Knowledge Graph/(KG) Kennis, Rede & Verlichting"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # De Verlichting (1680–1800)

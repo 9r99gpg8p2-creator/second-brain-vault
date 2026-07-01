@@ -1,7 +1,49 @@
 ---
 type: concept
+id: 065db23e-2ff7-6ed8-1cfd-00b88f357d94
+title: Epistemologie & Kennistheorie
+summary: "Epistemologie is de filosofische tak die onderzoekt wat kennis is, hoe zij ontstaat, en waar haar grenzen liggen. De klassieke definitie — gerechtvaar"
+category: Filosofie
 tags: [concept, filosofie, epistemologie, kennistheorie, rationalisme, empirisme, scepticisme, gettier]
 aliases: ["Epistemologie", "Kennistheorie", "Theory of Knowledge", "JTB", "Justified True Belief"]
+sources:
+  - title: "Plato. *Meno* en *Theaetetus* (ca. 380 v.Chr.)"
+    trust_level: 8
+  - title: "Gettier, E. L. (1963). Is justified true belief knowledge? *Analysis, 23*(6), 12"
+    trust_level: 8
+  - url: "Britannica — Epistemology: https://www.britannica.com/topic/epistemology"
+    trust_level: 9
+  - url: "Stanford Encyclopedia of Philosophy — Epistemology (Winter 2018): https://plato.stanford.edu/archives/win2018/entries/epistemology/"
+    trust_level: 9
+  - url: "Wikipedia — Epistemology: https://en.wikipedia.org/wiki/Epistemology"
+    trust_level: 9
+  - url: "Wikipedia — Justification (epistemology): https://en.wikipedia.org/wiki/Justification_(epistemology)"
+    trust_level: 9
+  - title: "> **Status:** Verwerkt door Wiki-Agent"
+    trust_level: 8
+  - title: "> **Laatste update:** 2026-07-01"
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.92
+freshness_score: 0.8
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.875
+usage_score: 0.1613
+related_nodes:
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+  - "02 Wiki/Filosofie/(C) Filosofie van de Geest"
+  - "02 Wiki/Filosofie/(C) MOC - Filosofie"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Psychologie/(C) Psychologie als Wetenschap"
+  - "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie"
+  - "02 Wiki/Geschiedenis/(C) De Verlichting"
+  - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # Epistemologie & Kennistheorie

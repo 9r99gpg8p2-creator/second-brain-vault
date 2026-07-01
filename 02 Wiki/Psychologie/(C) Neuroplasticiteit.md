@@ -1,7 +1,43 @@
 ---
 type: concept
+id: bd897587-0dc7-4c52-27ce-bf282b5c3492
+title: Neuroplasticiteit
+summary: "Concept note over Neuroplasticiteit."
+category: Psychologie
 tags: [psychologie, neuropsychologie, neurowetenschap, neuroplasticiteit, hersenen, klinisch]
-discipline: Psychologie
+aliases: ["Neuroplasticiteit"]
+sources:
+  - title: "Kandel, E.R., Schwartz, J.H., & Jessell, T.M. (2000). *Principles of Neural Scie"
+    trust_level: 8
+  - title: "Hebb, D.O. (1949). *The Organization of Behavior*. Wiley."
+    trust_level: 8
+  - title: "Bliss, T.V.P., & Lømo, T. (1973). Long-lasting potentiation of synaptic transmis"
+    trust_level: 8
+  - title: "Eriksson, P.S., et al. (1998). Neurogenesis in the adult human hippocampus. *Nat"
+    trust_level: 8
+  - title: "Maguire, E.A., et al. (2000). Navigation-related structural change in the hippoc"
+    trust_level: 8
+  - title: "Hubel, D.H., & Wiesel, T.N. (1962). Receptive fields, binocular interaction and "
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.88
+freshness_score: 0.8
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.865
+usage_score: 0.2258
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex"
+  - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Psychologie/(C) Ontwikkelingspsychologie"
+  - "03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # Neuroplasticiteit

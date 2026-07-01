@@ -1,7 +1,50 @@
 ---
 type: concept
+id: 3a2ae345-23d9-87ad-2d67-bd349fbd9266
+title: ADHD & Executieve Disfunctie
+summary: "ADHD is een neurodevelopmentele stoornis waarbij een primair deficit in gedragsremming (inhibitie) een cascade van executieve disfuncties veroorzaakt "
+category: Psychologie
 tags: [concept, psychologie, neuropsychologie, adhd, executieve-functies, klinisch, ontwikkeling]
 aliases: ["ADHD", "Aandachtstekortstoornis met Hyperactiviteit", "Attention Deficit Hyperactivity Disorder", "ADHD-C", "ADHD-I", "ADHD-HI"]
+sources:
+  - title: "American Psychiatric Association (2013). *Diagnostic and Statistical Manual of M"
+    trust_level: 8
+  - title: "Barkley, R. A. (1997). Behavioral inhibition, sustained attention, and executive"
+    trust_level: 8
+  - url: "PubMed PMID 39556384: https://pubmed.ncbi.nlm.nih.gov/39556384/"
+    trust_level: 9
+  - url: "PubMed PMID 39429646: https://pubmed.ncbi.nlm.nih.gov/39429646/"
+    trust_level: 9
+  - url: "PMC4993788 (Executive Dysfunction in ADHD & PTSD): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4993788/"
+    trust_level: 9
+  - url: "PMC11110569 (WM & inhibitie, 2024): https://pmc.ncbi.nlm.nih.gov/articles/PMC11110569/"
+    trust_level: 9
+  - url: "CHOP Executive Functions & ADHD (2023): https://www.chop.edu/sites/default/files/adhd-exec-5-what-are-efs-and-how-are-they-related-to-adhd.pdf"
+    trust_level: 9
+  - title: "> **Status:** Verwerkt door Wiki-Agent"
+    trust_level: 8
+  - title: "> **Laatste update:** 2026-07-01"
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.92
+freshness_score: 0.8
+importance_score: 0.85
+novelty_score: 1.0
+knowledge_score: 0.868
+usage_score: 0.0645
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
+  - "02 Wiki/Psychologie/(C) Ontwikkelingspsychologie"
+  - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie"
+  - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # ADHD & Executieve Disfunctie

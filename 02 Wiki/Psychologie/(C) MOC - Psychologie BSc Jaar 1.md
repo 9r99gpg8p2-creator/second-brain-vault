@@ -1,6 +1,33 @@
 ---
 type: moc
+id: 282ea1d6-1f0e-477b-912e-9ea391264166
+title: MOC - Psychologie BSc Jaar 1
+summary: "Concept note over MOC - Psychologie BSc Jaar 1."
+category: Psychologie
 tags: [moc, psychologie, jaar-1]
+aliases: ["MOC - Psychologie BSc Jaar 1"]
+sources:
+  []
+confidence_score: 0.7
+quality_score: 0.75
+freshness_score: 0.8
+importance_score: 0.8
+novelty_score: 1.0
+knowledge_score: 0.762
+usage_score: 0.0
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
+  - "02 Wiki/Psychologie/(C) TOE - Statistiek"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Psychologie/(C) Sociale Psychologie"
+  - "02 Wiki/Psychologie/(C) Ontwikkelingspsychologie"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
+  - "02 Wiki/Psychologie/(C) Psychologie als Wetenschap"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # MOC — Psychologie BSc Jaar 1

@@ -1,7 +1,31 @@
 ---
 type: concept
-tags: [concept, psychologie, sociale-psychologie, jaar-1, blok-2]
+id: 1472aa62-8f1e-d2db-ea0a-d5c82564a519
+title: Sociale Psychologie
+summary: "Hoe mensen denken, voelen en handelen in sociale situaties — invloed van de sociale omgeving op gedrag."
+category: Psychologie
+tags: [concept, psychologie, sociale-psychologie, jaar-1, blok-2, quality-check-needed]
 aliases: ["Sociale Psychologie"]
+sources:
+  - type: raw
+    path: "01 Raw/Psychologie/Jaar 1 BSc/Sociale Psychologie - J1 B2 - UU./Sociale Psychologie - B2 Samenvatting.docx"
+    trust_level: 7
+confidence_score: 0.75
+quality_score: 0.7
+freshness_score: 0.8
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.782
+usage_score: 0.2581
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Psychologie/(C) Ontwikkelingspsychologie"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # Sociale Psychologie

@@ -1,7 +1,41 @@
 ---
 type: concept
+id: 636938e2-401e-d501-1c94-d07ac4e2ca54
+title: Moderne Portefeuilletheorie
+summary: "Concept note over Moderne Portefeuilletheorie."
+category: Beleggen
 tags: [beleggen, portefeuilletheorie, risicobeheer, diversificatie, Markowitz, financiën, evidence-based]
-discipline: Beleggen
+aliases: ["Moderne Portefeuilletheorie"]
+sources:
+  - title: "Markowitz, H. (1952). Portfolio selection. *Journal of Finance, 7*(1), 77–91."
+    trust_level: 8
+  - title: "Sharpe, W.F. (1964). Capital asset prices: A theory of market equilibrium under "
+    trust_level: 8
+  - title: "Fama, E.F., & French, K.R. (1992). The cross-section of expected stock returns. "
+    trust_level: 8
+  - title: "Brinson, G.P., Hood, L.R., & Beebower, G.L. (1986). Determinants of portfolio pe"
+    trust_level: 8
+  - title: "Taleb, N.N. (2007). *The Black Swan: The Impact of the Highly Improbable*. Rando"
+    trust_level: 8
+  - title: "Bogle, J.C. (2007). *The Little Book of Common Sense Investing*. Wiley."
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.88
+freshness_score: 0.8
+importance_score: 0.85
+novelty_score: 1.0
+knowledge_score: 0.858
+usage_score: 0.0645
+related_nodes:
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
+  - "03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # Moderne Portefeuilletheorie (MPT)

@@ -1,7 +1,44 @@
 ---
 type: concept
+id: b7020d86-207f-927a-c981-9dbe87d96742
+title: Filosofie van de Geest
+summary: "Concept note over Filosofie van de Geest."
+category: Filosofie
 tags: [filosofie, filosofie-van-de-geest, bewustzijn, dualisme, functionalisme, epistemologie]
-discipline: Filosofie
+aliases: ["Filosofie van de Geest"]
+sources:
+  - title: "Descartes, R. (1641). *Meditationes de Prima Philosophia*."
+    trust_level: 8
+  - title: "Putnam, H. (1967). Psychological predicates. In W.H. Capitan & D.D. Merrill (Eds"
+    trust_level: 8
+  - title: "Chalmers, D.J. (1995). Facing up to the problem of consciousness. *Journal of Co"
+    trust_level: 8
+  - title: "Searle, J.R. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences"
+    trust_level: 8
+  - title: "Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown."
+    trust_level: 8
+  - title: "Merleau-Ponty, M. (1945). *Phénoménologie de la Perception*. Gallimard."
+    trust_level: 8
+  - title: "Churchland, P.M. (1981). Eliminative materialism and the propositional attitudes"
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.88
+freshness_score: 0.8
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.865
+usage_score: 0.1613
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+  - "03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # Filosofie van de Geest

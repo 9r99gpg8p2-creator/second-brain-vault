@@ -1,7 +1,43 @@
 ---
 type: concept
+id: 204052f9-5f77-ae27-67d0-f3ce3563dae6
+title: Geheugen & Amnesie
+summary: "Concept note over Geheugen & Amnesie."
+category: Psychologie
 tags: [psychologie, neuropsychologie, geheugen, amnesie, cognitie, klinisch, hippocampus]
-discipline: Psychologie
+aliases: ["Geheugen & Amnesie"]
+sources:
+  - title: "Squire, L.R. (2004). Memory systems of the brain: A brief history and current pe"
+    trust_level: 8
+  - title: "Tulving, E. (1972). Episodic and semantic memory. In E. Tulving & W. Donaldson ("
+    trust_level: 8
+  - title: "Scoville, W.B., & Milner, B. (1957). Loss of recent memory after bilateral hippo"
+    trust_level: 8
+  - title: "Baddeley, A.D., & Hitch, G. (1974). Working memory. In G. Bower (Ed.), *The psyc"
+    trust_level: 8
+  - title: "Stickgold, R. (2005). Sleep-dependent memory consolidation. *Nature, 437*, 1272–"
+    trust_level: 8
+  - title: "McClelland, J.L., McNaughton, B.L., & O'Reilly, R.C. (1995). Why there are compl"
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.88
+freshness_score: 0.8
+importance_score: 0.85
+novelty_score: 1.0
+knowledge_score: 0.858
+usage_score: 0.0645
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex"
+  - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
+  - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # Geheugen & Amnesie

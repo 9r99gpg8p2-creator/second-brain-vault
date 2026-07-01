@@ -1,7 +1,40 @@
 ---
 type: concept
+id: 088bc996-27a1-526e-7a23-fcd2952defc2
+title: Falsifieerbaarheid & Wetenschapsfilosofie
+summary: "Wetenschapsfilosofie onderzoekt wat wetenschap onderscheidt van pseudowetenschap, hoe kennis groeit en welke structuur wetenschappelijke verklaringen "
+category: Filosofie
 tags: [concept, filosofie, wetenschapsfilosofie, epistemologie, popper, kuhn]
 aliases: ["Falsifieerbaarheid", "Falsificationisme", "Wetenschapsfilosofie", "Popper", "Kuhn"]
+sources:
+  - title: "Popper, K. R. (1959). *The Logic of Scientific Discovery*. Hutchinson. (Originee"
+    trust_level: 8
+  - title: "Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chi"
+    trust_level: 8
+  - title: "Lakatos, I. (1978). *The Methodology of Scientific Research Programmes*. Cambrid"
+    trust_level: 8
+  - title: "Open Science Collaboration. (2015). Estimating the reproducibility of psychologi"
+    trust_level: 8
+  - title: "Chalmers, A. F. (2013). *What Is This Thing Called Science?* (4th ed.). Open Uni"
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.88
+freshness_score: 0.8
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.865
+usage_score: 0.2581
+related_nodes:
+  - "02 Wiki/Filosofie/(C) MOC - Filosofie"
+  - "02 Wiki/Psychologie/(C) Psychologie als Wetenschap"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
+  - "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie"
+  - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # Falsifieerbaarheid & Wetenschapsfilosofie

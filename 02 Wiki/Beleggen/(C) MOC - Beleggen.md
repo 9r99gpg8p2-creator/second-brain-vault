@@ -1,6 +1,30 @@
 ---
 type: moc
+id: aa4742d3-9330-c8e9-d811-a079bde5cbdb
+title: MOC - Beleggen
+summary: "Concept note over MOC - Beleggen."
+category: Beleggen
 tags: [moc, beleggen]
+aliases: ["MOC - Beleggen"]
+sources:
+  []
+confidence_score: 0.9
+quality_score: 0.82
+freshness_score: 0.8
+importance_score: 0.85
+novelty_score: 1.0
+knowledge_score: 0.843
+usage_score: 0.0645
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Psychologie/(C) Sociale Psychologie"
+  - "02 Wiki/Geschiedenis/(C) MOC - Geschiedenis"
+  - "02 Wiki/Filosofie/(C) MOC - Filosofie"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # MOC — Beleggen

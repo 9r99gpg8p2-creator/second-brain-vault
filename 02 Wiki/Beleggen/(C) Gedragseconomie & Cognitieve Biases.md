@@ -1,7 +1,43 @@
 ---
 type: concept
+id: 7d331a32-d000-0bb8-6718-0b0729ba63ab
+title: Gedragseconomie & Cognitieve Biases
+summary: "Gedragseconomie toont empirisch aan dat mensen systematisch afwijken van rationeel economisch gedrag. Deze afwijkingen zijn voorspelbaar, herhaalbaar "
+category: Beleggen
 tags: [concept, beleggen, gedragseconomie, psychologie, kahneman, biases, besluitvorming]
 aliases: ["Gedragseconomie", "Behavioral Finance", "Cognitieve Biases", "Kahneman", "Tversky"]
+sources:
+  - title: "Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision und"
+    trust_level: 8
+  - title: "Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux."
+    trust_level: 8
+  - title: "Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving Decisions About Healt"
+    trust_level: 8
+  - title: "Shefrin, H., & Statman, M. (1985). The disposition to sell winners too early and"
+    trust_level: 8
+  - title: "SPIVA U.S. Scorecard (2023). S&P Dow Jones Indices. (Jaarlijks rapport over acti"
+    trust_level: 8
+  - title: "Barber, B. M., & Odean, T. (2000). Trading is hazardous to your wealth. *Journal"
+    trust_level: 8
+confidence_score: 0.9
+quality_score: 0.92
+freshness_score: 0.8
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.875
+usage_score: 0.1935
+related_nodes:
+  - "02 Wiki/Beleggen/(C) MOC - Beleggen"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex"
+  - "02 Wiki/Psychologie/(C) Sociale Psychologie"
+  - "02 Wiki/Filosofie/(C) MOC - Filosofie"
+  - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
+revision_history:
+  - version: 1
+    date: 2026-07-01
+    author: Brain-Guardian
+    change: initial YAML scaffolding by guardian routine
 ---
 
 # Gedragseconomie & Cognitieve Biases
