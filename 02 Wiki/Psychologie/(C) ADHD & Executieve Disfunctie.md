@@ -40,11 +40,16 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
   - "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie"
   - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
+  - "02 Wiki/Psychologie/(C) Emotieregulatie.md"
 revision_history:
   - version: 1
     date: 2026-07-01
     author: Brain-Guardian
     change: initial YAML scaffolding by guardian routine
+  - version: 2
+    date: 2026-07-01
+    author: Discovery-Engine
+    change: added missing link to Emotieregulatie
 ---
 
 # ADHD & Executieve Disfunctie
@@ -142,6 +147,7 @@ Neuraal substraat:
 - [[(C) Cognitie & Gedrag]] — werkgeheugen (Baddeley-model), aandacht, dual-process theorie in relatie tot ADHD
 - [[02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie]] — historische conceptualisering van ADHD (van "minimal brain dysfunction" naar neurodevelopmentele stoornis)
 - [[03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming]] — gebrekkige executieve controle als beperking van rationeel gedrag
+- [[(C) Emotieregulatie]] — ADHD-gerelateerde EF-deficiten ondermijnen direct de PFC-afhankelijke strategieën (cognitieve herwaardering) die emotieregulatie vereist; emotionele dysregulatie is bij ADHD even kernsymptoom als inattentie
 
 ---
 

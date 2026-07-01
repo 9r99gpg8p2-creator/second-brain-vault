@@ -34,11 +34,17 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
   - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
   - "03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing"
+  - "02 Wiki/Psychologie/(C) Default Mode Network.md"
+  - "03 Knowledge Graph/(KG) Default Mode Network, Bewustzijn & het Zelf.md"
 revision_history:
   - version: 1
     date: 2026-07-01
     author: Brain-Guardian
     change: initial YAML scaffolding by guardian routine
+  - version: 2
+    date: 2026-07-01
+    author: Discovery-Engine
+    change: added missing links to Default Mode Network and KG connection page
 ---
 
 # Filosofie van de Geest
@@ -93,6 +99,8 @@ Maurice Merleau-Ponty (*Phénoménologie de la Perception*, 1945) benadrukte de 
 - [[02 Wiki/Psychologie/(C) Neuroplasticiteit]] — plasticiteit impliceert dat de geest verandert met het brein
 - [[02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie]] — is de filosofie van de geest wetenschappelijk toetsbaar?
 - [[03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing]] — bewustzijn en aanpassing
+- [[02 Wiki/Psychologie/(C) Default Mode Network]] — het DMN is het eerste empirisch onderzochte neurale correlaat van het "innerlijk leven" dat de filosofie van de geest beschrijft; lokaliseert het hard problem zonder het op te lossen
+- [[03 Knowledge Graph/(KG) Default Mode Network, Bewustzijn & het Zelf]] — verbinding die DMN-neurologie koppelt aan Locke, Parfit, Hume en Merleau-Ponty
 
 ## Bronnen
 

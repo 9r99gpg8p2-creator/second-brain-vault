@@ -45,6 +45,10 @@ revision_history:
     date: 2026-07-01
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-01
+    author: Discovery-Engine
+    change: added Verdieping section — connecties naar filosofie, hypothesen en KG-verbindingen
 ---
 
 # Default Mode Network
@@ -125,4 +129,27 @@ Voor de klinische neuropsychologie is het DMN van centraal belang:
 - PubMed (2025). *Default Mode Network Functional Connectivity As a Transdiagnostic Biomarker.* https://pubmed.ncbi.nlm.nih.gov/40282260/
 - PMC (2013). *Deficient Suppression of Default Mode Regions during Working Memory in Early Psychosis.* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768116/
 
-> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-01
+## Verdieping (Discovery Engine)
+
+### Het DMN als Filosofisch Adres
+
+De 2026-publicatie over het DMN als hiërarchisch generatief model (Friston's predictive coding) biedt een brug die de bestaande Verbanden-sectie nog niet bevat: het DMN is niet alleen een zelfreflectief netwerk, maar een *prior-generator* — het construeert actief verwachtingsmodellen van de wereld die toekomstige waarnemingen kleuren. Dit heeft directe implicaties voor de filosofie van de geest.
+
+Chalmers' hard problem vraagt waarom neurale activiteit subjectief is. Predictive coding voegt een laag toe: het DMN genereert niet alleen herinneringen en zelfreflecties, maar ook *de verwachting van hoe de wereld zal zijn*. De subjectiviteit van DMN-activiteit is dan de subjectiviteit van een model dat zijn eigen voorspellingen kent. Dit verschuift het hard problem van "waarom is er ervaring?" naar "waarom voelt een predictief model zijn eigen verwachtingen?"
+
+**Nieuw verband:** [[02 Wiki/Filosofie/(C) Filosofie van de Geest]] — het predictive coding-kader geeft het DMN een mechanistisch-filosofische grondslag die zuiver correlationele beschrijvingen overstijgt.
+
+### DMN-hyperactiviteit als Epistemisch Probleem
+
+Een hypothese die de Discovery Engine heeft geformuleerd (zie [[03 Knowledge Graph/hypotheses/(HYP) DMN-hyperactiviteit impliceert epistemisch vertekende overtuigingen]]):
+
+> Wanneer het DMN hyperactief is — zoals bij depressie — worden nieuwe informatie en herinneringen gefilterd door een overactief zelfschema. Dit is niet alleen emotioneel problematisch maar epistemisch: de overtuigingen die zo worden gevormd zijn minder betrouwbaar in Goldman's reliabilistische zin.
+
+**Klinische implicatie:** Behandelingen die DMN-activiteit verlagen (mindfulness, CGT, aerobe beweging) herstellen niet alleen emotioneel welzijn maar ook epistemische betrouwbaarheid — ze verbeteren letterlijk de kwaliteit van het overtuigingsvormingsproces.
+
+### Nieuwe KG-verbindingen
+
+- [[03 Knowledge Graph/(KG) Default Mode Network, Bewustzijn & het Zelf]] — deze verbinding koppelt het DMN aan Locke (geheugen-identiteit), Parfit (reductionisme) en Hume (bundle theory)
+- [[03 Knowledge Graph/(KG) Wat Hangt Van Ons Af — Controle, Oordeel en Innerlijk Leven]] — DMN-regulatie als neurale implementatie van Stoïcische zelfbeheersing
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-01

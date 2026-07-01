@@ -24,11 +24,21 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
   - "02 Wiki/Psychologie/(C) Sociale Psychologie"
   - "02 Wiki/Psychologie/(C) TOE - Statistiek"
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md"
+  - "02 Wiki/Psychologie/(C) Geheugen & Amnesie.md"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md"
+  - "02 Wiki/Psychologie/(C) Emotieregulatie.md"
+  - "02 Wiki/Psychologie/(C) Default Mode Network.md"
+  - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"
 revision_history:
   - version: 1
     date: 2026-07-01
     author: Brain-Guardian
     change: initial YAML scaffolding by guardian routine
+  - version: 2
+    date: 2026-07-01
+    author: Discovery-Engine
+    change: dark knowledge fix — added outgoing wikilinks to substantive notes
 ---
 
 # Cognitie & Gedrag
@@ -55,6 +65,12 @@ revision_history:
 - [[(C) Hersen & Gedrag|Hersen & Gedrag]] — prefrontale cortex stuurt executieve functies
 - [[(C) Sociale Psychologie|Sociale Psychologie]] — sociale cognitie, attributie, biases
 - [[(C) TOE - Statistiek|TOE - Statistiek]] — reactietijddata geanalyseerd met SPSS/JASP
+- [[02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex]] — planning, inhibitie en cognitieve flexibiliteit zijn de executieve laag van cognitie; de PFC is het neurale substraat
+- [[02 Wiki/Psychologie/(C) Geheugen & Amnesie]] — werkgeheugen (Baddeley) en lange-termijn geheugen zijn kernconcepten van dit vak; amnesie-casussen illustreren cognitieve modulateit
+- [[02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases]] — Kahneman's S1/S2 dual-process theorie is de directe toepassing van cognitiewetenschap op besluitvorming onder onzekerheid
+- [[02 Wiki/Psychologie/(C) Emotieregulatie]] — emotie en cognitie zijn onlosmakelijk verweven; aandachtsturing en werkgeheugen zijn centrale regulatiemechanismen
+- [[02 Wiki/Psychologie/(C) Default Mode Network]] — het DMN is de neurale architectuur van intern-gerichte cognitie; zelfreflectie, prospectief geheugen en mind-wandering zijn cognitieve fenomenen
+- [[02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie]] — ADHD is een prototypische stoornis van cognitieve regulatie; werkgeheugen- en inhibitietekorten zijn direct gerelateerd aan dit vak
 
 ---
 

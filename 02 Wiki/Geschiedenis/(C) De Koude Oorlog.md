@@ -40,6 +40,10 @@ revision_history:
     date: 2026-07-01
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-01
+    author: Discovery-Engine
+    change: added Verdieping section — sociaalpsychologische analyse van de Koude Oorlog en nieuwe KG-verbindingen
 ---
 
 # De Koude Oorlog
@@ -130,4 +134,31 @@ De Koude Oorlog is minder direct klinisch relevant, maar biedt historische inzic
 - Council on Foreign Relations (2023). *From Coalition to Rivalry.* https://www.cfr.org/event/coalition-rivalry-soviet-union-and-united-states-beginning-cold-war
 - Gaddis, J.L. (2005). *The Cold War: A New History.* Penguin Press.
 
-> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-01
+## Verdieping (Discovery Engine)
+
+### De Koude Oorlog als Sociaalpsychologisch Laboratorium
+
+De bestaande tekst beschrijft de Koude Oorlog als geopolitiek conflict. Een interpretatieschema dat de bestaande Verbanden nog niet volledig uitwerkt: de Koude Oorlog is het *grootste naturale experiment in de geschiedenis van sociale conformiteit, groepsdenken en in-group/out-group dynamiek* dat de wetenschap tot zijn beschikking heeft.
+
+**Irving Janis (1982) en Groupthink:**
+De Varkensbaai-invasie (1961) en de eerste 48 uur van de Cubaanse Rakettencrisis zijn klassieke casussen van groupthink — het fenomeen waarbij groepsdruk leidt tot de illusie van unanimiteit en het onderdrukken van kritisch denken. JFK's initiële adviescomité bij de Varkensbaai-invasie vertoonde alle kenmerken: illusie van kwetsbaarheid, zelfsensuur, mind guards, unanimiteitsdruk. Na de rampzalige mislukking hervormde Kennedy zijn besluitvormingsstructuur expliciet — hij installeerde "devil's advocates" en besloot bewust contra-indicatieve stemmen te laten domineren. Het resultaat was de succesvolle navigatie van de Rakettencrisis.
+
+**Structurele analogie met markten:** Dezelfde groupthink-patronen die Kennedy's comité bij de Varkensbaai-invasie parten speelden, zijn gedocumenteerd bij investeringscomités die in 2006–2007 mortgage-backed securities bleven kopen ondanks escalerende signalen van fundamentele problemen. De Koude Oorlog is een historisch laboratorium voor marktcrashes.
+
+**Tajfel's Social Identity Theory (1979):**
+De superstructuur van het conflict — "wij" (Vrije Wereld / Socialisme) vs. "zij" — is structureel identiek aan de in-group/out-group dynamiek die Tajfel beschreef op basis van minimale groepscondities. De Koude Oorlog opereerde met *maximale* groepsidentificatie: kernwapens, decennialange propagandaoorlog, en de existentiële dimensie van twee concurrerende beschavingsmodellen. Tajfels bevinding dat minimale groepscondities vijandigheid activeren, impliceert dat maximale condities dat met navenant grotere kracht doen.
+
+### Stoïcisme en Staatsbeleid
+
+Een observatie die in geen van de bestaande verbanden expliciet staat:
+
+De enige doctrine die de Koude Oorlog stabiliseerde — MAD (Mutual Assured Destruction) — werkte precies omdat zij beide partijen *dwong* te accepteren wat buiten hun controle lag: de second-strike capability van de ander. De USSR kon de VS niet vernietigen zonder zichzelf te vernietigen; vice versa. MAD is de staatkundige implementatie van Stoïcische acceptatie van het onvermijdelijke — ironisch genoeg via de meest destructieve wapens ooit geproduceerd.
+
+De Koude Oorlog toont ook Stoïcisch *falen* op staatsschaal: beide supermachten besteedden immense energie aan het beheersen van wat fundamenteel onbeheersbaar was — de interne ideologische overtuigingen van de andere soevereine macht. Het mislukken van dit project (USSR-implosie via interne contradicties) bevestigt de Stoïcische claim dat externe controle illusoir is als het interne fundament ontbreekt.
+
+### Nieuwe KG-verbindingen
+
+- [[03 Knowledge Graph/(KG) Sociale Psychologie als Marktmechanisme]] — groupthink, in-group/out-group en Milgram zijn de verbindende schakel
+- [[03 Knowledge Graph/(KG) Wat Hangt Van Ons Af — Controle, Oordeel en Innerlijk Leven]] — MAD als politiek Stoïcisme; USSR-implosie als collectief falen van het controle-principe
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-01

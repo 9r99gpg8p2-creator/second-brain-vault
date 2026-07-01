@@ -32,11 +32,17 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Neuroplasticiteit.md"
   - "02 Wiki/Psychologie/(C) Klinische Psychologie.md"
   - "02 Wiki/Psychologie/(C) Geheugen & Amnesie.md"
+  - "02 Wiki/Filosofie/(C) Stoïcisme.md"
+  - "03 Knowledge Graph/(KG) Stoïcisme, Cognitieve Herwaardering & CBT.md"
 revision_history:
   - version: 1
     date: 2026-07-01
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-01
+    author: Discovery-Engine
+    change: added missing links to Stoïcisme and KG connection pages
 ---
 
 # Emotieregulatie
@@ -144,6 +150,8 @@ Voor Klinische Neuropsychologie is emotieregulatie een van de meest centrale con
 - [[Hersen & Gedrag]] — neurale correlaten van regulatie zijn empirisch vastgesteld via fMRI
 - [[Ontwikkelingspsychologie]] — regulatiecapaciteit rijpt longitudinaal; context voor adolescente kwetsbaarheid
 - [[Cognitie & Gedrag]] — emotieregulatie is functioneel verweven met aandacht, werkgeheugen en besluitvorming
+- [[02 Wiki/Filosofie/(C) Stoïcisme]] — Stoïcische cognitieve herwaardering (Epictetus' dichotomie van controle) is de filosofische voorganger van Gross' procesmodel; CBT en REBT zijn directe operationaliseringen
+- [[03 Knowledge Graph/(KG) Stoïcisme, Cognitieve Herwaardering & CBT]] — verbinding die de intellectuele lijn Epictetus → Ellis → Beck → Gross in detail uitwerkt
 
 ## Bronnen
 

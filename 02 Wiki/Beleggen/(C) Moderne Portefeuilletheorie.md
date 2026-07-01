@@ -31,11 +31,17 @@ related_nodes:
   - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
   - "03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing"
   - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+  - "02 Wiki/Beleggen/(C) Waardebeleggen.md"
+  - "03 Knowledge Graph/(KG) Sociale Psychologie als Marktmechanisme.md"
 revision_history:
   - version: 1
     date: 2026-07-01
     author: Brain-Guardian
     change: initial YAML scaffolding by guardian routine
+  - version: 2
+    date: 2026-07-01
+    author: Discovery-Engine
+    change: added missing links to Waardebeleggen and KG connection page
 ---
 
 # Moderne Portefeuilletheorie (MPT)
@@ -94,6 +100,8 @@ Voortbouwend op MPT ontwikkelden Sharpe (1964), Lintner (1965) en Mossin (1966) 
 - [[03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming]] — de rationele belegger als theoretisch construct versus menselijke besluitvorming
 - [[03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing]] — risicoperceptie als adaptief mechanisme
 - [[02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie]] — zijn financiële modellen falsifieerbaar?
+- [[02 Wiki/Beleggen/(C) Waardebeleggen]] — MPT optimaliseert voor marktprijs als datapunt; waardebeleggen betwist dit fundamenteel door intrinsieke waarde centraal te stellen boven marktprijs
+- [[03 Knowledge Graph/(KG) Sociale Psychologie als Marktmechanisme]] — de sociale conformiteitsdruk die MPT's rationaliteitsassumptie ondermijnt
 
 ## Bronnen
 

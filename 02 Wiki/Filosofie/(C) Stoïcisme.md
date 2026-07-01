@@ -44,6 +44,10 @@ revision_history:
     date: 2026-07-01
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-01
+    author: Discovery-Engine
+    change: added Verdieping section — neurowetenschappelijke grondslag en nieuwe KG-verbindingen
 ---
 
 # Stoïcisme
@@ -138,4 +142,33 @@ Stoïcisme heeft directe relevantie voor de klinische neuropsychologie en psycho
 - Internet Encyclopedia of Philosophy. *Epictetus.* https://iep.utm.edu/epictetu/
 - Internet Encyclopedia of Philosophy. *Marcus Aurelius.* https://iep.utm.edu/marcus-aurelius/
 
-> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-01
+## Verdieping (Discovery Engine)
+
+### Neurowetenschappelijke Grondslag van Stoïcische Technieken
+
+De bestaande tekst documenteert de verbinding naar CBT en REBT — een intellectuele lijn, geen empirische. De Discovery Engine voegt hieraan toe: Stoïcische praktijken hebben een *neurowetenschappelijk substraat* dat inmiddels identificeerbaar is.
+
+**Cognitieve herwaardering als neurale signatuur:**
+Ochsner et al. (2002) toonden aan dat cognitieve herwaardering — de kern van de Stoïcische techniek om het oordeel over een situatie te herinterpreteren — de amygdala-activiteit verlaagt via top-down controle vanuit de dorsolaterale prefrontale cortex (DLPFC). Dit is de neurale implementatie van Epictetus' principe: niet de externe gebeurtenis maar ons oordeel erover bepaalt het lijden.
+
+**Implicatie:** Patiënten met DLPFC-schade (ernstige depressie, TBI, ADHD) kunnen letterlijk de Stoïcische kernstrategie niet uitvoeren — het neurale substraat ontbreekt. Dit is geen karaktertekort maar een neurologisch diagnose-signaal. De Stoïcische praktijk veronderstelt PFC-functionaliteit.
+
+**Negativum visualisatie als prospectieve memory-training:**
+De Stoïcische oefening van *premeditatio malorum* (negatieve visualisatie — stel je voor dat het slechtst mogelijke gebeurt) activeert de DMN-gerelateerde episodische toekomstprojectie. Door het brein te laten oefenen met adverse toekomstscenario's, vermindert de emotionele impact wanneer ze optreden — een immunisatietechniek die parallel loopt aan exposure-therapie in de klinische psychologie.
+
+### Stoïcisme en Waardebeleggen
+
+Een nieuw verband dat de Discovery Engine heeft geïdentificeerd (zie [[03 Knowledge Graph/hypotheses/(HYP) Stoïcisme impliceert Waardebeleggen]]):
+
+Graham's "Mr. Market" is een Stoïcische metafoor: de markt is een onberekenbare buitenwereld (*ouk eph' hêmin*) wiens prijzen irrelevant zijn voor de intrinsieke waarde (*eph' hêmin*). Buffetts dictum "wees bang als anderen hebzuchtig zijn" is een Stoïcische instructie over het weerstaan van sociale conformiteitsdruk via intern gefundeerd oordeel.
+
+**Hypothese:** De zeldzaamheid van succesvolle waardebeleggers is biologisch verklaarbaar via dezelfde amygdala-mechanismen die Stoïcisme probeert te domesticeren: contrarianism activeert sociale bedreigingsresponsen die sterker zijn dan het rationele oordeel.
+
+### Nieuwe KG-verbindingen
+
+- [[03 Knowledge Graph/(KG) Stoïcisme, Cognitieve Herwaardering & CBT]] — uitwerking van de Epictetus → Ellis → Beck → Gross lijn
+- [[03 Knowledge Graph/(KG) Wat Hangt Van Ons Af — Controle, Oordeel en Innerlijk Leven]] — de Stoïcische dichotomie als universeel structuurprincipe
+- [[02 Wiki/Beleggen/(C) Waardebeleggen]] — Stoïcisme als de filosofische grondslag van waardebeleggen
+- [[02 Wiki/Psychologie/(C) Emotieregulatie]] — cognitieve herwaardering als de klinische vertaling van Stoïcische techniek
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-01
