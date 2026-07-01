@@ -1,0 +1,51 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-01T16:36:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-01/1636",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Trauma & PTSS",
+        "source_score": 9,
+        "confidence": 0.93,
+        "novelty": 0.92,
+        "trust_level": "hoog",
+        "key_concept": "Amygdala-hyperactiviteit + vmPFC-hypoactiviteit + hippocampaal volumeverlies; extinctieleren faalt; EMDR vergroot amygdala-volume en verbetert extinctie; fMRI-bewijs",
+        "wiki_connections": ["Geheugen & Amnesie", "Emotieregulatie", "Klinische Psychologie", "Geschiedenis van de Psychiatrie", "Ruminatie"]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Logica & Kritisch Denken",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "key_concept": "Deductie (noodzakelijk), inductie (waarschijnlijk), abductie (beste verklaring); formele vs. informele drogreden; kritisch denken als gecombineerde vaardigheid",
+        "wiki_connections": ["Epistemologie & Kennistheorie", "Falsifieerbaarheid & Wetenschapsfilosofie", "Psychologie als Wetenschap", "Ethiek"]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Renaissance",
+        "source_score": 9,
+        "confidence": 0.91,
+        "novelty": 0.93,
+        "trust_level": "hoog",
+        "key_concept": "Wedergeboorte klassieke cultuur; humanisme (mens als maatstaf); Medici-patronage; perspectief in kunst; Leonardo als uomo universale; directe voorloper Wetenschappelijke Revolutie",
+        "wiki_connections": ["De Wetenschappelijke Revolutie", "De Verlichting", "De Reformatie", "Filosofie van de Geest"]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Conjunctuurcycli & Macro-economie",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 0.92,
+        "trust_level": "hoog",
+        "key_concept": "Juglar (7-11j), Kuznets (15-25j), Kondratiev (45-60j); leading/lagging indicators; yieldcurve-inversie als recessiesignaal; sectorrotatie per fase",
+        "wiki_connections": ["Rente & Centrale Bankpolitiek", "Efficiënte Markt Hypothese", "Gedragseconomie & Cognitieve Biases", "Marktpsychologie & Beurscrises"]
+      }
+    ]
+  }
+}
