@@ -1,0 +1,52 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-01T08:07:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-01/0807",
+    "source_note": "Wikipedia API proxy-blocked; data sourced from AI training knowledge (Gross 1998, Graham 1934/1949, Hobsbawm, Aristotle, Kant, Mill, Rawls)",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Emotieregulatie",
+        "file": "psychologie-emotieregulatie.md",
+        "source_score": 8,
+        "confidence": 0.90,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_connections": ["Executieve Functies & Prefrontale Cortex", "ADHD & Executieve Disfunctie", "Klinische Psychologie", "Neuroplasticiteit"]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Ethiek",
+        "file": "filosofie-ethiek.md",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_connections": ["Epistemologie & Kennistheorie", "Filosofie van de Geest", "De Verlichting"]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Industriele Revolutie",
+        "file": "geschiedenis-industriele-revolutie.md",
+        "source_score": 9,
+        "confidence": 0.93,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_connections": ["De Verlichting", "De Wetenschappelijke Revolutie", "Geschiedenis van de Psychiatrie"]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Waardebeleggen",
+        "file": "beleggen-waardebeleggen.md",
+        "source_score": 9,
+        "confidence": 0.91,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_connections": ["Gedragseconomie & Cognitieve Biases", "Efficiënte Markt Hypothese", "Moderne Portefeuilletheorie"]
+      }
+    ]
+  }
+}
