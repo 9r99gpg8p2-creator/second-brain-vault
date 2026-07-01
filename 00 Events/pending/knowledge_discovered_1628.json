@@ -1,0 +1,61 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-01T16:28:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-01/1628",
+    "gap_events_resolved": [
+      "knowledge_gap_Ruminatie_2026-07-01-1000.json",
+      "knowledge_gap_VrijeWilDeterminisme_2026-07-01-1000.json",
+      "knowledge_gap_BeloningssysteemDopamine_2026-07-01-1000.json",
+      "knowledge_gap_Dekolonisatie_2026-07-01-1000.json"
+    ],
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Ruminatie & Piekeren",
+        "source_score": 9,
+        "confidence": 0.93,
+        "novelty": 0.88,
+        "trust_level": "hoog",
+        "priority_source": "KnowledgeGapDetected prio 0.88",
+        "key_concept": "Transdiagnostisch mechanisme; DMN-hyperactiviteit als neurale basis; brooding vs. reflective subtypes; RFCBT als behandeling; voorspeller depressieduur",
+        "wiki_connections": ["Default Mode Network", "Emotieregulatie", "Stoïcisme", "ADHD & Executieve Disfunctie", "Klinische Psychologie"]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Vrije Wil & Determinisme (forensische verdieping)",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 0.85,
+        "trust_level": "hoog",
+        "priority_source": "KnowledgeGapDetected prio 0.85",
+        "key_concept": "Forensisch-neuropsychologische toepassingen; toerekeningsvatbaarheid; compatibilisme dominant in rechtssysteem; neuroabolitionalisme als radicale positie",
+        "wiki_connections": ["Filosofie van de Geest", "Ethiek", "Stoïcisme", "Executieve Functies & Prefrontale Cortex", "Klinische Psychologie"]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Beloningssysteem & Dopamine",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 0.88,
+        "trust_level": "hoog",
+        "priority_source": "KnowledgeGapDetected prio 0.83",
+        "key_concept": "Mesocorticolimbisch dopaminesysteem; NAcc-activiteit voorspelt financieel risico; RPE-signalering; link met ADHD, verslaving, prospect theory",
+        "wiki_connections": ["ADHD & Executieve Disfunctie", "Gedragseconomie & Cognitieve Biases", "Emotieregulatie", "Klinische Psychologie"]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "Dekolonisatie & Postkoloniale Orde",
+        "source_score": 9,
+        "confidence": 0.91,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "priority_source": "KnowledgeGapDetected prio 0.79",
+        "key_concept": "1945-1975 massale onafhankelijkheid; Fanon: kolonialisme als psychopathologie; geïnternaliseerde inferioriteit; postkoloniale identiteitscrisis; neo-kolonialisme",
+        "wiki_connections": ["De Koude Oorlog", "Geschiedenis van de Psychiatrie", "Sociale Psychologie", "Ethiek"]
+      }
+    ]
+  }
+}
