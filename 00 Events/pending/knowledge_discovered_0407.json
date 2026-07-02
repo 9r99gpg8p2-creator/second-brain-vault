@@ -1,0 +1,73 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-02T04:07:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-02/0407",
+    "note": "Stale knowledge_gap events (Beloningssysteem, Ruminatie, VrijeWil, Dekolonisatie) moved to processed — all 4 already exist in 02 Wiki/.",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Angststoornissen & Neurowetenschappen",
+        "suggested_path": "02 Wiki/Psychologie/(C) Angststoornissen.md",
+        "source_score": 9,
+        "confidence": 0.88,
+        "novelty": 0.92,
+        "trust_level": "hoog",
+        "key_connections": [
+          "02 Wiki/Psychologie/(C) Emotieregulatie.md",
+          "02 Wiki/Psychologie/(C) Ruminatie & Piekeren.md",
+          "02 Wiki/Psychologie/(C) Trauma & PTSS.md",
+          "02 Wiki/Psychologie/(C) Klinische Psychologie.md",
+          "02 Wiki/Psychologie/(C) Default Mode Network.md"
+        ]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Pragmatisme",
+        "suggested_path": "02 Wiki/Filosofie/(C) Pragmatisme.md",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.95,
+        "trust_level": "hoog",
+        "key_connections": [
+          "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md",
+          "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md",
+          "02 Wiki/Filosofie/(C) Ethiek.md",
+          "02 Wiki/Psychologie/(C) Psychologie als Wetenschap.md"
+        ]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Russische Revolutie (1917)",
+        "suggested_path": "02 Wiki/Geschiedenis/(C) De Russische Revolutie.md",
+        "source_score": 9,
+        "confidence": 0.93,
+        "novelty": 0.94,
+        "trust_level": "hoog",
+        "key_connections": [
+          "02 Wiki/Geschiedenis/(C) De Koude Oorlog.md",
+          "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract.md",
+          "02 Wiki/Geschiedenis/(C) De Eerste Wereldoorlog.md",
+          "02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde.md"
+        ]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Obligaties & Vastrentende Waarden",
+        "suggested_path": "02 Wiki/Beleggen/(C) Obligaties & Vastrentende Waarden.md",
+        "source_score": 8,
+        "confidence": 0.90,
+        "novelty": 0.93,
+        "trust_level": "hoog",
+        "key_connections": [
+          "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md",
+          "02 Wiki/Beleggen/(C) Rente & Centrale Bankpolitiek.md",
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
+          "02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie.md"
+        ]
+      }
+    ]
+  }
+}
