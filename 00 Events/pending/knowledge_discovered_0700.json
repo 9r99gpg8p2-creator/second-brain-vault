@@ -1,0 +1,103 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-02T07:00:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-02/0700",
+    "notes": "Wikipedia API geblokkeerd (HTTP 403 via proxy). Data verzameld via WebSearch (peer-reviewed bronnen). Alle 4 kennishiaten uit pending events waren al ingevuld — 4 nieuwe onderwerpen gekozen.",
+    "gap_events_processed": [
+      "knowledge_gap_BeloningssysteemDopamine_2026-07-01-1000.json",
+      "knowledge_gap_Ruminatie_2026-07-01-1000.json",
+      "knowledge_gap_VrijeWilDeterminisme_2026-07-01-1000.json",
+      "knowledge_gap_Dekolonisatie_2026-07-01-1000.json"
+    ],
+    "gap_status": "all_already_filled",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Schizofrenie & Psychose",
+        "file": "Psychologie-Schizofrenie.md",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_sources": [
+          "PMC DSM-5 schizofrenie criteria",
+          "Frontiers Psychology 2025",
+          "Nature Neuropsychopharmacology",
+          "Medscape DSM-5-TR"
+        ],
+        "suggested_path": "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md",
+        "connections": [
+          "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md",
+          "02 Wiki/Psychologie/(C) Default Mode Network.md",
+          "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine.md"
+        ]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Existentialisme",
+        "file": "Filosofie-Existentialisme.md",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_sources": [
+          "Stanford Encyclopedia of Philosophy",
+          "Internet Encyclopedia of Philosophy",
+          "Philosophy Break"
+        ],
+        "suggested_path": "02 Wiki/Filosofie/(C) Existentialisme.md",
+        "connections": [
+          "02 Wiki/Filosofie/(C) Filosofie van de Geest.md",
+          "02 Wiki/Filosofie/(C) Ethiek.md",
+          "02 Wiki/Filosofie/(C) Stoïcisme.md",
+          "02 Wiki/Psychologie/(C) Klinische Psychologie.md"
+        ]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Eerste Wereldoorlog",
+        "file": "Geschiedenis-EersteWereldoorlog.md",
+        "source_score": 9,
+        "confidence": 0.95,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_sources": [
+          "Britannica",
+          "History.com",
+          "World History Encyclopedia"
+        ],
+        "suggested_path": "02 Wiki/Geschiedenis/(C) De Eerste Wereldoorlog.md",
+        "connections": [
+          "02 Wiki/Geschiedenis/(C) De Tweede Wereldoorlog.md",
+          "02 Wiki/Geschiedenis/(C) De Koude Oorlog.md",
+          "02 Wiki/Psychologie/(C) Trauma & PTSS.md",
+          "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie.md"
+        ]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Factor Investing",
+        "file": "Beleggen-FactorInvesting.md",
+        "source_score": 8,
+        "confidence": 0.87,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_sources": [
+          "Fama-French originele papers (1992, 2015)",
+          "Quantt Fama-French uitleg 2026",
+          "Alpha Architect",
+          "Verified Investing"
+        ],
+        "suggested_path": "02 Wiki/Beleggen/(C) Factor Investing.md",
+        "connections": [
+          "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md",
+          "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese.md",
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md"
+        ]
+      }
+    ]
+  }
+}
