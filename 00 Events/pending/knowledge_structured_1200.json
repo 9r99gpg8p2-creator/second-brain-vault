@@ -1,0 +1,17 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-02T12:00:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen.md",
+      "02 Wiki/Filosofie/(C) Pragmatisme.md",
+      "02 Wiki/Geschiedenis/(C) De Russische Revolutie.md",
+      "02 Wiki/Beleggen/(C) Obligaties & Vastrentende Waarden.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Instrumentalisme — Van Angst tot Actie, Van Idee tot Beleid.md"
+    ]
+  }
+}
