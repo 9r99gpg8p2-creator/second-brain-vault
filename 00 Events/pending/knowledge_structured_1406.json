@@ -1,0 +1,19 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-02T14:06:00Z",
+  "status": "pending",
+  "note": "Alle vier wiki-onderwerpen (Neuroplasticiteit, Epistemologie, De Verlichting, Moderne Portefeuilletheorie) bestonden reeds in 02 Wiki/. Geen nieuwe conceptnotes aangemaakt. Nieuwe KG-verbindingspagina toegevoegd met novel Bayesiaans perspectief.",
+  "data": {
+    "new_nodes": [],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Het Bayesiaanse Principe — Van Synaps tot Samenleving.md"
+    ],
+    "skipped_disciplines": [
+      "Psychologie (Neuroplasticiteit — reeds aanwezig)",
+      "Filosofie (Epistemologie — reeds aanwezig)",
+      "Geschiedenis (De Verlichting — reeds aanwezig)",
+      "Beleggen (Moderne Portefeuilletheorie — reeds aanwezig)"
+    ]
+  }
+}
