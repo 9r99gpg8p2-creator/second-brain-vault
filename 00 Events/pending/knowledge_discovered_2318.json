@@ -1,0 +1,76 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-02T23:18:00Z",
+  "status": "pending",
+  "notes": "Wikipedia API policy-blocked (egress 403). All research compiled from training knowledge (cutoff Aug 2025). Source scores reflect training-knowledge reliability. Gap events resolved: BeloningssysteemDopamine, Dekolonisatie, Eugenica, HyperbolicDiscounting, Neuro-ethiek — all already exist in Wiki, no new pages needed for those.",
+  "data": {
+    "research_path": "00 Research/2026-07-02/2318",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Depressie & Neurobiologie",
+        "suggested_path": "02 Wiki/Psychologie/(C) Depressie & Neurobiologie.md",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_connections": [
+          "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md",
+          "02 Wiki/Psychologie/(C) Emotieregulatie.md",
+          "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie.md",
+          "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen.md",
+          "02 Wiki/Psychologie/(C) Ruminatie & Piekeren.md",
+          "02 Wiki/Psychologie/(C) Neuroplasticiteit.md"
+        ]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Utilitarisme & Consequentialisme",
+        "suggested_path": "02 Wiki/Filosofie/(C) Utilitarisme & Consequentialisme.md",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_connections": [
+          "02 Wiki/Filosofie/(C) Ethiek.md",
+          "02 Wiki/Filosofie/(C) Neuro-ethiek.md",
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
+          "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme.md"
+        ]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Globalisering",
+        "suggested_path": "02 Wiki/Geschiedenis/(C) De Globalisering.md",
+        "source_score": 8,
+        "confidence": 0.85,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_connections": [
+          "02 Wiki/Geschiedenis/(C) De Industriële Revolutie.md",
+          "02 Wiki/Geschiedenis/(C) De Koude Oorlog.md",
+          "02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde.md",
+          "02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie.md",
+          "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises.md"
+        ]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Indexbeleggen & Passief Beleggen",
+        "suggested_path": "02 Wiki/Beleggen/(C) Indexbeleggen & Passief Beleggen.md",
+        "source_score": 9,
+        "confidence": 0.93,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_connections": [
+          "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese.md",
+          "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md",
+          "02 Wiki/Beleggen/(C) Factor Investing.md",
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
+          "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises.md"
+        ]
+      }
+    ]
+  }
+}
