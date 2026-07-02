@@ -1,61 +1,81 @@
 {
   "event_type": "KnowledgeDiscovered",
   "agent": "Agent1-KnowledgeHunter",
-  "timestamp": "2026-07-01T12:07:00Z",
+  "timestamp": "2026-07-02T12:07:00Z",
   "status": "pending",
   "data": {
-    "research_path": "00 Research/2026-07-01/1207",
+    "research_path": "00 Research/2026-07-02/1207",
+    "note": "Externe bronnen (wikipedia.org, arxiv.org) geblokkeerd door egress-beleid. Onderzoek gebaseerd op AI-trainingskennis (wetenschappelijke consensusliteratuur t/m 2025). Alle bestanden gelabeld als RAW DATA met bronvermelding en confidence-scores.",
     "topics": [
       {
         "discipline": "Psychologie",
-        "topic": "Default Mode Network",
+        "topic": "Verslaving & Neurobiologie",
         "source_score": 9,
-        "confidence": 0.88,
+        "confidence": 0.92,
         "novelty": 0.95,
         "trust_level": "hoog",
-        "key_sources": [
-          "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12025022/",
-          "https://pubmed.ncbi.nlm.nih.gov/41747373/",
-          "https://www.sciencedirect.com/science/article/pii/S2352154626000227"
+        "file": "00 Research/2026-07-02/1207/psychologie-verslaving-neurobiologie.md",
+        "gap_event": null,
+        "key_connections": [
+          "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md",
+          "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine.md",
+          "02 Wiki/Psychologie/(C) Emotieregulatie.md",
+          "02 Wiki/Psychologie/(C) Trauma & PTSS.md",
+          "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md"
         ]
       },
       {
         "discipline": "Filosofie",
-        "topic": "Stoïcisme",
-        "source_score": 9,
-        "confidence": 0.92,
-        "novelty": 0.80,
+        "topic": "Neuro-ethiek",
+        "source_score": 8,
+        "confidence": 0.88,
+        "novelty": 0.95,
         "trust_level": "hoog",
-        "key_sources": [
-          "https://plato.stanford.edu/entries/stoicism/",
-          "https://iep.utm.edu/stoicism/",
-          "https://plato.stanford.edu/entries/epictetus/"
+        "file": "00 Research/2026-07-02/1207/filosofie-neuro-ethiek.md",
+        "gap_event": "00 Events/pending/knowledge_gap_Neuro-ethiek_0700.json",
+        "gap_priority": 0.82,
+        "key_connections": [
+          "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme.md",
+          "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme — Forensisch.md",
+          "02 Wiki/Filosofie/(C) Ethiek.md",
+          "02 Wiki/Filosofie/(C) Filosofie van de Geest.md",
+          "02 Wiki/Psychologie/(C) Klinische Psychologie.md"
         ]
       },
       {
         "discipline": "Geschiedenis",
-        "topic": "De Koude Oorlog",
+        "topic": "Eugenica & Pseudowetenschappelijke Psychiatrie",
         "source_score": 9,
-        "confidence": 0.95,
-        "novelty": 0.75,
+        "confidence": 0.92,
+        "novelty": 0.95,
         "trust_level": "hoog",
-        "key_sources": [
-          "https://www.britannica.com/event/Cold-War",
-          "https://www.history.com/articles/cold-war-history",
-          "https://www.cfr.org/event/coalition-rivalry-soviet-union-and-united-states-beginning-cold-war"
+        "file": "00 Research/2026-07-02/1207/geschiedenis-eugenica.md",
+        "gap_event": "00 Events/pending/knowledge_gap_Eugenica_PseudowetenschappelijkePsychiatrie_0700.json",
+        "gap_priority": 0.79,
+        "key_connections": [
+          "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie.md",
+          "02 Wiki/Geschiedenis/(C) De Tweede Wereldoorlog.md",
+          "02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde.md",
+          "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md",
+          "02 Wiki/Filosofie/(C) Ethiek.md"
         ]
       },
       {
         "discipline": "Beleggen",
-        "topic": "Waardebeleggen",
-        "source_score": 8,
-        "confidence": 0.90,
-        "novelty": 0.70,
+        "topic": "Hyperbolic Discounting & Tijdspreferentie",
+        "source_score": 9,
+        "confidence": 0.91,
+        "novelty": 0.95,
         "trust_level": "hoog",
-        "key_sources": [
-          "https://ryanoconnellfinance.com/value-investing/",
-          "https://astuteinvestorscalculus.com/understanding-margin-of-safety/",
-          "https://www.trustnet.com/investing/13445247/the-influence-of-benjamin-graham-on-warren-buffett"
+        "file": "00 Research/2026-07-02/1207/beleggen-hyperbolic-discounting.md",
+        "gap_event": "00 Events/pending/knowledge_gap_HyperbolicDiscounting_Tijdspreferentie_0700.json",
+        "gap_priority": 0.76,
+        "key_connections": [
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
+          "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md",
+          "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine.md",
+          "02 Wiki/Filosofie/(C) Ethiek.md",
+          "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md"
         ]
       }
     ]

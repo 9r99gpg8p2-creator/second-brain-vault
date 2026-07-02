@@ -1,0 +1,17 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-02T14:00:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie.md",
+      "02 Wiki/Filosofie/(C) Neuro-ethiek.md",
+      "02 Wiki/Geschiedenis/(C) Eugenica & Pseudowetenschappelijke Psychiatrie.md",
+      "02 Wiki/Beleggen/(C) Hyperbolic Discounting & Tijdspreferentie.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Van Dopamine tot Diagnose — Biologisch Determinisme, Tijdspreferentie en Morele Verantwoordelijkheid.md"
+    ]
+  }
+}
