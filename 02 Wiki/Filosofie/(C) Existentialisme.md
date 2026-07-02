@@ -42,6 +42,10 @@ revision_history:
     date: 2026-07-02
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-02
+    author: Discovery-Engine
+    change: added wikilinks to Trauma & PTSS en Dekolonisatie; added Verdieping on Frankl als ultieme test, neurale basis van existentiële vrijheid, en Fanon als existentialistisch psychiater
 ---
 
 # Existentialisme
@@ -137,6 +141,8 @@ Voor klinische neuropsychologie en psychologie is existentialisme relevant via m
 - [[02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract]] — Sartre's engagement als politieke filosofie; de Beauvoirs feminisme als politieke existentialisme
 - [[02 Wiki/Psychologie/(C) Klinische Psychologie]] — existentiële psychotherapie; Yalom, Frankl, May
 - [[02 Wiki/Geschiedenis/(C) De Tweede Wereldoorlog]] — historische context; existentialisme als intellectuele respons op de catastrofe van WOII en de Holocaust
+- [[02 Wiki/Psychologie/(C) Trauma & PTSS]] — Viktor Frankl's logotherapie als existentialistische traumabehandeling; zingeving als therapeutisch principe na catastrofale traumatisering; de existentiële dimensie van PTSS-herstel die angstextinctie-protocollen niet adresseren
+- [[02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde]] — Frantz Fanon als existentialistisch psychiater; Sartre's directe invloed op Fanon's analyse van koloniale aliënatie en psychopathologie; existentialistische bevrijdingsfilosofie als kader voor postkoloniaal herstel
 
 ## Bronnen
 
@@ -150,4 +156,29 @@ Voor klinische neuropsychologie en psychologie is existentialisme relevant via m
 8. Yalom, I.D. (1980). *Existential Psychotherapy*. Basic Books.
 9. Philosophy Break: What is Existentialism? https://philosophybreak.com/articles/what-is-existentialism-3-core-principles-of-existentialist-philosophy/
 
-> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-02
+## Verdieping (Discovery Engine)
+
+### Frankl als Ultieme Test van Existentialistische Vrijheid
+
+Viktor Frankl's *Man's Search for Meaning* (1946) is het meest extreme empirische testgeval van de existentialistische vrijheidsthese. In Auschwitz — de absolute vernietiging van alle externe vrijheid — hield Frankl vast aan de existentialistische kern: de vrijheid van houding (*Einstellungsfreiheit*) is onvernietigbaar. Niet de omstandigheid bepaalt het lijden, maar de betekenis die men aan de omstandigheid toekent.
+
+Dit is de radicalste empirische test van Sartre's stelling dat "de mens veroordeeld is om vrij te zijn." Frankl bevestigde haar — maar met een cruciaal voorbehoud dat Sartre's abstracte theorie mist: **deze vrijheid is een verworvenheid, geen gegeven**. Ze veronderstelt psychologische voorbereiding, een stabiel zelfsysteem en — neurobiologisch gezien — voldoende PFC-functie voor executieve controle over automatische angstreacties.
+
+### Neurale Basis van "Kiezen Hoe Te Reageren"
+
+De existentialistische nadruk op keuzevrijheid van houding heeft een identificeerbaar neuraal substraat:
+
+- **Cognitieve herwaardering** (Gross, 1998) — de meest directe neurale implementatie van de Frankliaanse houding — activeert de dorsolaterale PFC en vermindert amygdala-reactiviteit (Ochsner et al., 2002). Dit is de neurale implementatie van de existentialistische vrije houding.
+- **Maar:** bij ernstige PTSS (vmPFC-hypoactiviteit, zie [[02 Wiki/Psychologie/(C) Trauma & PTSS]]) is juist de vmPFC die de amygdala moet reguleren structureel minder actief. Frankl's vrijheid van houding veronderstelt PFC-functionaliteit die bij traumatoepassing niet altijd beschikbaar is.
+
+**Klinische consequentie:** Logotherapie is geen universeel toegankelijke strategie maar een fasegerichte interventie — pas volledig beschikbaar wanneer de neurobiologische basis van wilscontrole (vmPFC) voldoende hersteld is. Dit is niet Frankl's falen; het is de integratie van filosofie en neurowetenschappen.
+
+### Fanon als Existentialistisch Psychiater
+
+Fanon was geen bijfiguur in het existentialisme — hij was de meest rigoureuse klinische toepassing ervan. Waar Sartre theoretiseerde over aliënatie in abstracte termen, observeerde Fanon haar dagelijks bij zijn patiënten in psychiatrische klinieken in Algerije (zie [[02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde]]).
+
+Zijn diagnose: kolonialisme produceerde een specifieke pathologische identiteitsstructuur — de gekoloniseerde die de kolonialist's oog heeft geïnternaliseerd en zichzelf daarmee definieerde als inferieur. Dit is *mauvaise foi* maar niet vrijwillig: het is opgedrongen bad faith. Het herstel vereist niet louter interne reflectie (Sartre's optie) maar ook externe structuurverandering — de koloniale relatie die de bad faith produceerde moet ophouden te bestaan.
+
+**Spanning met klassiek existentialisme:** Fanon corrigeert het individualisme van Sartre's vrijheidsopvatting. Vrijheid is niet louter intern maar gesitueerd — ze heeft structurele voorwaarden. Dit sluit aan bij de Beauvoirs gesitueerde vrijheid: mijn vrijheid veronderstelt structuren die haar mogelijk maken.
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-02

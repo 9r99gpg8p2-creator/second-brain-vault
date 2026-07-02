@@ -32,6 +32,10 @@ revision_history:
     date: 2026-07-01
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-02
+    author: Discovery-Engine
+    change: added wikilinks to Trauma & PTSS en Schizofrenie; added Verdieping section on PTSS als limietgeval van wilsverlies en forensische implicaties
 ---
 
 # Vrije Wil & Determinisme
@@ -88,6 +92,8 @@ Voor Klinische Neuropsychologie is dit concept cruciaal bij de beoordeling van *
 - [[Falsifieerbaarheid & Wetenschapsfilosofie]] — zijn Libet-experimenten falsifieerbaar? Wat bewijst statistisch bewijs?
 - [[Vrije Wil & Determinisme — Forensisch]] — forensisch-juridische verdieping
 - [[Stoïcisme]] — prohairesis: Stoïcijnse oplossing voor de vrijheidsvraag (wat in onze macht staat)
+- [[02 Wiki/Psychologie/(C) Trauma & PTSS]] — amygdala-hijacking bij PTSS als paradigmatisch voorbeeld van gedrag dat de willscontrole bypastes; de amygdala overrulet de PFC vóór bewuste intentie kan optreden — relevant voor toerekeningsvatbaarheid bij trauma-gerelateerde delicten
+- [[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]] — verminderd wilsbesef en gebrekkige volitie bij psychose als forensisch-neuropsychologisch vraagstuk; schizofrenie als klinische context voor het debat over verantwoordelijkheid wanneer de grenzen van bewust handelen neurologisch vervaagd zijn
 
 ## Bronnen
 
@@ -96,4 +102,25 @@ Voor Klinische Neuropsychologie is dit concept cruciaal bij de beoordeling van *
 - Mele, A.R. (2014). *Free: Why Science Hasn't Disproved Free Will*. Oxford University Press.
 - Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
 
-> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-01
+## Verdieping (Discovery Engine)
+
+### Trauma als Limietgeval van Wilsverlies
+
+PTSS biedt het klinisch scherpste bewijs voor de grenzen van wilsvrijheid — en daarmee voor het compatibilisme als meest bruikbare positie. De amygdala-hijacking bij PTSS (zie [[02 Wiki/Psychologie/(C) Trauma & PTSS]]) is een empirisch geval waarbij een subcorticale structuur de prefrontale wilscontrole overrulet vóórdat bewuste intentie kan optreden. De vecht-vlucht-bevriezingsrespons bypastes de corticale laag letterlijk neurologisch.
+
+Dit is niet metaforisch. Het fMRI-bewijs toont: bij PTSS-patiënten die worden blootgesteld aan traumatische cues, valt de vmPFC-activiteit weg op het moment dat de amygdala-activiteit piekt. De wil — in neurale termen geïmplementeerd als PFC-regulatie van subcorticale systemen — faalt als functie van pathologische amygdala-sensitivering.
+
+**Forensisch-juridische implicatie:** Als een PTSS-patiënt een delict pleegt in een toestand van amygdala-hijacking (flashback, hypervigilantie-reactie), is de klassieke juridische aanname van wilscontrole neurobiologisch niet houdbaar. Dit is een sterkere claim dan alleen verzachtende omstandigheid — het raakt de fundamentele grondslag van schuld als *bewuste keuze*.
+
+**Compatibilistische resolutie:** Frankl's concept van *Einstellungsfreiheit* (vrijheid van houding) biedt de existentialistische versie van het compatibilistische antwoord: ook in een toestand van biologische bepaaldheid blijft een minimale ruimte van houding-keuze bestaan — maar die ruimte is kleiner dan de Sartrische absolutie veronderstelt en vereist neurobiologische ondersteuning via behandeling.
+
+### Schizofrenie en Verminderd Wilsbesef
+
+Bij schizofrenie (zie [[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]]) zijn er twee relevante wilscomponenten die verstoord raken:
+
+1. **Avolition** (negatief symptoom): verminderde motivatie en doelgerichte wilsactiviteit — neurobiologisch verankerd in mesocorticale dopamine-hypofunctie
+2. **Passivity experiences**: de ervaring dat gedachten of handelen door externe krachten worden gecontroleerd (*thought insertion*, *alien control*) — een directe pathologische distorsie van het gevoel van willen
+
+Beide verschijnselen zijn forensisch relevant en filosofisch uitdagend: als de patiënt ervaart dat zijn handelen *niet* van hemzelf is, hoe verhoudt dat zich tot het juridische vereiste van opzet?
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-02

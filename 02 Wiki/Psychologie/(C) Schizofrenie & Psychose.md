@@ -46,6 +46,10 @@ revision_history:
     date: 2026-07-02
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-02
+    author: Discovery-Engine
+    change: added Verdieping on social defeat hypothese, Reformatie als psychiatrische paradigmashift, en continuüm met ruminatieve stoornissen
 ---
 
 # Schizofrenie & Psychose
@@ -146,4 +150,29 @@ De combinatie van neurobiologische mechanismen (dopamine, glutamaat), cognitieve
 5. PMC Neurocognitive Deficits Systematic Review (2022). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9954070/
 6. Medscape: Schizophrenia DSM-5-TR Overview. https://emedicine.medscape.com/article/288259-overview
 
-> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-02
+## Verdieping (Discovery Engine)
+
+### Sociale Defeat als Historisch-Psychiatrisch Mechanisme
+
+De neurobiologische verklaring van schizofrenie (dopamine-dysregulatie, aberrant salience) is complementair aan een sociologische verklaring die de literatuur inmiddels empirisch ondersteunt. De **social defeat hypothese** (Selten & Cantor-Graae, 2005) toont dat chronische sociale uitsluiting, minderheidsstatus en discriminatie het risico op schizofrenie significant verhogen.
+
+Het mechanisme sluit precies aan bij de dopaminehypothese versie 3: chronische social defeat activeert het mesolimbisch dopaminesysteem in een patroon dat aberrant salience versterkt. Dit verklaart waarom eerste- en tweede-generatie migranten in westerse landen consistent hogere psychose-incidenties vertonen dan zowel de ontvangende als de zendende bevolking — een bevinding die genetische verklaring uitsluit en sociaal mechanisme bevestigt.
+
+**Verbinding naar Dekolonisatie:** [[02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde]] — de hogere psychose-incidentie bij postkoloniale migrantenpopulaties is niet genetisch maar sociaal gemedieerd. Koloniaal geweld als structurele producer van social defeat-contexten.
+
+### De Reformatie als Psychiatrische Paradigmashift
+
+Johann Weyer (1515–1588), luthers arts, was een van de eerste die "heksen" beschreef als psychisch gestoord in plaats van bezeten door de duivel — zie [[02 Wiki/Geschiedenis/(C) De Reformatie]]. Dit was niet toevallig: de Reformatie had het monopolie van de kerkelijke interpretatie doorbroken.
+
+Vanuit **predictive coding** (zie [[02 Wiki/Psychologie/(C) Perceptie & Predictive Coding]]) is dit Bayesiaans te begrijpen: in een samenleving met een hegemonische religieuze prior-structuur was de interpretatie van hallucinaties als bezetenheid de meest coherente posterior. Weyer kon pas een naturalistisch alternatief aanbieden nadat de Reformatie de prior-structuur had opengebroken. Psychiatrische paradigmawisselingen zijn prior-revoluties, niet louter empirische doorbraken.
+
+### Het Continuüm met Ruminatieve Stoornissen
+
+Ruminatie (zie [[02 Wiki/Psychologie/(C) Ruminatie & Piekeren]]) en psychose zijn klinisch doorgaans gescheiden categorieën — maar neurowetenschappelijk beschrijven ze hetzelfde spectrum van DMN-dysregulatie:
+
+- Ruminatie = overactieve DMN-prior die sensorische correctie *vermindert*
+- Psychose = zo dominante DMN/top-down prior dat sensorische correctie *faalt*
+
+Beide zijn varianten van prior-dominantie over bottom-up update. Dit rechtvaardigt transdiagnostische behandelprincipes en suggereert dat behandelingen die de Bayesiaanse precisie-balans herstellen (aandachtstraining, mindfulness, cognitieve remediatie) langs het continuüm werken.
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-02

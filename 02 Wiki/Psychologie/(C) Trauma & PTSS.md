@@ -138,6 +138,8 @@ PTSD is een kerndomein voor klinisch neuropsychologen om meerdere redenen:
 - [[Sociale Psychologie]] — collectief trauma (genocide, oorlog, dekolonisatie)
 - [[Default Mode Network]] — DMN-activiteit bij zelf-referentiële verwerking van traumatische herinneringen
 - [[Executieve Functies & Prefrontale Cortex]] — vmPFC-hypoactiviteit als gemeenschappelijk mechanisme bij PTSD en executieve stoornissen
+- [[02 Wiki/Filosofie/(C) Existentialisme]] — Frankl's logotherapie als existentieel kader voor PTSS-herstel; zingeving als therapeutisch principe dat angstextinctie aanvult; de paradox van vrijheid bij biologisch gedetermineerde traumareacties
+- [[02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde]] — collectief en systemisch trauma als gevolg van kolonialisme; social defeat als traumatisch mechanisme; Fanon's psychiatrische diagnose van koloniaal geweld als trauma-producerend systeem
 
 ## Bronnen
 

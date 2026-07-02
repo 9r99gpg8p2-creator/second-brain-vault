@@ -121,6 +121,9 @@ Hedendaagse toepassingen:
 - [[Ethiek]] — geweld als bevrijdingsmiddel: morele grenzen van verzet tegen onderdrukking
 - [[De Tweede Wereldoorlog]] — WOII als katalysator; morele ondermijning van koloniaal racisme
 - [[Ontwikkelingspsychologie]] — collectief trauma en culturele overdracht aan volgende generaties
+- [[02 Wiki/Psychologie/(C) Trauma & PTSS]] — Fanon's psychiatrische analyse van kolonialisme als trauma-producerend systeem; intergenerationele epigenetische overdracht van koloniaal trauma; PTSS als systematisch gevolg van structureel geweld
+- [[02 Wiki/Filosofie/(C) Existentialisme]] — Fanon als existentialistisch psychiater, beïnvloed door Sartre; koloniale aliënatie als existentieel-politiek fenomeen; bevrijding als reconstructie van authentieke zelf-autorisering
+- [[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]] — social defeat hypothese: structurele maatschappelijke uitsluiting als risicofactor voor psychose (factor 2–5); migrantenpopulaties en postkoloniale nalatenschap als verklaring voor hogere psychose-incidentie in etnische minderheden
 
 ## Bronnen
 

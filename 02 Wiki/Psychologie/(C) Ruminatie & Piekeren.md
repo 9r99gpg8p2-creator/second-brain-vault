@@ -106,6 +106,8 @@ De brug tussen DMN-onderzoek en klinische behandeling is een van de meest actiev
 - [[Klinische Psychologie]] — RFCBT en MBCT als behandelmodaliteiten; transdiagnostisch kader
 - [[Slaap & Geheugenconsolidatie]] — bidirectioneel: slaaptekort versterkt ruminatie; ruminatie stoort slaap
 - [[Aandacht & Cognitieve Controle]] — executieve aandacht als mechanisme om te schakelen weg van DMN-activiteit
+- [[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]] — ruminatieve intrusies en psychotische intrusies als verwante mechanismen van DMN-dysregulatie; ruminatie bij psychotische patiënten over waaninhouden en stemmen als transdiagnostisch parallelfenomeen
+- [[02 Wiki/Psychologie/(C) Perceptie & Predictive Coding]] — ruminatie als gefixeerde Bayesiaanse prior: het negatieve zelfschema dat nieuwe sensorische informatie filtert in plaats van te updaten; bottom-up aandachtsinterventie als prior-doorbreking
 
 ## Bronnen
 

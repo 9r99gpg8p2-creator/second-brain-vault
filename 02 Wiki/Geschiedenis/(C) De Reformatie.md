@@ -102,6 +102,8 @@ De Reformatie is historisch relevant voor [[Geschiedenis van de Psychiatrie]]: d
 - [[Ethiek]] — individueel geweten als morele autoriteit boven institutioneel gezag
 - [[De Tweede Wereldoorlog]] — religieuze en nationale spanningen als historische constante; Europa's identiteitscrisis door religieuze splitsing
 - [[De Franse Revolutie]] — secularisme als erfenis van het Reformatieproces
+- [[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]] — Johann Weyer (luthers arts, 1515–1588) als vroegste pleitbezorger van een naturalistisch begrip van waanzin; De Reformatie als de culturele prior-verschuiving die naturalistisch verklaren van psychose mogelijk maakte door het monopolie van kerkelijke interpretatie te breken
+- [[02 Wiki/Psychologie/(C) Sociale Psychologie]] — de Reformatie als sociale beweging via informatiecascades en peer-conformiteit; de boekdrukkunst als disruption van het informatiemonopolie van de Kerk — een vroegmodern voorbeeld van hoe communicatietechnologie machtsverhoudingen kantelt
 
 ## Bronnen
 
