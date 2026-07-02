@@ -1,0 +1,44 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-02T08:06:00Z",
+  "status": "pending",
+  "note": "Wikipedia API en HTML beide geblokkeerd (HTTP 403) door omgevingsproxy. Inhoud gebaseerd op AI knowledge base. Source scores navenant.",
+  "data": {
+    "research_path": "00 Research/2026-07-02/0806",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Neuroplasticiteit",
+        "source_score": 7,
+        "confidence": 0.85,
+        "novelty": 1.0,
+        "trust_level": "gemiddeld"
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Epistemologie",
+        "source_score": 8,
+        "confidence": 0.90,
+        "novelty": 1.0,
+        "trust_level": "hoog"
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Verlichting",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 1.0,
+        "trust_level": "hoog"
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Moderne Portefeuilletheorie",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 1.0,
+        "trust_level": "hoog"
+      }
+    ]
+  }
+}

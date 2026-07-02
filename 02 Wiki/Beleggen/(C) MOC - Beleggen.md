@@ -75,14 +75,24 @@ Centrale hub voor beleggingsprincipes, mentale modellen en markten.
 
 ---
 
+## Wiki-pagina's
+
+| Pagina | Kernthema |
+|---|---|
+| [[(C) Gedragseconomie & Cognitieve Biases]] | Kahneman, prospect theory, irrationele belegger |
+| [[(C) Moderne Portefeuilletheorie]] | Markowitz, diversificatie, CAPM, efficiënte grens |
+
+---
+
 ## Sleutelliteratuur
 
 - Benjamin Graham — *The Intelligent Investor* (1949)
+- Harry Markowitz — *Portfolio Selection* (1952)
 - Burton Malkiel — *A Random Walk Down Wall Street* (1973)
 - Daniel Kahneman — *Thinking, Fast and Slow* (2011)
 - Morgan Housel — *The Psychology of Money* (2020)
 
 ---
 
-> **Status:** Startpunt aangemaakt — uitbreiden per topic of instrument
-> **Laatste update:** 2026-06-29
+> **Status:** Uitbreidend
+> **Laatste update:** 2026-07-02

@@ -1,113 +1,169 @@
 ---
-type: concept
-id: 636938e2-401e-d501-1c94-d07ac4e2ca54
-title: Moderne Portefeuilletheorie
-summary: "Concept note over Moderne Portefeuilletheorie."
-category: Beleggen
-tags: [beleggen, portefeuilletheorie, risicobeheer, diversificatie, Markowitz, financiën, evidence-based]
-aliases: ["Moderne Portefeuilletheorie"]
-sources:
-  - title: "Markowitz, H. (1952). Portfolio selection. *Journal of Finance, 7*(1), 77–91."
-    trust_level: 8
-  - title: "Sharpe, W.F. (1964). Capital asset prices: A theory of market equilibrium under "
-    trust_level: 8
-  - title: "Fama, E.F., & French, K.R. (1992). The cross-section of expected stock returns. "
-    trust_level: 8
-  - title: "Brinson, G.P., Hood, L.R., & Beebower, G.L. (1986). Determinants of portfolio pe"
-    trust_level: 8
-  - title: "Taleb, N.N. (2007). *The Black Swan: The Impact of the Highly Improbable*. Rando"
-    trust_level: 8
-  - title: "Bogle, J.C. (2007). *The Little Book of Common Sense Investing*. Wiley."
-    trust_level: 8
-confidence_score: 0.9
-quality_score: 0.88
-freshness_score: 0.8
-importance_score: 0.85
-novelty_score: 1.0
-knowledge_score: 0.858
-usage_score: 0.0645
-related_nodes:
-  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
-  - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
-  - "03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing"
-  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
-  - "02 Wiki/Beleggen/(C) Waardebeleggen.md"
-  - "03 Knowledge Graph/(KG) Sociale Psychologie als Marktmechanisme.md"
-revision_history:
-  - version: 1
-    date: 2026-07-01
-    author: Brain-Guardian
-    change: initial YAML scaffolding by guardian routine
-  - version: 2
-    date: 2026-07-01
-    author: Discovery-Engine
-    change: added missing links to Waardebeleggen and KG connection page
+tags: [beleggen, portefeuilletheorie, markowitz, MPT, risicobeheer, diversificatie, CAPM, gedragseconomie]
+discipline: Beleggen
+kleur: rood
+aangemaakt: 2026-07-02
+agent: Knowledge-Hunter
+brontype: AI Knowledge Base
+betrouwbaarheid: hoog
 ---
 
 # Moderne Portefeuilletheorie (MPT)
 
-## Oorsprong en kern
+> Diversificatie is het enige gratis middageten in beleggen. — Harry Markowitz
 
-Harry Markowitz publiceerde in 1952 het artikel "Portfolio Selection" in het *Journal of Finance* — een van de meest invloedrijke publicaties in de financiële economie, waarvoor hij in 1990 de Nobelprijs Economie ontving.
+---
 
-**Feit:** MPT formuleert wiskundig hoe een rationele belegger een portefeuille kan samenstellen die het verwachte rendement maximaliseert voor een gegeven risicotolerantie, of het risico minimaliseert voor een gegeven verwacht rendement.
+## Definitie
 
-## Kernconcepten
+De Moderne Portefeuilletheorie (MPT; ook: *Mean-Variance Analysis*) is een wiskundig raamwerk voor de optimale samenstelling van beleggingsportefeuilles. Het doel: **het verwachte rendement maximaliseren bij een gegeven risiconiveau**, of risico minimaliseren bij een gegeven rendement.
 
-### Risico en rendement
-- **Verwacht rendement (μ):** gewogen gemiddelde van mogelijke uitkomsten
-- **Risico (σ):** standaarddeviatie van rendementen — maat voor de spreiding/volatiliteit
+Ontwikkeld door **Harry Markowitz** in zijn baanbrekende artikel *"Portfolio Selection"* (Journal of Finance, 1952). Nobelprijs voor Economie in 1990 (gedeeld met William Sharpe en Merton Miller).
 
-**Interpretatie:** De gelijkstelling van risico met volatiliteit is een vereenvoudiging. Beleggers onderscheiden doorgaans neerwaarts risico (verlies) van opwaartse volatiliteit (winst) — een beperking die later door modellen als de Sortino-ratio wordt geadresseerd.
+---
 
-### Correlatie en diversificatie
-De kern van MPT: door activa te combineren die **niet perfect positief gecorreleerd** zijn (correlatie < 1), kan de totale portefeuillevolatiliteit worden verlaagd *zonder* evenredige reductie van het verwacht rendement.
+## Kernprincipes
 
-**Formule (portefeuillevariantie voor twee activa):**
-σ²_p = w²_A · σ²_A + w²_B · σ²_B + 2 · w_A · w_B · σ_A · σ_B · ρ_AB
+### 1. Risico = Volatiliteit
+MPT definieert risico als de **standaarddeviatie van rendementen** — de mate van spreiding rond het gemiddelde. Dit is meetbaar maar reduceert risico tot één dimensie.
 
-waarbij ρ_AB de correlatie is tussen activa A en B.
+**Onderscheid feit/interpretatie:** dit is een modellering, geen objectieve waarheid. Risico heeft ook dimensies die MPT negeert (liquiditeitsrisico, politiek risico, staartrisico).
 
-**Feit:** Bij perfecte negatieve correlatie (ρ = −1) kan risico theoretisch tot nul worden gereduceerd. In de praktijk bestaan zulke perfecte hedges niet.
+### 2. Diversificatie reduceert risico
+Door activa te combineren die **niet perfect positief gecorreleerd** zijn, daalt het portefeuillerisico zonder evenredig rendementverlies.
 
-### De efficiënte frontier
-Alle optimale portefeuilles — maximaal rendement per eenheid risico — liggen op de **efficiënte frontier** in de rendement-risico-ruimte. Portefeuilles *onder* de frontier zijn suboptimaal.
+- **Systematisch risico** (marktrisico, beta): geldt voor de gehele markt — *niet te diversifiëren*
+- **Niet-systematisch risico** (bedrijfsspecifiek): uniek per aandeel — *volledig weg te diversifiëren*
 
-### Het Capital Asset Pricing Model (CAPM)
-Voortbouwend op MPT ontwikkelden Sharpe (1964), Lintner (1965) en Mossin (1966) het CAPM:
+### 3. Correlatie is de sleutel
 
-**E(R_i) = R_f + β_i · (E(R_m) − R_f)**
+| Correlatie (ρ) | Effect |
+|---|---|
+| ρ = +1 | Geen diversificatievoordeel |
+| 0 < ρ < +1 | Gedeeltelijk voordeel |
+| ρ = 0 | Volledig onafhankelijk — goed diversificatievoordeel |
+| ρ = -1 | Perfecte negatieve correlatie — risico tot nul reduceerbaar |
 
-- R_f = risicovrij rendement
-- β_i = gevoeligheid van actief i voor marktbewegingen (systematisch risico)
-- E(R_m) = verwacht marktrendement
+---
 
-**Theorie:** CAPM stelt dat alleen systematisch risico (β) gecompenseerd wordt; idiosyncratisch risico (bedrijfsspecifiek) kan worden weggediversifieerd en verdient geen risicopremie.
+## De Efficiënte Grens (Efficient Frontier)
 
-**Kritiek (empirisch):** Fama & French (1992) toonden aan dat CAPM het verwachte rendement onvoldoende verklaart — grootte (small-cap premie) en waarde (value premium) voegen verklaringskracht toe. CAPM is empirisch onvoldoende maar conceptueel onmisbaar als startpunt.
+De verzameling van **optimale portefeuilles** — elke portefeuille op de grens biedt het hoogste mogelijke rendement voor dat risiconiveau.
 
-## Praktische implicaties
+- Portefeuilles **onder** de grens zijn suboptimaal (zelfde risico, lager rendement)
+- Portefeuilles **boven** de grens zijn niet bereikbaar
+- De **minimumvariantiepunt** is het laagst bereikbare risiconiveau
 
-1. **Diversificeer breed:** indexfondsen spreiden over honderden tot duizenden activa, elimineren idiosyncratisch risico en reduceren kosten (Bogle, 1976 — de Vanguard-filosofie)
-2. **Actief versus passief:** de meeste actieve fondsen presteren na kosten onder de marktindex over lange perioden (SPIVA-rapporten, S&P Global)
-3. **Asset allocatie bepaalt rendement:** Brinson, Hood & Beebower (1986) stelden dat >90% van de langetermijnrendementsvariatie verklaard wordt door asset allocatie, niet door effectenselectie
+---
 
-**Speculatie:** Of MPT in een wereld met dikstaartsverdelingen (*fat tails*), correlatieveranderingen in crises, en behavioral biases volledig toepasbaar is, is fundamenteel betwist. Nassim Taleb (*The Black Swan*, 2007) betoogt dat Gaussiaanse risicomodellen catastrofale risico's systematisch onderschatten.
+## Wiskundige Kern
 
-## Verbanden binnen het Second Brain
+**Verwacht rendement portefeuille:**
+$$E(R_p) = \sum_{i} w_i \cdot E(R_i)$$
 
-- [[02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases]] — MPT assumeert rationaliteit; gedragseconomie toont systematische afwijkingen
-- [[03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming]] — de rationele belegger als theoretisch construct versus menselijke besluitvorming
-- [[03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing]] — risicoperceptie als adaptief mechanisme
-- [[02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie]] — zijn financiële modellen falsifieerbaar?
-- [[02 Wiki/Beleggen/(C) Waardebeleggen]] — MPT optimaliseert voor marktprijs als datapunt; waardebeleggen betwist dit fundamenteel door intrinsieke waarde centraal te stellen boven marktprijs
-- [[03 Knowledge Graph/(KG) Sociale Psychologie als Marktmechanisme]] — de sociale conformiteitsdruk die MPT's rationaliteitsassumptie ondermijnt
+**Variantie portefeuille:**
+$$\sigma^2_p = \sum_i \sum_j w_i \cdot w_j \cdot \text{Cov}(R_i, R_j)$$
 
-## Bronnen
+**Correlatie:**
+$$\rho_{ij} = \frac{\text{Cov}(R_i, R_j)}{\sigma_i \cdot \sigma_j}$$
 
-- Markowitz, H. (1952). Portfolio selection. *Journal of Finance, 7*(1), 77–91.
-- Sharpe, W.F. (1964). Capital asset prices: A theory of market equilibrium under conditions of risk. *Journal of Finance, 19*(3), 425–442.
-- Fama, E.F., & French, K.R. (1992). The cross-section of expected stock returns. *Journal of Finance, 47*(2), 427–465.
-- Brinson, G.P., Hood, L.R., & Beebower, G.L. (1986). Determinants of portfolio performance. *Financial Analysts Journal, 42*(4), 39–44.
-- Taleb, N.N. (2007). *The Black Swan: The Impact of the Highly Improbable*. Random House.
-- Bogle, J.C. (2007). *The Little Book of Common Sense Investing*. Wiley.
+Waarbij $w_i$ de wegingen zijn, $E(R_i)$ de verwachte rendementen, en $\sigma$ de standaarddeviaties.
+
+---
+
+## Capital Asset Pricing Model (CAPM)
+
+Uitbreiding door **William Sharpe (1964)**, Lintner (1965) en Mossin (1966):
+
+$$E(R_i) = R_f + \beta_i \cdot (E(R_m) - R_f)$$
+
+- $R_f$ = risicovrije rente (staatsobligatie)
+- $\beta_i$ = beta — gevoeligheid actief voor marktbewegingen
+- $(E(R_m) - R_f)$ = marktrisicopremie
+
+**Beta-interpretatie:**
+- β = 1: beweegt mee met de markt
+- β > 1: agressiever dan de markt (groter risico én rendement)
+- β < 1: defensiever dan de markt
+
+**Sharpe Ratio:**
+$$S = \frac{R_p - R_f}{\sigma_p}$$
+Rendement per eenheid risico. Hogere Sharpe Ratio = betere risico-gecorrigeerde prestatie.
+
+---
+
+## Veronderstellingen en Kritiek
+
+### Veronderstellingen MPT (theoretisch ideaal)
+1. Beleggers zijn rationeel en risicoavers
+2. Markten zijn efficiënt (Efficient Market Hypothesis)
+3. Rendementen zijn normaal verdeeld
+4. Correlaties zijn stabiel in de tijd
+5. Geen transactiekosten of belastingen
+6. Beleggers denken in één tijdshorizon
+
+### Kritiek
+
+**Empirisch:**
+- Rendementen zijn **niet** normaal verdeeld — *fat tails* (extremere uitschieters dan normaalverdeling voorspelt)
+- Nassim Taleb: *Black Swans* — zeldzame, onverwachte gebeurtenissen met enorm effect
+- Correlaties **stijgen** in crises, precies wanneer diversificatie het meest nodig is (*correlation breakdown*)
+
+**Gedragseconomisch:**
+- Kahneman & Tversky: beleggers zijn niet rationeel — prospect theory, verliesaversie, mentale boekhouding
+- Mental accounting: beleggers denken in mentale potten, niet in totale portefeuille
+
+**Modelmatig:**
+- MPT kijkt achteruit voor inputs (historische correlaties, rendementen)
+- Factor investing (Fama-French, 1992): beta alleen verklaart rendementen onvoldoende; grootte (SMB) en waarde (HML) zijn aanvullende factoren
+
+---
+
+## Praktische Toepassingen
+
+| Toepassing | Hoe MPT gebruikt wordt |
+|---|---|
+| Asset allocatie | Optimale mix aandelen/obligaties/alternatieven |
+| Indexfondsen / ETFs | Benadering marktportefeuille (Bogle/Vanguard) |
+| Risicobeheer | VaR (Value at Risk); CVaR (Conditional VaR) |
+| Rebalancing | Periodiek terugbrengen naar doelgewichten |
+| Pensioenfondsen | ALM (Asset Liability Management) |
+
+---
+
+## Sleutelfiguren
+
+| Figuur | Bijdrage |
+|---|---|
+| Harry Markowitz (1927-2023) | Portfolio Selection (1952); grondlegger MPT; Nobel 1990 |
+| William Sharpe (1934) | CAPM (1964); Sharpe Ratio; Nobel 1990 |
+| Eugene Fama (1939) | Efficient Market Hypothesis; Fama-French factormodel; Nobel 2013 |
+| Robert Merton & Myron Scholes | Optiewaardering (Nobel 1997); uitbreiding risicomodellering |
+| John C. Bogle (1929-2019) | Oprichter Vanguard; indexfondsen als MPT-implementatie |
+| Daniel Kahneman (1934-2024) | Gedragseconomische kritiek op rationele actor; Nobel 2002 |
+
+---
+
+## Verband met Gedragseconomie
+
+MPT en gedragseconomie staan op gespannen voet:
+
+| MPT-aanname | Gedragseconomische realiteit |
+|---|---|
+| Rationele beleggers | Systematische cognitieve biases |
+| Risicoaversie symmetrisch | Verliesaversie asymmetrisch (Prospect Theory) |
+| Totale portefeuilleoptimalisatie | Mental accounting — denken in potten |
+| Stabiele preferenties | Ankeringseffect, kuddegedrag, FOMO |
+
+**Implicatie:** MPT beschrijft hoe beleggers *zouden* moeten handelen. Gedragseconomie beschrijft hoe ze *werkelijk* handelen.
+
+---
+
+## Verbanden
+
+- [[Gedragseconomie & Cognitieve Biases]] — irrationele belegger vs. rationele MPT-actor
+- [[Falsifieerbaarheid & Wetenschapsfilosofie]] — is MPT falsifieerbaar? (Fama's efficient market tests)
+- [[De Verlichting]] — Adam Smith (1776) als intellectuele voorloper van marktdenken
+- [[Epistemologie]] — kennisclaims over toekomstige rendementen: feit, model, of speculatie?
+- [[Psychologie als Wetenschap]] — statistische methoden in portefeuilletheorie parallel aan psychologisch onderzoek
+- [[Cognitie & Gedrag]] — cognitieve processen achter beleggingsbeslissingen

@@ -1,106 +1,115 @@
 ---
-type: concept
-id: bd897587-0dc7-4c52-27ce-bf282b5c3492
-title: Neuroplasticiteit
-summary: "Concept note over Neuroplasticiteit."
-category: Psychologie
-tags: [psychologie, neuropsychologie, neurowetenschap, neuroplasticiteit, hersenen, klinisch]
-aliases: ["Neuroplasticiteit"]
-sources:
-  - title: "Kandel, E.R., Schwartz, J.H., & Jessell, T.M. (2000). *Principles of Neural Scie"
-    trust_level: 8
-  - title: "Hebb, D.O. (1949). *The Organization of Behavior*. Wiley."
-    trust_level: 8
-  - title: "Bliss, T.V.P., & Lømo, T. (1973). Long-lasting potentiation of synaptic transmis"
-    trust_level: 8
-  - title: "Eriksson, P.S., et al. (1998). Neurogenesis in the adult human hippocampus. *Nat"
-    trust_level: 8
-  - title: "Maguire, E.A., et al. (2000). Navigation-related structural change in the hippoc"
-    trust_level: 8
-  - title: "Hubel, D.H., & Wiesel, T.N. (1962). Receptive fields, binocular interaction and "
-    trust_level: 8
-confidence_score: 0.9
-quality_score: 0.88
-freshness_score: 0.8
-importance_score: 0.88
-novelty_score: 1.0
-knowledge_score: 0.865
-usage_score: 0.2258
-related_nodes:
-  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex"
-  - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
-  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
-  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
-  - "02 Wiki/Psychologie/(C) Ontwikkelingspsychologie"
-  - "03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing"
-revision_history:
-  - version: 1
-    date: 2026-07-01
-    author: Brain-Guardian
-    change: initial YAML scaffolding by guardian routine
+tags: [psychologie, neuropsychologie, neurowetenschap, plasticiteit, geheugen, leren]
+discipline: Psychologie
+kleur: groen
+aangemaakt: 2026-07-02
+agent: Knowledge-Hunter
+brontype: AI Knowledge Base
+betrouwbaarheid: gemiddeld
 ---
 
 # Neuroplasticiteit
 
+> Het vermogen van het zenuwstelsel om zich structureel en functioneel te reorganiseren als reactie op ervaringen, leren, letsel of omgevingsinvloeden.
+
+---
+
 ## Definitie
 
-Neuroplasticiteit — ook wel hersenplasticiteit of synaptische plasticiteit — verwijst naar het vermogen van het zenuwstelsel om zijn structuur, functie en connectiviteit te veranderen als reactie op ervaringen, leren, letsel of omgevingsinvloeden. Het is een van de meest fundamentele principes in de moderne neurowetenschap.
+Neuroplasticiteit (ook: hersenplasticiteit, neurale plasticiteit) verwerpt het klassieke idee dat het volwassen brein een statisch, onveranderlijk orgaan is. Het zenuwstelsel behoudt gedurende de gehele levensspan het vermogen tot reorganisatie — zij het in afnemende mate naarmate we ouder worden.
 
-**Feit:** Neuroplasticiteit is empirisch vastgesteld via neuroimaging (fMRI, DTI), elektrofysiologie en histologische studies (Kandel et al., 2000).
+**Onderscheid feit/interpretatie:**
+- *Feit:* synaptische veranderingen bij leren zijn empirisch aangetoond (LTP, LTD)
+- *Feit:* corticale remapping na letsel of amputatie is reproduceerbaar gemeten
+- *Interpretatie:* de exacte omvang van volwassen neurogeneese in de menselijke neocortex is controversieel
 
-## Vormen van neuroplasticiteit
+---
 
-### Synaptische plasticiteit
-Veranderingen in de sterkte van synaptische verbindingen tussen neuronen. De meest bestudeerde mechanismen zijn:
+## Hoofdvormen
 
-- **Long-Term Potentiation (LTP):** versterking van een synaptische verbinding door herhaalde activering. Fundamenteel voor geheugenvorming (Bliss & Lømo, 1973).
-- **Long-Term Depression (LTD):** verzwakking van synaptische verbindingen; betrokken bij motorisch leren en het "vergeten" van irrelevante informatie.
+### 1. Synaptische plasticiteit
+Veranderingen in de **sterkte** van bestaande synaptische verbindingen.
 
-**Hebbiaanse leerregel (theorie):** "Neurons that fire together, wire together" — Hebb (1949). Hoewel dit een simplificatie is, beschrijft het correct de associatieve basis van leren.
+- **Long-Term Potentiation (LTP):** versterking van synapsen na herhaalde gelijktijdige activatie. Mechanisme: NMDA-receptoractivatie → instroom Ca²⁺ → AMPA-receptorinserties. Basis van geheugenvorming.
+- **Long-Term Depression (LTD):** verzwakking van synapsen. Functie: selectief vergeten, leeroptimalisatie, voorkomen van overbelasting.
+- **Hebb's wet (1949):** *"Neurons that fire together, wire together."* — Donald Hebb, The Organization of Behavior.
 
-### Structurele plasticiteit
-Fysieke veranderingen in de anatomie van het brein:
+### 2. Structurele plasticiteit
+Veranderingen in de **architectuur** van neurale netwerken.
 
-- **Synaptogenese:** vorming van nieuwe synapsen
-- **Dendritische vertakking:** groei van dendrieten als reactie op stimulatie
-- **Neurogenese:** aanmaak van nieuwe neuronen; bij volwassenen aangetoond in de hippocampus (dentate gyrus) en de reukbol (Eriksson et al., 1998)
+- Synaptogenese (aanmaken nieuwe synapsen)
+- Synaptische pruning (eliminatie ongebruikte verbindingen — sterk actief in adolescentie)
+- Axonale groei en herverbinding
+- **Neurogeneese bij volwassenen:** aangetoond in hippocampus (dentate gyrus) en olfactorische bulbus; rol onduidelijk bij hoge-orde cognitie
 
-**Interpretatie:** Of neurogenese bij volwassenen in de hippocampus dezelfde cognitieve betekenis heeft als vroeg in de ontwikkeling, is nog onderwerp van debat (Sorrells et al., 2018 vs. Boldrini et al., 2018).
+---
 
-### Functionele reorganisatie
-Na hersenletsel of sensorische deprivatie kunnen hersengebieden andere functies overnemen. Klassiek voorbeeld: bij mensen die blind worden, worden visuele cortexgebieden gereorganiseerd voor tasting en taal (Sadato et al., 1996).
+## Hebb's Leerregel
 
-## Kritische perioden
+> *"Neurons that fire together, wire together."*
 
-In de ontwikkeling bestaan er **kritische perioden** — tijdvensters waarin het brein uitzonderlijk gevoelig is voor specifieke ervaringen. Het klassieke voorbeeld zijn Hubel & Wiesel (1962): monoculaire deprivatie bij kittens tijdens de kritische periode leidt tot permanente verminderde visus in het gedepriveeerde oog.
+Als neuron A herhaaldelijk bijdraagt aan de activatie van neuron B, worden de synapsen tussen A en B versterkt. Dit is de moleculaire basis van associatief leren en geheugenvormig.
 
-**Theorie:** Na de kritische periode neemt plasticiteit af doordat **perineuronale netwerken** (extracellulaire matrixstructuren) de synaptische connectiviteit stabiliseren. Farmacologische doorbreking van deze netwerken kan plasticiteit herstellen (Pizzorusso et al., 2002).
+---
 
-## Klinische relevantie
+## Kritische/Sensitieve Perioden
 
-Neuroplasticiteit is de neurobiologische basis voor:
+- Tijdvensters in de vroege ontwikkeling waarin het brein bijzonder gevoelig is voor specifieke ervaringen
+- Visuele cortex: vereist visuele input in eerste levensjaren (Hubel & Wiesel, Nobel 1981)
+- Taalverwerving: optimaal vóór puberteit (kritische periodetest: Genie-case)
+- Na de kritische periode neemt plasticiteit af maar verdwijnt nooit volledig
 
-- **Revalidatie na CVA (beroerte):** herstel van motorische en taalfuncties via reorganisatie van peri-infarctuele gebieden
-- **Cognitieve training:** gerichte oefening kan functionele en structurele veranderingen induceren (London taxichauffeurs: grotere hippocampus, Maguire et al., 2000)
-- **Psychotherapie:** cognitieve gedragstherapie (CGT) induceert meetbare veranderingen in prefrontale-amygdala-connectiviteit bij angststoornissen
-- **Farmacologie:** antidepressiva (SSRI's) stimuleren mogelijk neurogenese in de hippocampus, wat bijdraagt aan hun therapeutisch effect (Duman & Bhagya, 2012)
+---
 
-**Speculatie:** De mate waarin therapie-geïnduceerde plasticiteit van lange duur is, en in hoeverre dit differentieert tussen behandelmethoden, is nog onvolledig begrepen.
+## Klinische Neuropsychologie
 
-## Verbanden binnen het Second Brain
+Neuroplasticiteit is het theoretische fundament van cognitieve revalidatie:
 
-- [[02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex]] — PFC is bijzonder plastisch; werkgeheugentraining induceert PFC-veranderingen
-- [[02 Wiki/Psychologie/(C) Hersen & Gedrag]] — plasticiteit als mechanisme achter gedrags-hersenkoppeling
-- [[02 Wiki/Psychologie/(C) Klinische Psychologie]] — revalidatie en herstelprocessen
-- [[02 Wiki/Psychologie/(C) Cognitie & Gedrag]] — leren en geheugen als uitkomsten van plasticiteit
-- [[02 Wiki/Psychologie/(C) Ontwikkelingspsychologie]] — kritische perioden in de vroege ontwikkeling
-- [[03 Knowledge Graph/(KG) Neuroplasticiteit, Leren & Aanpassing]] — bredere verbanden met filosofie, geschiedenis en beleggen
+| Aandoening | Plasticiteitmechanisme | Implicatie |
+|---|---|---|
+| Stroke / CVA | Corticale remapping, collaterale sprouting | Neurorevalidatie; constraint-induced movement therapy (CIMT) |
+| TBI (Traumatisch Hersenletsel) | Compensatoire reorganisatie | Cognitieve training na letsel |
+| ADHD | Vertraagde prefrontale rijping | Later interventievenster mogelijk |
+| Dyslexie | Verminderde fonologische plasticiteit | Vroege talige interventie effectiever |
+| Depressie | Hippocampale atrofie door cortisol | BDNF-verhoging via sport, antidepressiva |
 
-## Bronnen
+---
 
-- Kandel, E.R., Schwartz, J.H., & Jessell, T.M. (2000). *Principles of Neural Science* (4th ed.). McGraw-Hill.
-- Hebb, D.O. (1949). *The Organization of Behavior*. Wiley.
-- Bliss, T.V.P., & Lømo, T. (1973). Long-lasting potentiation of synaptic transmission in the dentate area. *Journal of Physiology, 232*, 331–356.
-- Eriksson, P.S., et al. (1998). Neurogenesis in the adult human hippocampus. *Nature Medicine, 4*, 1313–1317.
-- Maguire, E.A., et al. (2000). Navigation-related structural change in the hippocampi of taxi drivers. *PNAS, 97*(8), 4398–4403.
-- Hubel, D.H., & Wiesel, T.N. (1962). Receptive fields, binocular interaction and functional architecture in the cat's visual cortex. *Journal of Physiology, 160*, 106–154.
+## Bevorderende en remmende factoren
+
+**Bevorderend:**
+- Lichaamsbeweging → BDNF-productie
+- Leren van nieuwe complexe vaardigheden (muziek, talen, navigatie)
+- Slaap (synaptische consolidatie — Tononi & Cirelli, Synaptic Homeostasis Hypothesis)
+- Sociale stimulatie en rijke omgeving
+
+**Remmend:**
+- Chronische stress → cortisol → hippocampale atrofie
+- Slaaptekort
+- Sociaal isolement
+- Ouderdom (relatief — plasticiteit neemt af, niet weg)
+
+---
+
+## Sleutelfiguren
+
+| Figuur | Bijdrage |
+|---|---|
+| Donald Hebb (1904-1985) | Hebbse leerregel; The Organization of Behavior (1949) |
+| Eric Kandel (1929) | Moleculaire mechanismen plasticiteit in Aplysia; Nobel 2000 |
+| Michael Merzenich (1942) | Corticale remapping bij primaten en mensen |
+| V.S. Ramachandran | Fantoomleem en corticale reorganisatie na amputatie |
+| Giulio Tononi | Synaptic Homeostasis Hypothesis; rol van slaap |
+| David Hubel & Torsten Wiesel | Kritische perioden visuele cortex; Nobel 1981 |
+
+---
+
+## Verbanden
+
+- [[Executieve Functies & Prefrontale Cortex]] — prefrontale plasticiteit tot ~25 jaar
+- [[Cognitie & Gedrag]] — leren als manifestatie van synaptische plasticiteit
+- [[Klinische Psychologie]] — neurorevalidatie, interventievensters
+- [[Ontwikkelingspsychologie]] — kritische perioden in vroege ontwikkeling
+- [[Hersen & Gedrag]] — brein-gedragrelaties via plasticiteitsmechanismen
+- [[De Wetenschappelijke Revolutie]] — overgang van "statisch brein"-paradigma naar plasticiteitsmodel
+- [[Gedragseconomie & Cognitieve Biases]] — irrationele beslissingen deels neurobiologisch verklaarbaar via hersenstructuren

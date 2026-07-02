@@ -102,6 +102,15 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 
 ---
 
+## Wiki-pagina's
+
+| Pagina | Kernthema |
+|---|---|
+| [[(C) Falsifieerbaarheid & Wetenschapsfilosofie]] | Popper, demarcatiecriterium, wetenschappelijke methode |
+| [[(C) Epistemologie]] | Wat is kennis? JTB, Gettier, rationalisme vs. empirisme |
+
+---
+
 ## Sleutelwerken om te verkennen
 
 - Descartes — *Meditaties over de Eerste Filosofie* (1641)
@@ -109,8 +118,9 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 - Hume — *Een Onderzoek naar het Menselijk Begrip* (1748)
 - Marcus Aurelius — *Gedachten* (~170 n.Chr.)
 - Sartre — *Het Existentialisme is een Humanisme* (1946)
+- Gettier — *Is Justified True Belief Knowledge?* (1963)
 
 ---
 
-> **Status:** Startpunt aangemaakt — uitbreiden per stroming of denker
-> **Laatste update:** 2026-06-29
+> **Status:** Uitbreidend
+> **Laatste update:** 2026-07-02

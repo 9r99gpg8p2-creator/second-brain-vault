@@ -66,13 +66,23 @@ Centrale hub voor alle vakken en verbanden uit het eerste jaar BSc Psychologie.
 
 ---
 
-## Terugkerende Thema's
+## Neuropsychologie & Aanvullende Concepten
 
-- **Theory of Mind** — [[(C) Ontwikkelingspsychologie]], [[(C) Sociale Psychologie]], [[(C) Klinische Psychologie]]
-- **Executieve functies** — [[(C) Hersen & Gedrag]], [[(C) Cognitie & Gedrag]]
-- **Onderzoeksmethoden** — [[(C) Psychologie als Wetenschap]], [[(C) TOE - Statistiek]]
-- **Gedrag verklaren** — neurobiologisch + cognitief + sociaal + klinisch
+| Concept | Kernthema |
+|---|---|
+| [[(C) Executieve Functies & Prefrontale Cortex]] | Cognitieve controle, planning, inhibitie |
+| [[(C) Neuroplasticiteit]] | Hersenplasticiteit, leren, revalidatie |
 
 ---
 
-> **Laatste update:** 2026-06-26
+## Terugkerende Thema's
+
+- **Theory of Mind** — [[(C) Ontwikkelingspsychologie]], [[(C) Sociale Psychologie]], [[(C) Klinische Psychologie]]
+- **Executieve functies** — [[(C) Hersen & Gedrag]], [[(C) Cognitie & Gedrag]], [[(C) Executieve Functies & Prefrontale Cortex]]
+- **Onderzoeksmethoden** — [[(C) Psychologie als Wetenschap]], [[(C) TOE - Statistiek]]
+- **Gedrag verklaren** — neurobiologisch + cognitief + sociaal + klinisch
+- **Neuroplasticiteit** — fundament van leren, geheugen én klinische revalidatie
+
+---
+
+> **Laatste update:** 2026-07-02

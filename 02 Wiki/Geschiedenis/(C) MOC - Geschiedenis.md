@@ -90,14 +90,24 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 
 ---
 
-## Prioriteiten om te verkennen
+## Wiki-pagina's
 
-1. Wetenschappelijke revolutie (Galileo, Newton, Bacon) — link naar empirisme
-2. Franse Revolutie — ideologie, macht, terreur
-3. Tweede Wereldoorlog — propaganda, psychologie van gehoorzaamheid (Milgram-experiment)
-4. Koude Oorlog — ideologie als systeem
+| Pagina | Periode | Kernthema |
+|---|---|---|
+| [[(C) De Wetenschappelijke Revolutie]] | 1543–1687 | Galileo, Newton, empirische methode |
+| [[(C) De Verlichting]] | ca. 1685–1815 | Rede, vrijheid, Encyclopédie, politieke omwentelingen |
 
 ---
 
-> **Status:** Startpunt aangemaakt — uitbreiden per periode of thema
-> **Laatste update:** 2026-06-29
+## Prioriteiten om te verkennen
+
+1. ~~Wetenschappelijke revolutie~~ ✓ Aanwezig
+2. ~~Verlichting~~ ✓ Aanwezig
+3. Franse Revolutie — ideologie, macht, terreur
+4. Tweede Wereldoorlog — propaganda, psychologie van gehoorzaamheid (Milgram-experiment)
+5. Koude Oorlog — ideologie als systeem
+
+---
+
+> **Status:** Uitbreidend
+> **Laatste update:** 2026-07-02
