@@ -50,7 +50,7 @@ revision_history:
 
 # Schizofrenie & Psychose
 
-**Kern:** Schizofrenie is een ernstige neuropsychiatrische stoornis met een lifetime prevalentie van ~0,7%, gekenmerkt door een driedimensioneel symptoomprofi el van positieve, negatieve en cognitieve stoornissen, met neurobiologische wortels in dysregulatie van dopamine- en NMDA-glutamaatsystemen.
+**Kern:** Schizofrenie is een ernstige neuropsychiatrische stoornis met een lifetime prevalentie van ~0,7%, gekenmerkt door een driedimensioneel symptoomprofiel van positieve, negatieve en cognitieve stoornissen, met neurobiologische wortels in dysregulatie van dopamine- en NMDA-glutamaatsystemen.
 
 ## Inhoud
 

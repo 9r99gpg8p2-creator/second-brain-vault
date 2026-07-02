@@ -23,6 +23,10 @@ revision_history:
     date: 2026-07-01
     author: Brain-Guardian
     change: initial YAML scaffolding by guardian routine
+  - version: 2
+    date: 2026-07-02
+    author: Brain-Guardian
+    change: kwaliteitscontrole — alle 11 geschiedenis-conceptnotes toegevoegd als gestructureerde wikilinks per periode; verbanden met Beleggen en Sociale Psychologie uitgebreid
 ---
 
 # MOC — Geschiedenis
@@ -54,11 +58,35 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 
 ---
 
+## Geschiedenis — Alle Conceptnotes
+
+### Vroegmodern (1400–1800)
+- [[De Renaissance]] — humanisme, Medici, Michelangelo, perspectief, antropocentrisme
+- [[De Reformatie]] — Luther, Calvijn, boekdrukkunst, protestantisme, confessionele staten
+- [[De Wetenschappelijke Revolutie]] — Copernicus, Galileo, Newton, empirisme, wiskundige natuurwet
+- [[De Verlichting]] — rede, individuele vrijheid, Locke, Voltaire, Rousseau, Kant
+
+### Revoluties & Industrialisering (1750–1900)
+- [[De Franse Revolutie]] — Ancien Régime, La Terreur, Napoleon, nationalisme
+- [[De Industriële Revolutie]] — stoomkracht, kapitalisme, arbeidersklasse, Marx, globaliseringsbegin
+
+### De Twintigste Eeuw (1900–2000)
+- [[De Eerste Wereldoorlog]] — imperialisme, schuttersloopgraven, Vrede van Versailles
+- [[De Tweede Wereldoorlog]] — totalitarisme, Holocaust, atoombom, VN-oprichting
+- [[De Koude Oorlog]] — nucleaire afschrikking, proxy-oorlogen, ideologische polarisatie, Berlijnse Muur
+- [[Dekolonisatie & Postkoloniale Orde]] — Fanon, Bandung-conferentie, neocolonialisme, postkoloniale theorie
+
+### Vakgeschiedenis
+- [[Geschiedenis van de Psychiatrie]] — duiveluitdrijving → asielmodel → biopsychiatrie → evidence-based
+
+---
+
 ## Verbanden met andere disciplines
 
-- [[02 Wiki/Filosofie/(C) MOC - Filosofie|(C) MOC - Filosofie]] — Verlichting als historische context voor rationalisme
-- [[02 Wiki/Psychologie/(C) Sociale Psychologie|(C) Sociale Psychologie]] — groepsgedrag, conformiteit & propaganda in historische context
-- *(Beleggen)* — economische cycli, grote depressies, marktcrashes als historisch patroon
+- [[MOC - Filosofie]] — Verlichting als historische context voor rationalisme
+- [[Sociale Psychologie]] — groepsgedrag, conformiteit & propaganda in historische context
+- [[Marktpsychologie & Beurscrises]] — economische cycli, grote depressies, marktcrashes als historisch patroon
+- [[Conjunctuurcycli & Macro-economie]] — historische economische golven en Kondratiev-cycli
 
 ---
 

@@ -4,7 +4,7 @@ id: 34584b2d-e817-51d6-7b33-da7c7a4e7411
 title: Ontwikkelingspsychologie
 summary: "Psychologische ontwikkeling van mens over de levensloop — cognitief, sociaal-emotioneel en moreel."
 category: Psychologie
-tags: [concept, psychologie, ontwikkeling, jaar-1, blok-3]
+tags: [concept, psychologie, ontwikkeling, jaar-1, blok-3, quality-check-needed]
 aliases: ["Ontwikkelingspsychologie"]
 sources:
   - type: raw
@@ -29,6 +29,10 @@ revision_history:
     date: 2026-07-01
     author: Brain-Guardian
     change: initial YAML scaffolding by guardian routine
+  - version: 2
+    date: 2026-07-02
+    author: Brain-Guardian
+    change: kwaliteitscontrole — uitgebreid met gehechtheidstheorie (Ainsworth), adolescent brein/PFC-rijping, epigenetica; quality-check-needed tag toegevoegd; wikilinks naar Emotieregulatie, Trauma & PTSS, ADHD, Slaap
 ---
 
 # Ontwikkelingspsychologie
@@ -53,11 +57,35 @@ revision_history:
 
 ---
 
+## Diepere Analyse
+
+### Gehechtheidstheorie — Bowlby en Ainsworth
+
+John Bowlby beschreef gehechtheid als een evolutionair adaptief systeem: het kind zoekt nabijheid van de verzorger als bescherming bij gevaar. Mary Ainsworth operationaliseerde dit in de **Strange Situation** procedure (1978): een 20-minuten protocol met separatie- en reuniescènes, waaruit vier hechtingsstijlen werden geïdentificeerd:
+- **Veilig gehecht** (B): stress bij separatie, snel gerustgesteld bij hereniging — de adaptieve norm
+- **Angstig-vermijdend** (A): onderdrukte hechtingsgedrag; oppervlakkig weinig stress
+- **Angstig-ambivalent** (C): intense stress, moeilijk te troosten
+- **Gedesorganiseerd** (D): incoherent gedrag, de verzorger is zowel veilige haven als bron van angst — voorspeller van latere psychopathologie
+
+Vroege onveilige hechting is een risicofactor voor emotieregulatiestoornissen, trauma en persoonlijkheidsproblematiek in de volwassenheid.
+
+### Adolescent Brein — Onvolwassen Prefrontale Cortex
+
+De prefrontale cortex (PFC) is het laatste hersengebied dat volledig uitrijpt — myelinisatie en synaptic pruning zijn pas volledig rond het 25e levensjaar. Dit verklaart de adolescente paradox: het limbisch systeem (beloningsgevoeligheid, emotionele reactiviteit) is al volledig actief, terwijl de PFC (impulscontrole, consequentiedenken, risico-inschatting) nog onderontwikkeld is. Gevolg: verhoogde risk-taking, peergroepgevoeligheid en emotionele instabiliteit — normaal, niet pathologisch.
+
+### Epigenetica en Ontwikkeling
+
+Omgevingsfactoren kunnen genexpressie wijzigen zonder de DNA-sequentie te veranderen. Vroege stress (kindermishandeling, verwaarlozing) verandert methylatiepatronen van stresssysteem-genen (HPA-as, CRF-receptoren), met langdurige effecten op stressreactiviteit. Dit is een mechanisme waardoor trauma intergenerationeel overgedragen kan worden.
+
 ## Verbanden
 
-- [[(C) Hersen & Gedrag|Hersen & Gedrag]] — hersenontwikkeling onderbouwt cognitieve mijlpalen
-- [[(C) Sociale Psychologie|Sociale Psychologie]] — sociale cognitie heeft wortels in ToM-ontwikkeling
-- [[(C) TOE - Statistiek|TOE - Statistiek]] — ToM-data geanalyseerd (JASP)
+- [[Hersen & Gedrag]] — hersenontwikkeling onderbouwt cognitieve mijlpalen
+- [[Sociale Psychologie]] — sociale cognitie heeft wortels in ToM-ontwikkeling
+- [[TOE - Statistiek]] — ToM-data geanalyseerd (JASP)
+- [[Emotieregulatie]] — veilige hechting is de primaire context voor het leren reguleren van emoties
+- [[Trauma & PTSS]] — vroege hechtingsonveiligheid als traumarisicofactor
+- [[ADHD & Executieve Disfunctie]] — vertraagde PFC-rijping als neurobiologisch mechanisme bij ADHD
+- [[Slaap & Geheugenconsolidatie]] — adolescenten hebben een verschoven slaap-waak ritme door veranderend melatoninepatroon
 
 ---
 

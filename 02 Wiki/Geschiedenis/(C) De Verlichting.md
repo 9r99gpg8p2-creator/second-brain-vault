@@ -17,10 +17,6 @@ sources:
     trust_level: 9
   - url: "Wikipedia — Early modern philosophy: https://en.wikipedia.org/wiki/Early_modern_philosophy"
     trust_level: 9
-  - title: "> **Status:** Verwerkt door Wiki-Agent"
-    trust_level: 8
-  - title: "> **Laatste update:** 2026-07-01"
-    trust_level: 8
 confidence_score: 0.9
 quality_score: 0.92
 freshness_score: 0.8

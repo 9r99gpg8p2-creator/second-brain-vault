@@ -4,7 +4,7 @@ id: a94369bb-2c9b-3a7a-e7f2-a4977d4e0ed8
 title: Klinische Psychologie
 summary: "Classificatie, diagnostiek en behandeling van psychische stoornissen — van theorie naar adviesrapport."
 category: Psychologie
-tags: [concept, psychologie, klinisch, jaar-1, blok-4]
+tags: [concept, psychologie, klinisch, jaar-1, blok-4, quality-check-needed]
 aliases: ["Klinische Psychologie"]
 sources:
   - type: raw
@@ -32,6 +32,10 @@ revision_history:
     date: 2026-07-01
     author: Brain-Guardian
     change: initial YAML scaffolding by guardian routine
+  - version: 2
+    date: 2026-07-02
+    author: Brain-Guardian
+    change: kwaliteitscontrole — uitgebreid met DSM vs ICD analyse, evidence-based behandelingen per stoornis, diagnostische cyclus; quality-check-needed tag toegevoegd; wikilinks naar Schizofrenie, Trauma & PTSS, ADHD, Emotieregulatie
 ---
 
 # Klinische Psychologie
@@ -52,11 +56,35 @@ revision_history:
 
 ---
 
+## Diepere Analyse
+
+### DSM-5 vs. ICD-11 — Classificatiestelsels
+
+Psychische stoornissen worden geclassificeerd via twee parallelle systemen: het **DSM-5** (Diagnostic and Statistical Manual, American Psychiatric Association, 2013) en de **ICD-11** (International Classification of Diseases, WHO, 2022). DSM-5 is categorisch: een stoornis is aanwezig of afwezig op basis van een drempelaantal symptomen. Kritiek: categorische grenzen zijn arbitrair; psychopathologie is dimensioneel. Het **Hierarchical Taxonomy of Psychopathology (HiTOP)** model is een alternatief dat stoornissen plaatst op een continuüm van internaliserend, externaliserend en psychotisch gedrag.
+
+### Evidence-Based Behandelingen
+
+De "gouden standaard" behandelingen per stoornis:
+- **Depressie:** Cognitieve Gedragstherapie (CBT, Beck 1979), Gedragsactivatie, antidepressiva (SSRI's)
+- **Angststoornissen:** Exposure-therapie (Wolpe), CGT, EMDR voor traumagerelateerde angst
+- **PTSS:** EMDR (Eye Movement Desensitization and Reprocessing, Shapiro), Traumagerichte CGT
+- **Borderline Persoonlijkheidsstoornis:** Dialectische Gedragstherapie (DBT, Linehan 1993)
+- **Psychose/Schizofrenie:** Antipsychotica + CGT voor psychose
+
+### De Diagnostische Cyclus (De Bruyn et al.)
+
+Klinisch redeneren volgt een iteratieve cyclus: (1) klacht en aanmelding → (2) probleemanalyse → (3) verklarende hypothesen → (4) diagnostisch onderzoek → (5) indicatiestelling → (6) behandeladvies → (7) evaluatie. Dit is geen lineair maar **hypothesetoetsend** proces: de clinicus stelt voorlopige verklaringen op en toetst die actief.
+
 ## Verbanden
 
-- [[(C) Hersen & Gedrag|Hersen & Gedrag]] — neurobiologische basis van stoornissen
-- [[(C) Sociale Psychologie|Sociale Psychologie]] — sociale omgeving als risico- en beschermingsfactor
-- [[(C) Psychologie als Wetenschap|Psychologie als Wetenschap]] — evidence-based diagnostiek
+- [[Hersen & Gedrag]] — neurobiologische basis van psychische stoornissen
+- [[Sociale Psychologie]] — sociale omgeving als risico- en beschermingsfactor
+- [[Psychologie als Wetenschap]] — evidence-based diagnostiek vereist wetenschappelijke evaluatie
+- [[Schizofrenie & Psychose]] — prototypische categorie in klinische classificatie
+- [[Trauma & PTSS]] — EMDR en traumagerichte CGT als eerste-lijn interventies
+- [[ADHD & Executieve Disfunctie]] — frequent voorkomende klinische presentatie
+- [[Emotieregulatie]] — DBT is primair een emotieregulatietraining
+- [[Vrije Wil & Determinisme — Forensisch]] — forensische neuropsychologie als subspecialisatie van klinisch werk
 
 ---
 

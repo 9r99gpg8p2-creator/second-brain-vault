@@ -23,6 +23,10 @@ revision_history:
     date: 2026-07-01
     author: Brain-Guardian
     change: initial YAML scaffolding by guardian routine
+  - version: 2
+    date: 2026-07-02
+    author: Brain-Guardian
+    change: kwaliteitscontrole — alle 11 filosofie-conceptnotes toegevoegd als gestructureerde wikilinks; verbanden met andere disciplines uitgebreid
 ---
 
 # MOC — Filosofie
@@ -55,11 +59,46 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 
 ---
 
+## Filosofie — Alle Conceptnotes
+
+### Epistemologie & Kennistheorie
+- [[Epistemologie & Kennistheorie]] — wat is kennis, rechtvaardiging, scepticisme, Gettier-probleem
+
+### Ethiek
+- [[Ethiek]] — consequentialisme, deontologie, deugdethiek, metaethiek
+
+### Existentialisme
+- [[Existentialisme]] — Sartre, Camus, De Beauvoir — vrijheid en verantwoordelijkheid als existentieel gegeven
+
+### Wetenschapsfilosofie
+- [[Falsifieerbaarheid & Wetenschapsfilosofie]] — Popper, Kuhn, Lakatos, de replicatiecrisis
+
+### Fenomenologie
+- [[Fenomenologie]] — Husserl, Heidegger, Merleau-Ponty — bewustzijn vanuit het eerste-persoonsperspectief
+
+### Filosofie van de Geest
+- [[Filosofie van de Geest]] — het mind-body probleem, Chalmers' hard problem, functionalism
+
+### Logica & Kritisch Denken
+- [[Logica & Kritisch Denken]] — deductie, inductie, abductie, drogreden
+
+### Politieke Filosofie
+- [[Politieke Filosofie & Sociaal Contract]] — Hobbes, Locke, Rousseau, Rawls
+
+### Stoïcisme
+- [[Stoïcisme]] — Epictetus, Marcus Aurelius, Seneca — dichotomie van controle
+
+### Vrije Wil & Determinisme
+- [[Vrije Wil & Determinisme]] — Libet, Haynes, compatibilisme, hard determinisme
+- [[Vrije Wil & Determinisme — Forensisch]] — toerekeningsvatbaarheid, neuroabolitionalisme, strafrechtelijke verantwoordelijkheid
+
+---
+
 ## Verbanden met andere disciplines
 
-- [[02 Wiki/Psychologie/(C) Psychologie als Wetenschap|(C) Psychologie als Wetenschap]] — wetenschapsfilosofie, Popper & falsifieerbaarheid
-- [[02 Wiki/Psychologie/(C) Cognitie & Gedrag|(C) Cognitie & Gedrag]] — dual-process theorie (System 1/2) raakt Kahneman maar ook Kant's tweedeling
-- *(Beleggen)* — rationaliteit, heuristieken en besluitvorming
+- [[Psychologie als Wetenschap]] — wetenschapsfilosofie, Popper & falsifieerbaarheid
+- [[Cognitie & Gedrag]] — dual-process theorie (System 1/2) raakt Kahneman maar ook Kant's tweedeling
+- [[Gedragseconomie & Cognitieve Biases]] — rationaliteit, heuristieken en besluitvorming
 
 ---
 

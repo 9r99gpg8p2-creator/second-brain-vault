@@ -1,0 +1,23 @@
+{
+  "event_type": "GraphUpdated",
+  "agent": "Agent4-BrainGuardian",
+  "timestamp": "2026-07-02T00:00:00Z",
+  "status": "pending",
+  "data": {
+    "stats_path": "03 Knowledge Graph/stats/brain_stats.md",
+    "merged": 0,
+    "quality_checked": 55,
+    "yaml_artifacts_fixed": 4,
+    "stubs_expanded": 6,
+    "moc_updates": 2,
+    "typo_fixes": 1,
+    "conflicts": 1,
+    "hypotheses": 3,
+    "total_wiki_nodes": 55,
+    "total_kg_nodes": 11,
+    "notes_with_quality_check_needed": 7,
+    "avg_quality_score": 0.871,
+    "avg_confidence_score": 0.888,
+    "top_nodes": ["Ethiek", "Emotieregulatie", "Epistemologie & Kennistheorie"]
+  }
+}

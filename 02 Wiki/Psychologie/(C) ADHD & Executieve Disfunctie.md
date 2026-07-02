@@ -21,10 +21,6 @@ sources:
     trust_level: 9
   - url: "CHOP Executive Functions & ADHD (2023): https://www.chop.edu/sites/default/files/adhd-exec-5-what-are-efs-and-how-are-they-related-to-adhd.pdf"
     trust_level: 9
-  - title: "> **Status:** Verwerkt door Wiki-Agent"
-    trust_level: 8
-  - title: "> **Laatste update:** 2026-07-01"
-    trust_level: 8
 confidence_score: 0.9
 quality_score: 0.92
 freshness_score: 0.8

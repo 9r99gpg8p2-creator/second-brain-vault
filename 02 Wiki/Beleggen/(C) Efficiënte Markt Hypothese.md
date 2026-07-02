@@ -23,10 +23,6 @@ sources:
     trust_level: 9
   - title: "Lo, A. W. (2004). The Adaptive Markets Hypothesis. *Journal of Portfolio Managem"
     trust_level: 8
-  - title: "> **Status:** Verwerkt door Wiki-Agent"
-    trust_level: 8
-  - title: "> **Laatste update:** 2026-07-01"
-    trust_level: 8
 confidence_score: 0.9
 quality_score: 0.92
 freshness_score: 0.8

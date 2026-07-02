@@ -32,6 +32,10 @@ revision_history:
     date: 2026-07-01
     author: Discovery-Engine
     change: added missing links to De Koude Oorlog and KG connection page
+  - version: 3
+    date: 2026-07-02
+    author: Brain-Guardian
+    change: kwaliteitscontrole — uitgebreid met Milgram/Asch analyse, Social Identity Theory, Bystander Effect; wikilinks naar Ruminatie, Emotieregulatie, Ethiek, Marktpsychologie toegevoegd
 ---
 
 # Sociale Psychologie
@@ -53,13 +57,38 @@ revision_history:
 
 ---
 
+## Diepere Analyse
+
+### Klassieke Experimenten en hun Beperkingen
+
+- **Milgram (1963)** — gehoorzaamheidsexperiment: 65% van proefpersonen bereid tot maximale schokintensiteit (450V) op bevel van een autoriteit. Les: gedrag wordt sterker bepaald door situationele druk dan door karakter. *Methodologische kanttekening:* ethische bezwaren over deceptie en psychische schade; recente replicatiepogingen (Burger 2009) suggereren dat gehoorzaamheidsbereidheid is afgenomen.
+- **Asch (1951)** — conformiteitsexperiment: ~75% stemde minstens één keer in met een duidelijk fout groepsantwoord. Conformiteitsdruk is sterkst bij unanimiteit van de groep.
+- **Stanford Prison Experiment (Zimbardo, 1971)** — deelnemers namen snel sadistische gevangenisbewaarder- of hulpeloze gevangenisrollen aan. Methodologisch zwak (geen controlegroep, instructiebias), maar cultureel invloedrijk.
+
+### Social Identity Theory (Tajfel & Turner, 1979)
+
+Mensen categoriseren zichzelf en anderen in sociale groepen (in-group vs. out-group) en ontlenen zelfwaarde aan groepslidmaatschap. Drie processen:
+1. **Categorisatie** — verdeling in groepen
+2. **Identificatie** — zelf koppelen aan de in-group
+3. **Vergelijking** — de in-group favoriseren boven de out-group
+
+Dit verklaart vooroordeel, discriminatie, en het "minimal group paradigma": mensen bevoordelen de eigen groep zelfs bij willekeurige groepsindeling (rood vs. blauw team).
+
+### Bystander Effect (Latané & Darley, 1968)
+
+Hoe meer omstanders bij een noodsituatie, hoe kleiner de kans dat iemand ingrijpt. Twee mechanismen: (1) **diffusie van verantwoordelijkheid** — iedereen denkt dat een ander zal ingrijpen; (2) **pluralistische onwetendheid** — iedereen interpreteert de passiviteit van anderen als teken dat er geen nood is.
+
 ## Verbanden
 
-- [[(C) Cognitie & Gedrag|Cognitie & Gedrag]] — sociale cognitie bouwt op cognitieve basisprocessen
-- [[(C) Ontwikkelingspsychologie|Ontwikkelingspsychologie]] — sociale ontwikkeling, Theory of Mind
-- [[(C) Klinische Psychologie|Klinische Psychologie]] — sociale factoren bij psychopathologie
-- [[02 Wiki/Geschiedenis/(C) De Koude Oorlog]] — de Koude Oorlog is het grootste natuurlijk experiment in groepsconformiteit en in-group/out-group dynamiek; groupthink in de Cubaanse Rakettencrisis is een klassieker uit sociale psychologie (Janis, 1982)
-- [[03 Knowledge Graph/(KG) Sociale Psychologie als Marktmechanisme]] — verbinding die Asch, Milgram en Festinger toepast op financiële markten en geopolitieke conflicten
+- [[Cognitie & Gedrag]] — sociale cognitie bouwt op cognitieve basisprocessen
+- [[Ontwikkelingspsychologie]] — sociale ontwikkeling, Theory of Mind
+- [[Klinische Psychologie]] — sociale factoren bij psychopathologie
+- [[De Koude Oorlog]] — groupthink in de Cubaanse Rakettencrisis (Janis, 1982) als klassiek historisch voorbeeld
+- [[Ruminatie & Piekeren]] — sociale vergelijking en sociale afwijzing als triggers voor ruminatie
+- [[Emotieregulatie]] — sociale context als regulatiemiddel (co-regulatie)
+- [[Ethiek]] — morele verantwoordelijkheid bij collectief handelen en passief toeschouwersgedrag
+- [[Marktpsychologie & Beurscrises]] — kuddegedrag en groepsdynamiek in financiële markten
+- [[03 Knowledge Graph/(KG) Sociale Psychologie als Marktmechanisme]] — verbinding Asch/Milgram/Festinger naar financiële markten
 
 ---
 
