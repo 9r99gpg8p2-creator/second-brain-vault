@@ -29,7 +29,7 @@ freshness_score: 0.8
 importance_score: 0.85
 novelty_score: 1.0
 knowledge_score: 0.868
-usage_score: 0.0645
+usage_score: 0.1875
 related_nodes:
   - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
   - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie"

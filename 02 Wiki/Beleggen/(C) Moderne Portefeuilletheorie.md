@@ -1,11 +1,53 @@
 ---
-tags: [beleggen, portefeuilletheorie, markowitz, MPT, risicobeheer, diversificatie, CAPM, gedragseconomie]
-discipline: Beleggen
-kleur: rood
-aangemaakt: 2026-07-02
-agent: Knowledge-Hunter
-brontype: AI Knowledge Base
-betrouwbaarheid: hoog
+type: concept
+id: a1c4e827-3d9f-4e0b-b2a5-8f1c2d3e4567
+title: Moderne Portefeuilletheorie
+summary: "MPT (Markowitz, 1952) is het wiskundige raamwerk voor optimale portefeuillesamenstelling via mean-variance optimalisatie; diversificatie reduceert niet-systematisch risico terwijl CAPM (Sharpe, 1964) de verwachte rendementen koppelt aan marktrisico (beta)."
+category: Beleggen
+tags: [concept, beleggen, portefeuilletheorie, markowitz, MPT, risicobeheer, diversificatie, CAPM, gedragseconomie, efficiënte-grens, beta, sharpe-ratio, quality-check-needed]
+aliases: ["MPT", "Mean-Variance Analysis", "Moderne Portefeuilletheorie", "Portfolio Theory", "CAPM"]
+sources:
+  - url: https://doi.org/10.2307/2975974
+    title: "Markowitz, H. (1952). Portfolio Selection. Journal of Finance, 7(1), 77–91."
+    trust_level: 10
+    publication_date: 1952
+  - url: https://doi.org/10.2307/2977928
+    title: "Sharpe, W.F. (1964). Capital Asset Prices. Journal of Finance, 19(3), 425–442."
+    trust_level: 10
+    publication_date: 1964
+  - url: https://doi.org/10.2307/2328832
+    title: "Fama, E.F. & French, K.R. (1992). The Cross-Section of Expected Stock Returns. Journal of Finance, 47(2), 427–465."
+    trust_level: 10
+    publication_date: 1992
+  - url: https://en.wikipedia.org/wiki/Modern_portfolio_theory
+    title: "Wikipedia — Modern Portfolio Theory (overview)"
+    trust_level: 6
+    publication_date: 2024
+confidence_score: 0.90
+quality_score: 0.85
+freshness_score: 0.80
+importance_score: 0.92
+novelty_score: 0.88
+knowledge_score: 0.87
+usage_score: 0.1719
+related_nodes:
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese"
+  - "02 Wiki/Beleggen/(C) Waardebeleggen"
+  - "02 Wiki/Beleggen/(C) Obligaties & Vastrentende Waarden"
+  - "02 Wiki/Beleggen/(C) Factor Investing"
+  - "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+revision_history:
+  - version: 1
+    date: 2026-07-02
+    author: Knowledge-Hunter
+    change: initial creation (non-standard schema, geen bronnen)
+  - version: 2
+    date: 2026-07-02
+    author: Brain-Guardian
+    change: "kwaliteitscontrole — YAML schema herbouwd naar standaard; bronnen toegevoegd (Markowitz 1952, Sharpe 1964, Fama-French 1992); related_nodes gesynchroniseerd; Bronnen-sectie toegevoegd aan body; quality-check-needed tag"
 ---
 
 # Moderne Portefeuilletheorie (MPT)
@@ -161,9 +203,21 @@ MPT en gedragseconomie staan op gespannen voet:
 
 ## Verbanden
 
-- [[Gedragseconomie & Cognitieve Biases]] — irrationele belegger vs. rationele MPT-actor
+- [[Gedragseconomie & Cognitieve Biases]] — irrationele belegger vs. rationele MPT-actor; prospect theory vs. mean-variance optimalisatie
+- [[Efficiënte Markt Hypothese]] — MPT veronderstelt EMH; feitelijk zijn beide theorieën onlosmakelijk verbonden
+- [[Waardebeleggen]] — tegenstelling: waardebeleggen concentreert portfolio's; MPT raadt maximale diversificatie aan
+- [[Obligaties & Vastrentende Waarden]] — obligaties als asset class in mean-variance optimalisatie
+- [[Factor Investing]] — Fama-French uitbreiding: size en value als factoren naast beta
+- [[Marktpsychologie & Beurscrises]] — correlaties stijgen in crises; diversificatie faalt precies wanneer het nodig is
 - [[Falsifieerbaarheid & Wetenschapsfilosofie]] — is MPT falsifieerbaar? (Fama's efficient market tests)
-- [[De Verlichting]] — Adam Smith (1776) als intellectuele voorloper van marktdenken
-- [[Epistemologie]] — kennisclaims over toekomstige rendementen: feit, model, of speculatie?
-- [[Psychologie als Wetenschap]] — statistische methoden in portefeuilletheorie parallel aan psychologisch onderzoek
-- [[Cognitie & Gedrag]] — cognitieve processen achter beleggingsbeslissingen
+- [[Cognitie & Gedrag]] — cognitieve processen achter beleggingsbeslissingen; dual-process theorie
+
+## Bronnen
+
+- Markowitz, H. (1952). Portfolio Selection. *Journal of Finance*, 7(1), 77–91. https://doi.org/10.2307/2975974
+- Sharpe, W.F. (1964). Capital asset prices: A theory of market equilibrium under conditions of risk. *Journal of Finance*, 19(3), 425–442. https://doi.org/10.2307/2977928
+- Fama, E.F. & French, K.R. (1992). The cross-section of expected stock returns. *Journal of Finance*, 47(2), 427–465. https://doi.org/10.2307/2328832
+- Taleb, N.N. (2007). *The Black Swan: The Impact of the Highly Improbable*. Random House.
+- Kahneman, D. & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica*, 47(2), 263–291.
+
+> **Status:** Verwerkt door Brain-Guardian | 2026-07-02

@@ -25,7 +25,7 @@ freshness_score: 0.8
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.875
-usage_score: 0.1613
+usage_score: 0.3438
 related_nodes:
   - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
   - "02 Wiki/Filosofie/(C) Filosofie van de Geest"

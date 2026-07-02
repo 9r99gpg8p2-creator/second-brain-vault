@@ -29,7 +29,7 @@ freshness_score: 0.78
 importance_score: 0.88
 novelty_score: 0.75
 knowledge_score: 0.85
-usage_score: 0.0
+usage_score: 0.1094
 related_nodes:
   - "(C) De Verlichting"
   - "(C) De Industriële Revolutie"

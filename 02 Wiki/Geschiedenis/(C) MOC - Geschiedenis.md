@@ -2,22 +2,24 @@
 type: moc
 id: 7d63b61f-7957-ebc1-2e19-3c188eea4c8c
 title: MOC - Geschiedenis
-summary: "Concept note over MOC - Geschiedenis."
+summary: "Centrale navigatiehub voor 13 geschiedenis-conceptnotes — van Renaissance tot Koude Oorlog, inclusief vakgeschiedenes psychiatrie en eugenica."
 category: Geschiedenis
 tags: [moc, geschiedenis]
 aliases: ["MOC - Geschiedenis"]
 sources:
   []
-confidence_score: 0.7
-quality_score: 0.82
-freshness_score: 0.8
+confidence_score: 0.8
+quality_score: 0.85
+freshness_score: 0.85
 importance_score: 0.88
 novelty_score: 1.0
-knowledge_score: 0.8
-usage_score: 0.0968
+knowledge_score: 0.84
+usage_score: 0.0
 related_nodes:
   - "02 Wiki/Filosofie/(C) MOC - Filosofie"
   - "02 Wiki/Psychologie/(C) Sociale Psychologie"
+  - "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises"
+  - "02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie"
 revision_history:
   - version: 1
     date: 2026-07-01
@@ -27,6 +29,10 @@ revision_history:
     date: 2026-07-02
     author: Brain-Guardian
     change: kwaliteitscontrole — alle 11 geschiedenis-conceptnotes toegevoegd als gestructureerde wikilinks per periode; verbanden met Beleggen en Sociale Psychologie uitgebreid
+  - version: 3
+    date: 2026-07-02
+    author: Brain-Guardian
+    change: "guardian run — Wiki-pagina's tabel uitgebreid naar alle 13 actieve notes; Russische Revolutie, Eugenica en Psychiatriegeschiedenis toegevoegd; stale Prioriteiten-sectie verwijderd; summary bijgewerkt"
 ---
 
 # MOC — Geschiedenis
@@ -94,18 +100,19 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 
 | Pagina | Periode | Kernthema |
 |---|---|---|
-| [[(C) De Wetenschappelijke Revolutie]] | 1543–1687 | Galileo, Newton, empirische methode |
-| [[(C) De Verlichting]] | ca. 1685–1815 | Rede, vrijheid, Encyclopédie, politieke omwentelingen |
-
----
-
-## Prioriteiten om te verkennen
-
-1. ~~Wetenschappelijke revolutie~~ ✓ Aanwezig
-2. ~~Verlichting~~ ✓ Aanwezig
-3. Franse Revolutie — ideologie, macht, terreur
-4. Tweede Wereldoorlog — propaganda, psychologie van gehoorzaamheid (Milgram-experiment)
-5. Koude Oorlog — ideologie als systeem
+| [[De Renaissance]] | 1400–1600 | Humanisme, Medici, Michelangelo, antropocentrisme |
+| [[De Reformatie]] | 1517–1648 | Luther, Calvijn, boekdrukkunst, confessionele staten |
+| [[De Wetenschappelijke Revolutie]] | 1543–1687 | Copernicus, Galileo, Newton, empirische methode |
+| [[De Verlichting]] | ca. 1685–1815 | Rede, vrijheid, Encyclopédie, politieke omwentelingen |
+| [[De Franse Revolutie]] | 1789–1799 | Ancien Régime, La Terreur, Napoleon, nationalisme |
+| [[De Industriële Revolutie]] | 1760–1840 | Stoomkracht, kapitalisme, arbeidersklasse, Marx |
+| [[De Russische Revolutie]] | 1917 | Lenin, bolsjewieken, sovjet-staat, ideologische strijd |
+| [[De Eerste Wereldoorlog]] | 1914–1918 | Imperialisme, schuttersloopgraven, Vrede van Versailles |
+| [[De Tweede Wereldoorlog]] | 1939–1945 | Totalitarisme, Holocaust, atoombom, VN-oprichting |
+| [[De Koude Oorlog]] | 1947–1991 | Nucleaire afschrikking, proxy-oorlogen, ideologische polarisatie |
+| [[Dekolonisatie & Postkoloniale Orde]] | 1945–1975 | Fanon, Bandung-conferentie, neocolonialisme |
+| [[Eugenica & Pseudowetenschappelijke Psychiatrie]] | 1880–1945 | Racisme als wetenschap, gedwongen sterilisatie, Holocaust |
+| [[Geschiedenis van de Psychiatrie]] | 1800–heden | Asielmodel, Pinel, biopsychiatrie, evidence-based |
 
 ---
 

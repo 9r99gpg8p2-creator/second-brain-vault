@@ -1,11 +1,36 @@
 ---
-tags: [filosofie, epistemologie, kennistheorie, wetenschapsfilosofie, scepticisme, rationalisme, empirisme]
-discipline: Filosofie
-kleur: blauw
-aangemaakt: 2026-07-02
-agent: Knowledge-Hunter
-brontype: AI Knowledge Base
-betrouwbaarheid: hoog
+type: concept
+id: 4a2e7d19-8b3f-4c1d-9e6a-0f7b8c9d0e1f
+title: Epistemologie
+summary: "SAMENGEVOEGD — zie Epistemologie & Kennistheorie voor de volledige note."
+category: Filosofie
+tags: [concept, filosofie, epistemologie, kennistheorie, samengevoegd]
+aliases: ["Epistemologie", "Kennistheorie"]
+sources: []
+confidence_score: 0.0
+quality_score: 0.0
+freshness_score: 0.0
+importance_score: 0.0
+novelty_score: 0.0
+knowledge_score: 0.0
+usage_score: 0.3906
+related_nodes:
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"
+revision_history:
+  - version: 1
+    date: 2026-07-02
+    author: Knowledge-Hunter
+    change: initial creation (non-standard schema)
+  - version: 2
+    date: 2026-07-02
+    author: Brain-Guardian
+    change: "gemarkeerd als samengevoegd met Epistemologie & Kennistheorie (sterkere note); inhoud niet verwijderd maar gedeprecieerd"
+---
+
+> **Samengevoegd met:** [[Epistemologie & Kennistheorie]]
+>
+> Deze note is een deprecated duplicaat. Alle inhoud is beschikbaar in de kwalitatief sterkere note [[Epistemologie & Kennistheorie]], die volledig YAML-schema, 6 externe bronnen, Gettier-analyse en alle epistemologische stromingen bevat. Gebruik die note voor alle verwijzingen.
+
 ---
 
 # Epistemologie

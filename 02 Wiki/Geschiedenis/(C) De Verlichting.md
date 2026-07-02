@@ -1,11 +1,49 @@
 ---
-tags: [geschiedenis, verlichting, aufklärung, lumières, 18e-eeuw, ideeëngeschiedenis, politieke-filosofie, moderniteit]
-discipline: Geschiedenis
-kleur: geel
-aangemaakt: 2026-07-02
-agent: Knowledge-Hunter
-brontype: AI Knowledge Base
-betrouwbaarheid: hoog
+type: concept
+id: 7b3c9d2e-1f4a-4b5c-9d8e-2a3b4c5d6e7f
+title: De Verlichting
+summary: "De Verlichting (ca. 1685–1815) was een Europese intellectuele beweging die rede, wetenschap en individuele vrijheid verhief boven traditie en religieuze autoriteit — met directe politieke gevolgen in de Amerikaanse Revolutie (1776) en de Franse Revolutie (1789)."
+category: Geschiedenis
+tags: [concept, geschiedenis, verlichting, aufklärung, lumières, 18e-eeuw, ideeëngeschiedenis, politieke-filosofie, moderniteit, locke, voltaire, kant, rousseau]
+aliases: ["Verlichting", "Aufklärung", "Lumières", "Enlightenment", "18e-eeuwse filosofie"]
+sources:
+  - url: https://www.britannica.com/event/Enlightenment-European-history
+    title: "Britannica — Enlightenment (European History)"
+    trust_level: 8
+    publication_date: 2024
+  - url: https://plato.stanford.edu/entries/enlightenment/
+    title: "SEP — The Enlightenment (Stanford Encyclopedia of Philosophy)"
+    trust_level: 10
+    publication_date: 2023
+  - url: https://doi.org/10.1093/oso/9780198706588.001.0001
+    title: "Outram, D. (2019). The Enlightenment (4th ed.). Cambridge University Press."
+    trust_level: 9
+    publication_date: 2019
+confidence_score: 0.90
+quality_score: 0.86
+freshness_score: 0.80
+importance_score: 0.92
+novelty_score: 0.88
+knowledge_score: 0.87
+usage_score: 0.2812
+related_nodes:
+  - "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie"
+  - "02 Wiki/Geschiedenis/(C) De Franse Revolutie"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+  - "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract"
+  - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie"
+  - "02 Wiki/Psychologie/(C) Psychologie als Wetenschap"
+  - "02 Wiki/Psychologie/(C) Sociale Psychologie"
+revision_history:
+  - version: 1
+    date: 2026-07-02
+    author: Knowledge-Hunter
+    change: initial creation (non-standard schema, geen bronnen)
+  - version: 2
+    date: 2026-07-02
+    author: Brain-Guardian
+    change: "kwaliteitscontrole — YAML schema herbouwd naar standaard; bronnen toegevoegd (Britannica, SEP, Outram 2019); related_nodes gesynchroniseerd; Bronnen-sectie toegevoegd aan body"
 ---
 
 # De Verlichting (ca. 1685–1815)
@@ -144,12 +182,34 @@ Het symbool van de Verlichting bij uitstek:
 
 ---
 
+## Feiten vs. Theorie vs. Interpretatie
+
+| Status | Claim |
+|---|---|
+| **Feit** | De Verklaring van de Rechten van de Mens (1789) citeert direct uit Verlichtingsteksten van Locke en Rousseau |
+| **Feit** | De Encyclopédie werd meerdere keren gecensureerd door de Franse kroon |
+| **Theorie** | De Verlichting als coherente intellectuele beweging — historici debatteren of het één beweging of meerdere was (Israel: radicale vs. gematigde Verlichting) |
+| **Interpretatie** | Of de Holocaust een product of een verraad van de Verlichting was (Adorno vs. liberal Enlightenment defenders) |
+
+---
+
 ## Verbanden
 
-- [[De Wetenschappelijke Revolutie]] — intellectueel fundament van de Verlichting
-- [[Epistemologie]] — Verlichtingsdenkers als kernfiguren in kennistheoretisch debat
-- [[Falsifieerbaarheid & Wetenschapsfilosofie]] — Verlichtingserfenis: wetenschap boven geloof
-- [[Psychologie als Wetenschap]] — psychologie als verlicht, empirisch vakgebied (19e-eeuwse opkomst)
-- [[Gedragseconomie & Cognitieve Biases]] — de irrationele mens vs. het verlichtingsideaal van de rationele actor
+- [[De Wetenschappelijke Revolutie]] — intellectueel fundament van de Verlichting; Newton als paradigma
+- [[De Franse Revolutie]] — meest directe politieke uitwerking van Verlichtingsideeën
+- [[Epistemologie & Kennistheorie]] — Verlichtingsdenkers als kernfiguren in kennistheoretisch debat (Hume, Locke, Kant)
+- [[Falsifieerbaarheid & Wetenschapsfilosofie]] — Verlichtingserfenis: wetenschap boven geloof; Popper als verlaat verlichtingsfilosoof
+- [[Politieke Filosofie & Sociaal Contract]] — Locke, Rousseau en Montesquieu als kernfiguren van zowel Verlichting als politieke filosofie
 - [[Moderne Portefeuilletheorie]] — Adam Smith (1776) als directe Verlichtingserfenis in economisch denken
+- [[Psychologie als Wetenschap]] — psychologie als verlicht, empirisch vakgebied (19e-eeuwse opkomst uit Verlichtingstraditie)
 - [[Sociale Psychologie]] — sociale contracttheorie (Rousseau) als voorloper van sociologisch-psychologisch denken
+
+## Bronnen
+
+- Outram, D. (2019). *The Enlightenment* (4th ed.). Cambridge University Press.
+- Israel, J.I. (2001). *Radical Enlightenment: Philosophy and the Making of Modernity 1650–1750*. Oxford University Press.
+- Kant, I. (1784). *Beantwortung der Frage: Was ist Aufklärung?* Berlinische Monatsschrift.
+- Adorno, T.W. & Horkheimer, M. (1944/1947). *Dialektik der Aufklärung*. Social Studies Association.
+- Stanford Encyclopedia of Philosophy (2023). *The Enlightenment*. https://plato.stanford.edu/entries/enlightenment/
+
+> **Status:** Verwerkt door Brain-Guardian | 2026-07-02

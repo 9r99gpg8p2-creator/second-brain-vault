@@ -25,7 +25,7 @@ freshness_score: 0.85
 importance_score: 0.92
 novelty_score: 1.0
 knowledge_score: 0.90
-usage_score: 0.129
+usage_score: 0.3594
 related_nodes:
   - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md"
   - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"

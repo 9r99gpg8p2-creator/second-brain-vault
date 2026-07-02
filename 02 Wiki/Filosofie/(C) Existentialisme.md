@@ -29,7 +29,7 @@ freshness_score: 0.80
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.90
-usage_score: 0.0
+usage_score: 0.0312
 related_nodes:
   - "02 Wiki/Filosofie/(C) Filosofie van de Geest.md"
   - "02 Wiki/Filosofie/(C) Ethiek.md"

@@ -22,7 +22,7 @@ freshness_score: 0.8
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.833
-usage_score: 0.3871
+usage_score: 0.3125
 related_nodes:
   - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
   - "02 Wiki/Psychologie/(C) Sociale Psychologie"

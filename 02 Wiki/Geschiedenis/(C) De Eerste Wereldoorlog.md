@@ -25,7 +25,7 @@ freshness_score: 0.75
 importance_score: 0.94
 novelty_score: 1.0
 knowledge_score: 0.93
-usage_score: 0.0
+usage_score: 0.0312
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) De Tweede Wereldoorlog.md"
   - "02 Wiki/Geschiedenis/(C) De Koude Oorlog.md"

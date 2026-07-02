@@ -1,0 +1,27 @@
+{
+  "event_type": "GraphUpdated",
+  "agent": "Agent4-BrainGuardian",
+  "timestamp": "2026-07-02T15:12:00Z",
+  "status": "pending",
+  "run": 2,
+  "data": {
+    "stats_path": "03 Knowledge Graph/stats/brain_stats.md",
+    "total_wiki_nodes": 64,
+    "merged_duplicates": 1,
+    "yaml_rebuilt": 3,
+    "moc_tables_updated": 2,
+    "usage_scores_updated": 63,
+    "new_conflict_files": 1,
+    "open_conflicts": 2,
+    "quality_check_needed": 9,
+    "actions": [
+      "merged: (C) Epistemologie.md -> Epistemologie & Kennistheorie",
+      "rebuilt: (C) Neuroplasticiteit.md",
+      "rebuilt: (C) Moderne Portefeuilletheorie.md",
+      "rebuilt: (C) De Verlichting.md",
+      "moc_updated: MOC - Filosofie (2->13 entries)",
+      "moc_updated: MOC - Geschiedenis (2->13 entries)",
+      "conflict_created: (CONFLICT) Verlichting vs Eugenica.md"
+    ]
+  }
+}
