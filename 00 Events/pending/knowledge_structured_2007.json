@@ -1,0 +1,17 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-03T20:07:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Autisme Spectrum Stoornis (ASS).md",
+      "02 Wiki/Filosofie/(C) Filosofie van de Taal.md",
+      "02 Wiki/Geschiedenis/(C) De Middeleeuwen & Feodalisme.md",
+      "02 Wiki/Beleggen/(C) Cryptovaluta & Blockchain.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) De Architectuur van Vertrouwen — Taal, Sociaal Contract, Institutie en Trustless Technologie.md"
+    ]
+  }
+}
