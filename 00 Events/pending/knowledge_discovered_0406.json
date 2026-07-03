@@ -1,0 +1,81 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-03T04:06:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-03/0406",
+    "note": "Wikipedia API en arXiv niet toegankelijk via proxy — synthese op basis van primaire wetenschappelijke literatuur uit trainingskennis. Bronnen gedocumenteerd per bestand.",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Cognitieve Gedragstherapie (CGT)",
+        "wikipedia_topic": "Cognitive_behavioral_therapy",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "suggested_path": "02 Wiki/Psychologie/(C) Cognitieve Gedragstherapie.md",
+        "key_connections": [
+          "02 Wiki/Psychologie/(C) Depressie & Neurobiologie.md",
+          "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen.md",
+          "02 Wiki/Psychologie/(C) Emotieregulatie.md",
+          "02 Wiki/Psychologie/(C) Klinische Psychologie.md",
+          "02 Wiki/Filosofie/(C) Epistemologie.md",
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md"
+        ]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Deontologie & Kantische Ethiek",
+        "wikipedia_topic": "Deontological_ethics",
+        "source_score": 9,
+        "confidence": 0.93,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "suggested_path": "02 Wiki/Filosofie/(C) Deontologie & Kantische Ethiek.md",
+        "key_connections": [
+          "02 Wiki/Filosofie/(C) Ethiek.md",
+          "02 Wiki/Filosofie/(C) Utilitarisme & Consequentialisme.md",
+          "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme.md",
+          "02 Wiki/Filosofie/(C) Neuro-ethiek.md",
+          "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract.md"
+        ]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Opkomst van het Fascisme (1919-1945)",
+        "wikipedia_topic": "Fascism",
+        "source_score": 9,
+        "confidence": 0.91,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "suggested_path": "02 Wiki/Geschiedenis/(C) De Opkomst van het Fascisme.md",
+        "key_connections": [
+          "02 Wiki/Geschiedenis/(C) De Tweede Wereldoorlog.md",
+          "02 Wiki/Geschiedenis/(C) De Eerste Wereldoorlog.md",
+          "02 Wiki/Geschiedenis/(C) De Russische Revolutie.md",
+          "02 Wiki/Psychologie/(C) Sociale Psychologie.md",
+          "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract.md"
+        ]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Valuatie & DCF-analyse",
+        "wikipedia_topic": "Discounted_cash_flow",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "suggested_path": "02 Wiki/Beleggen/(C) Valuatie & DCF-analyse.md",
+        "key_connections": [
+          "02 Wiki/Beleggen/(C) Waardebeleggen.md",
+          "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese.md",
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
+          "02 Wiki/Beleggen/(C) Hyperbolic Discounting & Tijdspreferentie.md",
+          "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md"
+        ]
+      }
+    ]
+  }
+}
