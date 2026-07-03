@@ -66,6 +66,9 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 
 ## Geschiedenis — Alle Conceptnotes
 
+### Oudheid (tot 500 n.Chr.)
+- [[De Griekse Oudheid]] — logos, democratie, filosofie (Socrates/Plato/Aristoteles), poleis, Thucydides Trap
+
 ### Vroegmodern (1400–1800)
 - [[De Renaissance]] — humanisme, Medici, Michelangelo, perspectief, antropocentrisme
 - [[De Reformatie]] — Luther, Calvijn, boekdrukkunst, protestantisme, confessionele staten
@@ -100,6 +103,7 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 
 | Pagina | Periode | Kernthema |
 |---|---|---|
+| [[De Griekse Oudheid]] | ±800-31 v.Chr. | Logos, democratie, poleis, filosofie, Thucydides |
 | [[De Renaissance]] | 1400–1600 | Humanisme, Medici, Michelangelo, antropocentrisme |
 | [[De Reformatie]] | 1517–1648 | Luther, Calvijn, boekdrukkunst, confessionele staten |
 | [[De Wetenschappelijke Revolutie]] | 1543–1687 | Copernicus, Galileo, Newton, empirische methode |

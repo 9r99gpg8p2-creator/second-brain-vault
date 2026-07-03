@@ -73,6 +73,7 @@ Centrale hub voor alle vakken en verbanden uit het eerste jaar BSc Psychologie.
 | [[(C) Executieve Functies & Prefrontale Cortex]] | Cognitieve controle, planning, inhibitie |
 | [[(C) Neuroplasticiteit]] | Hersenplasticiteit, leren, revalidatie |
 | [[(C) Sociale Cognitie & Theory of Mind]] | ToM, mentaliseren, TPJ, autisme, schizofrenie |
+| [[(C) Epigenetica & Gen-Omgeving Interactie]] | DNA-methylatie, histon-modificatie, vroeg trauma, intergenerationele overdracht |
 
 ---
 
@@ -86,4 +87,4 @@ Centrale hub voor alle vakken en verbanden uit het eerste jaar BSc Psychologie.
 
 ---
 
-> **Laatste update:** 2026-07-02
+> **Laatste update:** 2026-07-03

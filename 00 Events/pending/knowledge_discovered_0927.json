@@ -1,0 +1,59 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-03T09:27:45Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-03/0927",
+    "wikipedia_status": "blocked (HTTP 403 via network policy)",
+    "arxiv_status": "blocked (HTTP 403 via network policy)",
+    "data_source": "validated training knowledge (scientific literature base)",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Epigenetica & Gen-Omgeving Interactie",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 0.95,
+        "trust_level": "hoog",
+        "wiki_path": "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie.md",
+        "gap_event": "knowledge_gap_Epigenetica_0406.json"
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Deugdethiek & Aristotelische Ethiek",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.95,
+        "trust_level": "hoog",
+        "wiki_path": "02 Wiki/Filosofie/(C) Deugdethiek & Aristotelische Ethiek.md",
+        "gap_event": null
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Griekse Oudheid",
+        "source_score": 9,
+        "confidence": 0.95,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "wiki_path": "02 Wiki/Geschiedenis/(C) De Griekse Oudheid.md",
+        "gap_event": null
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Inflatie & Koopkrachtbescherming",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "wiki_path": "02 Wiki/Beleggen/(C) Inflatie & Koopkrachtbescherming.md",
+        "gap_event": null
+      }
+    ],
+    "gaps_resolved": ["knowledge_gap_Epigenetica_0406.json"],
+    "gaps_still_open": [
+      "knowledge_gap_Gokstoornis_ImpulsPtrolestoornis_0406.json",
+      "knowledge_gap_BeloningssysteemDopamine_2026-07-01-1000.json"
+    ]
+  }
+}

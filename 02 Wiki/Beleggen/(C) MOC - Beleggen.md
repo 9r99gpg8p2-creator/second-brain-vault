@@ -96,6 +96,7 @@ Centrale hub voor beleggingsprincipes, mentale modellen en markten.
 | [[(C) Obligaties & Vastrentende Waarden]] | Rente, duration, kredietrisico, obligatiemarkten |
 | [[(C) Opties & Derivaten]] | Opties, futures, Black-Scholes, hefboom en risicobeheer |
 | [[(C) Rente & Centrale Bankpolitiek]] | Fed, ECB, rentebeleid, kwantitatieve verruiming |
+| [[(C) Inflatie & Koopkrachtbescherming]] | CPI, Taylor-regel, reëel rendement, Weimar, stagflatie, TIPS, asset-allocatie |
 | [[(C) Waardebeleggen]] | Graham, Buffett, intrinsieke waarde, margin of safety |
 
 ---

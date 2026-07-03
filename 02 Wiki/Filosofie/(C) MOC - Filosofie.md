@@ -76,6 +76,7 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 
 ### Ethiek
 - [[Ethiek]] — consequentialisme, deontologie, deugdethiek, metaethiek
+- [[Deugdethiek & Aristotelische Ethiek]] — Aristoteles, eudaimonia, phronesis, karakterdisposities, VIA-sterkten
 
 ### Existentialisme
 - [[Existentialisme]] — Sartre, Camus, De Beauvoir — vrijheid en verantwoordelijkheid als existentieel gegeven
