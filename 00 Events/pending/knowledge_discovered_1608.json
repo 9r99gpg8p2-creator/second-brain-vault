@@ -1,0 +1,88 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-03T16:08:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-03/1608",
+    "knowledge_gaps_consumed": [
+      "knowledge_gap_HPA_Cortisol_0406.json"
+    ],
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "HPA-as & Cortisolregulatie",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.92,
+        "trust_level": "hoog",
+        "file": "psychologie-HPA-as-cortisolregulatie.md",
+        "suggested_wiki_path": "02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie.md",
+        "priority": 0.92,
+        "key_connections": [
+          "02 Wiki/Psychologie/(C) Depressie & Neurobiologie.md",
+          "02 Wiki/Psychologie/(C) Trauma & PTSS.md",
+          "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen.md",
+          "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie.md",
+          "02 Wiki/Psychologie/(C) Emotieregulatie.md",
+          "02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie.md"
+        ]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Marxisme & Historisch Materialisme als Mentaal Model",
+        "source_score": 8,
+        "confidence": 0.85,
+        "novelty": 0.78,
+        "trust_level": "hoog",
+        "file": "filosofie-marxisme-historisch-materialisme.md",
+        "suggested_wiki_path": "02 Wiki/Filosofie/(C) Marxisme & Historisch Materialisme.md",
+        "priority": 0.78,
+        "key_connections": [
+          "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract.md",
+          "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md",
+          "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md",
+          "02 Wiki/Geschiedenis/(C) De Russische Revolutie.md",
+          "02 Wiki/Geschiedenis/(C) De Industriële Revolutie.md",
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md"
+        ]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Islamitische Gouden Eeuw",
+        "source_score": 8,
+        "confidence": 0.85,
+        "novelty": 0.95,
+        "trust_level": "hoog",
+        "file": "geschiedenis-islamitische-gouden-eeuw.md",
+        "suggested_wiki_path": "02 Wiki/Geschiedenis/(C) De Islamitische Gouden Eeuw.md",
+        "priority": 0.95,
+        "key_connections": [
+          "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie.md",
+          "02 Wiki/Geschiedenis/(C) De Renaissance.md",
+          "02 Wiki/Geschiedenis/(C) De Griekse Oudheid.md",
+          "02 Wiki/Filosofie/(C) Filosofie van de Geest.md",
+          "02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie.md"
+        ]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Alternatieve Beleggingen",
+        "source_score": 8,
+        "confidence": 0.87,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "file": "beleggen-alternatieve-beleggingen.md",
+        "suggested_wiki_path": "02 Wiki/Beleggen/(C) Alternatieve Beleggingen.md",
+        "priority": 0.90,
+        "key_connections": [
+          "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md",
+          "02 Wiki/Beleggen/(C) Indexbeleggen & Passief Beleggen.md",
+          "02 Wiki/Beleggen/(C) Factor Investing.md",
+          "02 Wiki/Beleggen/(C) Inflatie & Koopkrachtbescherming.md",
+          "02 Wiki/Beleggen/(C) Risicobeheer.md"
+        ]
+      }
+    ]
+  }
+}
