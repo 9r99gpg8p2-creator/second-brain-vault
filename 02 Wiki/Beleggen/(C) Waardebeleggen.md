@@ -153,6 +153,7 @@ De directe klinische relevantie voor neuropsychologie is beperkt, maar de intell
 - [[Epistemologie & Kennistheorie]] — hoe ken je de intrinsieke waarde van een bedrijf? Hoe zeker kun je zijn? De veiligheidsmarge is een epistemische bescheidenheidsregel
 - [[De Industriële Revolutie]] — kapitalisme, aandelenmarkten en corporate structuren zijn producten van de IR; Graham werkte in het systeem dat de IR had gecreëerd
 - [[Ethiek]] — de spanning tussen shareholder-primaat en stakeholder-belangen is een directe ethische vraag over de rechtvaardiging van winstmaximalisatie
+- [[02 Wiki/Filosofie/(C) Pragmatisme]] — waardebeleggen als toegepast pragmatisme: Graham's intrinsieke waarde = wat het bedrijf werkelijk produceert (James' "what works"); veiligheidsmarge = Peirce's fallibilisme; Mr. Market als anti-abstractisme; zie [[03 Knowledge Graph/(KG) Pragmatisme als Epistemologie van het Werkzame — Dewey, Graham en CBT]]
 
 ## Bronnen
 

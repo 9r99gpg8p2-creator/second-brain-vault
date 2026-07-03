@@ -93,6 +93,8 @@ Merleau-Ponty's lichaamsschema is direct relevant voor begrip van **fantoomlijn-
 - [[Emotieregulatie]] — lichamelijke ervaring van emoties als fenomenologisch gegeven
 - [[Vrije Wil & Determinisme]] — Sartre's radikale vrijheid als uitwerking van fenomenologisch bewustzijn
 - [[Perceptie & Predictive Coding]] — predictive coding als computationele implementatie van Husserl's intentionaliteitsstructuur?
+- [[02 Wiki/Psychologie/(C) Trauma & PTSS]] — trauma als vernietiging van Husserl's naturliche Einstellung; Merleau-Ponty's lichaamsschema als framework voor traumatische lichaamsontregeling; Heidegger's tijdelijkheidsstructuur als verklaring voor het "tijdloze heden" van flashbacks; zie ook [[03 Knowledge Graph/(KG) Fenomenologie van Trauma — Lichaam, Tijd en het Gebroken Zelf]]
+- [[03 Knowledge Graph/(KG) Fenomenologie van Trauma — Lichaam, Tijd en het Gebroken Zelf]] — verbindingspagina die de drie fenomenologische tradities koppelt aan de neurobiologie van PTSS
 
 ## Bronnen
 
@@ -103,3 +105,23 @@ Merleau-Ponty's lichaamsschema is direct relevant voor begrip van **fantoomlijn-
 - Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 
 > Status: Verwerkt door Knowledge-Synthesizer | 2026-07-01
+
+## Verdieping (Discovery Engine)
+
+### Fenomenologie als klinisch diagnostisch raamwerk
+
+Wat filosofen als abstracte analyse beschrijven heeft directe klinische toepasbaarheid die de neuropsychologie structureel mist. De naturliche Einstellung (de basale vanzelfsprekendheid van de wereld) is geen metafoor — het is een operationeel concept dat beschrijft wat precies verloren gaat bij traumatisering, psychose en ernstige depressie.
+
+**Bij PTSS** (zie [[02 Wiki/Psychologie/(C) Trauma & PTSS]]): de naturliche Einstellung is verwoest. De patiënt leeft niet meer in een vanzelfsprekend veilige wereld maar in een wereld die op elk moment opnieuw bedreigend kan zijn. Dit is geen cognitieve overtuiging maar een pre-reflexieve beleving — vandaar dat cognitieve herkaderingstechnieken (REBT-stijl) bij PTSS minder effectief zijn dan gedragsmatige interventies (exposuretherapie) die direct de pre-reflexieve veiligheidsperceptie heropbouwen.
+
+**Bij psychose** (zie [[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]]): de naturliche Einstellung is niet verloren maar fundamenteel hergeorganiseerd. Husserl's begrip van de primordiale indruk — het directe heden-moment — is bij psychose verstoord door de intrusie van waarnemiingen die niet-intersubjective zijn.
+
+### Fenomenologie en het hard problem als klinische vraag
+
+Chalmers' hard problem (waarom is er überhaupt subjectieve ervaring?) is niet alleen een academische puzzel. Voor de klinisch neuropsycholoog wordt het een klinische vraag bij bewustzijnsstoornissen: wanneer iemand uit een vegetatieve staat ontwaakt, is er dan al subjectieve ervaring? Wanneer is er een "inside" dat kan lijden? Fenomenologie geeft het conceptuele apparaat om deze vraag scherp te stellen — neuroimaging geeft alleen correlaten, niet het antwoord.
+
+### Nieuwe verbindingen (Discovery Engine 2026-07-03)
+
+- [[03 Knowledge Graph/(KG) Fenomenologie van Trauma — Lichaam, Tijd en het Gebroken Zelf]] — uitgewerkte kruisverbinding
+- [[02 Wiki/Psychologie/(C) Trauma & PTSS]] — trauma als empirische toets van fenomenologische tijdstheorieën
+- [[03 Knowledge Graph/hypotheses/(HYP) Ruminatie impliceert een pathologische verstarring van de fenomenologische tijdsbeleving]] — hypothese over ruminatie als temporele verstarring

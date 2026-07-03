@@ -157,6 +157,7 @@ Hoewel logica primair een filosofisch domein is, heeft het directe relevantie vo
 - [[Cognitie & Gedrag]] — cognitieve biases als systematische schendingen van logische normen; dual-process theory
 - [[Ethiek]] — moreel redeneren als toepassing van deductieve logica; ethische syllogismen en hun beperkingen
 - [[Gedragseconomie & Cognitieve Biases]] — drogreden als economisch relevante irrationele gedragspatronen
+- [[02 Wiki/Beleggen/(C) Waardebeleggen]] — Graham's beleggingsprocess als gestructureerde toepassing van logisch redeneren: de intrinsieke-waardebepaling is een syllogistisch argument (Als P/E < intrinsieke waarde én markt is rationeel op lange termijn, dan is het aandeel ondergewaardeerd); de veiligheidsmarge is een expliciete erkenning van de grenzen van deductief zekerheid in inductieve omgevingen
 
 ## Bronnen
 

@@ -108,6 +108,7 @@ De brug tussen DMN-onderzoek en klinische behandeling is een van de meest actiev
 - [[Aandacht & Cognitieve Controle]] — executieve aandacht als mechanisme om te schakelen weg van DMN-activiteit
 - [[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]] — ruminatieve intrusies en psychotische intrusies als verwante mechanismen van DMN-dysregulatie; ruminatie bij psychotische patiënten over waaninhouden en stemmen als transdiagnostisch parallelfenomeen
 - [[02 Wiki/Psychologie/(C) Perceptie & Predictive Coding]] — ruminatie als gefixeerde Bayesiaanse prior: het negatieve zelfschema dat nieuwe sensorische informatie filtert in plaats van te updaten; bottom-up aandachtsinterventie als prior-doorbreking
+- [[02 Wiki/Filosofie/(C) Fenomenologie]] — ruminatie als pathologische verstarring van Husserl's interne tijdbewustheid: het bewustzijn fixeert in één negatieve temporele positie en verliest de soepele beweging van verleden → heden → toekomst; zie [[03 Knowledge Graph/hypotheses/(HYP) Ruminatie impliceert een pathologische verstarring van de fenomenologische tijdsbeleving]]
 
 ## Bronnen
 

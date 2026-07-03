@@ -87,6 +87,8 @@ Voor Klinische Neuropsychologie zijn de toepassingen breed en direct:
 - [[Hersen & Gedrag]] — slaap als fundamentele hersenstoestand; evolutionaire conservering over diersoorten
 - [[Ruminatie & Piekeren]] — slaapverstoringen versterken ruminatie; bidirectionele relatie DMN-activiteit
 - [[Emotieregulatie]] — REM-slaap als verwerking van emotioneel geladen herinneringen
+- [[02 Wiki/Psychologie/(C) Trauma & PTSS]] — REM-verstoringen als kernmechanisme van PTSS-persistentie; noradrenaline-dysregulatie verhindert emotionele deëscalatie van traumatische herinneringen tijdens REM; nachtmerries als gefaalde consolidatiepoging; zie ook [[03 Knowledge Graph/(KG) Slaap, REM-extinctie en het Gebroken Angstgeheugen]]
+- [[03 Knowledge Graph/(KG) Slaap, REM-extinctie en het Gebroken Angstgeheugen]] — verbindingspagina die de mechanistische overlap uitwerkt
 
 ## Bronnen
 
@@ -96,3 +98,24 @@ Voor Klinische Neuropsychologie zijn de toepassingen breed en direct:
 - ScienceDirect (2024). Slow-wave sleep and REM sleep differentially contribute to memory representational transformation.
 
 > Status: Verwerkt door Knowledge-Synthesizer | 2026-07-01
+
+## Verdieping (Discovery Engine)
+
+### Slaap als kritische voorwaarde voor therapie-effectiviteit
+
+Een implicatie die in de klinische literatuur onderbelicht is: **therapeutische effecten zijn slaapafhankelijk**. CGT en exposure-therapie genereren nieuwe leerinhouden (extinctie-herinneringen, adaptieve cognities). Deze moeten worden geconsolideerd tijdens slaap — specifiek tijdens REM-slaap voor emotioneel geladen materiaal. Een patiënt met chronische slaapverstoring consolideert therapeutische sessies suboptimaal.
+
+Dit geeft een mechanistische verklaring voor waarom therapie-uitkomsten zo variabel zijn, zelfs bij evidence-based behandelingen: de slaapkwaliteit van de patiënt vormt een modererende variabele die systematisch wordt gemist in uitkomststudies.
+
+**Aanbeveling voor klinische praktijk:** slaapkwaliteit zou standaard worden gemeten (Pittsburgh Sleep Quality Index) voor aanvang van elke psychotherapeutische behandeling, als moderator en als potentieel interventiedoelwit.
+
+### Het glymfatisch systeem als evolutionaire bescherming
+
+Recent inzicht (2013–2025): de hersenen beschikken over een "glymfatisch systeem" — een drainagesysteem dat actief is tijdens slaap en metabolisch afvalproducten (waaronder beta-amyloid, het kenmerkende Alzheimer-eiwit) afvoert. Dit systeem functioneert 60% efficiënter tijdens slaap dan tijdens waak.
+
+Implicatie: slaaptekort is niet alleen een geheugenprobleem, maar ook een neurotoxisch probleem. Dit verbindt slaap direct aan neurodegeneratieve aandoeningen — een verbinding die voor een klinisch neuropsycholoog bijzonder relevant is.
+
+### Nieuwe verbindingen (Discovery Engine 2026-07-03)
+
+- [[03 Knowledge Graph/(KG) Slaap, REM-extinctie en het Gebroken Angstgeheugen]] — PTSS als paradigmatisch voorbeeld van slaap-geheugen pathologie
+- [[02 Wiki/Filosofie/(C) Fenomenologie]] — slaap als de biologische fase waarin fenomenologische tijdsreorganisatie plaatsvindt (het verleden wordt verleden, niet heden)

@@ -117,6 +117,8 @@ Pragmatisme heeft indirecte maar reële relevantie voor de klinische neuropsycho
 - [[Psychologie als Wetenschap]] — CGT en evidence-based practice als impliciet pragmatistisch paradigma
 - [[Existentialisme]] — beide verwerpen abstracte essenties ten gunste van concreet menselijk bestaan en handelen
 - [[Logica & Kritisch Denken]] — Peirces semiotiek en categorieënleer als fundament van zijn pragmatisme
+- [[02 Wiki/Beleggen/(C) Waardebeleggen]] — Graham's waardebeleggen als toegepast pragmatisme: intrinsieke waarde = wat het bedrijf werkelijk produceert (James' "what works"); veiligheidsmarge = Peirce's fallibilisme geoperationaliseerd; Mr. Market = anti-correpondentisme (de prijs is niet de waarheid); zie [[03 Knowledge Graph/(KG) Pragmatisme als Epistemologie van het Werkzame — Dewey, Graham en CBT]]
+- [[02 Wiki/Psychologie/(C) Neuroplasticiteit]] — Hebb's leerregel als pragmatistisch principe op neuraal niveau: kennisrepresentaties die "werken" (adaptief gedrag genereren) worden synaptisch versterkt; neuroplasticiteit is de biologische verificatie van Dewey's instrumentalisme
 
 ## Bronnen
 
