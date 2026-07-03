@@ -1,0 +1,17 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-03T00:03:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Depressie & Neurobiologie.md",
+      "02 Wiki/Filosofie/(C) Utilitarisme & Consequentialisme.md",
+      "02 Wiki/Geschiedenis/(C) De Globalisering.md",
+      "02 Wiki/Beleggen/(C) Indexbeleggen & Passief Beleggen.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) De Paradox van Optimalisatie — Efficiëntie als Systeemkwetsbaarheid.md"
+    ]
+  }
+}
