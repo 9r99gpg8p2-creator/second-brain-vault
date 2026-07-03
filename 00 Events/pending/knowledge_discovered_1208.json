@@ -1,0 +1,88 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-03T12:08:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-03/1208",
+    "knowledge_gaps_processed": [
+      "00 Events/pending/knowledge_gap_Gokstoornis_ImpulsPtrolestoornis_0406.json"
+    ],
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Gokstoornis & Pathologisch Gokgedrag",
+        "english_query": "Gambling_disorder",
+        "source_score": 9,
+        "confidence": 0.88,
+        "novelty": 0.95,
+        "trust_level": "hoog",
+        "suggested_wiki_path": "02 Wiki/Psychologie/(C) Gokstoornis & Impulscontrolestoornis.md",
+        "key_connections": [
+          "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie.md",
+          "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine.md",
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
+          "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md",
+          "02 Wiki/Beleggen/(C) Opties & Derivaten.md"
+        ],
+        "priority": 0.80,
+        "from_gap": true
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Dialectiek & Hegeliaanse Synthese",
+        "english_query": "Dialectic",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.95,
+        "trust_level": "hoog",
+        "suggested_wiki_path": "02 Wiki/Filosofie/(C) Dialectiek & Hegeliaanse Synthese.md",
+        "key_connections": [
+          "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md",
+          "02 Wiki/Filosofie/(C) Filosofie van de Geest.md",
+          "02 Wiki/Geschiedenis/(C) De Russische Revolutie.md",
+          "02 Wiki/Filosofie/(C) Existentialisme.md"
+        ],
+        "priority": 0.88,
+        "from_gap": false
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Islamitische Gouden Eeuw",
+        "english_query": "Islamic_Golden_Age",
+        "source_score": 8,
+        "confidence": 0.85,
+        "novelty": 0.95,
+        "trust_level": "hoog",
+        "suggested_wiki_path": "02 Wiki/Geschiedenis/(C) De Islamitische Gouden Eeuw.md",
+        "key_connections": [
+          "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie.md",
+          "02 Wiki/Geschiedenis/(C) De Renaissance.md",
+          "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md",
+          "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md"
+        ],
+        "priority": 0.85,
+        "from_gap": false
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Private Equity & Venture Capital",
+        "english_query": "Private_equity",
+        "source_score": 8,
+        "confidence": 0.87,
+        "novelty": 0.95,
+        "trust_level": "hoog",
+        "suggested_wiki_path": "02 Wiki/Beleggen/(C) Private Equity & Venture Capital.md",
+        "key_connections": [
+          "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md",
+          "02 Wiki/Beleggen/(C) Factor Investing.md",
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
+          "02 Wiki/Beleggen/(C) Waardebeleggen.md",
+          "02 Wiki/Beleggen/(C) Valuatie & DCF-analyse.md"
+        ],
+        "priority": 0.82,
+        "from_gap": false
+      }
+    ]
+  }
+}
