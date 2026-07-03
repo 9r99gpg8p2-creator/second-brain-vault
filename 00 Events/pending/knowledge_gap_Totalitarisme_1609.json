@@ -1,0 +1,25 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-03T16:09:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Totalitarisme als Politiek Systeem (Arendt, Orwell)",
+    "discipline": "Geschiedenis",
+    "priority": 0.82,
+    "reason": "Totalitarisme is het historische fenomeen dat centraal staat in de twintigste-eeuwse geschiedenis (WOII, Koude Oorlog, Stalin, Hitler, Mao) maar heeft nog geen eigen conceptnote. Hannah Arendt's 'The Origins of Totalitarianism' (1951) is een cruciale analytische bron die het verband legt tussen antisemitisme, imperialisme en totalitaire heerschappij. Dit verbindt direct met: De Opkomst van het Fascisme, De Tweede Wereldoorlog, De Koude Oorlog, Politieke Filosofie & Sociaal Contract, en via Milgram/Asch ook met Sociale Psychologie (gehoorzaamheid aan autoriteit als totali-tarisme-enabler).",
+    "mentioned_in": [
+      "02 Wiki/Geschiedenis/(C) De Tweede Wereldoorlog (totalitarisme als centraal thema)",
+      "02 Wiki/Geschiedenis/(C) De Koude Oorlog (ideologische polarisatie — totalitarisme vs. liberale democratie)",
+      "02 Wiki/Geschiedenis/(C) De Opkomst van het Fascisme (fascisme als totalitaire variant)"
+    ],
+    "proposed_connections": [
+      "02 Wiki/Geschiedenis/(C) De Tweede Wereldoorlog",
+      "02 Wiki/Geschiedenis/(C) De Opkomst van het Fascisme",
+      "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract",
+      "02 Wiki/Psychologie/(C) Sociale Psychologie (Milgram/Asch als psychologische onderbouwing)"
+    ],
+    "cross_disciplinary_value": "hoog — verbindt Geschiedenis (20e eeuw), Filosofie (politieke theorie), Psychologie (gehoorzaamheid, conformiteit als mechanisme van totalitair systeem)",
+    "msc_relevance": "indirect — historische context voor forensische neuropsychologie (verantwoordelijkheid onder dwang)"
+  }
+}

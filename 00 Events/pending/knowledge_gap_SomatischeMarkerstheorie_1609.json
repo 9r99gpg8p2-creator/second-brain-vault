@@ -1,0 +1,26 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-03T16:09:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Somatische Markerstheorie (Damasio)",
+    "discipline": "Psychologie",
+    "priority": 0.88,
+    "reason": "Damasio's somatische markerstheorie is fundamenteel voor het begrip van besluitvorming in de klinische neuropsychologie — zij verklaart waarom vmPFC-schade (patiënt Elliot, Phineas Gage) leidt tot catastrofale besluitvormingsproblemen ondanks intacte intelligentie. De Iowa Gambling Task (vermeld in Verslaving & Neurobiologie) is ontworpen om deze theorie te testen. De rol van lichamelijke emotiesignalen bij risicoafweging verbindt neuropsychologie met Stoïcisme (lichaam vs. oordeel), Gedragseconomie (emotie als informatie vs. storing) en Filosofie van de Geest (embodied cognition).",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex (OFC-sectie, Iowa Gambling Task)",
+      "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie (Iowa Gambling Task als meting)",
+      "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases (emotie in besluitvorming)",
+      "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme (vmPFC als wil-implementatie)"
+    ],
+    "proposed_connections": [
+      "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex",
+      "02 Wiki/Filosofie/(C) Filosofie van de Geest",
+      "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases",
+      "02 Wiki/Filosofie/(C) Stoïcisme"
+    ],
+    "cross_disciplinary_value": "hoog — verbindt Psychologie (vmPFC, OFC), Filosofie (embodied cognition, vrije wil), Beleggen (emotie in financiële besluitvorming)",
+    "msc_relevance": "direct — vmPFC-schade en besluitvorming is een klinisch neuropsychologisch kernthema"
+  }
+}

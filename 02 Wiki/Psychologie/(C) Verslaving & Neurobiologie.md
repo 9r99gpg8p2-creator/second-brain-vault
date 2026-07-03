@@ -100,6 +100,8 @@ Voor de Klinische Neuropsychologie is verslaving een van de meest veelzijdige to
 - [[Hyperbolic Discounting & Tijdspreferentie]] — temporele discounting als neuropsychologisch mechanisme van verslavingsgedrag
 - [[Sociale Psychologie]] — sociale deprivatie en omgevingsfactoren als epigenetische triggers
 - [[Neuro-ethiek]] — morele verantwoordelijkheid bij hersenaandoening; hersenscan als strafverzachtende factor; gedwongen behandeling
+- [[02 Wiki/Filosofie/(C) Nihilisme & Absurdisme]] — existentieel vacuüm als filosofische achtergrond voor verslavingsgevoeligheid; verslaving als betekenissubstitutie in nihilistische context; Frankl's logotherapie als aanvulling op neurobiologische behandeling
+- [[03 Knowledge Graph/(KG) Het Existentieel Vacuüm en Verslavingsgeneeskunde — Nihilisme, Betekenis en Compulsie]] — uitgewerkte verbinding Nihilisme ↔ Verslaving
 
 ## Bronnen
 

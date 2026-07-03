@@ -1,0 +1,25 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-03T16:09:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Postmodernisme & De Ontbinding van Grote Narratieven",
+    "discipline": "Filosofie",
+    "priority": 0.78,
+    "reason": "Postmodernisme (Derrida, Foucault, Lyotard) wordt in Nihilisme & Absurdisme vermeld als de filosifische uitwerking van de afbraak van grote narratieven. Het ontbreken van een eigen note maakt het onmogelijk om de verbanden volledig uit te werken: Foucault's machtsanalyse is direct relevant voor Geschiedenis van de Psychiatrie (het asielmodel als machtspraktijk), Epistemologie (wat telt als kennis?) en Dekolonisatie (postkoloniale theorie is post-structuralistisch). Het postmodernisme is ook de filosofische context voor de replicatiecrisis in de psychologie.",
+    "mentioned_in": [
+      "02 Wiki/Filosofie/(C) Nihilisme & Absurdisme (Derrida, Foucault, Lyotard — grands récits)",
+      "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie (Foucault's Madness and Civilization impliciet)",
+      "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie (replicatiecrisis als postmodern argument)"
+    ],
+    "proposed_connections": [
+      "02 Wiki/Filosofie/(C) Nihilisme & Absurdisme",
+      "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie",
+      "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie",
+      "02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde"
+    ],
+    "cross_disciplinary_value": "gemiddeld-hoog — verbindt Filosofie (epistemologie, ethiek), Geschiedenis (Foucault's machtsdiscours), Psychologie (replicatiecrisis, medicalisering)",
+    "msc_relevance": "indirect — relevant voor het begrijpen van paradigmawisselingen in de psychiatrie (Foucault)"
+  }
+}

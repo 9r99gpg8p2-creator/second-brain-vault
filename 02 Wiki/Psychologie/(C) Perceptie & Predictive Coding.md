@@ -26,12 +26,26 @@ importance_score: 0.93
 novelty_score: 0.92
 knowledge_score: 0.91
 usage_score: 0.0469
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
+  - "02 Wiki/Filosofie/(C) Filosofie van de Geest"
+  - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
+  - "02 Wiki/Psychologie/(C) Aandacht & Cognitieve Controle"
+  - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie"
+  - "02 Wiki/Filosofie/(C) Fenomenologie"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
+  - "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen"
+  - "02 Wiki/Psychologie/(C) Schizofrenie & Psychose"
 revision_history:
   - version: 1
     date: 2026-07-01
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-03
+    author: Discovery-Engine
+    change: "related_nodes YAML gesynchroniseerd (10 nodes waaronder Angststoornissen en Schizofrenie); Angststoornissen wikilink toegevoegd; Verdieping over exposure als Bayesiaans prior-herzieningsproces"
 ---
 
 # Perceptie & Predictive Coding
@@ -99,6 +113,7 @@ Predictive coding is direct relevant voor Klinische Neuropsychologie als theoret
 - [[ADHD & Executieve Disfunctie]] — verstoorde predictieve updating als neurobiologische verklaring
 - [[Fenomenologie]] — Husserl's intentionaliteit als structurele parallel met predictive coding?
 - [[Klinische Psychologie]] — toepassingen bij schizofrenie, autisme, ADHD
+- [[Angststoornissen & Neurowetenschappen]] — angst als Bayesiaanse overschatting: te hoge precisie voor bedreigings-predictie-errors; LeDoux's snelle route als hoge-precisie subcorticale prior-update
 
 ## Bronnen
 
@@ -108,4 +123,20 @@ Predictive coding is direct relevant voor Klinische Neuropsychologie als theoret
 - PMC (2024). Predictive coding and attention in developmental cognitive neuroscience: implications for neurodevelopmental disorders.
 - Sprevak, M. (2024). Predictive coding I: Introduction. *Philosophy Compass*.
 
-> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-01
+## Verdieping (Discovery Engine)
+
+### Exposure als Bayesiaans Prior-Herzieningsproces
+
+De meest empirisch onderbouwde behandeling voor angststoornissen — exposure-therapie — heeft tot nu toe geen formele mechanistische verklaring gekregen in dit predictive coding-raamwerk. Dit is de lacune.
+
+**Exposure is Bayesiaanse prior-herziening.** De prior belief `P(gevaar | context)` is bij angststoornissen te hoog. Exposure-therapie confronteert de patiënt herhaaldelijk met de gevreesde stimulus, waarbij de verwachte negatieve uitkomst *uitblijft*. Dit genereert herhaaldelijk een negatieve predictie-error voor gevaar: de werkelijkheid is veiliger dan de prior voorspelde. Over sesies heen wordt de prior langzaam gecorrigeerd.
+
+**Extinctie vs. prior-herziening:** De klassieke framing is "extinctie van geconditioneerde angst." Het predictive coding-raamwerk is mechanistisch preciezer: extinctie is niet het uitwissen van de oude prior maar het aanmaken van een nieuwe contextspecifieke prior (veiligheid in deze context). Dit verklaart de context-afhankelijkheid van extinctie: de oude prior blijft als latente alternatief in andere contexten. Klinisch: exposure in meerdere contexten om generalisatie te maximaliseren.
+
+**Aandacht als onderdeel van het therapeutisch mechanisme:** Exposure vereist actieve aandacht voor de gevreesde stimulus. Als de patiënt cognitief vermijdt (de gedachten afsluiten terwijl hij fysiek aanwezig is), vindt de prior-herziening niet plaats — de predictie-error wordt niet geregistreerd. Zie [[Aandacht & Cognitieve Controle]].
+
+**Schizofrenie en de grenzen van prior-herziening:** Bij schizofrenie zijn de top-down priors zo dominant (hallucinaties, wanen) dat sensorische predictie-errors de prior niet kunnen corrigeren — cognitieve remediatie probeert dit via andere routes.
+
+Zie ook: [[03 Knowledge Graph/(KG) Angst als Bayesiaanse Overschatting — Predictive Coding en Angststoornissen]]
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-03

@@ -42,6 +42,10 @@ revision_history:
     date: 2026-07-03
     author: Brain-Guardian
     change: usage_score bijgewerkt (6 backlinks / 72 notes); wikilinks toegevoegd vanuit Ethiek, Existentialisme, Depressie & Neurobiologie en MOC-Filosofie
+  - version: 3
+    date: 2026-07-03
+    author: Discovery-Engine
+    change: wikilinks Verslaving & Neurobiologie en KG-Existentieel Vacuüm toegevoegd; Verdieping sectie met politiek nihilisme en existentieel vacuüm
 ---
 
 # Nihilisme & Absurdisme
@@ -129,6 +133,30 @@ Hoewel nihilisme en absurdisme primair filosofisch zijn, raken ze direct aan kli
 - [[02 Wiki/Filosofie/(C) Filosofie van de Geest]] — metafysisch nihilisme raakt aan eliminativisme over mentale toestanden
 - [[02 Wiki/Psychologie/(C) Depressie & Neurobiologie]] — existentieel nihilisme als cognitief-fenomenologisch symptoom bij ernstige depressie; relevant voor de theorie van negatieve kernovertuigingen
 - [[03 Knowledge Graph/(KG) Existentialisme als Traumakader — Frankl, Fanon en Zingeving na Catastrofe]] — zingeving als antwoord op zinloosheid
+- [[02 Wiki/Psychologie/(C) Verslaving & Neurobiologie]] — existentieel vacuüm als filosofische achtergrond voor verslavingsgevoeligheid; verslaving als betekenissubstitutie via dopaminerge activatie
+- [[03 Knowledge Graph/(KG) Het Existentieel Vacuüm en Verslavingsgeneeskunde — Nihilisme, Betekenis en Compulsie]] — uitgewerkte verbinding tussen nihilisme, zingeving en verslaving
+
+## Verdieping (Discovery Engine)
+
+### Nihilisme als Sociaal Weefsel: Van Individuele Overtuiging naar Collectieve Pathologie
+
+De gangbare behandeling van nihilisme is individualistisch: één denker (Nietzsche, Camus) die reageert op een filosofisch probleem. Maar nihilisme is ook een **collectief fenomeen** met meetbare sociale gevolgen.
+
+**Durkheims anomie als nihilisme in sociologische taal:**
+Emile Durkheim's concept van anomie — de toestand van normloosheid die ontstaat wanneer sociale regelgevende structuren wegvallen — is nihilisme in sociologische taal. Durkheim koppelde anomie direct aan verhoogde zelfmoordrates (Suicide, 1897). Zijn empirische bevinding: economische boom *én* economische crisis verhogen allebei de zelfmoordrate — beiden door anomie, niet door absolute armoede.
+
+Dit is een fundamenteel inzicht: nihilisme is niet de respons op tegenspoed per se, maar op de **verlies van een ordenend kader**. Weimar-Duitsers verarmden niet alleen monetair — ze verloren hun betekenissysteem. Postkoloniale samenlevingen verloren niet alleen politieke controle — hun culturele identiteitsstructuren werden gesloopt.
+
+**Neurobiologisch correlaat van collectief nihilisme:**
+Tonische dopaminedaling op populatieniveau is meetbaar via verhoogde verslavingspercentages en verhoogde depressiviteitsscores in gedesintegreerde gemeenschappen. De opiaten-epidemie in de Amerikaanse Rust Belt is een casusstudie: niet alleen economische armoede, maar culturele ontworteling en zinloosheid gecorreleerd met consumptie van de enige substance die tijdelijk dopaminerge normalisatie biedt (zie [[02 Wiki/Psychologie/(C) Verslaving & Neurobiologie]]).
+
+**Camus' revolt als publieke gezondheidsinterventie:**
+Dit is een provocerende implicatie: de collectieve revolt die Camus propageert — het weigeren van nihilistische resignatie, het omarmen van de strijd — is niet uitsluitend een individueel filosofisch project maar ook een **gemeenschapsgezondheidsprincipe**. Gemeenschappen die collectieve identiteit en actieve participatie weten te mobiliseren (ook zonder religieuze of ideologische blauwdruk) produceren aantoonbaar betere geestelijke gezondheidsuitkomsten.
+
+**Politiek nihilisme en de Fascisme-corridor:**
+Wanneer passief nihilisme collectief is, creëert het een politieke kans voor autoritaire bewegingen die absolute zekerheid bieden. Nietzsche waarschuwde hiervoor: passief nihilisme is niet onschadelijk maar gevaarlijk, want het opent de ruimte voor pseudo-zingeving via ideologie, geweld en zondebokken (zie [[03 Knowledge Graph/(KG) Monetaire Chaos en Politieke Radicalisering — Inflatie, Legitimiteit en Extremisme]]).
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-03
 
 ## Bronnen
 

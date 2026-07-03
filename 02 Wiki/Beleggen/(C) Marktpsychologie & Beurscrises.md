@@ -26,12 +26,24 @@ importance_score: 0.90
 novelty_score: 0.90
 knowledge_score: 0.89
 usage_score: 0.2031
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese"
+  - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie"
+  - "02 Wiki/Psychologie/(C) Sociale Psychologie"
+  - "02 Wiki/Beleggen/(C) Opties & Derivaten"
+  - "02 Wiki/Beleggen/(C) Rente & Centrale Bankpolitiek"
+  - "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine"
+  - "02 Wiki/Geschiedenis/(C) De Opkomst van het Fascisme"
 revision_history:
   - version: 1
     date: 2026-07-01
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-03
+    author: Discovery-Engine
+    change: "related_nodes YAML gesynchroniseerd (8 nodes inclusief De Opkomst van het Fascisme); Verbanden uitgebreid met politieke dimensie; Verdieping over Weimar-patroon als marktcrisis-politieke radicalisering-mechanisme"
 ---
 
 # Marktpsychologie & Beurscrises
@@ -108,6 +120,7 @@ Beurscrises produceren meetbare psychologische schade: angststoornissen, depress
 - [[Opties & Derivaten]] — complexe derivaten als versterker van systeemrisico in 2008
 - [[Rente & Centrale Bankpolitiek]] — renteschokken en centrale bankrespons als beleidsreactie op crises
 - [[Beloningssysteem & Dopamine]] — neurobiologische basis van speculatief gedrag; NAcc-activatie bij financiële winstanticipatie
+- [[De Opkomst van het Fascisme]] — Weimar-hyperinflatie als historisch voorbeeld van hoe marktcrises politieke radicalisering voeden via institutioneel vertrouwensverlies
 
 ## Bronnen
 
@@ -116,4 +129,22 @@ Beurscrises produceren meetbare psychologische schade: angststoornissen, depress
 - Goldgar, A. (2007). *Tulipmania: Money, Honor, and Knowledge in the Dutch Golden Age*. University of Chicago Press.
 - Advances in Economics, Management and Political Sciences (2024). Behavioral Insights into Financial Crises.
 
-> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-01
+## Verdieping (Discovery Engine)
+
+### Het Weimar-Patroon: Marktcrisis als Politieke Sloop
+
+Beurscrises worden doorgaans als economisch fenomeen beschreven. Maar de ergste markten — hyperinflatie, niet de typische crash — hebben een specifiek politiek destructief vermogen dat ver voorbij de economische schade gaat.
+
+Het Weimar-patroon (zie ook [[De Opkomst van het Fascisme]] en [[Inflatie & Koopkrachtbescherming]]) toont: wanneer een marktcrisis *de middenklasse* treft via inflatie (niet de arbeidersklasse via werkloosheid, maar degenen wier spaargeld in geldwaarde staat), ontstaat een bijzonder giftige cocktail. Deze klasse had zowel de instituties gedragen als de meest te verliezen.
+
+**Psychologisch mechanisme:** Verliesaversie (2× meer pijn dan winst van gelijke omvang) gecombineerd met attributiefout (systemische oorzaken → persoonlijke zondebokken) en identiteits-bedreiging (middenklasse-status als kernidentiteit) produceert radicalisering die zuiver economische depressie niet produceert. De arbeidersklasse had niks te verliezen en was getemd door traditie. De verarmde middenklasse voelde een *diefstal van haar rechtmatige positie* — een narratief dat fascisme gretig exploiteert.
+
+**Marktpsychologisch: zeepbel van politiek vertrouwen**
+
+Politiek vertrouwen en economische stabiliteit vormen een soort gecorreleerd activum. Wanneer de economische zeepbel knapt, knapt de politiek-vertrouwen zeepbel soms mee — zeker wanneer de staat zelf de monetaire instabiliteit heeft veroorzaakt. Democratie en monetaire stabiliteit zijn niet los van elkaar.
+
+**Implicatie voor beleggen:** Landen met institutioneel zwakke democratieën + hoge schuld/BBP + politieke schuldconcentratie bij één partij zijn niet alleen economisch risicovolle beleggingsomgevingen, maar potentieel ook politiek onstabiele — het Weimar-risico is niet per definitie historisch.
+
+Zie ook: [[03 Knowledge Graph/(KG) Monetaire Chaos en Politieke Radicalisering — Inflatie, Legitimiteit en Extremisme]]
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-03

@@ -1,0 +1,26 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-03T16:09:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Risico vs. Onzekerheid — Knight's Onderscheid",
+    "discipline": "Beleggen",
+    "priority": 0.80,
+    "reason": "Frank Knight (Risk, Uncertainty and Profit, 1921) maakte het fundamentele onderscheid tussen risico (kwantificeerbare kansverdelingen) en echte onzekerheid (onmeetbaar, onbekend). Dit onderscheid onderligt vrijwel alle beleggingsdiscussies maar heeft geen eigen note. De Efficiënte Markt Hypothese veronderstelt dat risico kwantificeerbaar is; Black Swan-events (Nassim Taleb) zijn Knightiaanse onzekerheid. Dit verbindt Beleggen ↔ Filosofie (epistemologie: wat kunnen we weten?) ↔ Psychologie (cognitieve biases bij onzekerheidsverwerking) ↔ Falsifieerbaarheid (zijn financiële modellen falsifieerbaar bij echte onzekerheid?).",
+    "mentioned_in": [
+      "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese (risico als kwantificeerbaar verondersteld)",
+      "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie (variantie als risico-operationalisering)",
+      "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises (staartrisico's — zwarte zwanen)",
+      "02 Wiki/Beleggen/(C) Opties & Derivaten (Black-Scholes veronderstelt kwantificeerbaar risico)"
+    ],
+    "proposed_connections": [
+      "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese",
+      "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie",
+      "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie",
+      "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+    ],
+    "cross_disciplinary_value": "hoog — verbindt Beleggen (kernbegrip risicobeheer), Filosofie (epistemische grenzen van kennis), Psychologie (reactie op ambiguïteit en onzekerheid)",
+    "msc_relevance": "indirect — relevant voor statistisch redeneren over psychologisch onderzoek (Type I/II errors, power — risico vs. onzekerheid in klinisch bewijs)"
+  }
+}

@@ -26,12 +26,23 @@ importance_score: 0.95
 novelty_score: 0.90
 knowledge_score: 0.91
 usage_score: 0.0625
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex"
+  - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie"
+  - "02 Wiki/Psychologie/(C) Default Mode Network"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding"
+  - "02 Wiki/Psychologie/(C) Ruminatie & Piekeren"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS"
 revision_history:
   - version: 1
     date: 2026-07-01
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-03
+    author: Discovery-Engine
+    change: "related_nodes YAML gesynchroniseerd met body (7 nodes); Trauma & PTSS wikilink toegevoegd aan Verbanden; Verdieping over PTSS als aandachtsstoornis via Posner-raamwerk"
 ---
 
 # Aandacht & Cognitieve Controle
@@ -81,6 +92,7 @@ Voor Klinische Neuropsychologie is aandacht een sleutelconstruct. Vrijwel iedere
 - [[Cognitie & Gedrag]] — aandacht als fundamenteel selectieproces dat alle cognitie moduleert
 - [[Perceptie & Predictive Coding]] — aandacht als precisie-weging van predictie-errors in Friston's model
 - [[Ruminatie & Piekeren]] — executieve controle als mechanisme om ruminatie te onderbreken
+- [[Trauma & PTSS]] — hypervigilantie als specifieke ontregeling van alle drie Posner-netwerken; amygdala-hijacking als falen van executive control
 
 ## Bronnen
 
@@ -90,4 +102,20 @@ Voor Klinische Neuropsychologie is aandacht een sleutelconstruct. Vrijwel iedere
 - biorXiv (2025). Neural Mechanisms of Willed Attention Control.
 - Nature (2021). Prefrontal cortex in cognitive control and executive function.
 
-> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-01
+## Verdieping (Discovery Engine)
+
+### PTSS als Aandachtsstoornis: Het Drieluik van Posner
+
+Hypervigilantie bij PTSS is klinisch doorgaans beschreven als een "alertheid"-probleem. Dit is een onderprecisering. Wanneer men Posner's drieledige netwerk-architectuur toepast, blijkt dat PTSS alle drie netwerken ontregelt — op specifiek onderscheidende manieren.
+
+**Alerting network:** chronische overactivatie via amygdala-gemedieerde noradrenerge sensibilisering. Het locus coeruleus produceert verhoogde tonische noradrenaline, waardoor de drempel voor waakzaamheidsactivatie permanent is verlaagd. Resultaat: slaapproblemen, schrikresponsen, continue spierspanning.
+
+**Orienting network:** gebiased naar bedreigingsstimuli via amygdala-TPJ-modulatie. Het orienting network verliest flexibiliteit: het kan niet meer neutraal schakelen tussen exogene en endogene aandacht omdat bedreigingsstimuli automatisch sensorische prioriteit claimen. Klinisch: het onvermogen om aandacht weg te richten van traumatische cues in alledaagse omgevingen.
+
+**Executive control network:** de vmPFC — cruciale rem op de amygdala via top-down inhibitie — raakt onderdrukt op het moment dat de amygdala maximal actief is. Dit is empirisch vastgesteld via fMRI: vmPFC-activiteit en amygdala-activiteit zijn anticorrelaat bij PTSS-patiënten. Het executive control network, dat normaliter conflicten detecteert (ACC) en doelgedreven inhibitie uitvoert (DLPFC), verliest de competitie van het bedreigingssignaal.
+
+**Therapeutische implicatie:** Aandachtstraining (Attention Bias Modification, mindfulness) is neurobiologisch onderbouwd als PTSS-interventie: het hertraint specifiek de flexibiliteit van het orienting network en versterkt de executive control via regulatie-oefening. Dit complementeert exposure — dat de prior voor gevaar herziet (zie [[Perceptie & Predictive Coding]]) — via een ander mechanisme.
+
+Zie ook: [[03 Knowledge Graph/(KG) Hypervigilantie als Aandachtsstoornis — PTSS, Controle en het Bedreigende Brein]]
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-03

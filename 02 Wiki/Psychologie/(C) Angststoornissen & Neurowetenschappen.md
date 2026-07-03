@@ -120,6 +120,7 @@ Voor de MSc Klinische Neuropsychologie zijn angststoornissen bijzonder relevant 
 - [[Default Mode Network]] — DMN-overactiviteit bij piekeren en negatieve zelfgerichte cognities bij angst en depressie
 - [[Schizofrenie & Psychose]] — contrast: amygdala-hyporeactiviteit bij schizofrenie vs. hyperreactiviteit bij angst
 - [[Neuroplasticiteit]] — CGT-effectiviteit berust op neuroplastische veranderingen in PFC-amygdala-circuits
+- [[Perceptie & Predictive Coding]] — angst als Bayesiaanse overschatting: te hoge precisie voor bedreigings-predictie-errors; LeDoux's snelle route als hoge-precisie subcorticale prior-update; exposure als prior-herziening
 
 ## Bronnen
 
