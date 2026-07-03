@@ -1,0 +1,76 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-03T00:08:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-03/0008",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Sociale Cognitie & Theory of Mind",
+        "suggested_path": "02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind.md",
+        "source_score": 9,
+        "confidence": 0.95,
+        "novelty": 0.95,
+        "trust_level": "hoog",
+        "key_connections": [
+          "02 Wiki/Psychologie/(C) Default Mode Network.md",
+          "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md",
+          "02 Wiki/Psychologie/(C) Sociale Psychologie.md",
+          "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"
+        ],
+        "priority_gap": true,
+        "gap_source": "knowledge_gap_SocialeCognitie_TheoryOfMind_0700.json"
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Nihilisme & Absurdisme",
+        "suggested_path": "02 Wiki/Filosofie/(C) Nihilisme & Absurdisme.md",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "key_connections": [
+          "02 Wiki/Filosofie/(C) Existentialisme.md",
+          "02 Wiki/Filosofie/(C) Stoïcisme.md",
+          "02 Wiki/Filosofie/(C) Ethiek.md",
+          "02 Wiki/Filosofie/(C) Epistemologie.md"
+        ],
+        "priority_gap": false
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Val van het Westerse Romeinse Rijk",
+        "suggested_path": "02 Wiki/Geschiedenis/(C) De Val van het Westerse Romeinse Rijk.md",
+        "source_score": 8,
+        "confidence": 0.90,
+        "novelty": 0.92,
+        "trust_level": "hoog",
+        "key_connections": [
+          "02 Wiki/Geschiedenis/(C) De Reformatie.md",
+          "02 Wiki/Geschiedenis/(C) De Renaissance.md",
+          "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises.md",
+          "03 Knowledge Graph/"
+        ],
+        "priority_gap": false
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "ESG & Duurzaam Beleggen",
+        "suggested_path": "02 Wiki/Beleggen/(C) ESG & Duurzaam Beleggen.md",
+        "source_score": 8,
+        "confidence": 0.85,
+        "novelty": 0.93,
+        "trust_level": "gemiddeld",
+        "key_connections": [
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
+          "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese.md",
+          "02 Wiki/Beleggen/(C) Factor Investing.md",
+          "02 Wiki/Filosofie/(C) Ethiek.md"
+        ],
+        "priority_gap": false
+      }
+    ]
+  }
+}
