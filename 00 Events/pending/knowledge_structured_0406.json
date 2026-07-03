@@ -1,0 +1,17 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-03T04:06:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Cognitieve Gedragstherapie.md",
+      "02 Wiki/Filosofie/(C) Deontologie & Kantische Ethiek.md",
+      "02 Wiki/Geschiedenis/(C) De Opkomst van het Fascisme.md",
+      "02 Wiki/Beleggen/(C) Valuatie & DCF-analyse.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Zuiver Denken versus Cognitieve Vervorming.md"
+    ]
+  }
+}
