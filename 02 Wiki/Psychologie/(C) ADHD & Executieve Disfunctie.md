@@ -144,6 +144,7 @@ Neuraal substraat:
 - [[02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie]] — historische conceptualisering van ADHD (van "minimal brain dysfunction" naar neurodevelopmentele stoornis)
 - [[03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming]] — gebrekkige executieve controle als beperking van rationeel gedrag
 - [[(C) Emotieregulatie]] — ADHD-gerelateerde EF-deficiten ondermijnen direct de PFC-afhankelijke strategieën (cognitieve herwaardering) die emotieregulatie vereist; emotionele dysregulatie is bij ADHD even kernsymptoom als inattentie
+- [[(C) Sociale Cognitie & Theory of Mind]] — inhibitie en cognitieve flexibiliteit (EF) zijn noodzakelijk voor perspectiefwisseling; impulsiviteit bij ADHD ondermijnt de kwaliteit van mentaliseren
 
 ---
 

@@ -97,7 +97,7 @@ De Beauvoir corrigeert Sartres abstract individu: vrijheid is altijd gesitueerd 
 
 **Albert Camus (1913–1960) — Absurdisme**
 
-Camus verwierp de existentialistische *sprong* naar geloof of politiek engagement als vlucht uit het Absurde. Het Absurde is de confrontatie tussen het menselijke verlangen naar betekenis en de zwijgende onverschilligheid van het universum. In *Le Mythe de Sisyphe* (1942) verwerpt Camus zelfmoord én filosofische zelfdoding (sprong naar religie) als antwoorden. Sisyphus moet als gelukkig worden gedacht: rebellie — leven ondanks de zinloosheid — is het enige authentieke antwoord.
+Camus verwierp de existentialistische *sprong* naar geloof of politiek engagement als vlucht uit het Absurde. Het Absurde is de confrontatie tussen het menselijke verlangen naar betekenis en de zwijgende onverschilligheid van het universum. In *Le Mythe de Sisyphe* (1942) verwerpt Camus zelfmoord én filosofische zelfdoding (sprong naar religie) als antwoorden. Sisyphus moet als gelukkig worden gedacht: rebellie — leven ondanks de zinloosheid — is het enige authentieke antwoord. Zie [[Nihilisme & Absurdisme]] voor een gedetailleerde analyse van de verhouding tussen nihilisme (Nietzsche's diagnose) en absurdisme (Camus' antwoord).
 
 ### THEORIEEN — Kernconcepten in Analytisch Overzicht
 

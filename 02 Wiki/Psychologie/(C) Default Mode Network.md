@@ -118,6 +118,7 @@ Voor de klinische neuropsychologie is het DMN van centraal belang:
 - [[02 Wiki/Psychologie/(C) Hersen & Gedrag]] — DMN illustreert hoe hersenfuncties gedrag en innerlijk erleven vormen
 - [[02 Wiki/Filosofie/(C) Filosofie van de Geest]] — DMN raakt aan vragen over bewustzijn, zelf en innerlijke ervaring
 - [[02 Wiki/Psychologie/(C) Cognitie & Gedrag]] — DMN-deactivatie bij gerichte taak toont de neurale architectuur van aandacht en cognitieve controle
+- [[02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind]] — het mentaliserend netwerk (ToM) overlapt sterk met het DMN; angular gyrus is gemeenschappelijke hub voor zelfgereferentieerde verwerking en sociaal-cognitieve mentalisering
 
 ## Bronnen
 

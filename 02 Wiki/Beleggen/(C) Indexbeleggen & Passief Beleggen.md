@@ -92,7 +92,7 @@ ETF's zijn beursgenoteerde fondsen die doorlopend verhandelbaar zijn, zoals aand
 
 **Factor-ETF's / Smart Beta (THEORIE/FEIT):** indexfondsen met een tilt naar bewezen factoren (value, momentum, low volatility, quality, small size). Brug tussen passief en actief; hogere kosten dan zuiver passief, lager dan actief beheer. Zie: [[Factor Investing]].
 
-**ESG-indexen (FEIT):** duurzaamheidscriteria (Environmental, Social, Governance) als filterlaag op de index. Groeiend marktaandeel maar debat over effectiviteit en definities.
+**ESG-indexen (FEIT):** duurzaamheidscriteria (Environmental, Social, Governance) als filterlaag op de index. Groeiend marktaandeel maar debat over effectiviteit en definities. Zie [[ESG & Duurzaam Beleggen]] voor een uitgebreide analyse van greenwashing, rating-inconsistentie en politisering.
 
 ### Kritiek en beperkingen
 

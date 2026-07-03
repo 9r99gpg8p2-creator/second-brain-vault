@@ -1,35 +1,40 @@
 ---
 type: stats
-generated: 2026-07-02
+generated: 2026-07-03
 author: Brain-Guardian
-run: 2
+run: 3
 ---
 
-# Brain Statistics — 2026-07-02 (Guardian Run #2)
+# Brain Statistics — 2026-07-03 (Guardian Run #3)
 
 ## Overzicht
 
-| Metric | Waarde |
-|---|---|
-| Totaal wiki-nodes | 64 |
-| KG-verbindingsnodes | 20 |
-| Conflictnotes | 2 |
-| Hypotheses | 6 |
-| Totaal KG-bestanden | 29 |
-| Verwerkte events (pending) | 18 |
-| Verwerkte events (processed) | 15 |
+| Metric | Waarde | Δ vs Run #2 |
+|---|---|---|
+| Totaal wiki-nodes | 72 | +8 |
+| KG-verbindingsnodes | 22 | +2 |
+| Conflictnotes | 2 | — |
+| Hypotheses | 6 | — |
+| Totaal KG-bestanden | 31 | +2 |
+| Gemiddelde quality_score | 0.862 | — |
+| Gemiddelde confidence_score | 0.881 | — |
+| Notes met quality-check-needed | 9 | — |
+| Vandaag nieuw toegevoegd | 3 | — |
+| Nieuw since vorige run | 8 | — |
+| Merged duplicaten (deze run) | 0 | — |
+| Conflicten gedetecteerd (deze run) | 0 | — |
 
 ---
 
 ## Per Discipline
 
-| Discipline | Nodes | % van totaal |
-|---|---|---|
-| 🟢 Psychologie | 22 | 34.4% |
-| 🔵 Filosofie | 15 | 23.4% |
-| 🟡 Geschiedenis | 14 | 21.9% |
-| 🔴 Beleggen | 13 | 20.3% |
-| **Totaal** | **64** | **100%** |
+| Discipline | Nodes | Gem. kwaliteit | Gem. confidence | Nieuwste note |
+|---|---|---|---|---|
+| 🟢 Psychologie | 24 | 0.84 | 0.88 | Sociale Cognitie & Theory of Mind |
+| 🔵 Filosofie | 17 | 0.84 | 0.88 | Nihilisme & Absurdisme |
+| 🟡 Geschiedenis | 16 | 0.90 | 0.90 | (geen nieuwe) |
+| 🔴 Beleggen | 15 | 0.88 | 0.88 | ESG & Duurzaam Beleggen |
+| **Totaal** | **72** | **0.862** | **0.881** | — |
 
 ---
 
@@ -39,77 +44,67 @@ run: 2
 
 | Rank | Note | Backlinks | usage_score |
 |---|---|---|---|
-| 1 | [[Ethiek]] | 28 | 0.4375 |
-| 2 | [[Gedragseconomie & Cognitieve Biases]] | 24 | 0.3750 |
-| 3 | [[Emotieregulatie]] | 23 | 0.3594 |
-| 4 | [[Epistemologie & Kennistheorie]] | 22 | 0.3438 |
-| 5 | [[Klinische Psychologie]] | 20 | 0.3125 |
-| 6 | [[Falsifieerbaarheid & Wetenschapsfilosofie]] | 20 | 0.3125 |
-| 7 | [[ADHD & Executieve Disfunctie]] | 19 | 0.2969 |
-| 8 | [[De Verlichting]] | 18 | 0.2813 |
-| 9 | [[Sociale Psychologie]] | 17 | 0.2656 |
-| 10 | [[Cognitie & Gedrag]] | 17 | 0.2656 |
-
-*Noot: [[Epistemologie]] (deprecated duplicate) heeft 25 backlinks maar is samengevoegd met Epistemologie & Kennistheorie.*
+| 1 | Ethiek | 34 | 0.472 |
+| 2 | Gedragseconomie & Cognitieve Biases | 32 | 0.444 |
+| 3 | Epistemologie (deprecated redirect) | 31 | 0.431 |
+| 4 | Epistemologie & Kennistheorie | 27 | 0.375 |
+| 5 | Emotieregulatie | 26 | 0.361 |
+| 5 | ADHD & Executieve Disfunctie | 26 | 0.361 |
+| 7 | Vrije Wil & Determinisme | 25 | 0.347 |
+| 7 | De Verlichting | 25 | 0.347 |
+| 9 | Falsifieerbaarheid & Wetenschapsfilosofie | 24 | 0.333 |
+| 10 | Klinische Psychologie | 21 | 0.292 |
 
 ---
 
-## Kwaliteitscontrole
+## Backlinks — Nieuw Verbonden Nodes (deze run)
 
-| Metric | Waarde |
+| Note | Backlinks vóór | Backlinks na | Δ |
+|---|---|---|---|
+| Sociale Cognitie & Theory of Mind | 0 | 7 | +7 |
+| Nihilisme & Absurdisme | 0 | 6 | +6 |
+| ESG & Duurzaam Beleggen | 0 | 4 | +4 |
+
+---
+
+## MOC-updates (deze run)
+
+| MOC | Wijziging |
 |---|---|
-| Notes met `quality-check-needed` | 9 |
-| Notes met ≥1 formele bron | 55 |
-| Notes zonder bronnen | 9 |
-| YAML-schemas herbouwd deze run | 3 |
+| MOC - Filosofie | Nihilisme & Absurdisme toegevoegd aan sectie + tabel |
+| MOC - Beleggen | Alle 14 Beleggen-conceptnotes opgenomen in Wiki-tabel; ESG toegevoegd |
+| MOC - Psychologie | Sociale Cognitie & Theory of Mind toegevoegd aan neuropsychologie-sectie |
 
 ---
 
-## Acties deze Guardian Run (#2 — 2026-07-02)
+## Groeisnelheid
 
-| Actie | Details |
+- Run #1 (2026-07-01): ~50 wiki-nodes
+- Run #2 (2026-07-02): 64 wiki-nodes (+14)
+- Run #3 (2026-07-03): 72 wiki-nodes (+8)
+- Gemiddelde groei: ~7 notes/dag
+
+---
+
+## Kwaliteitsanalyse
+
+| Status | Aantal notes |
 |---|---|
-| **Duplicaat samengevoegd** | `(C) Epistemologie.md` → gemarkeerd als samengevoegd met [[Epistemologie & Kennistheorie]] |
-| **YAML herbouwd** | `(C) Neuroplasticiteit.md` — volledig schema, 3 bronnen, 8 related_nodes |
-| **YAML herbouwd** | `(C) Moderne Portefeuilletheorie.md` — volledig schema, 4 bronnen, 8 related_nodes |
-| **YAML herbouwd** | `(C) De Verlichting.md` — volledig schema, 3 bronnen, 8 related_nodes |
-| **MOC bijgewerkt** | `MOC - Filosofie` — tabel 2→13 entries; Neuro-ethiek & Pragmatisme toegevoegd |
-| **MOC bijgewerkt** | `MOC - Geschiedenis` — tabel 2→13 entries; stale sectie verwijderd |
-| **Usage scores bijgewerkt** | 63 van 64 nodes geüpdatet (1 ongewijzigd) |
-| **Nieuw conflictbestand** | `(CONFLICT) Verlichting vs Eugenica.md` — Verlichting als emancipatie vs. als enabler van pseudowetenschap |
+| quality-check-needed (tag aanwezig) | 9 |
+| Geen externe bronnen (excl. MOCs en UU-vakken) | ~5 |
+| Minder dan 150 woorden | 0 |
+| Geen wikilinks | 0 |
 
 ---
 
-## Conflictnotes
+## Monitoring: Lage Connectiviteit
 
-| Bestand | Status | Onderwerp |
+| Note | Backlinks | Status |
 |---|---|---|
-| [(CONFLICT) EMH vs Gedragseconomie](03 Knowledge Graph/(CONFLICT) EMH vs Gedragseconomie.md) | Open | Marktefficiëntie vs. cognitieve biases |
-| [(CONFLICT) Verlichting vs Eugenica](03 Knowledge Graph/(CONFLICT) Verlichting vs Eugenica.md) | Open — nieuw | Was de Holocaust een product of verraad van de Verlichting? |
+| De Val van het Westerse Romeinse Rijk | 1 | Monitoring |
+| Indexbeleggen & Passief Beleggen | 1 | Monitoring |
+| Depressie & Neurobiologie | 1 | Monitoring |
 
 ---
 
-## Hypotheses
-
-| Hypothese | Disciplines |
-|---|---|
-| ADHD impliceert structureel suboptimale financiële besluitvorming | Psychologie × Beleggen |
-| DMN-hyperactiviteit impliceert epistemisch vertekende overtuigingen | Psychologie × Filosofie |
-| Existentialisme impliceert paradox voor PTSS-herstel | Filosofie × Psychologie |
-| Neuroplasticiteit impliceert reconstructie van traumatisch geheugen | Psychologie |
-| Predictive Coding impliceert religieuze verklaringen als rationele prior-systemen | Psychologie × Filosofie |
-| Stoïcisme impliceert Waardebeleggen | Filosofie × Beleggen |
-
----
-
-## Isolated Nodes (0 backlinks)
-
-Nodes die geen inkomende links ontvangen — prioriteit voor verbinding:
-
-- [[MOC - Psychologie BSc Jaar 1]] — 0 backlinks
-- [[MOC - Geschiedenis]] — 0 backlinks (net bijgewerkt)
-- [[MOC - Beleggen]] — 0 backlinks
-
----
-
-> **Gegenereerd door:** Brain-Guardian | 2026-07-02 | Run #2
+> Guardian Run #3 | 2026-07-03 | Brain-Guardian

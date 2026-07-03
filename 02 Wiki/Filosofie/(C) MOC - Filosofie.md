@@ -33,6 +33,10 @@ revision_history:
     date: 2026-07-02
     author: Brain-Guardian
     change: "guardian run — Wiki-pagina's tabel uitgebreid naar alle 13 actieve notes; Neuro-ethiek en Pragmatisme toegevoegd aan Conceptnotes sectie; summary bijgewerkt; related_nodes uitgebreid"
+  - version: 4
+    date: 2026-07-03
+    author: Brain-Guardian
+    change: "Nihilisme & Absurdisme toegevoegd aan conceptnotes sectie en Wiki-tabel"
 ---
 
 # MOC — Filosofie
@@ -97,6 +101,9 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 ### Pragmatisme
 - [[Pragmatisme]] — Peirce, James, Dewey — kennis als instrument; waarheid is wat werkt
 
+### Nihilisme & Absurdisme
+- [[Nihilisme & Absurdisme]] — Nietzsche (passief vs. actief nihilisme), Camus' revolt als antwoord op het absurde; existentieel nihilisme en zijn klinische weerklank
+
 ### Stoïcisme
 - [[Stoïcisme]] — Epictetus, Marcus Aurelius, Seneca — dichotomie van controle
 
@@ -128,6 +135,7 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 | [[Neuro-ethiek]] | Ethiek van neurowetenschappen; vrije wil, enhancement, cognitieve vrijheid |
 | [[Politieke Filosofie & Sociaal Contract]] | Hobbes, Locke, Rousseau, Rawls — legitimiteit van staatsgezag |
 | [[Pragmatisme]] | Peirce, James, Dewey — kennis als instrument; anti-representationalisme |
+| [[Nihilisme & Absurdisme]] | Nietzsche (passief/actief nihilisme), Camus' absurde revolt; moreel nihilisme en meta-ethiek |
 | [[Stoïcisme]] | Epictetus, Marcus Aurelius — dichotomie van controle, deugd, eudaimonia |
 | [[Vrije Wil & Determinisme]] | Libet, Haynes, compatibilisme, determinisme, neurofilosofie |
 | [[Vrije Wil & Determinisme — Forensisch]] | Toerekeningsvatbaarheid, neuroabolitionalisme, strafrechtelijke verantwoordelijkheid |

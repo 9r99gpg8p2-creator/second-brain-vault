@@ -25,6 +25,10 @@ revision_history:
     date: 2026-07-01
     author: Brain-Guardian
     change: initial YAML scaffolding by guardian routine
+  - version: 2
+    date: 2026-07-03
+    author: Brain-Guardian
+    change: alle 14 Beleggen-conceptnotes toegevoegd aan Wiki-tabel; ESG & Duurzaam Beleggen opgenomen
 ---
 
 # MOC — Beleggen
@@ -79,8 +83,20 @@ Centrale hub voor beleggingsprincipes, mentale modellen en markten.
 
 | Pagina | Kernthema |
 |---|---|
+| [[(C) Beloningssysteem & Dopamine]] | Dopamine, motivatie en beloningsleren — neuropsychologie van risicobeslissingen |
+| [[(C) Conjunctuurcycli & Macro-economie]] | Economische cycli, recessies, fiscaal en monetair beleid |
+| [[(C) Efficiënte Markt Hypothese]] | Fama, marktefficiëntie, sterke/zwakke/semi-sterke vorm |
+| [[(C) ESG & Duurzaam Beleggen]] | Duurzaamheidscriteria, greenwashing, rating-inconsistentie, politisering |
+| [[(C) Factor Investing]] | Fama-French, value, size, momentum als systematische factoren |
 | [[(C) Gedragseconomie & Cognitieve Biases]] | Kahneman, prospect theory, irrationele belegger |
+| [[(C) Hyperbolic Discounting & Tijdspreferentie]] | Tijdspreferentie, impulsiviteit, uitstelgedrag |
+| [[(C) Indexbeleggen & Passief Beleggen]] | Passief vs. actief beleggen, kostenefficiëntie, Vanguard |
+| [[(C) Marktpsychologie & Beurscrises]] | Kuddegedrag, bubbles, crashes, angst en hebzucht |
 | [[(C) Moderne Portefeuilletheorie]] | Markowitz, diversificatie, CAPM, efficiënte grens |
+| [[(C) Obligaties & Vastrentende Waarden]] | Rente, duration, kredietrisico, obligatiemarkten |
+| [[(C) Opties & Derivaten]] | Opties, futures, Black-Scholes, hefboom en risicobeheer |
+| [[(C) Rente & Centrale Bankpolitiek]] | Fed, ECB, rentebeleid, kwantitatieve verruiming |
+| [[(C) Waardebeleggen]] | Graham, Buffett, intrinsieke waarde, margin of safety |
 
 ---
 

@@ -115,6 +115,7 @@ Voor Klinische Neuropsychologie is depressie een centraal onderwerp vanwege de c
 - [[Slaap & Geheugenconsolidatie]] — slaaparchitectuur sterk verstoord bij MDD (verkorte REM-latentie, gefragmenteerde slaap)
 - [[Default Mode Network]] — hyperconnectiviteit DMN als neuraal substraat van ruminatie bij MDD
 - [[Neuro-ethiek]] — ethische vragen rond ECT, esketamine-gebruik en neuroimaging bij diagnostiek
+- [[02 Wiki/Filosofie/(C) Nihilisme & Absurdisme]] — existentieel nihilisme als cognitief-fenomenologisch symptoom bij ernstige depressie; de overtuiging dat niets betekenis heeft spiegelt filosofisch nihilisme; logotherapie (Frankl) en ACT zijn directe antwoorden
 - [[03 Knowledge Graph/(KG) Stress, Neurobiologie en Mentale Gezondheid]] — gedeeld HPA-as mechanisme
 
 ## Bronnen

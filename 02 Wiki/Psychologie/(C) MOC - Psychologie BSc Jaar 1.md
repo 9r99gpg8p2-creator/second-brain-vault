@@ -72,12 +72,13 @@ Centrale hub voor alle vakken en verbanden uit het eerste jaar BSc Psychologie.
 |---|---|
 | [[(C) Executieve Functies & Prefrontale Cortex]] | Cognitieve controle, planning, inhibitie |
 | [[(C) Neuroplasticiteit]] | Hersenplasticiteit, leren, revalidatie |
+| [[(C) Sociale Cognitie & Theory of Mind]] | ToM, mentaliseren, TPJ, autisme, schizofrenie |
 
 ---
 
 ## Terugkerende Thema's
 
-- **Theory of Mind** — [[(C) Ontwikkelingspsychologie]], [[(C) Sociale Psychologie]], [[(C) Klinische Psychologie]]
+- **Theory of Mind** — [[(C) Ontwikkelingspsychologie]], [[(C) Sociale Psychologie]], [[(C) Klinische Psychologie]], [[(C) Sociale Cognitie & Theory of Mind]]
 - **Executieve functies** — [[(C) Hersen & Gedrag]], [[(C) Cognitie & Gedrag]], [[(C) Executieve Functies & Prefrontale Cortex]]
 - **Onderzoeksmethoden** — [[(C) Psychologie als Wetenschap]], [[(C) TOE - Statistiek]]
 - **Gedrag verklaren** — neurobiologisch + cognitief + sociaal + klinisch

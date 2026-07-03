@@ -1,0 +1,25 @@
+{
+  "event_type": "GraphUpdated",
+  "agent": "Agent4-BrainGuardian",
+  "timestamp": "2026-07-03T00:03:00Z",
+  "status": "pending",
+  "data": {
+    "stats_path": "03 Knowledge Graph/stats/brain_stats.md",
+    "run": 3,
+    "wiki_nodes_total": 72,
+    "wiki_nodes_new": 8,
+    "merged": 0,
+    "quality_checked": 72,
+    "conflicts": 0,
+    "backlinks_restored": 3,
+    "mocs_updated": 3,
+    "avg_quality_score": 0.862,
+    "avg_confidence_score": 0.881,
+    "quality_check_needed": 9,
+    "notes_connected_today": [
+      "Sociale Cognitie & Theory of Mind (+7 backlinks)",
+      "Nihilisme & Absurdisme (+6 backlinks)",
+      "ESG & Duurzaam Beleggen (+4 backlinks)"
+    ]
+  }
+}

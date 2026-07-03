@@ -25,17 +25,23 @@ freshness_score: 0.98
 importance_score: 0.85
 novelty_score: 0.93
 knowledge_score: 0.87
-usage_score: 0.0
+usage_score: 0.056
 related_nodes:
   - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md"
   - "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese.md"
   - "02 Wiki/Beleggen/(C) Factor Investing.md"
   - "02 Wiki/Filosofie/(C) Ethiek.md"
+  - "02 Wiki/Beleggen/(C) Indexbeleggen & Passief Beleggen.md"
+  - "02 Wiki/Beleggen/(C) MOC - Beleggen.md"
 revision_history:
   - version: 1
     date: 2026-07-03
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-03
+    author: Brain-Guardian
+    change: usage_score bijgewerkt (4 backlinks / 72 notes); wikilinks toegevoegd vanuit EMH, Indexbeleggen en MOC-Beleggen
 ---
 
 # ESG & Duurzaam Beleggen

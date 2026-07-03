@@ -82,6 +82,7 @@ Hoe meer omstanders bij een noodsituatie, hoe kleiner de kans dat iemand ingrijp
 
 - [[Cognitie & Gedrag]] — sociale cognitie bouwt op cognitieve basisprocessen
 - [[Ontwikkelingspsychologie]] — sociale ontwikkeling, Theory of Mind
+- [[Sociale Cognitie & Theory of Mind]] — mentaliseren, TPJ, false-belief tasks; de neurale en cognitieve basis van het begrijpen van anderen
 - [[Klinische Psychologie]] — sociale factoren bij psychopathologie
 - [[De Koude Oorlog]] — groupthink in de Cubaanse Rakettencrisis (Janis, 1982) als klassiek historisch voorbeeld
 - [[Ruminatie & Piekeren]] — sociale vergelijking en sociale afwijzing als triggers voor ruminatie

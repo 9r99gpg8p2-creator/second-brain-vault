@@ -140,6 +140,7 @@ De combinatie van neurobiologische mechanismen (dopamine, glutamaat), cognitieve
 - [[02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine]] — mesolimbisch dopaminesysteem als gedeeld substraat; aberrant salience als analoog aan risicovolle beloningsverwerking
 - [[02 Wiki/Psychologie/(C) Perceptie & Predictive Coding]] — predictive coding-framework: wanen als incorrecte prior beliefs die sensorische input overrulen
 - [[02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex]] — prefrontale hypodopaminergie als mechanisme voor cognitieve symptomen
+- [[02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind]] — ToM-deficiten als kernsymptoom; vóór eerste psychotisch episode al aantoonbaar; gelinkt aan wanen van vervolging als hyperattributie van vijandige intenties
 
 ## Bronnen
 

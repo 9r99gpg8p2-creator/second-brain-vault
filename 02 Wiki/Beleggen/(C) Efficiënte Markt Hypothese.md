@@ -170,6 +170,7 @@ Dit maakt EMH **moeilijk te falsifiëren** — een eigenaardigheid die Popper zo
 - [[02 Wiki/Psychologie/(C) Cognitie & Gedrag]] — cognitieve biases als mechanisme dat semi-sterke EMH tijdelijk ondermijnt
 - [[03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming]] — EMH vs. gedragseconomie als het empirisch meest nauwkeurig onderzochte domein van rationeel vs. irrationeel gedrag
 - [[03 Knowledge Graph/(KG) Kennis, Rede & Verlichting]] — EMH als Verlichtingsideaal van informatieefficiëntie; de gedragseconomische kritiek als de grenzen van rationeel handelen
+- [[(C) ESG & Duurzaam Beleggen]] — als ESG-informatie volledig ingeprijsd is (EMH), levert het per definitie geen extra rendement; inconsistente ratings suggereren informatie-inefficiëntie
 
 ---
 

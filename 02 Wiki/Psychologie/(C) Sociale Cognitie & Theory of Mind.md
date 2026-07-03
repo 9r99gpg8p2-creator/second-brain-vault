@@ -25,18 +25,23 @@ freshness_score: 0.95
 importance_score: 0.95
 novelty_score: 0.95
 knowledge_score: 0.94
-usage_score: 0.0
+usage_score: 0.097
 related_nodes:
   - "02 Wiki/Psychologie/(C) Default Mode Network.md"
   - "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md"
   - "02 Wiki/Psychologie/(C) Sociale Psychologie.md"
   - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"
   - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md"
+  - "02 Wiki/Psychologie/(C) MOC - Psychologie BSc Jaar 1.md"
 revision_history:
   - version: 1
     date: 2026-07-03
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-03
+    author: Brain-Guardian
+    change: usage_score bijgewerkt (7 backlinks / 72 notes); wikilinks toegevoegd vanuit DMN, Schizofrenie, Sociale Psychologie, ADHD en MOC-Psychologie
 ---
 
 # Sociale Cognitie & Theory of Mind

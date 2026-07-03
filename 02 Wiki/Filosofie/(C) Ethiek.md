@@ -125,6 +125,7 @@ Voor Klinische Neuropsychologie raakt ethiek op meerdere niveaus:
 
 ## Verbanden
 
+- [[Nihilisme & Absurdisme]] — moreel nihilisme ondergraaft normatieve ethiek; de metaethische vraag of morele feiten objectief bestaan is de directe breuklijn tussen nihilisme en deontologie/consequentialisme
 - [[Epistemologie & Kennistheorie]] — metaethiek is deels een epistemologische vraag: hoe verkrijgen we morele kennis? Zijn morele claims rationeel gerechtvaardigd?
 - [[Filosofie van de Geest]] — bewustzijn en intentionaliteit zijn voorwaarden voor morele verantwoordelijkheid; de vrije wil-discussie raakt beide
 - [[Falsifieerbaarheid & Wetenschapsfilosofie]] — zijn morele claims falsifieerbaar? Het antwoord bepaalt of ethiek een wetenschap kan zijn

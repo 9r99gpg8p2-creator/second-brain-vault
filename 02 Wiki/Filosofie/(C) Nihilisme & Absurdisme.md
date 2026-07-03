@@ -25,17 +25,23 @@ freshness_score: 0.85
 importance_score: 0.90
 novelty_score: 0.90
 knowledge_score: 0.91
-usage_score: 0.0
+usage_score: 0.083
 related_nodes:
   - "02 Wiki/Filosofie/(C) Existentialisme.md"
   - "02 Wiki/Filosofie/(C) Stoïcisme.md"
   - "02 Wiki/Filosofie/(C) Ethiek.md"
   - "02 Wiki/Filosofie/(C) Epistemologie.md"
+  - "02 Wiki/Psychologie/(C) Depressie & Neurobiologie.md"
+  - "02 Wiki/Filosofie/(C) MOC - Filosofie.md"
 revision_history:
   - version: 1
     date: 2026-07-03
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-03
+    author: Brain-Guardian
+    change: usage_score bijgewerkt (6 backlinks / 72 notes); wikilinks toegevoegd vanuit Ethiek, Existentialisme, Depressie & Neurobiologie en MOC-Filosofie
 ---
 
 # Nihilisme & Absurdisme
