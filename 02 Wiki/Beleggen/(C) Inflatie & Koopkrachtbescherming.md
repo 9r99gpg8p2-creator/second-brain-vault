@@ -1,11 +1,48 @@
 ---
-title: Inflatie & Koopkrachtbescherming
-discipline: Beleggen
-tags: [inflatie, koopkracht, monetair beleid, centrale bank, reëel rendement, asset allocatie]
 type: concept
-status: actief
-aangemaakt: 2026-07-03
-bronnen: [Fisher 1930, Friedman 1963, Taylor 1993, Buffett 1977]
+id: 2e6b9c14-8d3f-4a7e-b1c4-5f8a2e6b9c14
+title: Inflatie & Koopkrachtbescherming
+summary: "Inflatie is de aanhoudende daling van koopkracht; voor beleggers telt uitsluitend het reëel rendement — het nominale rendement minus inflatie. Centrale banken sturen via rente en de Taylor-regel; historische ijkpunten tonen dat hyperinflatie sociale orde destabiliseert terwijl assets met pricing power of inflatie-koppeling koopkracht het best beschermen."
+category: Beleggen
+tags: [concept, beleggen, inflatie, koopkracht, monetair-beleid, centrale-bank, reëel-rendement, asset-allocatie, quality-check-needed]
+aliases: ["Inflation", "Koopkrachtbehoud", "Purchasing Power Protection"]
+sources:
+  - url: ""
+    title: "Fisher, I. (1930) — The Theory of Interest. Macmillan"
+    trust_level: 9
+    publication_date: 1930
+  - url: ""
+    title: "Friedman, M. & Schwartz, A.J. (1963) — A Monetary History of the United States, 1867-1960. Princeton University Press"
+    trust_level: 10
+    publication_date: 1963
+  - url: ""
+    title: "Taylor, J.B. (1993) — Discretion versus policy rules in practice. Carnegie-Rochester Conference Series, 39"
+    trust_level: 9
+    publication_date: 1993
+  - url: ""
+    title: "Buffett, W.E. (1977) — How Inflation Swindles the Equity Investor. Fortune"
+    trust_level: 8
+    publication_date: 1977
+confidence_score: 0.88
+quality_score: 0.82
+freshness_score: 0.92
+importance_score: 0.88
+novelty_score: 0.82
+knowledge_score: 0.86
+usage_score: 0.0
+related_nodes:
+  - "02 Wiki/Beleggen/(C) Rente & Centrale Bankpolitiek"
+  - "02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+revision_history:
+  - version: 1
+    date: 2026-07-03
+    author: Knowledge-Hunter
+    change: initial creation (non-standard schema, bronnen field)
+  - version: 2
+    date: 2026-07-03
+    author: Brain-Guardian
+    change: migrated to standard YAML schema; added quality-check-needed (source URLs absent); added scores and revision_history
 ---
 
 # Inflatie & Koopkrachtbescherming

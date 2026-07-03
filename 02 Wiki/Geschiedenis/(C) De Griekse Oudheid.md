@@ -1,11 +1,48 @@
 ---
-title: De Griekse Oudheid
-discipline: Geschiedenis
-tags: [Griekenland, oudheid, democratie, filosofie, westerse beschaving, stadstaten]
 type: concept
-status: actief
-aangemaakt: 2026-07-03
-bronnen: [Thucydides, Plato, Aristoteles, Cartledge 2009, Finley 1963]
+id: 5d8f3b72-1a9c-4e6d-8b2f-7c0e4a5d8f72
+title: De Griekse Oudheid
+summary: "De Griekse oudheid (±800-31 v.Chr.) legde de conceptuele fundamenten van de westerse beschaving via logos als primaire methode: rationele filosofie, democratisch zelfbestuur, empirische wetenschap en geschiedschrijving als machtspolitiek — een epistemologische revolutie die het mythologische wereldbeeld verving."
+category: Geschiedenis
+tags: [concept, geschiedenis, Griekenland, oudheid, democratie, filosofie, westerse-beschaving, stadstaten, quality-check-needed]
+aliases: ["Ancient Greece", "Griekse Oudheid", "Classical Greece"]
+sources:
+  - url: ""
+    title: "Thucydides (±400 v.Chr.) — Geschiedenis van de Peloponnesos-oorlog"
+    trust_level: 10
+    publication_date: -400
+  - url: ""
+    title: "Cartledge, P. (2009) — Ancient Greece: A History in Eleven Cities. Oxford University Press"
+    trust_level: 9
+    publication_date: 2009
+  - url: ""
+    title: "Finley, M.I. (1963) — The Ancient Greeks. Penguin Books"
+    trust_level: 9
+    publication_date: 1963
+  - url: ""
+    title: "Allison, G. (2017) — Destined for War: Can America and China Escape Thucydides's Trap? Houghton Mifflin"
+    trust_level: 8
+    publication_date: 2017
+confidence_score: 0.90
+quality_score: 0.82
+freshness_score: 0.92
+importance_score: 0.92
+novelty_score: 0.82
+knowledge_score: 0.88
+usage_score: 0.025
+related_nodes:
+  - "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie"
+  - "02 Wiki/Geschiedenis/(C) De Renaissance"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"
+revision_history:
+  - version: 1
+    date: 2026-07-03
+    author: Knowledge-Hunter
+    change: initial creation (non-standard schema, bronnen field)
+  - version: 2
+    date: 2026-07-03
+    author: Brain-Guardian
+    change: migrated to standard YAML schema; added quality-check-needed (source URLs absent); added scores and revision_history
 ---
 
 # De Griekse Oudheid

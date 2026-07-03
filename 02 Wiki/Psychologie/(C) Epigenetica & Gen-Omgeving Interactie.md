@@ -1,11 +1,44 @@
 ---
-title: Epigenetica & Gen-Omgeving Interactie
-discipline: Psychologie
-tags: [epigenetica, neuropsychologie, ontwikkeling, trauma, neuroplasticiteit, gen-omgeving]
 type: concept
-status: actief
-aangemaakt: 2026-07-03
-bronnen: [Meaney & Szyf 2005, McGowan et al. 2009, Yehuda et al. 2016]
+id: 9a4c2e81-3b7d-4f6a-b5e8-1d2c9f0a4e81
+title: Epigenetica & Gen-Omgeving Interactie
+summary: "Epigenetica bestudeert hoe de omgeving genexpressie wijzigt zonder de DNA-sequentie te veranderen — via methylatie, histon-modificatie en ncRNA — en hoe vroeg trauma, prenatale stress en verzorging stabiele epigenomische patronen vestigen die klinisch relevant zijn voor PTSS, depressie en verslaving."
+category: Psychologie
+tags: [concept, psychologie, epigenetica, neuropsychologie, ontwikkeling, trauma, neuroplasticiteit, gen-omgeving, quality-check-needed]
+aliases: ["Epigenetics", "Gene-Environment Interaction", "GxE"]
+sources:
+  - url: ""
+    title: "Meaney, M.J. & Szyf, M. (2005) — Environmental programming of stress responses through DNA methylation. Nature Reviews Neuroscience, 6"
+    trust_level: 10
+    publication_date: 2005
+  - url: ""
+    title: "McGowan, P.O. et al. (2009) — Epigenetic regulation of the glucocorticoid receptor in human brain. Nature Neuroscience, 12"
+    trust_level: 10
+    publication_date: 2009
+  - url: ""
+    title: "Yehuda, R. et al. (2016) — Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation. Biological Psychiatry, 80(5)"
+    trust_level: 9
+    publication_date: 2016
+confidence_score: 0.85
+quality_score: 0.80
+freshness_score: 0.92
+importance_score: 0.90
+novelty_score: 0.88
+knowledge_score: 0.87
+usage_score: 0.0
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS"
+  - "02 Wiki/Psychologie/(C) Ontwikkelingspsychologie"
+revision_history:
+  - version: 1
+    date: 2026-07-03
+    author: Knowledge-Hunter
+    change: initial creation (non-standard schema, bronnen field)
+  - version: 2
+    date: 2026-07-03
+    author: Brain-Guardian
+    change: migrated to standard YAML schema; added quality-check-needed (source URLs absent); added scores and revision_history
 ---
 
 # Epigenetica & Gen-Omgeving Interactie

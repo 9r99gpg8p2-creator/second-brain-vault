@@ -1,11 +1,49 @@
 ---
-title: Deugdethiek & Aristotelische Ethiek
-discipline: Filosofie
-tags: [ethiek, deugdethiek, Aristoteles, eudaimonia, karakter, morele psychologie]
 type: concept
-status: actief
-aangemaakt: 2026-07-03
-bronnen: [Aristoteles Nicomachische Ethiek, Anscombe 1958, MacIntyre 1981, Hursthouse 1999]
+id: 3f7a1b29-6c4e-4d8f-a2b1-9e0c5d3f7a1b
+title: Deugdethiek & Aristotelische Ethiek
+summary: "Deugdethiek stelt de vraag 'Wat voor persoon moet ik zijn?' — niet welke regels te volgen of welke gevolgen te maximaliseren; deugden zijn stabiele karakterdisposities die moreel goed handelen constitueren, met Aristoteles' eudaimonia als hoogste goed."
+category: Filosofie
+tags: [concept, filosofie, ethiek, deugdethiek, Aristoteles, eudaimonia, karakter, morele-psychologie, quality-check-needed]
+aliases: ["Virtue Ethics", "Aristotelische Ethiek", "Eudaimonia"]
+sources:
+  - url: ""
+    title: "Aristoteles (±350 v.Chr.) — Nicomachische Ethiek"
+    trust_level: 10
+    publication_date: -350
+  - url: ""
+    title: "Anscombe, G.E.M. (1958) — Modern Moral Philosophy. Philosophy, 33(124)"
+    trust_level: 9
+    publication_date: 1958
+  - url: ""
+    title: "MacIntyre, A. (1981) — After Virtue. Notre Dame University Press"
+    trust_level: 9
+    publication_date: 1981
+  - url: ""
+    title: "Hursthouse, R. (1999) — On Virtue Ethics. Oxford University Press"
+    trust_level: 9
+    publication_date: 1999
+confidence_score: 0.82
+quality_score: 0.78
+freshness_score: 0.92
+importance_score: 0.88
+novelty_score: 0.80
+knowledge_score: 0.84
+usage_score: 0.025
+related_nodes:
+  - "02 Wiki/Filosofie/(C) Ethiek"
+  - "02 Wiki/Filosofie/(C) Utilitarisme & Consequentialisme"
+  - "02 Wiki/Filosofie/(C) Deontologie & Kantische Ethiek"
+  - "02 Wiki/Filosofie/(C) Stoïcisme"
+revision_history:
+  - version: 1
+    date: 2026-07-03
+    author: Knowledge-Hunter
+    change: initial creation (non-standard schema, bronnen field)
+  - version: 2
+    date: 2026-07-03
+    author: Brain-Guardian
+    change: migrated to standard YAML schema; added quality-check-needed (source URLs absent); added scores and revision_history
 ---
 
 # Deugdethiek & Aristotelische Ethiek

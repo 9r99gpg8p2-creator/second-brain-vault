@@ -1,0 +1,29 @@
+{
+  "event_type": "GraphUpdated",
+  "agent": "Agent4-BrainGuardian",
+  "timestamp": "2026-07-03T07:03:00Z",
+  "status": "pending",
+  "data": {
+    "stats_path": "03 Knowledge Graph/stats/brain_stats.md",
+    "run": 4,
+    "wiki_nodes_total": 80,
+    "wiki_nodes_new": 8,
+    "kg_nodes_total": 40,
+    "kg_nodes_new": 9,
+    "merged": 0,
+    "quality_checked": 80,
+    "schema_migrated": 4,
+    "conflicts": 0,
+    "avg_quality_score": 0.861,
+    "avg_confidence_score": 0.881,
+    "quality_check_needed": 13,
+    "schema_migrated_notes": [
+      "Deugdethiek & Aristotelische Ethiek",
+      "Epigenetica & Gen-Omgeving Interactie",
+      "De Griekse Oudheid",
+      "Inflatie & Koopkrachtbescherming"
+    ],
+    "top_node": "Ethiek (31 backlinks)",
+    "notes_needing_url_verification": 4
+  }
+}
