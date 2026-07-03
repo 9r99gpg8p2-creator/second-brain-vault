@@ -1,0 +1,20 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-03T19:03:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Gokstoornis & Impulscontrolestoornis.md",
+      "02 Wiki/Filosofie/(C) Dialectiek & Hegeliaanse Synthese.md",
+      "02 Wiki/Geschiedenis/(C) De Islamitische Gouden Eeuw.md",
+      "02 Wiki/Beleggen/(C) Private Equity & Venture Capital.md",
+      "02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie.md",
+      "02 Wiki/Filosofie/(C) Marxisme & Historisch Materialisme.md",
+      "02 Wiki/Beleggen/(C) Alternatieve Beleggingen.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Spanning als Motor — Stress, Dialectiek en Beloningssystemen.md"
+    ]
+  }
+}
