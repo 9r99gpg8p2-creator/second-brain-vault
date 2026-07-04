@@ -2,7 +2,7 @@
   "event_type": "KnowledgeGapDetected",
   "agent": "Agent5-Discovery",
   "timestamp": "2026-07-04T07:04:00Z",
-  "status": "pending",
+  "status": "processed",
   "data": {
     "concept": "Interoceptie & Lichaamsgewaarwording",
     "discipline": "Psychologie",
@@ -21,5 +21,8 @@
       "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen",
       "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"
     ]
-  }
+  },
+  "processed_by": "Agent1-KnowledgeHunter",
+  "processed_at": "2026-07-04T16:07:00Z",
+  "research_path": "00 Research/2026-07-04/1607/psychologie-interoceptie.md"
 }
