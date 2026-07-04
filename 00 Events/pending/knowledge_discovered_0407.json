@@ -1,0 +1,59 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-04T04:07:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-04/0407",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Somatische Markerstheorie (Damasio)",
+        "wiki_path": "02 Wiki/Psychologie/(C) Somatische Markerstheorie (Damasio).md",
+        "source_score": 9,
+        "confidence": 0.88,
+        "novelty": 0.93,
+        "trust_level": "hoog",
+        "gap_resolved": "knowledge_gap_SomatischeMarkerstheorie_1609.json",
+        "cross_disciplinary": ["Filosofie van de Geest", "Gedragseconomie", "Verslaving"]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Postmodernisme & De Ontbinding van Grote Narratieven",
+        "wiki_path": "02 Wiki/Filosofie/(C) Postmodernisme & De Ontbinding van Grote Narratieven.md",
+        "source_score": 9,
+        "confidence": 0.91,
+        "novelty": 0.91,
+        "trust_level": "hoog",
+        "gap_resolved": "knowledge_gap_Postmodernisme_1609.json",
+        "cross_disciplinary": ["Geschiedenis van de Psychiatrie", "Dekolonisatie", "Wetenschapsfilosofie"]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "Totalitarisme als Politiek Systeem",
+        "wiki_path": "02 Wiki/Geschiedenis/(C) Totalitarisme als Politiek Systeem.md",
+        "source_score": 8,
+        "confidence": 0.92,
+        "novelty": 0.88,
+        "trust_level": "hoog",
+        "gap_resolved": "knowledge_gap_Totalitarisme_1609.json",
+        "cross_disciplinary": ["Politieke Filosofie", "Sociale Psychologie", "Eugenica"]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Risico vs. Onzekerheid — Knight's Onderscheid",
+        "wiki_path": "02 Wiki/Beleggen/(C) Risico vs. Onzekerheid — Knight's Onderscheid.md",
+        "source_score": 8,
+        "confidence": 0.89,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "gap_resolved": "knowledge_gap_RisicoOnzekerheid_Knight_1609.json",
+        "cross_disciplinary": ["Epistemologie", "Falsifieerbaarheid", "Angststoornissen"]
+      }
+    ],
+    "sources_used": ["WebSearch", "Stanford Encyclopedia of Philosophy", "Wikipedia (via WebSearch)", "MIT News", "Frontiers in Psychology", "PNAS", "ScienceDirect"],
+    "wikipedia_api_status": "blocked (403 — netwerkbeleid)",
+    "arxiv_status": "blocked (403 — netwerkbeleid)",
+    "fallback_used": "WebSearch"
+  }
+}
