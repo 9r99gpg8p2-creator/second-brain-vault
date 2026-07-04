@@ -34,12 +34,24 @@ importance_score: 0.90
 novelty_score: 0.88
 knowledge_score: 0.91
 usage_score: 0.0
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Geschiedenis/(C) De Tweede Wereldoorlog.md"
+  - "02 Wiki/Geschiedenis/(C) De Opkomst van het Fascisme.md"
+  - "02 Wiki/Geschiedenis/(C) De Koude Oorlog.md"
+  - "02 Wiki/Geschiedenis/(C) De Russische Revolutie.md"
+  - "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract.md"
+  - "02 Wiki/Psychologie/(C) Sociale Psychologie.md"
+  - "02 Wiki/Filosofie/(C) Neuro-ethiek.md"
+  - "02 Wiki/Geschiedenis/(C) Eugenica & Pseudowetenschappelijke Psychiatrie.md"
 revision_history:
   - version: 1
     date: 2026-07-04
     author: Knowledge-Hunter
     change: initial creation
+  - version: 2
+    date: 2026-07-04
+    author: Brain-Guardian
+    change: related_nodes YAML bijgewerkt vanuit body wikilinks
 ---
 
 # Totalitarisme als Politiek Systeem

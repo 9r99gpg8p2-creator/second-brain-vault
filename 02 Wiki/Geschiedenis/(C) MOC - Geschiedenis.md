@@ -33,6 +33,10 @@ revision_history:
     date: 2026-07-02
     author: Brain-Guardian
     change: "guardian run — Wiki-pagina's tabel uitgebreid naar alle 13 actieve notes; Russische Revolutie, Eugenica en Psychiatriegeschiedenis toegevoegd; stale Prioriteiten-sectie verwijderd; summary bijgewerkt"
+  - version: 4
+    date: 2026-07-04
+    author: Brain-Guardian
+    change: "De Zwarte Dood, De Opkomst van het Neoliberalisme en Totalitarisme als Politiek Systeem toegevoegd aan conceptnotes en Wiki-tabel"
 ---
 
 # MOC — Geschiedenis
@@ -71,6 +75,7 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 
 ### De Middeleeuwen & Pre-Moderne Wereld (500–1400)
 - [[De Middeleeuwen & Feodalisme]] — feodale ordening, kerk als supranationale macht, pest, kruistochten, scholastiek
+- [[De Zwarte Dood]] — Yersinia pestis (1347–1352), 25–50% sterfte Europa, ondermijning feodale orde, katalysator voor Renaissance en Reformatie
 - [[De Islamitische Gouden Eeuw]] — algebra, optica, filosofie, geneeskunde — het behoud van klassieke kennis ca. 750–1258
 - [[Het Ottomaanse Rijk]] — millet-systeem, multiconfessionele staat, val van Constantinopel, geopolitiek erfgoed
 
@@ -92,6 +97,8 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 - [[De Koude Oorlog]] — nucleaire afschrikking, proxy-oorlogen, ideologische polarisatie, Berlijnse Muur
 - [[Dekolonisatie & Postkoloniale Orde]] — Fanon, Bandung-conferentie, neocolonialisme, postkoloniale theorie
 - [[De Globalisering]] — Bretton Woods, WTO, multinationals, globale ongelijkheid, technologische integratie
+- [[De Opkomst van het Neoliberalisme]] — Hayek, Friedman, Mont Pelerin, Thatcher, Reagan, Washington Consensus
+- [[Totalitarisme als Politiek Systeem]] — Arendt, *Origins of Totalitarianism*, Nazisme en Stalinisme als structureel identieke systemen
 
 ### Vakgeschiedenis
 - [[Eugenica & Pseudowetenschappelijke Psychiatrie]] — racisme als wetenschap, gedwongen sterilisatie, Holocaust-psychiatrie
@@ -131,6 +138,9 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 | [[De Globalisering]] | 1945–heden | Bretton Woods, WTO, multinationals, globale ongelijkheid |
 | [[Eugenica & Pseudowetenschappelijke Psychiatrie]] | 1880–1945 | Racisme als wetenschap, gedwongen sterilisatie, Holocaust |
 | [[Geschiedenis van de Psychiatrie]] | 1800–heden | Asielmodel, Pinel, biopsychiatrie, evidence-based |
+| [[De Zwarte Dood]] | 1347–1352 | Yersinia pestis, 25–50% Europese sterfte, feodale systeemschok |
+| [[De Opkomst van het Neoliberalisme]] | 1940s–heden | Hayek, Friedman, Thatcher, Reagan, Washington Consensus |
+| [[Totalitarisme als Politiek Systeem]] | 1917–1953 | Arendt, instrumentele terreur, ideologische massabeweging |
 
 ---
 

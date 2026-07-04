@@ -34,12 +34,24 @@ importance_score: 0.88
 novelty_score: 0.90
 knowledge_score: 0.88
 usage_score: 0.0
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese.md"
+  - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md"
+  - "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises.md"
+  - "02 Wiki/Beleggen/(C) Opties & Derivaten.md"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md"
+  - "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen.md"
 revision_history:
   - version: 1
     date: 2026-07-04
     author: Knowledge-Hunter
     change: initial creation
+  - version: 2
+    date: 2026-07-04
+    author: Brain-Guardian
+    change: related_nodes YAML bijgewerkt vanuit body wikilinks
 ---
 
 # Risico vs. Onzekerheid — Knight's Onderscheid

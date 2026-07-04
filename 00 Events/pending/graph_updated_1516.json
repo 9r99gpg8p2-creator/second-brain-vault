@@ -1,0 +1,22 @@
+{
+  "event_type": "GraphUpdated",
+  "agent": "Agent4-BrainGuardian",
+  "timestamp": "2026-07-04T15:16:17Z",
+  "status": "pending",
+  "run": 6,
+  "data": {
+    "stats_path": "03 Knowledge Graph/stats/brain_stats.md",
+    "wiki_nodes_total": 108,
+    "wiki_nodes_new": 12,
+    "kg_nodes_total": 39,
+    "kg_nodes_new": 6,
+    "hypotheses_new": 3,
+    "merged": 0,
+    "quality_checked": 12,
+    "yaml_fixes": 4,
+    "moc_updates": 4,
+    "conflicts_detected": 0,
+    "open_knowledge_gaps": ["Interoceptie", "Serotonine & 5-HT systeem"],
+    "quality_check_needed_total": 13
+  }
+}

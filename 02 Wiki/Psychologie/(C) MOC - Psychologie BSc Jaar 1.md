@@ -28,6 +28,10 @@ revision_history:
     date: 2026-07-01
     author: Brain-Guardian
     change: initial YAML scaffolding by guardian routine
+  - version: 2
+    date: 2026-07-04
+    author: Brain-Guardian
+    change: "Alexithymia, Glymfatisch Systeem en Somatische Markerstheorie toegevoegd aan neuropsychologie-tabel"
 ---
 
 # MOC — Psychologie BSc Jaar 1
@@ -84,6 +88,9 @@ Centrale hub voor alle vakken en verbanden uit het eerste jaar BSc Psychologie.
 | [[(C) Slaap & Geheugenconsolidatie]] | REM, SWS, geheugenreplay, PTSS, slaaptekort en cognitie |
 | [[(C) Angststoornissen & Neurowetenschappen]] | Amygdala, HPA-as, angstcircuit, CBT-mechanismen |
 | [[(C) Verslaving & Neurobiologie]] | Dopamine, sensitisatie, DeltaFosB, terugval, medicamenteuze behandeling |
+| [[(C) Alexithymia & Emotieblindheid]] | Moeite met emotieherkenning, insulaire dysregulatie, transdiagnostisch kenmerk bij ASS/PTSS/verslaving |
+| [[(C) Glymfatisch Systeem]] | Paravasculaire afvalverwijdering tijdens NREM-slaap; amyloid-β, Alzheimer-risico |
+| [[(C) Somatische Markerstheorie (Damasio)]] | vmPFC, Iowa Gambling Task, lichaamssignalen als besluitvormingscompas; catastrofale impairment bij frontaal letsel |
 
 ---
 

@@ -2,7 +2,7 @@
 type: moc
 id: ce9ec1c9-fcc2-af3b-6ab7-b31dbde6c340
 title: MOC - Filosofie
-summary: "Centrale navigatiehub voor 13 filosofie-conceptnotes — epistemologie, ethiek, existentialisme, wetenschapsfilosofie, fenomenologie, neuro-ethiek, pragmatisme en meer."
+summary: "Centrale navigatiehub voor 23 filosofie-conceptnotes — epistemologie, ethiek, existentialisme, wetenschapsfilosofie, hermeneutiek, kritische theorie, postmodernisme en meer."
 category: Filosofie
 tags: [moc, filosofie]
 aliases: ["MOC - Filosofie"]
@@ -37,6 +37,10 @@ revision_history:
     date: 2026-07-03
     author: Brain-Guardian
     change: "Nihilisme & Absurdisme toegevoegd aan conceptnotes sectie en Wiki-tabel"
+  - version: 5
+    date: 2026-07-04
+    author: Brain-Guardian
+    change: "Hermeneutiek, Kritische Theorie & Frankfurt School, Postmodernisme toegevoegd aan conceptnotes sectie en Wiki-tabel; summary bijgewerkt naar 23 notes"
 ---
 
 # MOC — Filosofie
@@ -102,6 +106,15 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 ### Pragmatisme
 - [[Pragmatisme]] — Peirce, James, Dewey — kennis als instrument; waarheid is wat werkt
 
+### Hermeneutiek
+- [[Hermeneutiek]] — Schleiermacher, Dilthey, Heidegger, Gadamer — interpretatie, de hermeneutische cirkel en verstaan als fundamentele menselijke activiteit
+
+### Kritische Theorie
+- [[Kritische Theorie & Frankfurt School]] — Institut für Sozialforschung, Adorno, Horkheimer, Habermas — instrumentele rationaliteit en de Dialectik der Aufklärung
+
+### Postmodernisme
+- [[Postmodernisme & De Ontbinding van Grote Narratieven]] — Lyotard, Derrida, Foucault — ongeloof tegenover metanarratieven, deconstruction, macht-kennis
+
 ### Nihilisme & Absurdisme
 - [[Nihilisme & Absurdisme]] — Nietzsche (passief vs. actief nihilisme), Camus' revolt als antwoord op het absurde; existentieel nihilisme en zijn klinische weerklank
 
@@ -147,6 +160,9 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 | [[Marxisme & Historisch Materialisme]] | Marx, Engels, klassenstrijd, productieverhoudingen, basis & bovenbouw |
 | [[Metafysica & Ontologie]] | Zijn, identiteit, substantie, causaliteit, modaliteit — Aristoteles tot Quine |
 | [[Utilitarisme & Consequentialisme]] | Bentham, Mill, Singer — maximalisatie van welzijn als moreel criterium |
+| [[Hermeneutiek]] | Schleiermacher, Dilthey, Heidegger, Gadamer — interpretatie, hermeneutische cirkel |
+| [[Kritische Theorie & Frankfurt School]] | Adorno, Horkheimer, Habermas — instrumentele rationaliteit, Dialectik der Aufklärung |
+| [[Postmodernisme & De Ontbinding van Grote Narratieven]] | Lyotard, Derrida, Foucault — metanarratieven, deconstruction, macht-kennis |
 
 ---
 

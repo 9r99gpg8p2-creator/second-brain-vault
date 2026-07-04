@@ -29,6 +29,10 @@ revision_history:
     date: 2026-07-03
     author: Brain-Guardian
     change: alle 14 Beleggen-conceptnotes toegevoegd aan Wiki-tabel; ESG & Duurzaam Beleggen opgenomen
+  - version: 3
+    date: 2026-07-04
+    author: Brain-Guardian
+    change: "Technische Analyse, Market Microstructure & Liquiditeit en Risico vs. Onzekerheid toegevoegd aan Wiki-tabel"
 ---
 
 # MOC — Beleggen
@@ -103,6 +107,9 @@ Centrale hub voor beleggingsprincipes, mentale modellen en markten.
 | [[(C) Dividendbeleggen & Dividendgroei]] | Dividend aristocrats, DRIP, yield on cost, passief inkomen |
 | [[(C) Private Equity & Venture Capital]] | Buyouts, venture capital, illiquiditeitspremie, carry |
 | [[(C) Valuatie & DCF-analyse]] | Discounted cashflow, terminal value, WACC, intrinsieke waardebepaling |
+| [[(C) Technische Analyse]] | Grafiekpatronen, indicators, EMH-spanning, behavioral finance als verklaring |
+| [[(C) Market Microstructure & Liquiditeit]] | Orderboek, market makers, bid-ask spread, prijsvorming, HFT, transactiekosten |
+| [[(C) Risico vs. Onzekerheid — Knight's Onderscheid]] | Frank Knight (1921), Knightiaanse onzekerheid, Black Swan, EMH/MPT-beperkingen |
 
 ---
 

@@ -2,81 +2,92 @@
 type: stats
 generated: 2026-07-04
 author: Brain-Guardian
-run: 5
+run: 6
 ---
 
-# Brain Statistics — 2026-07-04 (Guardian Run #5)
+# Brain Statistics — 2026-07-04 (Guardian Run #6)
 
 ## Overzicht
 
-| Metric | Waarde | Δ vs Run #4 |
+| Metric | Waarde | Δ vs Run #5 |
 |---|---|---|
-| Totaal wiki-nodes | 96 | +16 |
-| KG-verbindingsnodes | 33 | +8 |
-| Hypotheses | 12 | +2 |
+| Totaal wiki-nodes | 108 | +12 |
+| KG-verbindingsnodes | 39 | +6 |
+| Hypotheses | 15 | +3 |
 | Conflictnotes | 2 | — |
-| Totaal KG-bestanden | 52 | +12 |
-| Gemiddelde quality_score | 0.863 | +0.002 |
-| Gemiddelde confidence_score | 0.881 | — |
+| Totaal KG-bestanden | 60 | +8 |
+| Gemiddelde quality_score | 0.866 | +0.003 |
+| Gemiddelde confidence_score | 0.883 | +0.002 |
 | Notes met quality-check-needed | 13 | — |
-| Nieuw since vorige run | 16 wiki + 10 KG | — |
+| Nieuw since vorige run | 12 wiki + 6 KG + 3 HYP | — |
 | Merged duplicaten (deze run) | 0 | — |
-| MOC-updates (deze run) | 4 | nieuw |
+| MOC-updates (deze run) | 4 | alle 4 MOC bijgewerkt |
+| YAML-fixes (deze run) | 4 | related_nodes gevuld |
 | Conflicten gedetecteerd (deze run) | 0 | — |
 
-> **Noot:** 16 nieuwe wiki-notes toegevoegd door kennisagenten (Knowledge-Synthesizer/Hunter). 4 MOC-bestanden bijgewerkt met ontbrekende wikilinks naar nieuwe notes. Geen nieuwe duplicaten of conflicten gedetecteerd. De twee `Beloningssysteem & Dopamine` notes (Beleggen/Psychologie) zijn bewust disciplinespecifiek en vormen geen duplicaat.
+> **Noot:** 12 nieuwe wiki-notes toegevoegd door kennisagenten (Knowledge-Synthesizer/Hunter). 4 MOC-bestanden bijgewerkt met alle nieuwe notes. 4 notes hadden leeg related_nodes YAML ondanks body wikilinks — gecorrigeerd. 2 openstaande kennishiaten uit pending events: **Interoceptie** en **Serotonine & 5-HT systeem** (beide als knowledge_gap gepubliceerd, nog geen wiki-note aangemaakt).
 
 ---
 
 ## Per Discipline
 
-| Discipline | Nodes | Gem. kwaliteit | Gem. confidence | Nieuwste note |
-|---|---|---|---|---|
-| 🟢 Psychologie | 31 | 0.848 | 0.884 | Neurocognitieve Stoornissen & Dementie |
-| 🔵 Filosofie | 23 | 0.850 | 0.877 | Metafysica & Ontologie |
-| 🟡 Geschiedenis | 21 | 0.891 | 0.910 | Het Ottomaanse Rijk |
-| 🔴 Beleggen | 21 | 0.872 | 0.882 | Dividendbeleggen & Dividendgroei |
-| **Totaal** | **96** | **0.863** | **0.881** | — |
+| Discipline | Nodes | Δ | Gem. kwaliteit | Gem. confidence | Nieuwste note |
+|---|---|---|---|---|---|
+| 🟢 Psychologie | 34 | +3 | 0.852 | 0.884 | Alexithymia & Emotieblindheid |
+| 🔵 Filosofie | 26 | +3 | 0.855 | 0.879 | Hermeneutiek |
+| 🟡 Geschiedenis | 24 | +3 | 0.891 | 0.910 | De Opkomst van het Neoliberalisme |
+| 🔴 Beleggen | 24 | +3 | 0.873 | 0.882 | Market Microstructure & Liquiditeit |
+| **Totaal** | **108** | **+12** | **0.866** | **0.883** | — |
 
-> **Noot Filosofie:** Gemiddelde inclusief deprecated `Epistemologie`-stub (quality_score: 0.0). Exclusief stub: **0.890**.
+> **Noot Filosofie:** Gemiddelde inclusief deprecated `Epistemologie`-stub (quality_score: 0.0). Exclusief stub: **0.889**.
+
+---
+
+## Nieuwe Notes Deze Run (#6)
+
+| Discipline | Note | Bronnen | Woorden |
+|---|---|---|---|
+| 🟢 Psychologie | Alexithymia & Emotieblindheid | 5 PMC/PubMed | ~970 |
+| 🟢 Psychologie | Glymfatisch Systeem | 5 incl. Cell 2025 | ~1080 |
+| 🟢 Psychologie | Somatische Markerstheorie (Damasio) | 5 incl. PNAS | ~1150 |
+| 🔵 Filosofie | Hermeneutiek | 4 URL + 2 boeken | ~1390 |
+| 🔵 Filosofie | Kritische Theorie & Frankfurt School | 3 incl. SEP | ~1145 |
+| 🔵 Filosofie | Postmodernisme & De Ontbinding van Grote Narratieven | 5 incl. SEP | ~1249 |
+| 🟡 Geschiedenis | De Zwarte Dood | 5 incl. PMC | ~1282 |
+| 🟡 Geschiedenis | De Opkomst van het Neoliberalisme | 4 incl. Tandfonline | ~1065 |
+| 🟡 Geschiedenis | Totalitarisme als Politiek Systeem | 5 incl. Library of Congress | ~1276 |
+| 🔴 Beleggen | Technische Analyse | 4 | ~1275 |
+| 🔴 Beleggen | Market Microstructure & Liquiditeit | 4 incl. BIS | ~1206 |
+| 🔴 Beleggen | Risico vs. Onzekerheid — Knight's Onderscheid | 5 incl. MIT/SSRN | ~1254 |
+
+**Kwaliteitsoordeel nieuwe notes:** Allen ≥968 woorden, ≥4 bronnen, wikilinks aanwezig. Geen nieuwe quality-check-needed flags.
 
 ---
 
 ## Top 10 Meest Verbonden Nodes
 
-*(Gebaseerd op wikilink-backlinks — gehele vault; usage_score = backlinks / 96)*
+*(Gebaseerd op wikilink-backlinks — gehele vault inclusief KG-bestanden)*
 
-| Rank | Note | Backlinks | usage_score | Discipline |
-|---|---|---|---|---|
-| 1 | Gedragseconomie & Cognitieve Biases | 35 | 0.365 | 🔴 Beleggen |
-| 2 | Ethiek | 31 | 0.323 | 🔵 Filosofie |
-| 3 | Falsifieerbaarheid & Wetenschapsfilosofie | 29 | 0.302 | 🔵 Filosofie |
-| 4 | Epistemologie & Kennistheorie | 28 | 0.292 | 🔵 Filosofie |
-| 5 | Emotieregulatie | 28 | 0.292 | 🟢 Psychologie |
-| 6 | ADHD & Executieve Disfunctie | 25 | 0.260 | 🟢 Psychologie |
-| 7 | Klinische Psychologie | 24 | 0.250 | 🟢 Psychologie |
-| 8 | Sociale Psychologie | 23 | 0.240 | 🟢 Psychologie |
-| 9 | Filosofie van de Geest | 23 | 0.240 | 🔵 Filosofie |
-| 10 | Executieve Functies & Prefrontale Cortex | 23 | 0.240 | 🟢 Psychologie |
+| Rank | Note | Backlinks (vault-breed) | Discipline |
+|---|---|---|---|
+| 1 | Gedragseconomie & Cognitieve Biases | 69 | 🔴 Beleggen |
+| 2 | Emotieregulatie | 57 | 🟢 Psychologie |
+| 3 | Epistemologie & Kennistheorie | 56 | 🔵 Filosofie |
+| 4 | Filosofie van de Geest | 53 | 🔵 Filosofie |
+| 5 | Falsifieerbaarheid & Wetenschapsfilosofie | 53 | 🔵 Filosofie |
+| 6 | Ethiek | 52 | 🔵 Filosofie |
+| 7 | Sociale Psychologie | 50 | 🟢 Psychologie |
+| 8 | Executieve Functies & Prefrontale Cortex | 50 | 🟢 Psychologie |
+| 9 | ADHD & Executieve Disfunctie | 44 | 🟢 Psychologie |
+| 10 | Efficiënte Markt Hypothese | 41 | 🔴 Beleggen |
 
-**Observatie Run #5:** `Gedragseconomie & Cognitieve Biases` heeft de rol van #1 overgenomen van `Ethiek`. Dit weerspiegelt de sterke uitbreiding van de Beleggen-discipline en haar neuropsychologische verbindingen. `Emotieregulatie` stijgt naar #4 (gedeeld met Epistemologie), wat de centrale rol van emotieregulatie als cross-disciplinaire brug bevestigt. Nieuw in de top: `Marktpsychologie & Beurscrises` (22 backlinks, #11) — een gevolg van de 5 nieuwe Beleggen-notes die er naar verwijzen.
-
----
-
-## MOC-Updates Deze Run
-
-| MOC | Toegevoegde links |
-|---|---|
-| MOC - Beleggen | Alternatieve Beleggingen, Cryptovaluta & Blockchain, Dividendbeleggen & Dividendgroei, Private Equity & Venture Capital, Valuatie & DCF-analyse |
-| MOC - Filosofie | Deontologie & Kantische Ethiek, Deugdethiek & Aristotelische Ethiek, Dialectiek & Hegeliaanse Synthese, Filosofie van de Taal, Marxisme & Historisch Materialisme, Metafysica & Ontologie, Utilitarisme & Consequentialisme |
-| MOC - Geschiedenis | De Middeleeuwen & Feodalisme, De Islamitische Gouden Eeuw, Het Ottomaanse Rijk, De Opkomst van het Fascisme, De Globalisering |
-| MOC - Psychologie BSc Jaar 1 | Aandacht & Cognitieve Controle, Perceptie & Predictive Coding, Beloningssysteem & Dopamine, HPA-as & Cortisolregulatie, Autisme Spectrum Stoornis, Gokstoornis & Impulscontrolestoornis, Neurocognitieve Stoornissen & Dementie, Slaap & Geheugenconsolidatie, Angststoornissen & Neurowetenschappen, Verslaving & Neurobiologie |
+**Observatie Run #6:** `Gedragseconomie & Cognitieve Biases` behoudt de #1 positie met 69 vault-brede backlinks. `Emotieregulatie` stijgt naar #2 (was #5 in run#5) — de 12 nieuwe notes linken er vrijwel allemaal naar. `Filosofie van de Geest` en `Executieve Functies` stijgen sterk door cross-disciplinaire verbindingen in nieuwe Filosofie- en Psychologie-notes. `Efficiënte Markt Hypothese` nieuw in top 10 (#10) door sterke verankering in de 3 nieuwe Beleggen-notes.
 
 ---
 
 ## Kwaliteitsaandachtspunten
 
-Notes met `quality-check-needed` tag (13 stuks — ongewijzigd t.o.v. run #4):
+Notes met `quality-check-needed` tag (13 stuks — ongewijzigd t.o.v. run #5):
 
 | Note | Discipline | Reden |
 |---|---|---|
@@ -94,22 +105,47 @@ Notes met `quality-check-needed` tag (13 stuks — ongewijzigd t.o.v. run #4):
 | Deugdethiek & Aristotelische Ethiek | Filosofie | quality_score: 0.78 — bronnen aanwezig |
 | De Griekse Oudheid | Geschiedenis | quality_score: 0.82 — bronnen aanwezig maar geen URL |
 
-**Prioriteit voor Knowledge-Synthesizer:** Focus op Psychologie-notes (7 van 13) — voeg DOI/URL-bronnen toe aan de 5 notes met quality_score 0.70–0.75.
+**Prioriteit voor Knowledge-Synthesizer:** Focus op de 5 Psychologie-notes met quality_score 0.70–0.75. Voeg DOI/URL-bronnen toe (bijv. Stroop 1935, Milgram 1963, Piaget).
 
 ---
 
-## Groeisnelheid
+## Openstaande Kennishiaten
 
-- Notes per dag: ~16 (run #4 → #5, periode: 1 dag; inclusief geautomatiseerde kennisagenten)
-- KG-nodes per dag: ~8 (hetzelfde tijdsbestek)
-- Totale vault-groei run #1 → #5: van ~60 naar 96 wiki-nodes + 33 KG-nodes in ~4 dagen
+Twee pending knowledge_gap events zijn nog niet omgezet naar wiki-notes:
+
+| Kennishiaat | Pending event | Prioriteit | Reden |
+|---|---|---|---|
+| **Interoceptie** | knowledge_gap_Interoceptie_0704.json | Hoog | Cross-link met Alexithymia, HPA-as, Somatische Markerstheorie — 3 recent toegevoegde notes verwijzen indirect naar dit concept |
+| **Serotonine & 5-HT systeem** | knowledge_gap_Serotonine5HT_0704.json | Hoog | Neurobiologisch tegenwicht voor dopamine; cruciaal voor depressie, angst, CGT-farmacologie |
+
+**Aanbeveling:** Deze twee notes moeten als volgende prioriteit aangemaakt worden door Knowledge-Synthesizer.
 
 ---
 
 ## Vault-Integriteit
 
-- Duplicaten gedetecteerd: 0 echte duplicaten (de twee `Beloningssysteem & Dopamine` notes zijn disciplinespecifiek)
-- Conflicten gevonden: 0 nieuw (2 bestaande CONFLICT-bestanden open)
-- Deprecated stubs: 1 (`Epistemologie.md` — correct gemarkeerd, backlinks omleiden naar `Epistemologie & Kennistheorie`)
-- Wikilinks: alle 96 notes hebben minimaal 1 wikilink ✓
-- Bronnen: 95/96 notes hebben ≥1 bron ✓ (alleen deprecated Epistemologie-stub heeft geen bronnen)
+- Duplicaten gedetecteerd: 0 (de twee `Beloningssysteem & Dopamine` notes zijn disciplinespecifiek ✓)
+- Conflicten gevonden: 0 nieuw (2 bestaande CONFLICT-bestanden open: EMH vs Gedragseconomie, Verlichting vs Eugenica)
+- Deprecated stubs: 1 (`Epistemologie.md` — correct gemarkeerd ✓)
+- YAML-fixes: 4 notes hadden leeg `related_nodes: []` ondanks body wikilinks — gecorrigeerd ✓
+- MOC-updates: alle 4 MOC-bestanden bijgewerkt met de 12 nieuwe notes ✓
+- Processed events: 22 (< 50 drempel; geen archivering vereist)
+
+---
+
+## Groeisnelheid
+
+- Wiki-nodes totaal run #1 → #6: van ~60 naar 108 in ~5 dagen (~9.6 nodes/dag gemiddeld)
+- KG-nodes: van 0 naar 60 totale bestanden (39 KG + 15 HYP + 2 CONFLICT + 4 stats)
+- Run #5 → #6: 12 wiki + 6 KG + 3 HYP in één cyclus — bovengemiddelde groei
+
+---
+
+## MOC-Updates Deze Run
+
+| MOC | Toegevoegde links |
+|---|---|
+| MOC - Filosofie | Hermeneutiek, Kritische Theorie & Frankfurt School, Postmodernisme & De Ontbinding van Grote Narratieven |
+| MOC - Psychologie BSc Jaar 1 | Alexithymia & Emotieblindheid, Glymfatisch Systeem, Somatische Markerstheorie (Damasio) |
+| MOC - Geschiedenis | De Zwarte Dood, De Opkomst van het Neoliberalisme, Totalitarisme als Politiek Systeem |
+| MOC - Beleggen | Technische Analyse, Market Microstructure & Liquiditeit, Risico vs. Onzekerheid — Knight's Onderscheid |

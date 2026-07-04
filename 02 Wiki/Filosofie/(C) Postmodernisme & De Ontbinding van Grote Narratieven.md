@@ -34,12 +34,24 @@ importance_score: 0.87
 novelty_score: 0.91
 knowledge_score: 0.90
 usage_score: 0.0
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Filosofie/(C) Nihilisme & Absurdisme.md"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md"
+  - "02 Wiki/Filosofie/(C) Metafysica & Ontologie.md"
+  - "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract.md"
+  - "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie.md"
+  - "02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde.md"
+  - "02 Wiki/Geschiedenis/(C) De Verlichting.md"
 revision_history:
   - version: 1
     date: 2026-07-04
     author: Knowledge-Hunter
     change: initial creation
+  - version: 2
+    date: 2026-07-04
+    author: Brain-Guardian
+    change: related_nodes YAML bijgewerkt vanuit body wikilinks
 ---
 
 # Postmodernisme & De Ontbinding van Grote Narratieven
