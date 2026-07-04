@@ -1,0 +1,86 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-04T12:08:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-04/1208",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Alexithymia & Emotieblindheid",
+        "wiki_path": "02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid.md",
+        "source_score": 9,
+        "confidence": 0.87,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "addresses_gap": "knowledge_gap_Alexithymia_0704.json",
+        "key_connections": [
+          "Emotieregulatie",
+          "Autisme Spectrum Stoornis",
+          "Interoceptie",
+          "Somatische Markerstheorie",
+          "Sociale Cognitie & Theory of Mind",
+          "Verslaving & Neurobiologie"
+        ]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Kritische Theorie & Frankfurt School",
+        "wiki_path": "02 Wiki/Filosofie/(C) Kritische Theorie & Frankfurt School.md",
+        "source_score": 9,
+        "confidence": 0.88,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "addresses_gap": null,
+        "key_connections": [
+          "Marxisme & Historisch Materialisme",
+          "Postmodernisme",
+          "Dialectiek & Hegeliaanse Synthese",
+          "Sociale Psychologie",
+          "De Tweede Wereldoorlog",
+          "De Opkomst van het Fascisme"
+        ]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Opkomst van het Neoliberalisme",
+        "wiki_path": "02 Wiki/Geschiedenis/(C) De Opkomst van het Neoliberalisme.md",
+        "source_score": 8,
+        "confidence": 0.86,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "addresses_gap": null,
+        "key_connections": [
+          "De Koude Oorlog",
+          "De Industriële Revolutie",
+          "De Globalisering",
+          "Efficiënte Markt Hypothese",
+          "Gedragseconomie & Cognitieve Biases",
+          "Kritische Theorie & Frankfurt School"
+        ]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Market Microstructure & Liquiditeit",
+        "wiki_path": "02 Wiki/Beleggen/(C) Market Microstructure & Liquiditeit.md",
+        "source_score": 9,
+        "confidence": 0.86,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "addresses_gap": null,
+        "key_connections": [
+          "Efficiënte Markt Hypothese",
+          "Moderne Portefeuilletheorie",
+          "Opties & Derivaten",
+          "Risico vs. Onzekerheid — Knight's Onderscheid",
+          "Gedragseconomie & Cognitieve Biases"
+        ]
+      }
+    ],
+    "gaps_processed": [
+      "knowledge_gap_Alexithymia_0704.json"
+    ],
+    "summary": "4 nieuwe wiki-notities aangemaakt: Alexithymia (adresseert vandaag's kennishiaat, priority 0.83), Kritische Theorie & Frankfurt School, De Opkomst van het Neoliberalisme, Market Microstructure & Liquiditeit. Alle notities bevatten YAML frontmatter, interne links, FEIT/AANNAME/THEORIE labels, en onderzoeksvragen."
+  }
+}
