@@ -26,7 +26,17 @@ importance_score: 0.88
 novelty_score: 0.88
 knowledge_score: 0.89
 usage_score: 0.0469
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Filosofie/(C) Filosofie van de Geest"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"
+  - "02 Wiki/Filosofie/(C) Ethiek"
+  - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
+  - "02 Wiki/Psychologie/(C) Emotieregulatie"
+  - "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme"
+  - "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS"
+  - "03 Knowledge Graph/(KG) Fenomenologie van Trauma — Lichaam, Tijd en het Gebroken Zelf"
+  - "03 Knowledge Graph/(KG) Fenomenologie en het Bayesiaanse Brein — Intentionaliteit, Predictive Coding en de Architectuur van Ervaring"
 revision_history:
   - version: 1
     date: 2026-07-01

@@ -26,7 +26,14 @@ importance_score: 0.80
 novelty_score: 0.78
 knowledge_score: 0.82
 usage_score: 0.0
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Filosofie/(C) Dialectiek & Hegeliaanse Synthese"
+  - "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+  - "02 Wiki/Geschiedenis/(C) De Russische Revolutie"
+  - "02 Wiki/Geschiedenis/(C) De Industriële Revolutie"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
 revision_history:
   - version: 1
     date: 2026-07-03

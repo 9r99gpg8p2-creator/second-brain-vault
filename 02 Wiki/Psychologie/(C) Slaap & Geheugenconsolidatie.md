@@ -26,12 +26,27 @@ importance_score: 0.93
 novelty_score: 0.90
 knowledge_score: 0.93
 usage_score: 0.125
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Geheugen & Amnesie"
+  - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
+  - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie"
+  - "02 Wiki/Psychologie/(C) Default Mode Network"
+  - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
+  - "02 Wiki/Psychologie/(C) Ruminatie & Piekeren"
+  - "02 Wiki/Psychologie/(C) Emotieregulatie"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS"
+  - "02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie"
+  - "02 Wiki/Psychologie/(C) Neurocognitieve Stoornissen & Dementie"
+  - "03 Knowledge Graph/(KG) Slaap, REM-extinctie en het Gebroken Angstgeheugen"
 revision_history:
   - version: 1
     date: 2026-07-01
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-04
+    author: Discovery-Engine
+    change: related_nodes gesynchroniseerd; Neurocognitieve Stoornissen & Dementie + HPA-as als nieuwe verbanden toegevoegd
 ---
 
 # Slaap & Geheugenconsolidatie

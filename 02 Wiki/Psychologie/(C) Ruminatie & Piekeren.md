@@ -26,12 +26,27 @@ importance_score: 0.95
 novelty_score: 0.88
 knowledge_score: 0.93
 usage_score: 0.125
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Default Mode Network"
+  - "02 Wiki/Psychologie/(C) Emotieregulatie"
+  - "02 Wiki/Filosofie/(C) Stoïcisme"
+  - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
+  - "02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie"
+  - "02 Wiki/Psychologie/(C) Aandacht & Cognitieve Controle"
+  - "02 Wiki/Psychologie/(C) Schizofrenie & Psychose"
+  - "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding"
+  - "02 Wiki/Filosofie/(C) Fenomenologie"
+  - "02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie"
 revision_history:
   - version: 1
     date: 2026-07-01
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-04
+    author: Discovery-Engine
+    change: related_nodes gesynchroniseerd met Verbanden-sectie; HPA-as toegevoegd als bidirectionele relatie; Verdieping toegevoegd
 ---
 
 # Ruminatie & Piekeren
@@ -119,3 +134,25 @@ De brug tussen DMN-onderzoek en klinische behandeling is een van de meest actiev
 - PMC (2024). Functional Connectivity in the Default Mode Network During Rumination in Depression.
 
 > Status: Verwerkt door Knowledge-Synthesizer | 2026-07-01
+
+## Verdieping (Discovery Engine)
+
+### De HPA-Ruminatie vicieuze cirkel
+
+Een kritisch en onderbelicht mechanisme: ruminatie en HPA-dysregulatie versterken elkaar bidirectioneel in een zelfonderhoudende pathologische lus.
+
+**Richting 1 (HPA → Ruminatie):** Chronisch verhoogd cortisol veroorzaakt hippocampaal volumeverlies. De hippocampus is essentieel voor contextuele geheugenretrieval en het ontkoppelen van gedachten van hun oorspronkelijke emotionele lading. Hippocampale schade maakt het moeilijker om negatieve herinneringen als "verleden" te markeren — ze blijven als heden-relevant gecodeerd. Dit is de neurobiologische basis voor ruminatieve intrusies.
+
+**Richting 2 (Ruminatie → HPA):** Ruminatieve activiteit (mPFC-PCC connectiviteit in het DMN) genereert langdurige negatieve affecttoestanden die de HPA-as chronisch activeren. Passieve ruminatie zonder probleem-oplossing heeft geen biologische ontlaadmogelijkheid — het lichaam blijft in alarmtoestand. Zie [[02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie]].
+
+**Therapeutische implicatie:** Interventies die ruminatie doorbreken (RFCBT, mindfulness, aandachtstraining) zijn indirect HPA-normaliserende interventies. Slaapoptimalisatie — die hippocampale consolidatie bevordert — is eveneens indirect een ruminatieverminderende interventie. Deze drie behandeldoelen (ruminatie, HPA, slaap) zijn mechanistisch onscheidbaar.
+
+### Beleggen als institutionele ruminatie
+
+Een onverwachte cross-disciplinaire analogie: de *recency bias* in beleggen — de neiging om recente koersbewegingen als permanent en toekomstig bepalend te beschouwen — is structureel een markt-niveau ruminatie. De markt "piekert" collectief over recente informatie en gewicht disproportioneel mee. Momentum-factoren bestaan deels omdat markten rumineren.
+
+De antidote in beleggen (waardeanalyse, lange-termijn perspectief, indexbeleggen) isanalogisch aan de cognitieve herstructurering in RFCBT: het dwingen om het actuele perspectief te verlaten en de tijdshorizon te verruimen.
+
+### Sekseverschillen en socialisatie
+
+Nolen-Hoeksema's originele onderzoek documenteerde significant hogere ruminatieniveaus bij vrouwen — een bevinding die robuust is gerepliceerd. De verklaring is tweeledig: biologisch (oestrogeen moduleert serotonine-reactiviteit, relevant voor ruminatieve drift) maar ook sociaal (vrouwen worden vaker gesocialiseerd naar passieve copingstijlen; actieve probleem-oplossing wordt minder gestimuleerd). Dit is een feit met directe diagnostische implicaties: sekseblinde drempelwaarden voor klinisch relevante ruminatie zijn waarschijnlijk te hoog voor vrouwen.

@@ -38,12 +38,25 @@ importance_score: 0.93
 novelty_score: 0.92
 knowledge_score: 0.91
 usage_score: 0.0
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Depressie & Neurobiologie"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS"
+  - "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen"
+  - "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"
+  - "02 Wiki/Psychologie/(C) Emotieregulatie"
+  - "02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie"
+  - "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie"
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex"
+  - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
 revision_history:
   - version: 1
     date: 2026-07-03
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-04
+    author: Discovery-Engine
+    change: related_nodes gesynchroniseerd met Verbanden-sectie; Verdieping toegevoegd (financiële stress, neuro-ethiek, epigenetische feedback)
 ---
 
 # HPA-as & Cortisolregulatie
@@ -146,3 +159,29 @@ Voor Klinische Neuropsychologie is de HPA-as van fundamenteel belang. De differe
 - Manthey, L. et al. (2018). Combined DST-CRH test in depression and PTSD. *PMC5917334.* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5917334/
 
 > Status: Verwerkt door Knowledge-Synthesizer | 2026-07-03
+
+## Verdieping (Discovery Engine)
+
+### Financiële stress als fysiologische dreiging
+
+Het brein maakt evolutionair geen onderscheid tussen een roofdier en een marktcrash. Coates & Herbert (PNAS, 2008) toonden aan dat professionele traders' cortisolniveaus significant stijgen bij marktvolatiliteit — niet alleen bij verlies maar bij *onzekerheid zelf*. Dit is identiek aan de HPA-respons op een onvoorspelbare fysieke stressor.
+
+De implicatie is fundamenteel: financieel adviseurs die patiënten (of cliënten) onder financieel stres begeleiden, zien feitelijk mensen in een HPA-geactiveerde toestand. Rationele besluitvorming is dan biologisch gecompromitteerd — zie ook [[02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases]]. Dit is geen karakterzwakte maar een evolutionaire fysiologische respons op onzekerheid.
+
+### De HPA-Epigenetica-Ruminatie vicieuze cirkel
+
+Een van de gevaarlijkste klinische patronen die uit de HPA-literatuur oprijst is de drievoudige vicieuze cirkel:
+1. Chronische psychosociale stress → HPA-hyperactiviteit → verhoogd cortisol
+2. Verhoogd cortisol → hippocampale volumereductie (via glucotoxiciteit) → verminderde negatieve feedback → cortisol blijft hoog
+3. Hippocampale schade → verhoogde ruminatieve activiteit (DMN-ontkoppeling) → meer psychosociale stress
+
+Ruminatie ([[02 Wiki/Psychologie/(C) Ruminatie & Piekeren]]) is dus niet alleen een gevolg maar ook een oorzaak van HPA-hyperactiviteit. Therapeutisch: interventies die ruminatie doorbreken (RFCBT, mindfulness) dienen indirect als HPA-normalisatieinterventies.
+
+### Neuro-ethische implicaties van HPA-dysregulatie
+
+Als chronische cortisolhyperactiviteit de prefrontale cortex aantast — waardoor plannen, oordelen en inhiberen verslechtert — dan rijst een fundamentele neuro-ethische vraag: zijn beslissingen genomen onder extreme chronische stress *moreel volledig toerekenbaar*? Dit is relevant voor:
+- Juridische contexten: arbeidsrechtelijke beslissingen, contracten, getuigenverklaringen
+- Klinische ethiek: informed consent bij patiënten met ernstige stressgerelateerde psychiatrie
+- Sociaal beleid: beleid dat chronische armoedestresstoestand negeert als context van "slechte keuzes"
+
+Verbindt naar [[02 Wiki/Filosofie/(C) Neuro-ethiek]] en [[02 Wiki/Filosofie/(C) Vrije Wil & Determinisme]].

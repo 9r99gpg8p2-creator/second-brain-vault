@@ -1,0 +1,25 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-04T07:04:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Interoceptie & Lichaamsgewaarwording",
+    "discipline": "Psychologie",
+    "priority": 0.87,
+    "reason": "Interoceptie — de perceptie van interne lichaamstoestanden — is een kritisch concept dat impliciet aanwezig is in meerdere notes (Fenomenologie via Merleau-Ponty's corps propre, Emotieregulatie via de constructieve emotietheorie van Barrett, Angststoornissen via interoceptieve blootstelling, Verslaving via craving als interoceptief signaal) maar nergens gedefinieerd. Verbindt Filosofie (fenomenologie van het lichaam), Psychologie (emotieregulatie, angstbehandeling), en Neurowetenschappen (insulaire cortex als interoceptieve hub). Essentieel concept voor klinische neuropsychologie: interoceptieve dysregulatie is aanwezig bij angststoornissen, depressie, PTSS en eetstoornissen.",
+    "mentioned_in": [
+      "02 Wiki/Filosofie/(C) Fenomenologie",
+      "02 Wiki/Psychologie/(C) Emotieregulatie",
+      "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen",
+      "03 Knowledge Graph/(KG) Fenomenologie en het Bayesiaanse Brein — Intentionaliteit, Predictive Coding en de Architectuur van Ervaring"
+    ],
+    "suggested_links": [
+      "02 Wiki/Filosofie/(C) Fenomenologie",
+      "02 Wiki/Psychologie/(C) Emotieregulatie",
+      "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding",
+      "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen",
+      "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"
+    ]
+  }
+}

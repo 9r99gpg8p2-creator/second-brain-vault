@@ -1,0 +1,25 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-04T07:04:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Serotoninesysteem & 5-HT Neurotransmissie",
+    "discipline": "Psychologie",
+    "priority": 0.85,
+    "reason": "Het serotoninesysteem (5-HT) is het farmacologische doelwit van de meest voorgeschreven antidepressiva (SSRI's) en is centraal in de neurobiologie van depressie, angststoornissen, OCD, impulscontrole en gokstoornis — maar heeft geen eigen wiki-pagina. Expliciet vermeld in Gokstoornis (serotonine-disfunctie verhoogt impulsiviteit) en impliciet in Depressie, Angststoornissen en Klinische Psychologie. Essentieel concept voor BSc/MSc Psychologie. Verbindt farmacologie, klinische psychologie en neurowetenschappen. Gezien het debat over de serotonine-depressiehypothese (Moncrieff et al., 2022) is dit ook filosofisch-wetenschappelijk relevant: de validiteit van de serotoninehypothese als verklaring vs. rationalisatie van antidepressiva-effecten.",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Gokstoornis & Impulscontrolestoornis",
+      "02 Wiki/Psychologie/(C) Depressie & Neurobiologie",
+      "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen",
+      "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"
+    ],
+    "suggested_links": [
+      "02 Wiki/Psychologie/(C) Depressie & Neurobiologie",
+      "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen",
+      "02 Wiki/Psychologie/(C) Gokstoornis & Impulscontrolestoornis",
+      "02 Wiki/Psychologie/(C) Klinische Psychologie",
+      "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+    ]
+  }
+}

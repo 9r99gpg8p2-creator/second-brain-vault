@@ -1,0 +1,22 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-04T07:04:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Glymfatisch Systeem",
+    "discipline": "Psychologie",
+    "priority": 0.90,
+    "reason": "Het glymfatisch systeem — ontdekt door Nedergaard (2013) — is het brein-specifieke afvoermechanisme dat tijdens slaap metabolisch afval (waaronder amyloid-β) verwijdert. Centraal mechanisme dat Slaap & Geheugenconsolidatie direct verbindt met Neurocognitieve Stoornissen & Dementie en Alzheimer-preventie. Wordt expliciet vermeld in de Slaap-note maar heeft geen eigen pagina. Verbindt vier domeinen: slaapfysiologie, neurodegeneratie, HPA-as (cortisol verstoort SWS → verstoort klaring) en public health (slaaptekort als modifieerbare Alzheimer-risicofactor).",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie",
+      "03 Knowledge Graph/(KG) Het Slapende Brein als Schoonmaker — Glymfatisch Systeem, Amyloidklaring en de Neurobiologie van Dementie"
+    ],
+    "suggested_links": [
+      "02 Wiki/Psychologie/(C) Neurocognitieve Stoornissen & Dementie",
+      "02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie",
+      "02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie",
+      "02 Wiki/Psychologie/(C) Neuroplasticiteit"
+    ]
+  }
+}

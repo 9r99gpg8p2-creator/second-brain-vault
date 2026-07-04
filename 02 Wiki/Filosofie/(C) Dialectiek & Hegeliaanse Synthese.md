@@ -26,12 +26,23 @@ importance_score: 0.88
 novelty_score: 0.95
 knowledge_score: 0.90
 usage_score: 0.0
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Filosofie/(C) Marxisme & Historisch Materialisme"
+  - "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"
+  - "02 Wiki/Geschiedenis/(C) De Russische Revolutie"
+  - "02 Wiki/Geschiedenis/(C) De Industriële Revolutie"
+  - "02 Wiki/Psychologie/(C) Cognitieve Gedragstherapie"
+  - "02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie"
 revision_history:
   - version: 1
     date: 2026-07-03
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-04
+    author: Discovery-Engine
+    change: related_nodes gesynchroniseerd; Verdieping toegevoegd (DBT-dialectiek, marktcycli, cognitieve dissonantie)
 ---
 
 # Dialectiek & Hegeliaanse Synthese
@@ -115,3 +126,23 @@ Voor Klinische Neuropsychologie is dialectiek direct relevant via dialectische g
 - Wikipedia. (2024). *Dialectic.* https://en.wikipedia.org/wiki/Dialectic
 
 > Status: Verwerkt door Knowledge-Synthesizer | 2026-07-03
+
+## Verdieping (Discovery Engine)
+
+### DBT als psychologische dialectiek
+
+Marsha Linehan's Dialectical Behavior Therapy (DBT) is de meest directe psychologische implementatie van Hegeliaans denken — en dit is geen toeval: Linehan was expliciet door dialectisch denken geïnspireerd. De kern van DBT is de spanning tussen **acceptatie en verandering** als dialectisch paar. De therapeutische houding is de synthese: radicale acceptatie van de huidige situatie (these) + actieve inzet op gedragsverandering (antithese) → geïntegreerde dialectische balans (synthese).
+
+Dit is de Aufhebung in therapeutische praktijk: de patiënt hoeft niet te kiezen tussen "ik ben goed zoals ik ben" of "ik moet veranderen" — beide zijn waar en de spanning is productief. DBT verbindt Filosofie direct met [[02 Wiki/Psychologie/(C) Cognitieve Gedragstherapie]] en [[02 Wiki/Psychologie/(C) Emotieregulatie]].
+
+### Marktcycli als historisch-dialectische beweging
+
+Economische cycli vertonen een dialectisch patroon dat Joseph Schumpeter's *creatieve destructie* precies beschrijft. De bull market (these: optimisme, kredietexpansie, risiconeming) bevat haar eigen antithese al in zich — overmatige leverage, malinvestment, zeepbellen. De bear market (antithese) is de pijnlijke maar noodzakelijke correctie. De synthese is een hogere productiviteitsbaseline op hogere infrastructurele of technologische basis.
+
+De Dot-com crash (2001) vernietigde speculatieve internetbedrijven maar liet de internetinfrastructuur intact — de synthese was de Web 2.0 economie. De Financiële Crisis (2008) vernietigde overmatig geleverde financiële structuren maar liet het concept van securitisatie bestaan. Dialectisch geredeneerd: elke crash is een Aufhebung die het systeem op een hoger maar pijnlijk bewustzijnsniveau tilt. Verbindt met [[02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie]].
+
+### Cognitieve dissonantie als psychologisch dialectisch spanningsveld
+
+Leon Festinger's cognitieve dissonantie — de psychologische spanning wanneer twee incompatibele cognities tegelijk worden gehouden — is structureel identiek aan de dialectische spanning tussen these en antithese. Het individu ervaart de *immanente spanning* van het dialectisch patroon als psychologische onrust.
+
+De resolutie — attitudeverandering, rationalisatie, nieuw gedrag — is de synthese. Maar anders dan Hegel's Aufhebung (die het hogere niveau bereikt) kan cognitieve dissonantieresolutie ook *regressief* zijn: rationalisatie als neerwaartse Aufhebung, waarbij de kwaliteit van de synthese lager is dan de oorspronkelijke these. Dit is relevant voor biasresistentie in wetenschappelijk denken (zie [[02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie]]).

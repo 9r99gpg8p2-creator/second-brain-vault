@@ -38,12 +38,25 @@ importance_score: 0.82
 novelty_score: 0.95
 knowledge_score: 0.88
 usage_score: 0.0
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex"
+  - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie"
+  - "02 Wiki/Psychologie/(C) Emotieregulatie"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine"
+  - "02 Wiki/Beleggen/(C) Opties & Derivaten"
+  - "02 Wiki/Psychologie/(C) Depressie & Neurobiologie"
+  - "02 Wiki/Psychologie/(C) Cognitieve Gedragstherapie"
 revision_history:
   - version: 1
     date: 2026-07-03
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-04
+    author: Discovery-Engine
+    change: related_nodes gesynchroniseerd met Verbanden-sectie
 ---
 
 # Gokstoornis & Impulscontrolestoornis

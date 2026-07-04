@@ -1,0 +1,24 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-04T07:04:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Alexithymia & Emotieblindheid",
+    "discipline": "Psychologie",
+    "priority": 0.83,
+    "reason": "Alexithymia — het verminderd vermogen om emoties te identificeren, beschrijven en onderscheiden — is een transdiagnostisch construct dat impliciet aanwezig is in Autisme (sociale cognitieproblemen), Verslaving (moeite met affect-identificatie als verslavingsrisicofactor), Emotieregulatie (alexithymia als regulatiebarrière), en Somatische Markerstheorie (alexithymia als falen van interoceptieve besluitvorming). Heeft geen eigen note. Epidemiologisch prevalent: ~10% van de bevolking. Klinisch relevant voor neuropsychologische diagnostiek van ASS, PTSS, eetstoornissen en persoonlijkheidsstoornissen. Verbindt Psychologie, Neurowetenschappen (insulaire cortex, anterieure cingulate), en Filosofie (zelfkennis en introspectie).",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Autisme Spectrum Stoornis (ASS)",
+      "02 Wiki/Psychologie/(C) Emotieregulatie",
+      "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"
+    ],
+    "suggested_links": [
+      "02 Wiki/Psychologie/(C) Autisme Spectrum Stoornis (ASS)",
+      "02 Wiki/Psychologie/(C) Emotieregulatie",
+      "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie",
+      "02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind",
+      "02 Wiki/Filosofie/(C) Filosofie van de Geest"
+    ]
+  }
+}
