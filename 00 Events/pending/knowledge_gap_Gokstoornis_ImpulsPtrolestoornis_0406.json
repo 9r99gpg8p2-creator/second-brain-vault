@@ -1,1 +1,29 @@
-{"event_type":"KnowledgeGapDetected","agent":"Agent5-Discovery","timestamp":"2026-07-03T04:06:00Z","status":"pending","data":{"concept":"Gokstoornis & Pathologisch Gokgedrag","discipline":"Psychologie","priority":0.80,"reason":"Gokstoornis (Gambling Disorder) wordt meerdere malen vermeld als klinische analogie: in (C) Beloningssysteem & Dopamine ('gokstoornis deelt neurale substraten'), in (C) Opties & Derivaten ('speculatieve optiehandel als neurologisch parallel met gokgedrag') en in (C) Marktpsychologie & Beurscrises ('beurscrises produceren PTSD-achtige reacties bij significante verliezen'). De gokstoornis is uniek: het is de enige gedragsverslaving in DSM-5 die volledig is opgenomen in het verslaving-hoofdstuk, en de mechanismen die het verbinden met beleggen zijn direct relevant voor de intersectie van klinische neuropsychologie en beleggen.","mentioned_in":["02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine","02 Wiki/Beleggen/(C) Opties & Derivaten","02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises","02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"],"suggested_connections":["Verslaving & Neurobiologie","Beloningssysteem & Dopamine","Hyperbolic Discounting","Gedragseconomie & Cognitieve Biases","Klinische Psychologie"],"suggested_wiki_path":"02 Wiki/Psychologie/(C) Gokstoornis & Impulscontrolestoornis.md"}}
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-03T04:06:00Z",
+  "status": "processed",
+  "data": {
+    "concept": "Gokstoornis & Pathologisch Gokgedrag",
+    "discipline": "Psychologie",
+    "priority": 0.8,
+    "reason": "Gokstoornis (Gambling Disorder) wordt meerdere malen vermeld als klinische analogie: in (C) Beloningssysteem & Dopamine ('gokstoornis deelt neurale substraten'), in (C) Opties & Derivaten ('speculatieve optiehandel als neurologisch parallel met gokgedrag') en in (C) Marktpsychologie & Beurscrises ('beurscrises produceren PTSD-achtige reacties bij significante verliezen'). De gokstoornis is uniek: het is de enige gedragsverslaving in DSM-5 die volledig is opgenomen in het verslaving-hoofdstuk, en de mechanismen die het verbinden met beleggen zijn direct relevant voor de intersectie van klinische neuropsychologie en beleggen.",
+    "mentioned_in": [
+      "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine",
+      "02 Wiki/Beleggen/(C) Opties & Derivaten",
+      "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises",
+      "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"
+    ],
+    "suggested_connections": [
+      "Verslaving & Neurobiologie",
+      "Beloningssysteem & Dopamine",
+      "Hyperbolic Discounting",
+      "Gedragseconomie & Cognitieve Biases",
+      "Klinische Psychologie"
+    ],
+    "suggested_wiki_path": "02 Wiki/Psychologie/(C) Gokstoornis & Impulscontrolestoornis.md"
+  },
+  "processed_by": "Agent1-KnowledgeHunter",
+  "processed_at": "2026-07-04T00:08:00Z",
+  "note": "Wiki-pagina reeds aanwezig van eerdere run"
+}

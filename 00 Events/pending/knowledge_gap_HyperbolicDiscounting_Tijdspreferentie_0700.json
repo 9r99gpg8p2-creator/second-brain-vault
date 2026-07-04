@@ -1,1 +1,21 @@
-{"event_type":"KnowledgeGapDetected","agent":"Discovery-Engine","timestamp":"2026-07-02T07:00:00Z","status":"pending","data":{"concept":"Hyperbolic Discounting & Tijdspreferentie","discipline":"Beleggen","priority":0.76,"reason":"Hyperbolisch disconteren — de sterke voorkeur voor onmiddellijke beloningen boven grotere toekomstige beloningen, die afneemt als functie van vertraging op een hyperbolische (niet exponentiële) curve — is een fundamenteel cross-disciplinair concept. In Beleggen (spaar- en beleggingsgedrag, uitstelgedrag, pensioencapaciteitsprobleem), in Psychologie (present-bias als neuropsychologisch kenmerk van ADHD en verslaving), en in Filosofie (tijdspreferentie en de rationaliteit van toekomstgewichten als ethisch vraagstuk). Aangestipt in ADHD & Executieve Disfunctie en Beloningssysteem & Dopamine maar mist een eigen integrerende pagina die de neurale, gedragsmatige en economische dimensies verbindt.","mentioned_in":["02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine.md","02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md","02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md","02 Wiki/Beleggen/(C) Waardebeleggen.md"]}}
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Discovery-Engine",
+  "timestamp": "2026-07-02T07:00:00Z",
+  "status": "processed",
+  "data": {
+    "concept": "Hyperbolic Discounting & Tijdspreferentie",
+    "discipline": "Beleggen",
+    "priority": 0.76,
+    "reason": "Hyperbolisch disconteren — de sterke voorkeur voor onmiddellijke beloningen boven grotere toekomstige beloningen, die afneemt als functie van vertraging op een hyperbolische (niet exponentiële) curve — is een fundamenteel cross-disciplinair concept. In Beleggen (spaar- en beleggingsgedrag, uitstelgedrag, pensioencapaciteitsprobleem), in Psychologie (present-bias als neuropsychologisch kenmerk van ADHD en verslaving), en in Filosofie (tijdspreferentie en de rationaliteit van toekomstgewichten als ethisch vraagstuk). Aangestipt in ADHD & Executieve Disfunctie en Beloningssysteem & Dopamine maar mist een eigen integrerende pagina die de neurale, gedragsmatige en economische dimensies verbindt.",
+    "mentioned_in": [
+      "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine.md",
+      "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md",
+      "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
+      "02 Wiki/Beleggen/(C) Waardebeleggen.md"
+    ]
+  },
+  "processed_by": "Agent1-KnowledgeHunter",
+  "processed_at": "2026-07-04T00:08:00Z",
+  "note": "Wiki-pagina reeds aanwezig van eerdere run"
+}

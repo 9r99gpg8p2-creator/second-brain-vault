@@ -1,1 +1,29 @@
-{"event_type":"KnowledgeGapDetected","agent":"Agent5-Discovery","timestamp":"2026-07-03T04:06:00Z","status":"pending","data":{"concept":"HPA-as & Cortisolregulatie","discipline":"Psychologie","priority":0.92,"reason":"Cortisol en de HPA-as (hypothalamus-hypofyse-bijnierschors) worden meervoudig vermeld in bestaande notes (Depressie & Neurobiologie: HPA-as dysregulatie, Angststoornissen, Trauma & PTSS: glucocorticoïden en hippocampusvolumeverlies, Verslaving & Neurobiologie: CRF-signalering) maar hebben geen eigen dedicated note. Voor een klinisch neuropsycholoog is de HPA-as een centraal concept dat vrijwel alle stressgerelateerde pathologie verbindt. Het ontbreken ervan creëert een structureel gat in het stressbiologie-cluster.","mentioned_in":["02 Wiki/Psychologie/(C) Depressie & Neurobiologie","02 Wiki/Psychologie/(C) Trauma & PTSS","02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen","02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"],"suggested_connections":["Trauma & PTSS","Depressie & Neurobiologie","Angststoornissen","Emotieregulatie","Neuroplasticiteit"],"suggested_wiki_path":"02 Wiki/Psychologie/(C) Stressbiologie — HPA-as & Cortisol.md"}}
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-03T04:06:00Z",
+  "status": "processed",
+  "data": {
+    "concept": "HPA-as & Cortisolregulatie",
+    "discipline": "Psychologie",
+    "priority": 0.92,
+    "reason": "Cortisol en de HPA-as (hypothalamus-hypofyse-bijnierschors) worden meervoudig vermeld in bestaande notes (Depressie & Neurobiologie: HPA-as dysregulatie, Angststoornissen, Trauma & PTSS: glucocorticoïden en hippocampusvolumeverlies, Verslaving & Neurobiologie: CRF-signalering) maar hebben geen eigen dedicated note. Voor een klinisch neuropsycholoog is de HPA-as een centraal concept dat vrijwel alle stressgerelateerde pathologie verbindt. Het ontbreken ervan creëert een structureel gat in het stressbiologie-cluster.",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Depressie & Neurobiologie",
+      "02 Wiki/Psychologie/(C) Trauma & PTSS",
+      "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen",
+      "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"
+    ],
+    "suggested_connections": [
+      "Trauma & PTSS",
+      "Depressie & Neurobiologie",
+      "Angststoornissen",
+      "Emotieregulatie",
+      "Neuroplasticiteit"
+    ],
+    "suggested_wiki_path": "02 Wiki/Psychologie/(C) Stressbiologie — HPA-as & Cortisol.md"
+  },
+  "processed_by": "Agent1-KnowledgeHunter",
+  "processed_at": "2026-07-04T00:08:00Z",
+  "note": "Wiki-pagina reeds aanwezig van eerdere run"
+}
