@@ -1,76 +1,59 @@
 {
   "event_type": "KnowledgeDiscovered",
   "agent": "Agent1-KnowledgeHunter",
-  "timestamp": "2026-07-03T00:08:00Z",
+  "timestamp": "2026-07-04T00:08:00Z",
   "status": "pending",
   "data": {
-    "research_path": "00 Research/2026-07-03/0008",
+    "research_path": "00 Research/2026-07-04/0008",
     "topics": [
       {
         "discipline": "Psychologie",
-        "topic": "Sociale Cognitie & Theory of Mind",
-        "suggested_path": "02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind.md",
+        "topic": "Neurocognitieve Stoornissen & Dementie",
+        "wiki_path": "02 Wiki/Psychologie/(C) Neurocognitieve Stoornissen & Dementie.md",
         "source_score": 9,
-        "confidence": 0.95,
-        "novelty": 0.95,
+        "confidence": 0.92,
+        "novelty": 1.0,
         "trust_level": "hoog",
-        "key_connections": [
-          "02 Wiki/Psychologie/(C) Default Mode Network.md",
-          "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md",
-          "02 Wiki/Psychologie/(C) Sociale Psychologie.md",
-          "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"
-        ],
-        "priority_gap": true,
-        "gap_source": "knowledge_gap_SocialeCognitie_TheoryOfMind_0700.json"
+        "connections": ["Geheugen & Amnesie", "Neuroplasticiteit", "HPA-as & Cortisolregulatie", "Executieve Functies & Prefrontale Cortex", "Slaap & Geheugenconsolidatie", "Epigenetica & Gen-Omgeving Interactie"]
       },
       {
         "discipline": "Filosofie",
-        "topic": "Nihilisme & Absurdisme",
-        "suggested_path": "02 Wiki/Filosofie/(C) Nihilisme & Absurdisme.md",
-        "source_score": 9,
-        "confidence": 0.92,
-        "novelty": 0.90,
+        "topic": "Metafysica & Ontologie",
+        "wiki_path": "02 Wiki/Filosofie/(C) Metafysica & Ontologie.md",
+        "source_score": 8,
+        "confidence": 0.90,
+        "novelty": 1.0,
         "trust_level": "hoog",
-        "key_connections": [
-          "02 Wiki/Filosofie/(C) Existentialisme.md",
-          "02 Wiki/Filosofie/(C) Stoïcisme.md",
-          "02 Wiki/Filosofie/(C) Ethiek.md",
-          "02 Wiki/Filosofie/(C) Epistemologie.md"
-        ],
-        "priority_gap": false
+        "connections": ["Vrije Wil & Determinisme", "Filosofie van de Geest", "Epistemologie & Kennistheorie", "Fenomenologie", "Dialectiek & Hegeliaanse Synthese", "Neuro-ethiek"]
       },
       {
         "discipline": "Geschiedenis",
-        "topic": "De Val van het Westerse Romeinse Rijk",
-        "suggested_path": "02 Wiki/Geschiedenis/(C) De Val van het Westerse Romeinse Rijk.md",
+        "topic": "Het Ottomaanse Rijk",
+        "wiki_path": "02 Wiki/Geschiedenis/(C) Het Ottomaanse Rijk.md",
         "source_score": 8,
-        "confidence": 0.90,
-        "novelty": 0.92,
+        "confidence": 0.92,
+        "novelty": 1.0,
         "trust_level": "hoog",
-        "key_connections": [
-          "02 Wiki/Geschiedenis/(C) De Reformatie.md",
-          "02 Wiki/Geschiedenis/(C) De Renaissance.md",
-          "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises.md",
-          "03 Knowledge Graph/"
-        ],
-        "priority_gap": false
+        "connections": ["De Eerste Wereldoorlog", "De Tweede Wereldoorlog", "Dekolonisatie & Postkoloniale Orde", "De Islamitische Gouden Eeuw", "De Globalisering", "Eugenica & Pseudowetenschappelijke Psychiatrie"]
       },
       {
         "discipline": "Beleggen",
-        "topic": "ESG & Duurzaam Beleggen",
-        "suggested_path": "02 Wiki/Beleggen/(C) ESG & Duurzaam Beleggen.md",
+        "topic": "Dividendbeleggen & Dividendgroei",
+        "wiki_path": "02 Wiki/Beleggen/(C) Dividendbeleggen & Dividendgroei.md",
         "source_score": 8,
-        "confidence": 0.85,
-        "novelty": 0.93,
-        "trust_level": "gemiddeld",
-        "key_connections": [
-          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
-          "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese.md",
-          "02 Wiki/Beleggen/(C) Factor Investing.md",
-          "02 Wiki/Filosofie/(C) Ethiek.md"
-        ],
-        "priority_gap": false
+        "confidence": 0.89,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "connections": ["Waardebeleggen", "Moderne Portefeuilletheorie", "Gedragseconomie & Cognitieve Biases", "Hyperbolic Discounting & Tijdspreferentie", "Inflatie & Koopkrachtbescherming", "Valuatie & DCF-analyse"]
       }
-    ]
+    ],
+    "knowledge_gaps_resolved": [],
+    "knowledge_gaps_already_processed": [
+      "knowledge_gap_HPA_Cortisol_0406.json",
+      "knowledge_gap_HyperbolicDiscounting_Tijdspreferentie_0700.json",
+      "knowledge_gap_Gokstoornis_ImpulsPtrolestoornis_0406.json",
+      "knowledge_gap_Eugenica_PseudowetenschappelijkePsychiatrie_0700.json"
+    ],
+    "note": "Alle 5 aangetroffen kennishiaten hadden reeds verwerkte wiki-pagina's. Vier nieuwe topics gekozen op basis van ontbrekende onderwerpen in de wiki."
   }
 }
