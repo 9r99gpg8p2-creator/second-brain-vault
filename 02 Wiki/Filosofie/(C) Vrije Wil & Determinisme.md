@@ -26,7 +26,18 @@ importance_score: 0.92
 novelty_score: 0.85
 knowledge_score: 0.87
 usage_score: 0.2188
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Filosofie/(C) Filosofie van de Geest.md"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md"
+  - "02 Wiki/Filosofie/(C) Stoïcisme.md"
+  - "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme — Forensisch.md"
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS.md"
+  - "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md"
+  - "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie.md"
+  - "03 Knowledge Graph/(KG) Moleculair Determinisme en Epigenetische Plastische Vrijheid — Epigenetica als Derde Weg in het Vrije Wil Debat.md"
+  - "03 Knowledge Graph/(KG) Van Dopamine tot Diagnose — Biologisch Determinisme, Tijdspreferentie en Morele Verantwoordelijkheid.md"
 revision_history:
   - version: 1
     date: 2026-07-01
@@ -124,3 +135,18 @@ Bij schizofrenie (zie [[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]]) zijn 
 Beide verschijnselen zijn forensisch relevant en filosofisch uitdagend: als de patiënt ervaart dat zijn handelen *niet* van hemzelf is, hoe verhoudt dat zich tot het juridische vereiste van opzet?
 
 > Verdieping toegevoegd door Discovery-Engine | 2026-07-02
+
+### Epigenetica als Derde Weg: Plastisch Determinisme
+
+Een nieuw empirisch argument voor het compatibilisme komt niet uit de neurowetenschappen van bewustzijn, maar uit de moleculaire biologie. Zie [[02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie]] en de KG-verbinding [[03 Knowledge Graph/(KG) Moleculair Determinisme en Epigenetische Plastische Vrijheid — Epigenetica als Derde Weg in het Vrije Wil Debat]].
+
+Hard biologisch determinisme neemt impliciet aan dat genetische blauwdrukken gedrag vastleggen — een statisch causaliteitsmodel. Epigenetica weerlegde dit empirisch: de omgeving schrijft actief in de DNA-methylatie en histonmodificatie, waardoor hetzelfde genotype tot fundamenteel verschillende fenotypen leidt. De baan tussen gen en gedrag is niet rechtlijnig maar meervoudig vertakt en context-afhankelijk.
+
+Dit heeft twee filosofische consequenties:
+
+1. **Hard determinisme is empirisch onhoudbaar** in zijn genetisch-reductionistische versie. Het argument "dit gedrag is genetisch bepaald" miskent epigenetische plasticiteit.
+2. **Compatibilisme is neurowetenschappelijk gegrond**: vrijheid als het vermogen te handelen in overeenstemming met epigenetisch gevormde maar reviseerbare disposities. Therapie, educatie en zelfhervorming zijn epigenomisch actief — dit geeft de notie van zelfontwikkeling een moleculaire basis.
+
+**Klinisch-forensische implicatie:** Vroegkinderlijk trauma programmeert via NR3C1/FKBP5-methylatie de HPA-as-reactiviteit voor tientallen jaren. Dit is causale bepaaldheid van de meest concrete soort — maar het is *niet onveranderlijk*: therapeutische interventie kan epigenetische herschrijving initiëren. De forensische vraag verschuift dan van "had hij anders kunnen handelen?" naar "welke epigenetisch bepaalde handelingsruimte stond hem ten tijde van het delict ter beschikking?"
+
+> Verdieping uitgebreid door Discovery-Engine | 2026-07-04

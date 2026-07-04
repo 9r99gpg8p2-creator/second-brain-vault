@@ -33,6 +33,8 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"
   - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md"
   - "02 Wiki/Psychologie/(C) MOC - Psychologie BSc Jaar 1.md"
+  - "02 Wiki/Psychologie/(C) Autisme Spectrum Stoornis (ASS).md"
+  - "02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid.md"
 revision_history:
   - version: 1
     date: 2026-07-03
@@ -42,6 +44,10 @@ revision_history:
     date: 2026-07-03
     author: Brain-Guardian
     change: usage_score bijgewerkt (7 backlinks / 72 notes); wikilinks toegevoegd vanuit DMN, Schizofrenie, Sociale Psychologie, ADHD en MOC-Psychologie
+  - version: 3
+    date: 2026-07-04
+    author: Discovery-Engine
+    change: ASS en Alexithymia toegevoegd aan related_nodes; Verbanden-sectie uitgebreid met wikilinks en Verdieping
 ---
 
 # Sociale Cognitie & Theory of Mind
@@ -125,6 +131,18 @@ ToM behoort tot de kernconcepten van de klinische neuropsychologie om meerdere r
 - [[02 Wiki/Psychologie/(C) Emotieregulatie]] — affectieve ToM raakt aan emotieherkenning en empathie
 - [[02 Wiki/Filosofie/(C) Filosofie van de Geest]] — intentionaliteit en het "other minds problem" als filosofische tegenhanger van ToM
 - [[03 Knowledge Graph/(KG) Het Falende Narratieve Zelf — DMN, Ruminatie en Psychose]] — ToM-deficiten bij psychose passen in het bredere patroon van verstoord zelf-ander onderscheid
+- [[02 Wiki/Psychologie/(C) Autisme Spectrum Stoornis (ASS)]] — ASS is de meest bestudeerde context voor ToM-stoornissen; de Sally-Anne Task werd initieel als diagnostisch instrument voor autisme ontwikkeld; recente herziening via het dubbel-empathie-model (Milton 2012) nuanceert de eerdere interpretatie
+- [[02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid]] — alexithymia correleert sterk met sociale cognitiestoornissen; Shah et al. (2016) tonen dat interoceptieve stoornissen bij ASS grotendeels door co-occurrente alexithymia worden gemedieerd, niet door autisme zelf; alexithymia raakt specifiek de affectieve component van ToM
+
+## Verdieping (Discovery Engine)
+
+**Het dubbel-empathie probleem.** De klassieke interpretatie van de Sally-Anne Task is dat autistische kinderen een defect in ToM hebben. Damian Milton's dubbel-empathie model (2012) herziet dit: het is niet dat autistische mensen de mentale toestanden van niet-autistische mensen niet begrijpen, maar dat het *wederzijds* mis gaat — niet-autistische mensen begrijpen autistische mensen evenzeer niet. ToM-tekorten zijn dan relatief, niet absoluut. Dit heeft directe diagnostische implicaties: een falende Sally-Anne Task meet mismatch van communicatieve stijlen, niet een unilateraal deficit.
+
+**Alexithymia als mediator.** De combinatie van ToM-assessment met alexithymia-meting (TAS-20) is klinisch zinvol omdat affectieve ToM — het begrijpen van andermans emoties — specifiek afhankelijk is van het kunnen herkennen van de eigen emotionele toestanden. Hoge alexithymia bij ASS verklaart deels waarom affectieve ToM slechter presteert dan cognitieve ToM, zelfs bij hoog-functionerende individuen.
+
+**ASS en schizofrenie: gedeeld neuraal substraat.** Beide condities vertonen ToM-stoornissen, maar met een ander profiel. Bij schizofrenie is ToM-verslechtering gelinkt aan positieve symptomen (waanideeën als hyperattributie van intenties) en is het een state-marker die correleert met psychotische activiteit. Bij ASS is het een stabiele trait-marker. De overlap in neurale substraten (TPJ, mPFC) suggereert een gedeeld kwetsbaarheidsmechanisme maar met conditioneel-specifieke expressie.
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-04
 
 ## Bronnen
 

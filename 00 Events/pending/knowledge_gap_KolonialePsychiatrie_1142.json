@@ -1,0 +1,26 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-04T11:42:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Koloniale Psychiatrie & de Westerse Categorisering van Abnormaliteit",
+    "discipline": "Geschiedenis",
+    "priority": 0.79,
+    "reason": "Fanon's werk (Les Damnés de la Terre, 1961; Peau Noire, Masques Blancs, 1952) beschrijft hoe koloniale psychiatrie psychische stoornissen definieerde op basis van westerse normen en raciale hiërarchieën. Koloniale autoriteiten gebruikten psychiatrische diagnoses om verzet te pathologiseren. Dit thema is impliciet aanwezig in de Schizofrenie-note (social defeat bij postkoloniale migranten), de Dekolonisatie-note, en de Eugenica-note, maar is nooit historisch uitgewerkt. Verbindt Geschiedenis met Psychologie (pathologisering van culturele uitingen), Filosofie (wat is abnormaliteit? — Foucault), en de actuele klinische praktijk (culturele competentie in diagnostiek). Prioriteit voor klinische neuropsychologie: DSM-criteria zijn cultureel gesitueerd; cross-culturele validiteit is een fundamenteel probleem.",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md",
+      "02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde.md",
+      "02 Wiki/Geschiedenis/(C) Eugenica & Pseudowetenschappelijke Psychiatrie.md",
+      "03 Knowledge Graph/(KG) Collectief Trauma — Kolonialisme, Onderdrukking en Psychopathologie.md"
+    ],
+    "suggested_connections": [
+      "Geschiedenis van de Psychiatrie",
+      "Eugenica & Pseudowetenschappelijke Psychiatrie",
+      "Dekolonisatie & Postkoloniale Orde",
+      "Schizofrenie & Psychose",
+      "Totalitarisme als Politiek Systeem",
+      "Kritische Theorie & Frankfurt School"
+    ]
+  }
+}

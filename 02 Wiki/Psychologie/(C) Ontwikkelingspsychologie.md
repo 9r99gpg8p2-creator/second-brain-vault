@@ -24,6 +24,11 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
   - "02 Wiki/Psychologie/(C) Sociale Psychologie"
   - "02 Wiki/Psychologie/(C) TOE - Statistiek"
+  - "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie.md"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS.md"
+  - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"
+  - "02 Wiki/Psychologie/(C) Emotieregulatie.md"
+  - "02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie.md"
 revision_history:
   - version: 1
     date: 2026-07-01
@@ -33,6 +38,10 @@ revision_history:
     date: 2026-07-02
     author: Brain-Guardian
     change: kwaliteitscontrole — uitgebreid met gehechtheidstheorie (Ainsworth), adolescent brein/PFC-rijping, epigenetica; quality-check-needed tag toegevoegd; wikilinks naar Emotieregulatie, Trauma & PTSS, ADHD, Slaap
+  - version: 3
+    date: 2026-07-04
+    author: Discovery-Engine
+    change: related_nodes gesynchroniseerd; Epigenetica toegevoegd als kernkoppeling (vroegkinderlijke programmering)
 ---
 
 # Ontwikkelingspsychologie

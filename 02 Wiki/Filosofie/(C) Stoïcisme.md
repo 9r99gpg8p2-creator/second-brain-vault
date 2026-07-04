@@ -39,6 +39,11 @@ related_nodes:
   - "(C) Filosofie van de Geest"
   - "(C) Epistemologie & Kennistheorie"
   - "(C) Emotieregulatie"
+  - "02 Wiki/Psychologie/(C) Cognitieve Gedragstherapie.md"
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md"
+  - "02 Wiki/Geschiedenis/(C) De Verlichting.md"
+  - "02 Wiki/Beleggen/(C) Waardebeleggen.md"
 revision_history:
   - version: 1
     date: 2026-07-01
@@ -48,6 +53,10 @@ revision_history:
     date: 2026-07-01
     author: Discovery-Engine
     change: added Verdieping section — neurowetenschappelijke grondslag en nieuwe KG-verbindingen
+  - version: 3
+    date: 2026-07-04
+    author: Discovery-Engine
+    change: related_nodes gesynchroniseerd met body wikilinks; CGT, Executieve Functies, Falsifieerbaarheid, Verlichting, Waardebeleggen toegevoegd
 ---
 
 # Stoïcisme

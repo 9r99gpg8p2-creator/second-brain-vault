@@ -1,0 +1,27 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-04T11:42:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Interoceptie & Lichaamsgewaarwording",
+    "discipline": "Psychologie",
+    "priority": 0.92,
+    "reason": "Interoceptie is het vermogen om interne lichaamstoestanden te registreren (hartslag, ademhaling, ingewanden) en vormt de neurale grondstof voor emotionele ervaring, somatische markers en alexithymia. De insulaire cortex is de primaire hub. Het concept is vermeld in 5 bestaande notes (ASS, Somatische Markerstheorie, Angststoornissen, Emotieregulatie, Alexithymia) maar heeft geen eigen dedicated note. Voor klinische neuropsychologie is interoceptie centraal: dysregulatie treedt op bij PTSS, eetstoornissen, chronische pijn, panic disorder. Interoceptieve training (heartbeat perception, body scan) is een opkomend therapeutisch protocol. De nieuwe KG-pagina over Somatische Markers en Alexithymia maakt deze gap nog urgenter.",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Autisme Spectrum Stoornis (ASS).md",
+      "02 Wiki/Psychologie/(C) Somatische Markerstheorie (Damasio).md",
+      "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen.md",
+      "02 Wiki/Psychologie/(C) Emotieregulatie.md",
+      "02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid.md"
+    ],
+    "suggested_connections": [
+      "Somatische Markerstheorie (Damasio)",
+      "Alexithymia & Emotieblindheid",
+      "Emotieregulatie",
+      "Angststoornissen & Neurowetenschappen",
+      "Perceptie & Predictive Coding",
+      "Fenomenologie"
+    ]
+  }
+}

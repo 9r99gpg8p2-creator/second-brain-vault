@@ -44,6 +44,8 @@ related_nodes:
   - "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme.md"
   - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"
   - "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md"
+  - "02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid.md"
+  - "03 Knowledge Graph/(KG) Het Lichaam als Stille Adviseur — Somatische Markers, Interoceptie en de Beslissingsbarrière van Alexithymia.md"
 revision_history:
   - version: 1
     date: 2026-07-04
@@ -53,6 +55,10 @@ revision_history:
     date: 2026-07-04
     author: Brain-Guardian
     change: related_nodes YAML bijgewerkt vanuit body wikilinks
+  - version: 3
+    date: 2026-07-04
+    author: Discovery-Engine
+    change: Alexithymia en KG-pagina toegevoegd; Verbanden-sectie uitgebreid
 ---
 
 # Somatische Markerstheorie (Damasio)
@@ -134,6 +140,18 @@ De theorie geeft ook een neurowetenschappelijk fundament voor de klinische obser
 - [[02 Wiki/Filosofie/(C) Vrije Wil & Determinisme]] — vmPFC als implementatie van bewuste keuze; schade aan vmPFC → "willoze" keuzes ondanks bewustzijn
 - [[02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie]] — gedeelde IGT-impairment bij ADHD en vmPFC-laesies; present-bias als somatisch-marcerend tekort
 - [[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]] — IGT-impairment ook gedocumenteerd bij schizofrenie; emotioneel-cognitieve integratie als transdiagnostisch concept
+- [[02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid]] — alexithymia is de klinische manifestatie van een falend somatisch marker kanaal: de insula genereert signalen maar de bewuste decodering mist; dit maakt alexithymia tot de meest directe test van Damasio's theorie in een niet-laesionele context
+- [[03 Knowledge Graph/(KG) Het Lichaam als Stille Adviseur — Somatische Markers, Interoceptie en de Beslissingsbarrière van Alexithymia]] — de KG-verbinding die dit mechanisme uitwerkt in relatie tot besluitvorming en gedragseconomie
+
+## Verdieping (Discovery Engine)
+
+**Alexithymia als niet-laesionele test van de Somatische Markerstheorie.** Damasio's oorspronkelijke evidentie voor de SMH komt uit klinische laesiestudies (vmPFC-laesies bij Phineas Gage en moderne equivalenten). Alexithymia biedt een tweede, complementaire testcontext: een persoon zonder hersenlaesie maar met structurele insulaire dysregulatie die de informatieoverdracht van lichaamssignalen naar bewuste verwerking blokkeert. Als de SMH correct is, zouden hoog-alexithyme individuen IGT-impairment vertonen die vergelijkbaar is met, maar anders geprofileerd dan, vmPFC-laesie patiënten.
+
+**Het kritieke onderscheid: vmPFC-laesie vs. alexithymia.** Bij vmPFC-laesies is de *verwerking* van somatische markers beschadigd — de markers komen aan maar worden niet geïntegreerd in keuzegedrag. Bij alexithymia is de *generatie van bewuste markers* gestoord — het lichaam geeft het signaal, maar het bereikt de bewuste representatielaag niet. Dit suggereert twee topografisch onderscheiden mechanismen die dezelfde gedragsconsequentie produceren: beslissingsimpairment via het somatische kanaal.
+
+**Implicatie voor therapie.** Als interoceptieve training (heartbeat detection tasks, body scan mindfulness) de insula-to-vmPFC koppeling versterkt bij alexithyme personen, zou dit gepaard moeten gaan met verbeterde IGT-prestaties. Dit is een testbare hypothese met therapeutische implicaties voor verslaving, eetstoornissen en ASS.
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-04
 
 ## Bronnen
 

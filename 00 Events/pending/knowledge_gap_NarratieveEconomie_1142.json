@@ -1,0 +1,24 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-04T11:42:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Narratieve Economie & Virale Financiële Verhalen (Shiller)",
+    "discipline": "Beleggen",
+    "priority": 0.80,
+    "reason": "Robert Shiller's Narrative Economics (2019) stelt dat economische narratieven zich verspreiden als virussen en direct marktgedrag en economische cycli beïnvloeden. Shiller wordt 6 keer vermeld in de bestaande Beleggen-notes (Marktpsychologie, EMH, 2x) maar heeft geen dedicated conceptnote. Dit concept verbindt: (1) Sociale Psychologie (sociale contagion, informatieasymmetrie), (2) Hermeneutiek (narratieven als interpretatiekaders die markten structureren), (3) Fascisme (economische narratieven die politiek extremisme voeden — al beschreven in de Monetaire Chaos KG), (4) Predictive Coding (collectieve prior-vorming via gedeelde narratieven). Het is ook een direct tegenwicht voor de EMH: als narratieven markten bewegen, dan zijn markten niet informatief-efficiënt maar narratief-efficiënt. Prioriteit: multidisciplinair knooppunt Beleggen-Filosofie-Psychologie-Geschiedenis.",
+    "mentioned_in": [
+      "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises.md",
+      "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese.md"
+    ],
+    "suggested_connections": [
+      "Marktpsychologie & Beurscrises",
+      "Sociale Psychologie",
+      "Gedragseconomie & Cognitieve Biases",
+      "Hermeneutiek",
+      "Efficiënte Markt Hypothese",
+      "Conjunctuurcycli & Macro-economie"
+    ]
+  }
+}

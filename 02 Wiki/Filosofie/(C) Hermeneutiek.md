@@ -43,11 +43,19 @@ related_nodes:
   - "02 Wiki/Filosofie/(C) Filosofie van de Taal.md"
   - "02 Wiki/Filosofie/(C) Filosofie van de Geest.md"
   - "02 Wiki/Filosofie/(C) Postmodernisme & De Ontbinding van Grote Narratieven.md"
+  - "02 Wiki/Filosofie/(C) Dialectiek & Hegeliaanse Synthese.md"
+  - "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding.md"
+  - "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md"
+  - "03 Knowledge Graph/(KG) De Interpreterende Geest — Hermeneutische Cirkel, Predictive Coding en Schizofrene Waanvorming.md"
 revision_history:
   - version: 1
     date: 2026-07-04
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-04
+    author: Discovery-Engine
+    change: Predictive Coding, Schizofrenie en KG-verbinding toegevoegd; Verdieping over hermeneutiek als neurowetenschappelijk principe
 ---
 
 # Hermeneutiek
@@ -121,6 +129,23 @@ Ten derde heeft de hermeneutische methode methodologische betekenis voor kwalita
 - [[02 Wiki/Filosofie/(C) Postmodernisme & De Ontbinding van Grote Narratieven]] — Gadamers positie staat in productieve spanning met postmodernisme: zijn vertrouwen in traditie contrasteert met het postmoderne wantrouwen ten opzichte van elk grand narrative
 - [[02 Wiki/Filosofie/(C) Dialectiek & Hegeliaanse Synthese]] — Gadamers dialectiek van vraag en antwoord als structuur van gesprek herinnert aan Hegels dialectische methode; beide zien begrip als beweging door tegenstellingen heen
 - [[03 Knowledge Graph/(KG) De Cirkel als Universele Structuur — Glymfatische Klaring, Hermeneutiek, Historische Catastrofe en Marktcycli]] — de hermeneutische cirkel als filosofisch parallel aan andere cyclische structuren in biologie, geschiedenis en markten
+- [[02 Wiki/Psychologie/(C) Perceptie & Predictive Coding]] — predictive coding als de neurowetenschappelijke implementatie van de hermeneutische structuur; prior beliefs als Vorurteil; Bayesiaanse inferentie als de hermeneutische cirkel op synaptisch niveau
+- [[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]] — waanvorming als pathologische prior-lock: de hermeneutische cirkel die gesloten is geraakt; de patiënt integreert geen nieuwe evidentie maar buigt alle input terug naar de waan
+- [[03 Knowledge Graph/(KG) De Interpreterende Geest — Hermeneutische Cirkel, Predictive Coding en Schizofrene Waanvorming]] — de nieuw gecreëerde KG-verbinding die deze drie niveaus — filosofisch, neurowetenschappelijk en klinisch — verbindt
+
+---
+
+## Verdieping (Discovery Engine)
+
+Hermeneutiek is niet alleen filosofische tekstinterpretatie — het beschrijft een universele cognitieve architectuur die neurowetenschappelijk is bevestigd.
+
+**Gadamer en Friston: twee beschrijvingen van hetzelfde systeem.** Gadamers centrale claim is dat alle begrip vertrekt vanuit Vorurteil — de horizon van voorverstaan die iedere nieuw encounter met de werkelijkheid structureert. Karl Friston's predictive coding beschrijft neurowetenschappelijk precies hetzelfde: de hersenen houden een hiërarchisch model bij van verwachte oorzaken, en sensorische input wordt gewogen tegen dit prior-model. De parallel is niet metaforisch maar structureel isomorf.
+
+**De klinische brugfunctie.** Dit opent een klinisch programma. Schizofrene waanvorming is, vanuit dit kader, de extreme manifestatie van een gesloten hermeneutische cirkel — een prior-structuur die de capacity tot Bayesiaanse update heeft verloren. Farmacotherapie (antipsychotica) werkt via dopaminerge precisie-modulatie: de prior wordt minder zeker, waardoor sensorische input relatief meer gewicht krijgt. Cognitieve gedragstherapie voor psychose (CBT-p) werkt via het herstel van de metacognitieve laag — de capaciteit te vragen: "klopt mijn interpretatie?"
+
+**Methodologische implicatie voor neuropsychologie.** Hermeneutiek wijst op een irreducibel interpretatief moment in de klinische praktijk: de neuropsycholoog die een patiënt beoordeelt, interpreteert vanuit een theoretisch en persoonlijk Vorurteil. Awareness hiervan is geen zwakte maar een professionele vaardigheid — vergelijkbaar met de analyticus die zijn overdracht analyseert. IPA (interpretative phenomenological analysis) als kwalitatieve methode is de directe methodologische vertaling van hermeneutische principes in empirisch onderzoek.
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-04
 
 ---
 

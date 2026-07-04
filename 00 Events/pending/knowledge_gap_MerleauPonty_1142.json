@@ -1,0 +1,24 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-04T11:42:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Merleau-Ponty & de Fenomenologie van het Lichaam (Corps Propre)",
+    "discipline": "Filosofie",
+    "priority": 0.83,
+    "reason": "Maurice Merleau-Ponty's concept van het corps propre (het lichaam als subjectief ervarend lichaam, niet als object) is de filosofische grondslag van embodied cognition. Hij stelt dat de geest niet in het lichaam zit maar dat het lichaam de primaire modus van zijn-in-de-wereld is. Dit concept is impliciet aanwezig in de Alexithymia-note (corps propre-verstoring) en de Fenomenologie-note maar heeft geen eigen uitwerking. Voor klinische neuropsychologie is het relevant bij: neurologische lichaamsschemastoornissen (neglect, somatoparafrenie), chronische pijn als somatisch subjectief fenomeen, dissociatie bij trauma, body dysmorphia. Merleau-Ponty verbindt Filosofie direct met Psychologie en overbrugt de Cartesiaanse kloof die Damasio ook aanvalt.",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid.md",
+      "02 Wiki/Filosofie/(C) Fenomenologie.md"
+    ],
+    "suggested_connections": [
+      "Fenomenologie",
+      "Filosofie van de Geest",
+      "Somatische Markerstheorie (Damasio)",
+      "Alexithymia & Emotieblindheid",
+      "Trauma & PTSS",
+      "Perceptie & Predictive Coding"
+    ]
+  }
+}

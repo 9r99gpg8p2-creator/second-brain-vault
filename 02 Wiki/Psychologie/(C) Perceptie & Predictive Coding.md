@@ -37,6 +37,8 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Klinische Psychologie"
   - "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen"
   - "02 Wiki/Psychologie/(C) Schizofrenie & Psychose"
+  - "02 Wiki/Filosofie/(C) Hermeneutiek.md"
+  - "03 Knowledge Graph/(KG) De Interpreterende Geest — Hermeneutische Cirkel, Predictive Coding en Schizofrene Waanvorming.md"
 revision_history:
   - version: 1
     date: 2026-07-01
@@ -46,6 +48,10 @@ revision_history:
     date: 2026-07-03
     author: Discovery-Engine
     change: "related_nodes YAML gesynchroniseerd (10 nodes waaronder Angststoornissen en Schizofrenie); Angststoornissen wikilink toegevoegd; Verdieping over exposure als Bayesiaans prior-herzieningsproces"
+  - version: 3
+    date: 2026-07-04
+    author: Discovery-Engine
+    change: Hermeneutiek toegevoegd als filosofische parallel; KG-pagina De Interpreterende Geest toegevoegd
 ---
 
 # Perceptie & Predictive Coding
