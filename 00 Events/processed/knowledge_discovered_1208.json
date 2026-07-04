@@ -1,88 +1,86 @@
 {
   "event_type": "KnowledgeDiscovered",
   "agent": "Agent1-KnowledgeHunter",
-  "timestamp": "2026-07-03T12:08:00Z",
+  "timestamp": "2026-07-04T12:08:00Z",
   "status": "pending",
   "data": {
-    "research_path": "00 Research/2026-07-03/1208",
-    "knowledge_gaps_processed": [
-      "00 Events/pending/knowledge_gap_Gokstoornis_ImpulsPtrolestoornis_0406.json"
-    ],
+    "research_path": "00 Research/2026-07-04/1208",
     "topics": [
       {
         "discipline": "Psychologie",
-        "topic": "Gokstoornis & Pathologisch Gokgedrag",
-        "english_query": "Gambling_disorder",
+        "topic": "Alexithymia & Emotieblindheid",
+        "wiki_path": "02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid.md",
         "source_score": 9,
-        "confidence": 0.88,
-        "novelty": 0.95,
+        "confidence": 0.87,
+        "novelty": 1.0,
         "trust_level": "hoog",
-        "suggested_wiki_path": "02 Wiki/Psychologie/(C) Gokstoornis & Impulscontrolestoornis.md",
+        "addresses_gap": "knowledge_gap_Alexithymia_0704.json",
         "key_connections": [
-          "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie.md",
-          "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine.md",
-          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
-          "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md",
-          "02 Wiki/Beleggen/(C) Opties & Derivaten.md"
-        ],
-        "priority": 0.80,
-        "from_gap": true
+          "Emotieregulatie",
+          "Autisme Spectrum Stoornis",
+          "Interoceptie",
+          "Somatische Markerstheorie",
+          "Sociale Cognitie & Theory of Mind",
+          "Verslaving & Neurobiologie"
+        ]
       },
       {
         "discipline": "Filosofie",
-        "topic": "Dialectiek & Hegeliaanse Synthese",
-        "english_query": "Dialectic",
+        "topic": "Kritische Theorie & Frankfurt School",
+        "wiki_path": "02 Wiki/Filosofie/(C) Kritische Theorie & Frankfurt School.md",
         "source_score": 9,
-        "confidence": 0.92,
-        "novelty": 0.95,
+        "confidence": 0.88,
+        "novelty": 1.0,
         "trust_level": "hoog",
-        "suggested_wiki_path": "02 Wiki/Filosofie/(C) Dialectiek & Hegeliaanse Synthese.md",
+        "addresses_gap": null,
         "key_connections": [
-          "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md",
-          "02 Wiki/Filosofie/(C) Filosofie van de Geest.md",
-          "02 Wiki/Geschiedenis/(C) De Russische Revolutie.md",
-          "02 Wiki/Filosofie/(C) Existentialisme.md"
-        ],
-        "priority": 0.88,
-        "from_gap": false
+          "Marxisme & Historisch Materialisme",
+          "Postmodernisme",
+          "Dialectiek & Hegeliaanse Synthese",
+          "Sociale Psychologie",
+          "De Tweede Wereldoorlog",
+          "De Opkomst van het Fascisme"
+        ]
       },
       {
         "discipline": "Geschiedenis",
-        "topic": "De Islamitische Gouden Eeuw",
-        "english_query": "Islamic_Golden_Age",
+        "topic": "De Opkomst van het Neoliberalisme",
+        "wiki_path": "02 Wiki/Geschiedenis/(C) De Opkomst van het Neoliberalisme.md",
         "source_score": 8,
-        "confidence": 0.85,
-        "novelty": 0.95,
+        "confidence": 0.86,
+        "novelty": 1.0,
         "trust_level": "hoog",
-        "suggested_wiki_path": "02 Wiki/Geschiedenis/(C) De Islamitische Gouden Eeuw.md",
+        "addresses_gap": null,
         "key_connections": [
-          "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie.md",
-          "02 Wiki/Geschiedenis/(C) De Renaissance.md",
-          "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md",
-          "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md"
-        ],
-        "priority": 0.85,
-        "from_gap": false
+          "De Koude Oorlog",
+          "De Industriële Revolutie",
+          "De Globalisering",
+          "Efficiënte Markt Hypothese",
+          "Gedragseconomie & Cognitieve Biases",
+          "Kritische Theorie & Frankfurt School"
+        ]
       },
       {
         "discipline": "Beleggen",
-        "topic": "Private Equity & Venture Capital",
-        "english_query": "Private_equity",
-        "source_score": 8,
-        "confidence": 0.87,
-        "novelty": 0.95,
+        "topic": "Market Microstructure & Liquiditeit",
+        "wiki_path": "02 Wiki/Beleggen/(C) Market Microstructure & Liquiditeit.md",
+        "source_score": 9,
+        "confidence": 0.86,
+        "novelty": 1.0,
         "trust_level": "hoog",
-        "suggested_wiki_path": "02 Wiki/Beleggen/(C) Private Equity & Venture Capital.md",
+        "addresses_gap": null,
         "key_connections": [
-          "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md",
-          "02 Wiki/Beleggen/(C) Factor Investing.md",
-          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
-          "02 Wiki/Beleggen/(C) Waardebeleggen.md",
-          "02 Wiki/Beleggen/(C) Valuatie & DCF-analyse.md"
-        ],
-        "priority": 0.82,
-        "from_gap": false
+          "Efficiënte Markt Hypothese",
+          "Moderne Portefeuilletheorie",
+          "Opties & Derivaten",
+          "Risico vs. Onzekerheid — Knight's Onderscheid",
+          "Gedragseconomie & Cognitieve Biases"
+        ]
       }
-    ]
+    ],
+    "gaps_processed": [
+      "knowledge_gap_Alexithymia_0704.json"
+    ],
+    "summary": "4 nieuwe wiki-notities aangemaakt: Alexithymia (adresseert vandaag's kennishiaat, priority 0.83), Kritische Theorie & Frankfurt School, De Opkomst van het Neoliberalisme, Market Microstructure & Liquiditeit. Alle notities bevatten YAML frontmatter, interne links, FEIT/AANNAME/THEORIE labels, en onderzoeksvragen."
   }
 }
