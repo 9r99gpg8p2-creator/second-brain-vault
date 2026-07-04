@@ -74,6 +74,16 @@ Centrale hub voor alle vakken en verbanden uit het eerste jaar BSc Psychologie.
 | [[(C) Neuroplasticiteit]] | Hersenplasticiteit, leren, revalidatie |
 | [[(C) Sociale Cognitie & Theory of Mind]] | ToM, mentaliseren, TPJ, autisme, schizofrenie |
 | [[(C) Epigenetica & Gen-Omgeving Interactie]] | DNA-methylatie, histon-modificatie, vroeg trauma, intergenerationele overdracht |
+| [[(C) Aandacht & Cognitieve Controle]] | Selectieve aandacht, aandachtsnetwerken, ADHD, dual-task |
+| [[(C) Perceptie & Predictive Coding]] | Bayesiaans brein, Helmholtz, top-down verwerking, psychose als predictiebreuk |
+| [[(C) Beloningssysteem & Dopamine]] | VTA, nucleus accumbens, RPE, verslaving, motivatie, ADHD |
+| [[(C) HPA-as & Cortisolregulatie]] | Stressrespons, glucocorticoïden, chronische stress, PTSS, depressie |
+| [[(C) Autisme Spectrum Stoornis (ASS)]] | ToM-tekort, sensorische verwerking, executief functioneren, empathie |
+| [[(C) Gokstoornis & Impulscontrolestoornis]] | DSM-5 verslaving, near-miss effect, verliesachtervolging, impulscontrole |
+| [[(C) Neurocognitieve Stoornissen & Dementie]] | Alzheimer, frontaalkwab, hippocampus, MCI, biomarkers |
+| [[(C) Slaap & Geheugenconsolidatie]] | REM, SWS, geheugenreplay, PTSS, slaaptekort en cognitie |
+| [[(C) Angststoornissen & Neurowetenschappen]] | Amygdala, HPA-as, angstcircuit, CBT-mechanismen |
+| [[(C) Verslaving & Neurobiologie]] | Dopamine, sensitisatie, DeltaFosB, terugval, medicamenteuze behandeling |
 
 ---
 
@@ -87,4 +97,4 @@ Centrale hub voor alle vakken en verbanden uit het eerste jaar BSc Psychologie.
 
 ---
 
-> **Laatste update:** 2026-07-03
+> **Laatste update:** 2026-07-04

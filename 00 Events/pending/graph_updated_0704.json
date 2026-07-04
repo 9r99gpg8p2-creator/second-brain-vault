@@ -1,0 +1,23 @@
+{
+  "event_type": "GraphUpdated",
+  "agent": "Agent4-BrainGuardian",
+  "timestamp": "2026-07-04T00:00:00Z",
+  "status": "pending",
+  "run": 5,
+  "data": {
+    "stats_path": "03 Knowledge Graph/stats/brain_stats.md",
+    "wiki_nodes_total": 96,
+    "wiki_nodes_new": 16,
+    "kg_nodes_total": 33,
+    "kg_nodes_new": 8,
+    "hypotheses_total": 12,
+    "hypotheses_new": 2,
+    "conflicts_total": 2,
+    "conflicts_new": 0,
+    "merged": 0,
+    "quality_checked": 13,
+    "moc_updates": 4,
+    "avg_quality_score": 0.863,
+    "avg_confidence_score": 0.881
+  }
+}

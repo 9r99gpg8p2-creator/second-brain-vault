@@ -140,6 +140,13 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 | [[Stoïcisme]] | Epictetus, Marcus Aurelius — dichotomie van controle, deugd, eudaimonia |
 | [[Vrije Wil & Determinisme]] | Libet, Haynes, compatibilisme, determinisme, neurofilosofie |
 | [[Vrije Wil & Determinisme — Forensisch]] | Toerekeningsvatbaarheid, neuroabolitionalisme, strafrechtelijke verantwoordelijkheid |
+| [[Deontologie & Kantische Ethiek]] | Categorisch imperatief, plichtethiek, autonomie en het koningrijke der doelen |
+| [[Deugdethiek & Aristotelische Ethiek]] | Aristoteles, eudaimonia, phronesis, karakterdeugden, VIA-sterkten |
+| [[Dialectiek & Hegeliaanse Synthese]] | Hegel, these-antithese-synthese, dialectische ontwikkeling, historische rede |
+| [[Filosofie van de Taal]] | Wittgenstein, Frege, Austin — betekenis, verwijzing, taalspelen, taalhandelingen |
+| [[Marxisme & Historisch Materialisme]] | Marx, Engels, klassenstrijd, productieverhoudingen, basis & bovenbouw |
+| [[Metafysica & Ontologie]] | Zijn, identiteit, substantie, causaliteit, modaliteit — Aristoteles tot Quine |
+| [[Utilitarisme & Consequentialisme]] | Bentham, Mill, Singer — maximalisatie van welzijn als moreel criterium |
 
 ---
 

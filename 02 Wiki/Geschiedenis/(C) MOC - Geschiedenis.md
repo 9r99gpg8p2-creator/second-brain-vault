@@ -69,6 +69,11 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 ### Oudheid (tot 500 n.Chr.)
 - [[De Griekse Oudheid]] — logos, democratie, filosofie (Socrates/Plato/Aristoteles), poleis, Thucydides Trap
 
+### De Middeleeuwen & Pre-Moderne Wereld (500–1400)
+- [[De Middeleeuwen & Feodalisme]] — feodale ordening, kerk als supranationale macht, pest, kruistochten, scholastiek
+- [[De Islamitische Gouden Eeuw]] — algebra, optica, filosofie, geneeskunde — het behoud van klassieke kennis ca. 750–1258
+- [[Het Ottomaanse Rijk]] — millet-systeem, multiconfessionele staat, val van Constantinopel, geopolitiek erfgoed
+
 ### Vroegmodern (1400–1800)
 - [[De Renaissance]] — humanisme, Medici, Michelangelo, perspectief, antropocentrisme
 - [[De Reformatie]] — Luther, Calvijn, boekdrukkunst, protestantisme, confessionele staten
@@ -81,11 +86,15 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 
 ### De Twintigste Eeuw (1900–2000)
 - [[De Eerste Wereldoorlog]] — imperialisme, schuttersloopgraven, Vrede van Versailles
+- [[De Russische Revolutie]] — Lenin, bolsjewieken, sovjet-staat, ideologische strijd
+- [[De Opkomst van het Fascisme]] — Mussolini, Hitler, nationalisme, corporatieve staat, totalitaire psychologie
 - [[De Tweede Wereldoorlog]] — totalitarisme, Holocaust, atoombom, VN-oprichting
 - [[De Koude Oorlog]] — nucleaire afschrikking, proxy-oorlogen, ideologische polarisatie, Berlijnse Muur
 - [[Dekolonisatie & Postkoloniale Orde]] — Fanon, Bandung-conferentie, neocolonialisme, postkoloniale theorie
+- [[De Globalisering]] — Bretton Woods, WTO, multinationals, globale ongelijkheid, technologische integratie
 
 ### Vakgeschiedenis
+- [[Eugenica & Pseudowetenschappelijke Psychiatrie]] — racisme als wetenschap, gedwongen sterilisatie, Holocaust-psychiatrie
 - [[Geschiedenis van de Psychiatrie]] — duiveluitdrijving → asielmodel → biopsychiatrie → evidence-based
 
 ---
@@ -104,6 +113,9 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 | Pagina | Periode | Kernthema |
 |---|---|---|
 | [[De Griekse Oudheid]] | ±800-31 v.Chr. | Logos, democratie, poleis, filosofie, Thucydides |
+| [[De Middeleeuwen & Feodalisme]] | 500–1400 | Feodalisme, kerk, pest, kruistochten, scholastiek |
+| [[De Islamitische Gouden Eeuw]] | ca. 750–1258 | Wetenschap, filosofie, geneeskunde, kennisbewaring |
+| [[Het Ottomaanse Rijk]] | 1299–1922 | Multiconfessioneel rijk, millet, val Constantinopel |
 | [[De Renaissance]] | 1400–1600 | Humanisme, Medici, Michelangelo, antropocentrisme |
 | [[De Reformatie]] | 1517–1648 | Luther, Calvijn, boekdrukkunst, confessionele staten |
 | [[De Wetenschappelijke Revolutie]] | 1543–1687 | Copernicus, Galileo, Newton, empirische methode |
@@ -115,10 +127,12 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 | [[De Tweede Wereldoorlog]] | 1939–1945 | Totalitarisme, Holocaust, atoombom, VN-oprichting |
 | [[De Koude Oorlog]] | 1947–1991 | Nucleaire afschrikking, proxy-oorlogen, ideologische polarisatie |
 | [[Dekolonisatie & Postkoloniale Orde]] | 1945–1975 | Fanon, Bandung-conferentie, neocolonialisme |
+| [[De Opkomst van het Fascisme]] | 1919–1945 | Mussolini, Hitler, totalitarisme, corporatieve staat |
+| [[De Globalisering]] | 1945–heden | Bretton Woods, WTO, multinationals, globale ongelijkheid |
 | [[Eugenica & Pseudowetenschappelijke Psychiatrie]] | 1880–1945 | Racisme als wetenschap, gedwongen sterilisatie, Holocaust |
 | [[Geschiedenis van de Psychiatrie]] | 1800–heden | Asielmodel, Pinel, biopsychiatrie, evidence-based |
 
 ---
 
 > **Status:** Uitbreidend
-> **Laatste update:** 2026-07-02
+> **Laatste update:** 2026-07-04

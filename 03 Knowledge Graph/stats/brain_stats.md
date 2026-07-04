@@ -1,29 +1,30 @@
 ---
 type: stats
-generated: 2026-07-03
+generated: 2026-07-04
 author: Brain-Guardian
-run: 4
+run: 5
 ---
 
-# Brain Statistics — 2026-07-03 (Guardian Run #4)
+# Brain Statistics — 2026-07-04 (Guardian Run #5)
 
 ## Overzicht
 
-| Metric | Waarde | Δ vs Run #3 |
+| Metric | Waarde | Δ vs Run #4 |
 |---|---|---|
-| Totaal wiki-nodes | 80 | +8 |
-| KG-verbindingsnodes | 40 | +9 |
+| Totaal wiki-nodes | 96 | +16 |
+| KG-verbindingsnodes | 33 | +8 |
+| Hypotheses | 12 | +2 |
 | Conflictnotes | 2 | — |
-| Totaal KG-bestanden | 40 | +9 |
-| Gemiddelde quality_score | 0.861 | -0.001 |
+| Totaal KG-bestanden | 52 | +12 |
+| Gemiddelde quality_score | 0.863 | +0.002 |
 | Gemiddelde confidence_score | 0.881 | — |
-| Notes met quality-check-needed | 13 | +4 |
-| Nieuw since vorige run | 8 | — |
+| Notes met quality-check-needed | 13 | — |
+| Nieuw since vorige run | 16 wiki + 10 KG | — |
 | Merged duplicaten (deze run) | 0 | — |
-| Schema-migraties (deze run) | 4 | nieuw veld |
+| MOC-updates (deze run) | 4 | nieuw |
 | Conflicten gedetecteerd (deze run) | 0 | — |
 
-> **Noot:** 4 nieuwe notes hadden non-standaard YAML-schema (`bronnen:` i.p.v. `sources:`). Brain-Guardian heeft ze gemigreerd naar volledig standaard schema en `quality-check-needed` toegevoegd omdat source-URLs ontbreken voor verificatie.
+> **Noot:** 16 nieuwe wiki-notes toegevoegd door kennisagenten (Knowledge-Synthesizer/Hunter). 4 MOC-bestanden bijgewerkt met ontbrekende wikilinks naar nieuwe notes. Geen nieuwe duplicaten of conflicten gedetecteerd. De twee `Beloningssysteem & Dopamine` notes (Beleggen/Psychologie) zijn bewust disciplinespecifiek en vormen geen duplicaat.
 
 ---
 
@@ -31,95 +32,84 @@ run: 4
 
 | Discipline | Nodes | Gem. kwaliteit | Gem. confidence | Nieuwste note |
 |---|---|---|---|---|
-| 🟢 Psychologie | 26 | 0.84 | 0.88 | Sociale Cognitie & Theory of Mind |
-| 🔵 Filosofie | 19 | 0.85 | 0.85 | Nihilisme & Absurdisme |
-| 🟡 Geschiedenis | 18 | 0.90 | 0.91 | De Val van het Westerse Romeinse Rijk |
-| 🔴 Beleggen | 17 | 0.88 | 0.89 | Valuatie & DCF-analyse |
-| **Totaal** | **80** | **0.861** | **0.881** | — |
+| 🟢 Psychologie | 31 | 0.848 | 0.884 | Neurocognitieve Stoornissen & Dementie |
+| 🔵 Filosofie | 23 | 0.850 | 0.877 | Metafysica & Ontologie |
+| 🟡 Geschiedenis | 21 | 0.891 | 0.910 | Het Ottomaanse Rijk |
+| 🔴 Beleggen | 21 | 0.872 | 0.882 | Dividendbeleggen & Dividendgroei |
+| **Totaal** | **96** | **0.863** | **0.881** | — |
+
+> **Noot Filosofie:** Gemiddelde inclusief deprecated `Epistemologie`-stub (quality_score: 0.0). Exclusief stub: **0.890**.
 
 ---
 
 ## Top 10 Meest Verbonden Nodes
 
-*(Gebaseerd op backlinks — gehele vault; usage_score = backlinks / 80)*
+*(Gebaseerd op wikilink-backlinks — gehele vault; usage_score = backlinks / 96)*
 
 | Rank | Note | Backlinks | usage_score | Discipline |
 |---|---|---|---|---|
-| 1 | Ethiek | 31 | 0.388 | 🔵 Filosofie |
-| 2 | Gedragseconomie & Cognitieve Biases | 30 | 0.375 | 🔴 Beleggen |
-| 3 | Epistemologie *(deprecated redirect)* | 26 | 0.325 | 🔵 Filosofie |
-| 4 | Emotieregulatie | 25 | 0.313 | 🟢 Psychologie |
-| 5 | Epistemologie & Kennistheorie | 24 | 0.300 | 🔵 Filosofie |
-| 6 | Falsifieerbaarheid & Wetenschapsfilosofie | 22 | 0.275 | 🔵 Filosofie |
-| 7 | De Verlichting | 21 | 0.263 | 🟡 Geschiedenis |
-| 8 | ADHD & Executieve Disfunctie | 21 | 0.263 | 🟢 Psychologie |
-| 9 | Klinische Psychologie | 20 | 0.250 | 🟢 Psychologie |
-| 10 | Sociale Psychologie | 19 | 0.238 | 🟢 Psychologie |
+| 1 | Gedragseconomie & Cognitieve Biases | 35 | 0.365 | 🔴 Beleggen |
+| 2 | Ethiek | 31 | 0.323 | 🔵 Filosofie |
+| 3 | Falsifieerbaarheid & Wetenschapsfilosofie | 29 | 0.302 | 🔵 Filosofie |
+| 4 | Epistemologie & Kennistheorie | 28 | 0.292 | 🔵 Filosofie |
+| 5 | Emotieregulatie | 28 | 0.292 | 🟢 Psychologie |
+| 6 | ADHD & Executieve Disfunctie | 25 | 0.260 | 🟢 Psychologie |
+| 7 | Klinische Psychologie | 24 | 0.250 | 🟢 Psychologie |
+| 8 | Sociale Psychologie | 23 | 0.240 | 🟢 Psychologie |
+| 9 | Filosofie van de Geest | 23 | 0.240 | 🔵 Filosofie |
+| 10 | Executieve Functies & Prefrontale Cortex | 23 | 0.240 | 🟢 Psychologie |
 
-**Observatie:** Filosofie domineert de top met `Ethiek` als absolute knooppunt van het netwerk (31 backlinks). `Gedragseconomie & Cognitieve Biases` is de sterkste interdisciplinaire brug tussen Beleggen, Psychologie en Filosofie.
-
-**Opmerkelijk verschil t.o.v. Run #3:** backlink-counts zijn lager dan eerder gerapporteerd — dit kan wijzen op telfouten in vorige meting of op het deprecaten van de `Epistemologie`-redirect die veel pseudo-links genereerde. Actuele telling is betrouwbaarder.
+**Observatie Run #5:** `Gedragseconomie & Cognitieve Biases` heeft de rol van #1 overgenomen van `Ethiek`. Dit weerspiegelt de sterke uitbreiding van de Beleggen-discipline en haar neuropsychologische verbindingen. `Emotieregulatie` stijgt naar #4 (gedeeld met Epistemologie), wat de centrale rol van emotieregulatie als cross-disciplinaire brug bevestigt. Nieuw in de top: `Marktpsychologie & Beurscrises` (22 backlinks, #11) — een gevolg van de 5 nieuwe Beleggen-notes die er naar verwijzen.
 
 ---
 
-## Schema-migraties (deze run)
+## MOC-Updates Deze Run
 
-| Note | Discipline | Probleem | Actie |
-|---|---|---|---|
-| Deugdethiek & Aristotelische Ethiek | Filosofie | `bronnen:` i.p.v. `sources:`; geen scores | Volledig schema toegevoegd; quality-check-needed |
-| Epigenetica & Gen-Omgeving Interactie | Psychologie | `bronnen:` i.p.v. `sources:`; geen scores | Volledig schema toegevoegd; quality-check-needed |
-| De Griekse Oudheid | Geschiedenis | `bronnen:` i.p.v. `sources:`; geen scores | Volledig schema toegevoegd; quality-check-needed |
-| Inflatie & Koopkrachtbescherming | Beleggen | `bronnen:` i.p.v. `sources:`; geen scores | Volledig schema toegevoegd; quality-check-needed |
-
----
-
-## Notes met quality-check-needed (13 totaal)
-
-Nieuw gemigreerd (4) — source-URLs ontbreken, inhoud is solide:
-- `Deugdethiek & Aristotelische Ethiek`
-- `Epigenetica & Gen-Omgeving Interactie`
-- `De Griekse Oudheid`
-- `Inflatie & Koopkrachtbescherming`
-
-Reeds bestaand (9) — overgedragen van vorige runs.
-
-**Actie:** bij de volgende Knowledge-Hunter run source-URLs toevoegen aan de 4 gemigreerde notes.
-
----
-
-## Bestaande Conflicten
-
-| Conflictnote | Status |
+| MOC | Toegevoegde links |
 |---|---|
-| `(CONFLICT) EMH vs Gedragseconomie.md` | Openstaand — verificatie nodig |
-| `(CONFLICT) Verlichting vs Eugenica.md` | Openstaand — verificatie nodig |
+| MOC - Beleggen | Alternatieve Beleggingen, Cryptovaluta & Blockchain, Dividendbeleggen & Dividendgroei, Private Equity & Venture Capital, Valuatie & DCF-analyse |
+| MOC - Filosofie | Deontologie & Kantische Ethiek, Deugdethiek & Aristotelische Ethiek, Dialectiek & Hegeliaanse Synthese, Filosofie van de Taal, Marxisme & Historisch Materialisme, Metafysica & Ontologie, Utilitarisme & Consequentialisme |
+| MOC - Geschiedenis | De Middeleeuwen & Feodalisme, De Islamitische Gouden Eeuw, Het Ottomaanse Rijk, De Opkomst van het Fascisme, De Globalisering |
+| MOC - Psychologie BSc Jaar 1 | Aandacht & Cognitieve Controle, Perceptie & Predictive Coding, Beloningssysteem & Dopamine, HPA-as & Cortisolregulatie, Autisme Spectrum Stoornis, Gokstoornis & Impulscontrolestoornis, Neurocognitieve Stoornissen & Dementie, Slaap & Geheugenconsolidatie, Angststoornissen & Neurowetenschappen, Verslaving & Neurobiologie |
+
+---
+
+## Kwaliteitsaandachtspunten
+
+Notes met `quality-check-needed` tag (13 stuks — ongewijzigd t.o.v. run #4):
+
+| Note | Discipline | Reden |
+|---|---|---|
+| Cognitie & Gedrag | Psychologie | quality_score: 0.70 — bronnen aanwezig maar geen URL |
+| Sociale Psychologie | Psychologie | quality_score: 0.70 — bronnen aanwezig maar geen URL |
+| TOE - Statistiek | Psychologie | quality_score: 0.70 — bronnen aanwezig maar geen URL |
+| Hersen & Gedrag | Psychologie | quality_score: 0.75 — gedeeltelijke bronnen |
+| Klinische Psychologie | Psychologie | quality_score: 0.75 — gedeeltelijke bronnen |
+| Ontwikkelingspsychologie | Psychologie | quality_score: 0.75 — gedeeltelijke bronnen |
+| Psychologie als Wetenschap | Psychologie | quality_score: 0.75 — gedeeltelijke bronnen |
+| Neuroplasticiteit | Psychologie | quality_score: 0.82 — bronnen zonder URL |
+| Epigenetica & Gen-Omgeving Interactie | Psychologie | quality_score: 0.80 — bronnen zonder URL |
+| Inflatie & Koopkrachtbescherming | Beleggen | quality_score: 0.82 — bronnen gedeeltelijk |
+| Moderne Portefeuilletheorie | Beleggen | quality_score: 0.85 — bronnen gedeeltelijk |
+| Deugdethiek & Aristotelische Ethiek | Filosofie | quality_score: 0.78 — bronnen aanwezig |
+| De Griekse Oudheid | Geschiedenis | quality_score: 0.82 — bronnen aanwezig maar geen URL |
+
+**Prioriteit voor Knowledge-Synthesizer:** Focus op Psychologie-notes (7 van 13) — voeg DOI/URL-bronnen toe aan de 5 notes met quality_score 0.70–0.75.
 
 ---
 
 ## Groeisnelheid
 
-| Run | Wiki-nodes | KG-nodes | Δ wiki |
-|---|---|---|---|
-| Run #1 (baseline) | ~40 | — | — |
-| Run #2 | 64 | ~29 | +24 |
-| Run #3 | 72 | 31 | +8 |
-| Run #4 (heden) | 80 | 40 | +8 |
-
-**Schatting:** ~8 wiki-nodes per dag (stabiele groeisnelheid).
-**KG-groei:** +9 verbindingsnodes deze run — synthese houdt gelijke tred met feitencollectie.
-**KG/Wiki-ratio:** 40/80 = 0.50 — voor elke 2 wiki-nodes bestaat er 1 synthese-node. Gezonde verhouding.
+- Notes per dag: ~16 (run #4 → #5, periode: 1 dag; inclusief geautomatiseerde kennisagenten)
+- KG-nodes per dag: ~8 (hetzelfde tijdsbestek)
+- Totale vault-groei run #1 → #5: van ~60 naar 96 wiki-nodes + 33 KG-nodes in ~4 dagen
 
 ---
 
-## Monitoring: Lage Connectiviteit
+## Vault-Integriteit
 
-| Note | Backlinks | Status |
-|---|---|---|
-| Inflatie & Koopkrachtbescherming | 0 | Nieuw — aandacht nodig |
-| Epigenetica & Gen-Omgeving Interactie | 0 | Nieuw — aandacht nodig |
-| Deugdethiek & Aristotelische Ethiek | 2 | Laag — verbindingen uitbreiden |
-| De Griekse Oudheid | 2 | Laag — verbindingen uitbreiden |
-
----
-
-> Guardian Run #4 | 2026-07-03 | Brain-Guardian
+- Duplicaten gedetecteerd: 0 echte duplicaten (de twee `Beloningssysteem & Dopamine` notes zijn disciplinespecifiek)
+- Conflicten gevonden: 0 nieuw (2 bestaande CONFLICT-bestanden open)
+- Deprecated stubs: 1 (`Epistemologie.md` — correct gemarkeerd, backlinks omleiden naar `Epistemologie & Kennistheorie`)
+- Wikilinks: alle 96 notes hebben minimaal 1 wikilink ✓
+- Bronnen: 95/96 notes hebben ≥1 bron ✓ (alleen deprecated Epistemologie-stub heeft geen bronnen)

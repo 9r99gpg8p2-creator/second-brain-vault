@@ -98,6 +98,11 @@ Centrale hub voor beleggingsprincipes, mentale modellen en markten.
 | [[(C) Rente & Centrale Bankpolitiek]] | Fed, ECB, rentebeleid, kwantitatieve verruiming |
 | [[(C) Inflatie & Koopkrachtbescherming]] | CPI, Taylor-regel, reëel rendement, Weimar, stagflatie, TIPS, asset-allocatie |
 | [[(C) Waardebeleggen]] | Graham, Buffett, intrinsieke waarde, margin of safety |
+| [[(C) Alternatieve Beleggingen]] | Grondstoffen, vastgoed, hedgefondsen, kunst — diversificatie buiten traditionele markten |
+| [[(C) Cryptovaluta & Blockchain]] | Bitcoin, Ethereum, DeFi, blockchain-technologie, regulering |
+| [[(C) Dividendbeleggen & Dividendgroei]] | Dividend aristocrats, DRIP, yield on cost, passief inkomen |
+| [[(C) Private Equity & Venture Capital]] | Buyouts, venture capital, illiquiditeitspremie, carry |
+| [[(C) Valuatie & DCF-analyse]] | Discounted cashflow, terminal value, WACC, intrinsieke waardebepaling |
 
 ---
 
