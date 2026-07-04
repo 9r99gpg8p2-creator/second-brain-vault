@@ -1,73 +1,59 @@
 {
   "event_type": "KnowledgeDiscovered",
   "agent": "Agent1-KnowledgeHunter",
-  "timestamp": "2026-07-02T04:07:00Z",
+  "timestamp": "2026-07-04T04:07:00Z",
   "status": "pending",
   "data": {
-    "research_path": "00 Research/2026-07-02/0407",
-    "note": "Stale knowledge_gap events (Beloningssysteem, Ruminatie, VrijeWil, Dekolonisatie) moved to processed — all 4 already exist in 02 Wiki/.",
+    "research_path": "00 Research/2026-07-04/0407",
     "topics": [
       {
         "discipline": "Psychologie",
-        "topic": "Angststoornissen & Neurowetenschappen",
-        "suggested_path": "02 Wiki/Psychologie/(C) Angststoornissen.md",
+        "topic": "Somatische Markerstheorie (Damasio)",
+        "wiki_path": "02 Wiki/Psychologie/(C) Somatische Markerstheorie (Damasio).md",
         "source_score": 9,
         "confidence": 0.88,
-        "novelty": 0.92,
+        "novelty": 0.93,
         "trust_level": "hoog",
-        "key_connections": [
-          "02 Wiki/Psychologie/(C) Emotieregulatie.md",
-          "02 Wiki/Psychologie/(C) Ruminatie & Piekeren.md",
-          "02 Wiki/Psychologie/(C) Trauma & PTSS.md",
-          "02 Wiki/Psychologie/(C) Klinische Psychologie.md",
-          "02 Wiki/Psychologie/(C) Default Mode Network.md"
-        ]
+        "gap_resolved": "knowledge_gap_SomatischeMarkerstheorie_1609.json",
+        "cross_disciplinary": ["Filosofie van de Geest", "Gedragseconomie", "Verslaving"]
       },
       {
         "discipline": "Filosofie",
-        "topic": "Pragmatisme",
-        "suggested_path": "02 Wiki/Filosofie/(C) Pragmatisme.md",
+        "topic": "Postmodernisme & De Ontbinding van Grote Narratieven",
+        "wiki_path": "02 Wiki/Filosofie/(C) Postmodernisme & De Ontbinding van Grote Narratieven.md",
         "source_score": 9,
-        "confidence": 0.92,
-        "novelty": 0.95,
+        "confidence": 0.91,
+        "novelty": 0.91,
         "trust_level": "hoog",
-        "key_connections": [
-          "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md",
-          "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md",
-          "02 Wiki/Filosofie/(C) Ethiek.md",
-          "02 Wiki/Psychologie/(C) Psychologie als Wetenschap.md"
-        ]
+        "gap_resolved": "knowledge_gap_Postmodernisme_1609.json",
+        "cross_disciplinary": ["Geschiedenis van de Psychiatrie", "Dekolonisatie", "Wetenschapsfilosofie"]
       },
       {
         "discipline": "Geschiedenis",
-        "topic": "De Russische Revolutie (1917)",
-        "suggested_path": "02 Wiki/Geschiedenis/(C) De Russische Revolutie.md",
-        "source_score": 9,
-        "confidence": 0.93,
-        "novelty": 0.94,
+        "topic": "Totalitarisme als Politiek Systeem",
+        "wiki_path": "02 Wiki/Geschiedenis/(C) Totalitarisme als Politiek Systeem.md",
+        "source_score": 8,
+        "confidence": 0.92,
+        "novelty": 0.88,
         "trust_level": "hoog",
-        "key_connections": [
-          "02 Wiki/Geschiedenis/(C) De Koude Oorlog.md",
-          "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract.md",
-          "02 Wiki/Geschiedenis/(C) De Eerste Wereldoorlog.md",
-          "02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde.md"
-        ]
+        "gap_resolved": "knowledge_gap_Totalitarisme_1609.json",
+        "cross_disciplinary": ["Politieke Filosofie", "Sociale Psychologie", "Eugenica"]
       },
       {
         "discipline": "Beleggen",
-        "topic": "Obligaties & Vastrentende Waarden",
-        "suggested_path": "02 Wiki/Beleggen/(C) Obligaties & Vastrentende Waarden.md",
+        "topic": "Risico vs. Onzekerheid — Knight's Onderscheid",
+        "wiki_path": "02 Wiki/Beleggen/(C) Risico vs. Onzekerheid — Knight's Onderscheid.md",
         "source_score": 8,
-        "confidence": 0.90,
-        "novelty": 0.93,
+        "confidence": 0.89,
+        "novelty": 0.90,
         "trust_level": "hoog",
-        "key_connections": [
-          "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md",
-          "02 Wiki/Beleggen/(C) Rente & Centrale Bankpolitiek.md",
-          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
-          "02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie.md"
-        ]
+        "gap_resolved": "knowledge_gap_RisicoOnzekerheid_Knight_1609.json",
+        "cross_disciplinary": ["Epistemologie", "Falsifieerbaarheid", "Angststoornissen"]
       }
-    ]
+    ],
+    "sources_used": ["WebSearch", "Stanford Encyclopedia of Philosophy", "Wikipedia (via WebSearch)", "MIT News", "Frontiers in Psychology", "PNAS", "ScienceDirect"],
+    "wikipedia_api_status": "blocked (403 — netwerkbeleid)",
+    "arxiv_status": "blocked (403 — netwerkbeleid)",
+    "fallback_used": "WebSearch"
   }
 }
