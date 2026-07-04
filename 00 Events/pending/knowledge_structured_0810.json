@@ -1,0 +1,17 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-04T08:10:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Glymfatisch Systeem.md",
+      "02 Wiki/Filosofie/(C) Hermeneutiek.md",
+      "02 Wiki/Geschiedenis/(C) De Zwarte Dood.md",
+      "02 Wiki/Beleggen/(C) Technische Analyse.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) De Cirkel als Universele Structuur — Glymfatische Klaring, Hermeneutiek, Historische Catastrofe en Marktcycli.md"
+    ]
+  }
+}

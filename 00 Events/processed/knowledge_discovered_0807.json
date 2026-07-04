@@ -1,51 +1,73 @@
 {
   "event_type": "KnowledgeDiscovered",
   "agent": "Agent1-KnowledgeHunter",
-  "timestamp": "2026-07-01T08:07:00Z",
+  "timestamp": "2026-07-04T08:07:43Z",
   "status": "pending",
   "data": {
-    "research_path": "00 Research/2026-07-01/0807",
-    "source_note": "Wikipedia API proxy-blocked; data sourced from AI training knowledge (Gross 1998, Graham 1934/1949, Hobsbawm, Aristotle, Kant, Mill, Rawls)",
+    "research_path": "00 Research/2026-07-04/0807",
+    "knowledge_gaps_consumed": [
+      "00 Events/pending/knowledge_gap_GlymfatischSysteem_0704.json"
+    ],
     "topics": [
       {
         "discipline": "Psychologie",
-        "topic": "Emotieregulatie",
-        "file": "psychologie-emotieregulatie.md",
-        "source_score": 8,
-        "confidence": 0.90,
-        "novelty": 1.0,
+        "topic": "Glymfatisch Systeem",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.95,
         "trust_level": "hoog",
-        "key_connections": ["Executieve Functies & Prefrontale Cortex", "ADHD & Executieve Disfunctie", "Klinische Psychologie", "Neuroplasticiteit"]
+        "gap_priority": 0.90,
+        "file": "00 Research/2026-07-04/0807/Psychologie-GlymfatischSysteem.md",
+        "key_sources": [
+          "Wikipedia: Glymphatic_system",
+          "Cell (2025): Norepinephrine-mediated slow vasomotion",
+          "Physiology APS (2024): Targeting Sleep Physiology"
+        ]
       },
       {
         "discipline": "Filosofie",
-        "topic": "Ethiek",
-        "file": "filosofie-ethiek.md",
-        "source_score": 9,
-        "confidence": 0.92,
-        "novelty": 1.0,
+        "topic": "Hermeneutiek",
+        "source_score": 8,
+        "confidence": 0.90,
+        "novelty": 0.88,
         "trust_level": "hoog",
-        "key_connections": ["Epistemologie & Kennistheorie", "Filosofie van de Geest", "De Verlichting"]
+        "gap_priority": null,
+        "file": "00 Research/2026-07-04/0807/Filosofie-Hermeneutiek.md",
+        "key_sources": [
+          "Philosophy Institute: Philosophical Contributions to Hermeneutics",
+          "Wikipedia: Hermeneutic circle",
+          "Palmer: Hermeneutics (boek)"
+        ]
       },
       {
         "discipline": "Geschiedenis",
-        "topic": "De Industriele Revolutie",
-        "file": "geschiedenis-industriele-revolutie.md",
+        "topic": "De Zwarte Dood",
         "source_score": 9,
         "confidence": 0.93,
-        "novelty": 1.0,
+        "novelty": 0.91,
         "trust_level": "hoog",
-        "key_connections": ["De Verlichting", "De Wetenschappelijke Revolutie", "Geschiedenis van de Psychiatrie"]
+        "gap_priority": null,
+        "file": "00 Research/2026-07-04/0807/Geschiedenis-DeZwarteDood.md",
+        "key_sources": [
+          "World History Encyclopedia: Black Death",
+          "Britannica: Black Death",
+          "PMC: History of the Plague"
+        ]
       },
       {
         "discipline": "Beleggen",
-        "topic": "Waardebeleggen",
-        "file": "beleggen-waardebeleggen.md",
-        "source_score": 9,
-        "confidence": 0.91,
-        "novelty": 1.0,
+        "topic": "Technische Analyse",
+        "source_score": 8,
+        "confidence": 0.87,
+        "novelty": 0.85,
         "trust_level": "hoog",
-        "key_connections": ["Gedragseconomie & Cognitieve Biases", "Efficiënte Markt Hypothese", "Moderne Portefeuilletheorie"]
+        "gap_priority": null,
+        "file": "00 Research/2026-07-04/0807/Beleggen-TechnischeAnalyse.md",
+        "key_sources": [
+          "Wikipedia: Technical analysis",
+          "Bravos Research: EMH",
+          "ArXiv 1302.1228: Efficient Markets and Behavioral Finance"
+        ]
       }
     ]
   }
