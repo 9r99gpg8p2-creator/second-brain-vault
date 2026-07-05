@@ -1,0 +1,80 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-05T00:21:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-05/0021",
+    "note": "Alle pending kennishiaten hadden al wiki-pagina's. Vier nieuwe topics gekozen op basis van thematische relevantie voor Daan's profiel (BSc Psychologie jaar 2, doel MSc Klinische Neuropsychologie). Wikipedia-API geblokkeerd (proxy 403); trainingskennis gebruikt.",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Psychoneuro-immunologie (PNI)",
+        "wiki_path": "02 Wiki/Psychologie/(C) Psychoneuro-immunologie (PNI).md",
+        "source_score": 9,
+        "confidence": 0.87,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "highlights": [
+          "Ader & Cohen (1975): geconditioneerde immuunrespons als founding discovery",
+          "Drie communicatiekanalen: HPA-as, SNS, vaguszenuw",
+          "Inflammatoire depressiehypothese: IDO-kinureninepad",
+          "Sickness behavior als evolutionair mechanisme dat overlapt met depressiesymptomen"
+        ]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Naturalisme & Wetenschappelijk Materialisme",
+        "wiki_path": "02 Wiki/Filosofie/(C) Naturalisme & Wetenschappelijk Materialisme.md",
+        "source_score": 10,
+        "confidence": 0.92,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "highlights": [
+          "Vijf vormen van materialisme gedocumenteerd",
+          "Hard problem of consciousness (Chalmers) volledig uitgewerkt",
+          "Nagel vleermuisargument + Jackson's Mary-kamer",
+          "Naturalisme vs. fenomenologie als structurele kloof"
+        ]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Dertigjarige Oorlog (1618–1648) & Verdrag van Westfalen",
+        "wiki_path": "02 Wiki/Geschiedenis/(C) De Dertigjarige Oorlog & Verdrag van Westfalen.md",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "highlights": [
+          "Vier fasen gedocumenteerd (Boheems, Deens, Zweeds, Frans)",
+          "8-12 miljoen doden; 25-40% bevolkingsafname Duitsland",
+          "Westfaalse Orde als debat: stichting vs. retroactieve mythe",
+          "Richelieu's raison d'état: religie ondergeschikt aan staatsmacht"
+        ]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Kelly Criterium & Optimale Positiegroottes",
+        "wiki_path": "02 Wiki/Beleggen/(C) Kelly Criterium & Optimale Positiegroottes.md",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "highlights": [
+          "Kelly formule volledig gedocumenteerd met voorbeeldberekening",
+          "Verbinding informatiethorie (Shannon) en Kelly Criterium",
+          "Half Kelly als praktische variant voor emotionele discipline",
+          "Psychologische uitdaging: verlieshate maakt Full Kelly onhoudbaar"
+        ]
+      }
+    ],
+    "new_connections_detected": [
+      "PNI ↔ Depressie: sickness behavior als evolutionaire depressie-analogie",
+      "PNI ↔ Serotonine: IDO-kinureninepad verbindt inflammatie met serotoninesysteem",
+      "Naturalisme ↔ Merleau-Ponty: fundamentele methodologische tegenstelling first/third-person",
+      "Dertigjarige Oorlog ↔ Verlichting: religieuze uitputting als grond voor tolerantiedenken",
+      "Kelly ↔ Risico vs. Onzekerheid: Kelly werkt alleen bij bekende kansen (Risico), niet bij Knightiaanse onzekerheid",
+      "Kelly ↔ EMH: als markten efficiënt zijn, is Kelly-edge = 0 (formele verbinding)"
+    ]
+  }
+}
