@@ -1,0 +1,20 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-05T17:30:00Z",
+  "status": "pending",
+  "data": {
+    "source_event": "knowledge_discovered_1207.json",
+    "new_nodes": [],
+    "skipped_nodes": [
+      "02 Wiki/Psychologie/(C) Neurale Correlaten van Bewustzijn.md",
+      "02 Wiki/Filosofie/(C) Hard Problem of Consciousness (Chalmers).md",
+      "02 Wiki/Geschiedenis/(C) De Cognitieve Revolutie.md",
+      "02 Wiki/Beleggen/(C) Mental Accounting & Behavioral Portfolio Theory.md"
+    ],
+    "skip_reason": "Alle vier wiki-nodes reeds aanwezig conform duplicaatregel",
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Het Onherleidbare Subject — Vier Manifestaties van de Verklaringskloof.md"
+    ]
+  }
+}

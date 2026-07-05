@@ -1,83 +1,96 @@
 {
   "event_type": "KnowledgeDiscovered",
   "agent": "Agent1-KnowledgeHunter",
-  "timestamp": "2026-07-02T12:07:00Z",
+  "timestamp": "2026-07-05T12:07:00Z",
   "status": "pending",
   "data": {
-    "research_path": "00 Research/2026-07-02/1207",
-    "note": "Externe bronnen (wikipedia.org, arxiv.org) geblokkeerd door egress-beleid. Onderzoek gebaseerd op AI-trainingskennis (wetenschappelijke consensusliteratuur t/m 2025). Alle bestanden gelabeld als RAW DATA met bronvermelding en confidence-scores.",
+    "research_path": "00 Research/2026-07-05/1207",
     "topics": [
       {
         "discipline": "Psychologie",
-        "topic": "Verslaving & Neurobiologie",
+        "topic": "Neurale Correlaten van Bewustzijn",
+        "wiki_path": "02 Wiki/Psychologie/(C) Neurale Correlaten van Bewustzijn.md",
         "source_score": 9,
-        "confidence": 0.92,
-        "novelty": 0.95,
+        "confidence": 0.85,
+        "novelty": 0.92,
         "trust_level": "hoog",
-        "file": "00 Research/2026-07-02/1207/psychologie-verslaving-neurobiologie.md",
-        "gap_event": null,
-        "key_connections": [
-          "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md",
-          "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine.md",
-          "02 Wiki/Psychologie/(C) Emotieregulatie.md",
-          "02 Wiki/Psychologie/(C) Trauma & PTSS.md",
-          "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md"
+        "key_sources": [
+          "Nature Reviews Neuroscience (2016)",
+          "PubMed adversarial IIT/GNWT studie (2024)",
+          "Scholarpedia NCC"
+        ],
+        "connections_added": [
+          "02 Wiki/Filosofie/(C) Hard Problem of Consciousness (Chalmers)",
+          "02 Wiki/Filosofie/(C) Filosofie van de Geest",
+          "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding",
+          "02 Wiki/Psychologie/(C) Default Mode Network"
         ]
       },
       {
         "discipline": "Filosofie",
-        "topic": "Neuro-ethiek",
-        "source_score": 8,
-        "confidence": 0.88,
+        "topic": "Hard Problem of Consciousness (Chalmers)",
+        "wiki_path": "02 Wiki/Filosofie/(C) Hard Problem of Consciousness (Chalmers).md",
+        "source_score": 9,
+        "confidence": 0.90,
         "novelty": 0.95,
         "trust_level": "hoog",
-        "file": "00 Research/2026-07-02/1207/filosofie-neuro-ethiek.md",
-        "gap_event": "00 Events/pending/knowledge_gap_Neuro-ethiek_0700.json",
-        "gap_priority": 0.82,
-        "key_connections": [
-          "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme.md",
-          "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme — Forensisch.md",
-          "02 Wiki/Filosofie/(C) Ethiek.md",
-          "02 Wiki/Filosofie/(C) Filosofie van de Geest.md",
-          "02 Wiki/Psychologie/(C) Klinische Psychologie.md"
-        ]
+        "key_sources": [
+          "Chalmers (1995) — Journal of Consciousness Studies",
+          "IEP: Hard Problem of Consciousness",
+          "SEP: Panpsychism",
+          "Nagel (1974) — What is it like to be a bat?"
+        ],
+        "connections_added": [
+          "02 Wiki/Filosofie/(C) Filosofie van de Geest",
+          "02 Wiki/Filosofie/(C) Fenomenologie",
+          "02 Wiki/Filosofie/(C) Metafysica & Ontologie",
+          "02 Wiki/Psychologie/(C) Neurale Correlaten van Bewustzijn"
+        ],
+        "gap_resolved": "knowledge_gap_HardProblemOfConsciousness_0705.json"
       },
       {
         "discipline": "Geschiedenis",
-        "topic": "Eugenica & Pseudowetenschappelijke Psychiatrie",
-        "source_score": 9,
-        "confidence": 0.92,
-        "novelty": 0.95,
+        "topic": "De Cognitieve Revolutie",
+        "wiki_path": "02 Wiki/Geschiedenis/(C) De Cognitieve Revolutie.md",
+        "source_score": 8,
+        "confidence": 0.90,
+        "novelty": 0.90,
         "trust_level": "hoog",
-        "file": "00 Research/2026-07-02/1207/geschiedenis-eugenica.md",
-        "gap_event": "00 Events/pending/knowledge_gap_Eugenica_PseudowetenschappelijkePsychiatrie_0700.json",
-        "gap_priority": 0.79,
-        "key_connections": [
-          "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie.md",
-          "02 Wiki/Geschiedenis/(C) De Tweede Wereldoorlog.md",
-          "02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde.md",
-          "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md",
-          "02 Wiki/Filosofie/(C) Ethiek.md"
+        "key_sources": [
+          "ScienceDirect: The cognitive revolution — a historical perspective (2003)",
+          "SEP: Cognitive Science",
+          "APA Monitor: The little-known roots of the cognitive revolution"
+        ],
+        "connections_added": [
+          "02 Wiki/Psychologie/(C) Cognitie & Gedrag",
+          "02 Wiki/Filosofie/(C) Filosofie van de Geest",
+          "02 Wiki/Filosofie/(C) Filosofie van de Taal",
+          "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie"
         ]
       },
       {
         "discipline": "Beleggen",
-        "topic": "Hyperbolic Discounting & Tijdspreferentie",
-        "source_score": 9,
-        "confidence": 0.91,
-        "novelty": 0.95,
+        "topic": "Mental Accounting & Behavioral Portfolio Theory",
+        "wiki_path": "02 Wiki/Beleggen/(C) Mental Accounting & Behavioral Portfolio Theory.md",
+        "source_score": 8,
+        "confidence": 0.88,
+        "novelty": 0.85,
         "trust_level": "hoog",
-        "file": "00 Research/2026-07-02/1207/beleggen-hyperbolic-discounting.md",
-        "gap_event": "00 Events/pending/knowledge_gap_HyperbolicDiscounting_Tijdspreferentie_0700.json",
-        "gap_priority": 0.76,
-        "key_connections": [
-          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md",
-          "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md",
-          "02 Wiki/Beleggen/(C) Beloningssysteem & Dopamine.md",
-          "02 Wiki/Filosofie/(C) Ethiek.md",
-          "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md"
-        ]
+        "key_sources": [
+          "Thaler (1985, 1999) — Marketing Science / JBDM",
+          "Shefrin & Statman (2000) — JFQA",
+          "NBER Working Paper w16868",
+          "Nobel Prize in Economics 2017 citation"
+        ],
+        "connections_added": [
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases",
+          "02 Wiki/Beleggen/(C) Hyperbolic Discounting & Tijdspreferentie",
+          "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie",
+          "02 Wiki/Psychologie/(C) Emotieregulatie"
+        ],
+        "gap_resolved": "knowledge_gap_MentalAccountingBehavioralPortfolioTheory_0705.json"
       }
-    ]
+    ],
+    "cross_discipline_insight": "Alle vier onderwerpen raken aan één centraal thema: de relatie tussen objectieve beschrijving en subjectieve beleving. In de psychologie is dit de vraag of NCC bewustzijn verklaren; in de filosofie is het het Harde Probleem; in de geschiedenis is het de vraag of de cognitieve revolutie bewustzijn ooit zal verklaren via computationalisme; in het beleggen is het de vraag of rationele keuzetheorie de subjectieve beleving van geld kan negeren."
   }
 }
