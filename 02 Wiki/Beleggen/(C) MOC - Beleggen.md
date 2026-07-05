@@ -37,6 +37,10 @@ revision_history:
     date: 2026-07-05
     author: Brain-Guardian
     change: "Commodities, Valutamarkten, Kelly Criterium en Narratieve Economie toegevoegd aan Wiki-tabel"
+  - version: 5
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: "Antifragiliteit & Complexe Systemen (Taleb), Global Macro Beleggen en Mental Accounting & Behavioral Portfolio Theory toegevoegd aan Wiki-tabel"
 ---
 
 # MOC — Beleggen
@@ -118,6 +122,9 @@ Centrale hub voor beleggingsprincipes, mentale modellen en markten.
 | [[(C) Valutamarkten & Wisselkoersen]] | Forex, wisselkoersen, carry trade, koopkrachtpariteit, centrale bankinterventie |
 | [[(C) Kelly Criterium & Optimale Positiegroottes]] | Kelly (1956), optimale positiegroottes, bankroll management, geometrisch rendement |
 | [[(C) Narratieve Economie & Virale Financiële Verhalen]] | Shiller, economische verhalen als virussen, SIR-model, EMH-falsificatie via narratieve contagion |
+| [[(C) Antifragiliteit & Complexe Systemen (Taleb)]] | Taleb — systemen die sterker worden van stressoren; barbell-strategie, via negativa, optionaliteit |
+| [[(C) Global Macro Beleggen]] | Macro-economische trends als beleggingsstrategie; Soros, Dalio, Druckenmiller — valuta, rente, grondstoffen |
+| [[(C) Mental Accounting & Behavioral Portfolio Theory]] | Thaler — mentale boekhouding, verliesaversie per account, suboptimale portefeuillebeslissingen |
 
 ---
 

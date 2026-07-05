@@ -1,0 +1,38 @@
+{
+  "event_type": "GraphUpdated",
+  "agent": "Agent4-BrainGuardian",
+  "timestamp": "2026-07-05T15:18:00Z",
+  "status": "pending",
+  "run": 8,
+  "data": {
+    "stats_path": "03 Knowledge Graph/stats/brain_stats.md",
+    "wiki_nodes_total": 135,
+    "wiki_nodes_delta": 16,
+    "kg_nodes": 51,
+    "hypotheses": 21,
+    "conflicts_total": 5,
+    "conflicts_new": 2,
+    "merged": 0,
+    "quality_checked": 135,
+    "moc_updates": 4,
+    "new_conflicts": [
+      "(CONFLICT) Antifragiliteit vs Moderne Portefeuilletheorie",
+      "(CONFLICT) ToM-deficit vs Dubbel Empathie Probleem"
+    ],
+    "moc_entries_added": {
+      "Beleggen": 3,
+      "Filosofie": 3,
+      "Geschiedenis": 3,
+      "Psychologie": 12
+    },
+    "avg_quality_score": 0.860,
+    "avg_confidence_score": 0.881,
+    "notes_with_quality_check_needed": 21,
+    "knowledge_gaps_identified": [
+      "Cognitieve Revalidatie",
+      "Islamitische Filosofie",
+      "Statistiek & Methodologie (verdieping)",
+      "Positieve Psychologie"
+    ]
+  }
+}

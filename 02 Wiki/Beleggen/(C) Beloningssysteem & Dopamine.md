@@ -132,6 +132,7 @@ Dit is een uitzonderlijk cross-disciplinair concept voor Klinische Neuropsycholo
 - [[Klinische Psychologie]] — gokstoornis, verslaving, impulscontrolestoornis als beloningssysteemstoornis
 - [[Hersen & Gedrag]] — dopamine als fundamenteel neurochemisch systeem voor motivatie en actie
 - [[Opties & Derivaten]] — speculatieve optiehandel als paralleel met gokgedrag neurologisch
+- [[Psychologie/(C) Beloningssysteem & Dopamine]] — dezelfde neurobiologie vanuit klinisch perspectief: verslaving, depressie, ADHD, schizofrenie en Parkinson-bijwerkingen
 
 ## Bronnen
 

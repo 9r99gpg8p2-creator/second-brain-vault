@@ -2,7 +2,7 @@
 type: moc
 id: ce9ec1c9-fcc2-af3b-6ab7-b31dbde6c340
 title: MOC - Filosofie
-summary: "Centrale navigatiehub voor 26 filosofie-conceptnotes — epistemologie, ethiek, existentialisme, wetenschapsfilosofie, fenomenologie, naturalisme, embodied cognition, hermeneutiek, kritische theorie, postmodernisme en meer."
+summary: "Centrale navigatiehub voor 31 filosofie-conceptnotes — epistemologie, ethiek, existentialisme, wetenschapsfilosofie, fenomenologie, naturalisme, embodied cognition, hermeneutiek, kritische theorie, postmodernisme, bioethiek, transhumanisme en meer."
 category: Filosofie
 tags: [moc, filosofie]
 aliases: ["MOC - Filosofie"]
@@ -45,6 +45,10 @@ revision_history:
     date: 2026-07-05
     author: Brain-Guardian
     change: "Naturalisme & Wetenschappelijk Materialisme en Merleau-Ponty & Corps Propre toegevoegd aan conceptnotes sectie en Wiki-tabel; summary bijgewerkt naar 26 notes"
+  - version: 7
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: "Bioethiek & Medische Ethiek, Transhumanisme & Filosofie van de Technologie en Hard Problem of Consciousness (Chalmers) toegevoegd aan conceptnotes sectie en Wiki-tabel; summary bijgewerkt naar 31 notes"
 ---
 
 # MOC — Filosofie
@@ -127,6 +131,13 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 - [[Esthetiek & Filosofie van de Kunst]] — Kant's sublieme, Hegel, Danto, neuro-esthetica — schoonheid, kunst en esthetische ervaring
 - [[Rechtsfilosofie & Juridische Epistemologie]] — rechtspositivisme, natuurrecht, kritische rechtstheorie, neurolaw
 
+### Bioethiek & Transhumanisme
+- [[Bioethiek & Medische Ethiek]] — medische beslissingsethiek, autonomie, informed consent, end-of-life beslissingen, triage
+- [[Transhumanisme & Filosofie van de Technologie]] — cognitieve verbetering, post-human, Bostrom, Heidegger's technologiekritiek, AI-alignment
+
+### Filosofie van de Geest — Uitgebreid
+- [[Hard Problem of Consciousness (Chalmers)]] — qualia, explanatory gap, p-zombie, panpsychisme, illusionisme — de meest fundamentele open vraag in de bewustzijnsfilosofie
+
 ### Nihilisme & Absurdisme
 - [[Nihilisme & Absurdisme]] — Nietzsche (passief vs. actief nihilisme), Camus' revolt als antwoord op het absurde; existentieel nihilisme en zijn klinische weerklank
 
@@ -179,6 +190,9 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 | [[Merleau-Ponty & Corps Propre]] | Corps propre, lichaamsschema, embodied cognition, fantoompijn, Cartesiaanse kloof |
 | [[Esthetiek & Filosofie van de Kunst]] | Kant's sublieme, Hegel, Danto, neuro-esthetica — schoonheid, kunst en esthetische ervaring |
 | [[Rechtsfilosofie & Juridische Epistemologie]] | Rechtspositivisme (Hart), natuurrecht, kritische rechtstheorie, neurolaw, bewijsproblemen |
+| [[Bioethiek & Medische Ethiek]] | Autonomie, beneficence, non-maleficence, triage, informed consent, end-of-life ethiek |
+| [[Transhumanisme & Filosofie van de Technologie]] | Bostrom, Heidegger's technologiekritiek, cognitieve verbetering, post-human, AI-alignment |
+| [[Hard Problem of Consciousness (Chalmers)]] | Qualia, explanatory gap, p-zombie, panpsychisme, illusionisme — de meest fundamentele bewustzijnsvraag |
 
 ---
 

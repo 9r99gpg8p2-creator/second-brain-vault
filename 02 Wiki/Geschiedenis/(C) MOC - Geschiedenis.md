@@ -2,7 +2,7 @@
 type: moc
 id: 7d63b61f-7957-ebc1-2e19-3c188eea4c8c
 title: MOC - Geschiedenis
-summary: "Centrale navigatiehub voor 13 geschiedenis-conceptnotes — van Renaissance tot Koude Oorlog, inclusief vakgeschiedenes psychiatrie en eugenica."
+summary: "Centrale navigatiehub voor 29 geschiedenis-conceptnotes — van Griekse Oudheid tot Globalisering, inclusief vakgeschiedenes psychiatrie, psychofarmacologie, cognitieve revolutie en eugenica."
 category: Geschiedenis
 tags: [moc, geschiedenis]
 aliases: ["MOC - Geschiedenis"]
@@ -41,6 +41,10 @@ revision_history:
     date: 2026-07-05
     author: Brain-Guardian
     change: "Het Mongoolse Rijk, De Dertigjarige Oorlog, De Slavernij & Transatlantische Slavenhandel en Koloniale Psychiatrie toegevoegd aan conceptnotes en Wiki-tabel"
+  - version: 6
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: "De Val van het Westerse Romeinse Rijk, De Cognitieve Revolutie en Geschiedenis van de Psychofarmacologie toegevoegd aan conceptnotes en Wiki-tabel"
 ---
 
 # MOC — Geschiedenis
@@ -76,6 +80,7 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 
 ### Oudheid (tot 500 n.Chr.)
 - [[De Griekse Oudheid]] — logos, democratie, filosofie (Socrates/Plato/Aristoteles), poleis, Thucydides Trap
+- [[De Val van het Westerse Romeinse Rijk]] — interne desintegratie, economische uitputting, Germaanse invasies (410, 476), overgang naar Middeleeuwen
 
 ### De Middeleeuwen & Pre-Moderne Wereld (500–1400)
 - [[De Middeleeuwen & Feodalisme]] — feodale ordening, kerk als supranationale macht, pest, kruistochten, scholastiek
@@ -107,9 +112,13 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 - [[De Opkomst van het Neoliberalisme]] — Hayek, Friedman, Mont Pelerin, Thatcher, Reagan, Washington Consensus
 - [[Totalitarisme als Politiek Systeem]] — Arendt, *Origins of Totalitarianism*, Nazisme en Stalinisme als structureel identieke systemen
 
+### Wetenschaps- en Cognitiegeschiedenis
+- [[De Cognitieve Revolutie]] — paradigmaverschuiving 1950s: behaviorisme → informatieverwerkingsparadigma; Chomsky, Miller, Newell & Simon; geboorte cognitieve wetenschap
+
 ### Vakgeschiedenis
 - [[Eugenica & Pseudowetenschappelijke Psychiatrie]] — racisme als wetenschap, gedwongen sterilisatie, Holocaust-psychiatrie
 - [[Geschiedenis van de Psychiatrie]] — duiveluitdrijving → asielmodel → biopsychiatrie → evidence-based
+- [[Geschiedenis van de Psychofarmacologie]] — toevallige ontdekkingen (chloorpromazine 1952, iproniazide 1952), psychofarmacologische revolutie, SSRI-tijdperk
 - [[Koloniale Psychiatrie & Pathologisering van Abnormaliteit]] — Fanon, DSM culturele bias, WEIRD-normen, pathologisering van politiek verzet, social defeat hypothesis
 
 ---
@@ -153,6 +162,9 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 | [[De Dertigjarige Oorlog & Verdrag van Westfalen]] | 1618–1648 | Confessionele oorlog, Westfaalse orde, staatssoevereiniteit |
 | [[De Slavernij & Transatlantische Slavenhandel]] | 1500–1865 | Triangular Trade, Middle Passage, abolitionisme, erfgoed |
 | [[Koloniale Psychiatrie & Pathologisering van Abnormaliteit]] | 1800–heden | Fanon, DSM-bias, WEIRD-normen, pathologisering van verzet |
+| [[De Val van het Westerse Romeinse Rijk]] | 3e–5e eeuw | Interne desintegratie, economische uitputting, Germaanse invasies (410, 476) |
+| [[De Cognitieve Revolutie]] | 1950s–1960s | Paradigmaverschuiving behaviorisme → informatieverwerkingsmodel; geboorte cognitieve wetenschap |
+| [[Geschiedenis van de Psychofarmacologie]] | 1952–heden | Chloorpromazine, iproniazide, SSRI-revolutie, biologisch psychiatrisch paradigma |
 
 ---
 

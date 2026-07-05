@@ -36,6 +36,10 @@ revision_history:
     date: 2026-07-05
     author: Brain-Guardian
     change: "Interoceptie, Persoonlijkheidsstoornissen & Cluster B, PNI en Serotoninesysteem toegevoegd aan neuropsychologie-tabel"
+  - version: 4
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: "12 ontbrekende notes toegevoegd: ADHD, CGT, DMN, Depressie, Dubbel Empathie, Emotieregulatie, Geheugen, Neurale Correlaten, Ruminatie, Schizofrenie, Trauma, Chronobiologie"
 ---
 
 # MOC — Psychologie BSc Jaar 1
@@ -99,6 +103,18 @@ Centrale hub voor alle vakken en verbanden uit het eerste jaar BSc Psychologie.
 | [[(C) Persoonlijkheidsstoornissen & Cluster B]] | Borderline, narcistisch, antisociaal, histrionisch — emotiedysregulatie, impulscontrole, neurobiologie |
 | [[(C) Psychoneuro-immunologie (PNI)]] | HPA-as, cytokinen, sickness behavior, inflammatoire depressie, IDO-kinureninepad |
 | [[(C) Serotoninesysteem & 5-HT Neurotransmissie]] | SSRI, 14 receptorsubtypes, Moncrieff 2022 — serotoninehypothese ter discussie, klinisch effectief maar mechanisme onduidelijk |
+| [[(C) ADHD & Executieve Disfunctie]] | Dopamine-dysregulatie PFC & striatum, inattentie/hyperactiviteit/impulsiviteit, neurobiologisch model |
+| [[(C) Cognitieve Gedragstherapie]] | Beck, cognitieve triade, exposure, gedragsactivatie — evidence-based psychotherapie bij depressie en angst |
+| [[(C) Default Mode Network]] | Resting-state netwerk, zelf-referentiële cognitie, ruminatie, DMN-hyperactiviteit bij depressie en psychose |
+| [[(C) Depressie & Neurobiologie]] | Monoamine-hypothese, neuroplasticiteitsmodel, HPA-disregulatie, anhedonie, subgenuale ACC |
+| [[(C) Dubbel Empathie Probleem (Milton 2012)]] | Bidirectioneel empathietekort autisme — niet ASS-tekort maar asymmetrische communicatie tussen neurologisch diverse groepen |
+| [[(C) Emotieregulatie]] | Cognitieve herwaardering, onderdrukking, amygdala-PFC-circuit, emotieregulatiestrategieën bij klinische stoornissen |
+| [[(C) Geheugen & Amnesie]] | Episodisch, semantisch, procedureel; hippocampus, H.M., anterograde amnesie, Korsakoff |
+| [[(C) Neurale Correlaten van Bewustzijn]] | NCC, global workspace, integrated information theory, vegetatieve staat, bewustzijnsmeting |
+| [[(C) Ruminatie & Piekeren]] | Depressieve ruminatie vs. angstpiekeren, respons-stijlen model, DMN-hyperactiviteit, cognitieve interferentie |
+| [[(C) Schizofrenie & Psychose]] | Dopamine-hypothese, D2-blokkade, negatieve symptomen, early intervention, neurodevelopmenteel model |
+| [[(C) Trauma & PTSS]] | DSM-5 PTSS-criteria, angstconditionering, amygdala-hippocampus-mPFC, EMDR, traumagericht behandeling |
+| [[(C) Chronobiologie & Circadiaans Ritme]] | Suprachiasmatische kern, melatonine, slaap-waakcyclus, sociale jetlag, psychische stoornissen en ritmedisregulatie |
 
 ---
 
