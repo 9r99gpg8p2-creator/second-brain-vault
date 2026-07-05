@@ -193,6 +193,7 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 | [[Bioethiek & Medische Ethiek]] | Autonomie, beneficence, non-maleficence, triage, informed consent, end-of-life ethiek |
 | [[Transhumanisme & Filosofie van de Technologie]] | Bostrom, Heidegger's technologiekritiek, cognitieve verbetering, post-human, AI-alignment |
 | [[Hard Problem of Consciousness (Chalmers)]] | Qualia, explanatory gap, p-zombie, panpsychisme, illusionisme — de meest fundamentele bewustzijnsvraag |
+| [[Filosofie van de Psychiatrie]] | Szasz, Foucault, Jaspers, Wakefield — ziektebegrip, nosologie, DSM, normativisme vs. naturalisme |
 
 ---
 

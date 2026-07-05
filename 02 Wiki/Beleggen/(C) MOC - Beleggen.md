@@ -125,6 +125,7 @@ Centrale hub voor beleggingsprincipes, mentale modellen en markten.
 | [[(C) Antifragiliteit & Complexe Systemen (Taleb)]] | Taleb — systemen die sterker worden van stressoren; barbell-strategie, via negativa, optionaliteit |
 | [[(C) Global Macro Beleggen]] | Macro-economische trends als beleggingsstrategie; Soros, Dalio, Druckenmiller — valuta, rente, grondstoffen |
 | [[(C) Mental Accounting & Behavioral Portfolio Theory]] | Thaler — mentale boekhouding, verliesaversie per account, suboptimale portefeuillebeslissingen |
+| [[(C) Marktbubbels & Irrational Exuberance]] | Minsky, Kindleberger, Shiller — speculatieve cycli, CAPE-ratio, gedragseconomische mechanismen, historische bubbels |
 
 ---
 

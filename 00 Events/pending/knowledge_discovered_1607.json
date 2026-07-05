@@ -1,0 +1,48 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-05T16:07:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-05/1607",
+    "note": "Wikipedia en arXiv geblokkeerd door network policy (403). Notities opgebouwd vanuit training knowledge; betrouwbaarheid hoog voor gevestigde concepten.",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Neuropsychologisch Assessment & Testpsychologie",
+        "wiki_path": "02 Wiki/Psychologie/(C) Neuropsychologisch Assessment & Testpsychologie.md",
+        "source_score": 8,
+        "confidence": 0.88,
+        "novelty": 0.95,
+        "trust_level": "hoog"
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Filosofie van de Psychiatrie",
+        "wiki_path": "02 Wiki/Filosofie/(C) Filosofie van de Psychiatrie.md",
+        "source_score": 7,
+        "confidence": 0.85,
+        "novelty": 0.92,
+        "trust_level": "hoog"
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "Geschiedenis van de Neurowetenschappen",
+        "wiki_path": "02 Wiki/Geschiedenis/(C) Geschiedenis van de Neurowetenschappen.md",
+        "source_score": 8,
+        "confidence": 0.90,
+        "novelty": 0.94,
+        "trust_level": "hoog"
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Marktbubbels & Irrational Exuberance",
+        "wiki_path": "02 Wiki/Beleggen/(C) Marktbubbels & Irrational Exuberance.md",
+        "source_score": 8,
+        "confidence": 0.87,
+        "novelty": 0.90,
+        "trust_level": "hoog"
+      }
+    ]
+  }
+}

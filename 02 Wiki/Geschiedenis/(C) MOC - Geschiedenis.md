@@ -165,6 +165,7 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 | [[De Val van het Westerse Romeinse Rijk]] | 3e–5e eeuw | Interne desintegratie, economische uitputting, Germaanse invasies (410, 476) |
 | [[De Cognitieve Revolutie]] | 1950s–1960s | Paradigmaverschuiving behaviorisme → informatieverwerkingsmodel; geboorte cognitieve wetenschap |
 | [[Geschiedenis van de Psychofarmacologie]] | 1952–heden | Chloorpromazine, iproniazide, SSRI-revolutie, biologisch psychiatrisch paradigma |
+| [[Geschiedenis van de Neurowetenschappen]] | Oudheid–heden | Van Hippocrates via Cajal en Broca tot fMRI en optogenetica — neurale wetenschap als methodologische revolutie |
 
 ---
 

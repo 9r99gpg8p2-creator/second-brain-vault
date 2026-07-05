@@ -115,6 +115,7 @@ Centrale hub voor alle vakken en verbanden uit het eerste jaar BSc Psychologie.
 | [[(C) Schizofrenie & Psychose]] | Dopamine-hypothese, D2-blokkade, negatieve symptomen, early intervention, neurodevelopmenteel model |
 | [[(C) Trauma & PTSS]] | DSM-5 PTSS-criteria, angstconditionering, amygdala-hippocampus-mPFC, EMDR, traumagericht behandeling |
 | [[(C) Chronobiologie & Circadiaans Ritme]] | Suprachiasmatische kern, melatonine, slaap-waakcyclus, sociale jetlag, psychische stoornissen en ritmedisregulatie |
+| [[(C) Neuropsychologisch Assessment & Testpsychologie]] | Gestandaardiseerde testbatterijen (WAIS, RAVLT, WCST, TMT), cognitieve domeinen, klinische toepassingen, ecologische validiteit, SVT |
 
 ---
 
