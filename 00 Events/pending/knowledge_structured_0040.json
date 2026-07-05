@@ -1,0 +1,27 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-05T00:40:24Z",
+  "status": "pending",
+  "data": {
+    "processed_events": [
+      "knowledge_discovered_0007.json",
+      "knowledge_discovered_0021.json"
+    ],
+    "new_nodes": [],
+    "skipped_nodes": [
+      "02 Wiki/Psychologie/(C) Serotoninesysteem & 5-HT Neurotransmissie.md",
+      "02 Wiki/Filosofie/(C) Merleau-Ponty & Corps Propre.md",
+      "02 Wiki/Geschiedenis/(C) Koloniale Psychiatrie & Pathologisering van Abnormaliteit.md",
+      "02 Wiki/Beleggen/(C) Narratieve Economie & Virale Financiële Verhalen.md",
+      "02 Wiki/Psychologie/(C) Psychoneuro-immunologie (PNI).md",
+      "02 Wiki/Filosofie/(C) Naturalisme & Wetenschappelijk Materialisme.md",
+      "02 Wiki/Geschiedenis/(C) De Dertigjarige Oorlog & Verdrag van Westfalen.md",
+      "02 Wiki/Beleggen/(C) Kelly Criterium & Optimale Positiegroottes.md"
+    ],
+    "skip_reason": "all_topics_already_exist",
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Het Onvolledige Perspectief — Serotonine, Lichamelijkheid en de Grenzen van Naturalistisch Reductionisme.md"
+    ]
+  }
+}
