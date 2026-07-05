@@ -35,6 +35,10 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie"
   - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
   - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
+  - "02 Wiki/Beleggen/(C) Antifragiliteit & Complexe Systemen (Taleb)"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS"
+  - "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie"
+  - "03 Knowledge Graph/(KG) De Antifragiele Geest — Neuroplasticiteit, Hormesis en Posttraumatische Groei"
 revision_history:
   - version: 1
     date: 2026-07-02
@@ -44,6 +48,10 @@ revision_history:
     date: 2026-07-02
     author: Brain-Guardian
     change: "kwaliteitscontrole — YAML schema herbouwd naar standaard; bronnen toegevoegd (Hebb, Kandel, Merzenich); related_nodes gesynchroniseerd met body wikilinks; quality-check-needed tag toegevoegd (uitbreiden met externe literatuur)"
+  - version: 3
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: "Antifragiliteit, Trauma & PTSS, Epigenetica en KG-pagina De Antifragiele Geest toegevoegd als related_nodes; wikilinks toegevoegd aan Verbanden-sectie"
 ---
 
 # Neuroplasticiteit
@@ -164,6 +172,10 @@ Neuroplasticiteit is het theoretische fundament van cognitieve revalidatie:
 - [[ADHD & Executieve Disfunctie]] — vertraagde PFC-rijping als plasticiteitsprobleem; implicaties voor behandeling
 - [[Cognitie & Gedrag]] — leren als manifestatie van synaptische plasticiteit
 - [[Hersen & Gedrag]] — brein-gedragrelaties via plasticiteitsmechanismen; neurofeedback
+- [[02 Wiki/Beleggen/(C) Antifragiliteit & Complexe Systemen (Taleb)]] — neuroplasticiteit is de neurowetenschappelijke implementatie van antifragiliteit; LTP en BDNF-upregulatie zijn de moleculaire basis van hormesis in het zenuwstelsel
+- [[02 Wiki/Psychologie/(C) Trauma & PTSS]] — PTSS als de toestand waarin het antifragiele plasticiteitsmechanisme faalt; posttraumatische groei als het slagen ervan
+- [[02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie]] — epigenetica als de moleculaire laag onder neuroplasticiteit; omgevingservaringen wijzigen genexpressie die plasticiteit stuurt
+- [[03 Knowledge Graph/(KG) De Antifragiele Geest — Neuroplasticiteit, Hormesis en Posttraumatische Groei]] — KG-verbindingspagina die dit uitwerkt
 
 ## Bronnen
 

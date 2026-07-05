@@ -36,11 +36,19 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Depressie & Neurobiologie"
   - "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie"
   - "02 Wiki/Psychologie/(C) Glymfatisch Systeem"
+  - "02 Wiki/Psychologie/(C) Serotoninesysteem & 5-HT Neurotransmissie"
+  - "02 Wiki/Psychologie/(C) Ruminatie & Piekeren"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "03 Knowledge Graph/(KG) De Circadiane Klok als Epistemisch Filter — Chronobiologie, HPA-as en Cognitieve Bias"
 revision_history:
   - version: 1
     date: 2026-07-05
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: "dark knowledge node geactiveerd — Serotoninesysteem, Ruminatie, Gedragseconomie en KG-pagina De Circadiane Klok toegevoegd als related_nodes; wikilinks en Verdieping-sectie toegevoegd"
 ---
 
 # Chronobiologie & Circadiaans Ritme
@@ -130,4 +138,16 @@ Voor de Klinische Neuropsychologie is chronobiologie op meerdere niveaus relevan
 4. Roenneberg T et al. (2012) "Social jetlag and obesity" *Current Biology* 22(10)
 5. Foster RG, Kreitzman L (2004) *Rhythms of Life* — Wellesley-Cambridge Press
 
-> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-05
+## Verdieping (Discovery Engine)
+
+**De circadiane klok als epistemisch filter — implicaties voor besluitvorming:**
+
+De suprachiasmatische nucleus (SCN) coördineert niet alleen slaap maar ook de diurne cortisolsecretie, de serotonine-beschikbaarheid en de prefrontale activiteit. Dit betekent dat de kwaliteit van cognitief oordeel systematisch varieert met de biologische klok. De PFC — de zetel van executieve functies, impulsinhibitie en rationele deliberatie — is het meest gevoelig voor circadiane misalignment.
+
+Verbinding met [[Gedragseconomie & Cognitieve Biases]]: cognitieve biases zoals loss aversion, recency bias en overconfidence nemen aantoonbaar toe bij slaaptekort en circadiane disruptie. De concreet testbare implicatie: beslissingen die op circadiaan-suboptimale momenten worden genomen — late avond, nacht, of in de vroege ochtend bij een avondchronotype — zijn neurobiologisch kwetsbaarder voor systematische fouten.
+
+Verbinding met [[Serotoninesysteem & 5-HT Neurotransmissie]]: serotonine is een sleutel-neurotransmitter in het circadiane systeem. Licht stimuleert de raphe nuclei (de primaire 5-HT-productieplaats), die vervolgens de SCN moduleren. 's Nachts wordt 5-HT omgezet in melatonine via de pijnappelklier. De circadiane 5-HT-cyclus reguleert dus impulscontrole, geduld en emotionele reactiviteit — variabelen die direct relevant zijn voor financiële besluitvorming.
+
+**Ruminatie als circadiaan nachtrisico:** Ruminatie is hevigst 's nachts wanneer cortisol minimaal is en de PFC het DMN onvoldoende reguleert. Dit creëert een pathologische feedbackcyclus: ruminatie → verslechterde slaap → meer circadiane disruptie → meer cognitieve bias → meer beslissingen om over te rumineren. Zie [[De Circadiane Klok als Epistemisch Filter — Chronobiologie, HPA-as en Cognitieve Bias]] voor de volledige analyse.
+
+> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-05 | Verdieping door Discovery-Engine | 2026-07-05

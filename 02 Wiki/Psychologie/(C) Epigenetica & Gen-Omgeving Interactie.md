@@ -30,6 +30,11 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
   - "02 Wiki/Psychologie/(C) Trauma & PTSS"
   - "02 Wiki/Psychologie/(C) Ontwikkelingspsychologie"
+  - "02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie"
+  - "02 Wiki/Psychologie/(C) Chronobiologie & Circadiaans Ritme"
+  - "02 Wiki/Psychologie/(C) Depressie & Neurobiologie"
+  - "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme"
+  - "03 Knowledge Graph/(KG) Moleculair Determinisme en Epigenetische Plastische Vrijheid — Epigenetica als Derde Weg in het Vrije Wil Debat"
 revision_history:
   - version: 1
     date: 2026-07-03
@@ -39,6 +44,10 @@ revision_history:
     date: 2026-07-03
     author: Brain-Guardian
     change: migrated to standard YAML schema; added quality-check-needed (source URLs absent); added scores and revision_history
+  - version: 3
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: "dark knowledge node geactiveerd — HPA-as, Chronobiologie, Depressie, Vrije Wil en KG-pagina Moleculair Determinisme toegevoegd als related_nodes; Verdieping-sectie toegevoegd"
 ---
 
 # Epigenetica & Gen-Omgeving Interactie
@@ -158,3 +167,15 @@ Conventioneel: methylatiepatronen worden gewist bij gametogenese. Uitzondering: 
 - McGowan, P.O. et al. (2009). Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse. *Nature Neuroscience*, 12, 342-348.
 - Yehuda, R. et al. (2016). Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation. *Biological Psychiatry*, 80(5), 372-380.
 - Miller, C.A. & Sweatt, J.D. (2007). Covalent modification of DNA regulates memory formation. *Neuron*, 53(6), 857-869.
+
+## Verdieping (Discovery Engine)
+
+**Epigenetica als derde weg in het vrije wil-determinisme debat:**
+
+Epigenetica biedt een empirisch mechanisme dat het klassieke determinisme-versus-vrijheid debat structureel herpositioneert. Hard biologisch determinisme (genen bepalen gedrag) is empirisch onhoudbaar zodra epigenetische plasticiteit in rekening wordt gebracht: dezelfde DNA-sequentie kan fundamenteel verschillende fenotypen produceren afhankelijk van omgevingsfactoren. Dit is niet vrijheid in de libertaire zin, maar het is evenmin hard determinisme — het is *conditioneel determinisme*. Zie [[Moleculair Determinisme en Epigenetische Plastische Vrijheid — Epigenetica als Derde Weg in het Vrije Wil Debat]].
+
+Verbinding met [[HPA-as & Cortisolregulatie]]: de glucocorticoidreceptor (NR3C1) promoterregio wordt epigenetisch gemethyleerd bij vroegkinderlijk trauma, wat de levenslange HPA-reactivity programmeert. Dit is het moleculaire mechanisme achter intergenerationele traumatransmissie — niet via verhalen of gedragsoverdracht, maar via DNA-methylatie in kiemcellen (Yehuda et al., 2016, Holocaust-studie).
+
+Verbinding met [[Vrije Wil & Determinisme]]: als epigenetische patronen tot op zekere hoogte reversibel zijn via therapeutische interventies (psychotherapie, beweging, dieet), dan is er een biologische basis voor de intuïtie dat mensen *enige* controle hebben over hun eigen biologische ontwikkeling — niet ondanks het determinisme, maar *via* de epigenetische platiciteit die het determinisme zelf inbouwt.
+
+Verbinding met [[Chronobiologie & Circadiaans Ritme]]: epigenetische klokken (Horvath's methylatiepatroon) bieden een biologische maatstaf voor biologische leeftijd die afwijkt van chronologische leeftijd. Chronische circadiane disruptie versnelt epigenetische veroudering — een concreet biologisch mechanisme van de sociale kosten van jetlag en ploegendienst.

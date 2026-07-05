@@ -1,0 +1,25 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-05T16:04:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Evolutionaire Psychologie",
+    "discipline": "Psychologie",
+    "priority": 0.85,
+    "reason": "Evolutionaire psychologie is de theoretische fundering waarop cognitieve biases (Gedragseconomie), sociale cognitie (ToM), en antifragiliteit (Taleb's hormesis/evolutie-analogie) alle bouwen. Het concept wordt impliciet verondersteld in Antifragiliteit (evolutie als prototypisch antifragiel systeem), Sociale Cognitie (evolutionaire verklaring van ToM), Perceptie & Predictive Coding (evolutionaire priors), en Cognitieve Revolutie (ontstaan van modern gedrag). Ontbreekt als expliciete note. Cruciaal voor MSc Klinische Neuropsychologie context.",
+    "mentioned_in": [
+      "02 Wiki/Beleggen/(C) Antifragiliteit & Complexe Systemen (Taleb).md",
+      "02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind.md",
+      "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding.md",
+      "02 Wiki/Geschiedenis/(C) De Cognitieve Revolutie.md"
+    ],
+    "suggested_connections": [
+      "Gedragseconomie & Cognitieve Biases",
+      "Antifragiliteit & Complexe Systemen (Taleb)",
+      "Sociale Cognitie & Theory of Mind",
+      "Perceptie & Predictive Coding",
+      "Autisme Spectrum Stoornis (ASS)"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-05T16:04:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Compatibilisme & Vrije Wil",
+    "discipline": "Filosofie",
+    "priority": 0.80,
+    "reason": "Compatibilisme is de dominante positie in de filosofie van de vrije wil die stelt dat determinisme en vrijheid verenigbaar zijn (Hume, Kant, Frankfurt, Dennett). De vault heeft twee notes over Vrije Wil & Determinisme (inclusief de forensische variant) en meerdere aangrenzende KG-pagina's (Moleculair Determinisme en Epigenetische Vrijheid, Van Dopamine tot Diagnose), maar compatibilisme als positie is nooit expliciet uitgewerkt. Dit is de schakel tussen hard determinisme (Vrije Wil & Determinisme) en de klinisch-juridische implicaties (Vrije Wil & Determinisme — Forensisch, Van Dopamine tot Diagnose). Verbindt Filosofie direct met Neuro-ethiek.",
+    "mentioned_in": [
+      "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme.md",
+      "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme — Forensisch.md",
+      "03 Knowledge Graph/(KG) Moleculair Determinisme en Epigenetische Plastische Vrijheid — Epigenetica als Derde Weg in het Vrije Wil Debat.md",
+      "03 Knowledge Graph/(KG) Van Dopamine tot Diagnose — Biologisch Determinisme, Tijdspreferentie en Morele Verantwoordelijkheid.md"
+    ],
+    "suggested_connections": [
+      "Vrije Wil & Determinisme",
+      "Vrije Wil & Determinisme — Forensisch",
+      "Neuro-ethiek",
+      "Epigenetica & Gen-Omgeving Interactie",
+      "Deontologie & Kantische Ethiek"
+    ]
+  }
+}

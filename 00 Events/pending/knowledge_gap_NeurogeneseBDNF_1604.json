@@ -1,0 +1,25 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-05T16:04:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Neurogenese & BDNF",
+    "discipline": "Psychologie",
+    "priority": 0.83,
+    "reason": "Neurogenese (aanmaak van nieuwe neuronen in de hippocampus) en BDNF (Brain-Derived Neurotrophic Factor) zijn mechanistisch centraal in de neurobiologie van depressie (hippocampale neurogenese-hypothese), de werking van antidepressiva, de effectiviteit van aerobe beweging als interventie, en de Antifragiliteit-Neuroplasticiteit verbinding. Worden meermalen impliciet verondersteld in Depressie & Neurobiologie, Neuroplasticiteit, Slaap & Geheugenconsolidatie, maar hebben geen eigen note. Voor MSc Klinische Neuropsychologie essentieel mechanistisch begrip.",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Neuroplasticiteit.md",
+      "02 Wiki/Psychologie/(C) Depressie & Neurobiologie.md",
+      "02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie.md",
+      "02 Wiki/Beleggen/(C) Antifragiliteit & Complexe Systemen (Taleb).md"
+    ],
+    "suggested_connections": [
+      "Neuroplasticiteit",
+      "Depressie & Neurobiologie",
+      "Slaap & Geheugenconsolidatie",
+      "Antifragiliteit & Complexe Systemen (Taleb)",
+      "HPA-as & Cortisolregulatie"
+    ]
+  }
+}

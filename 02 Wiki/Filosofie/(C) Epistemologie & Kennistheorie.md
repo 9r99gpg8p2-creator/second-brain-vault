@@ -35,11 +35,19 @@ related_nodes:
   - "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie"
   - "02 Wiki/Geschiedenis/(C) De Verlichting"
   - "03 Knowledge Graph/(KG) Rationaliteit, Oordeel & Besluitvorming"
+  - "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding"
+  - "02 Wiki/Filosofie/(C) Naturalisme & Wetenschappelijk Materialisme"
+  - "02 Wiki/Filosofie/(C) Hard Problem of Consciousness (Chalmers)"
+  - "03 Knowledge Graph/(KG) Het Rekenende Kennen — Predictive Coding als Belichaamde Epistemologie"
 revision_history:
   - version: 1
     date: 2026-07-01
     author: Brain-Guardian
     change: initial YAML scaffolding by guardian routine
+  - version: 2
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: "Predictive Coding, Naturalisme, Hard Problem en KG-pagina Het Rekenende Kennen toegevoegd als related_nodes; Verdieping-sectie over Predictive Coding als belichaamde epistemologie toegevoegd"
 ---
 
 # Epistemologie & Kennistheorie
@@ -184,5 +192,20 @@ Een persoon S weet dat P indien en slechts indien:
 - Wikipedia — Epistemology: https://en.wikipedia.org/wiki/Epistemology
 - Wikipedia — Justification (epistemology): https://en.wikipedia.org/wiki/Justification_(epistemology)
 
-> **Status:** Verwerkt door Wiki-Agent
-> **Laatste update:** 2026-07-01
+## Verdieping (Discovery Engine)
+
+**Predictive Coding als belichaamde epistemologie:**
+
+[[Perceptie & Predictive Coding|Predictive coding]] is niet slechts een computationeel neurowetenschappelijk model — het is een empirische epistemologische theorie die beschrijft hoe kennis *daadwerkelijk* in het zenuwstelsel wordt geïmplementeerd. De parallellen met klassieke epistemologische posities zijn structureel:
+
+- **Rationalisme (Descartes, Kant):** Het brein genereert *a priori* priors (hiërarchische modellen van de wereld) die sensorische input sturen. Kants begrip dat de geest categorieën oplegt aan ervaring is biologisch dwingend: het zenuwstelsel *kan* niet anders dan sensorische data via voorafgaande modellen interpreteren.
+
+- **Empirisme (Hume, Locke):** Sensorische voorspellingsfouten zijn de empirische correctiemechanismen die de priors bijstellen. Ervaring werkt, maar niet als blanco lei — als correctiesignaal op bestaand model.
+
+- **Popper (falsifieerbaarheid):** Elke prior is in principe falsifieerbaar via een voldoende sterke voorspellingsfout. Pathologische cognitie (wanen, angststoornissen) is de toestand waarin priors niet meer worden geüpdated — Popperse pseudowetenschap in het brein.
+
+- **Gettier-probleem:** Een prior die klopt (ware overtuiging) maar via een defect updateproces werd bevestigd (niet gerechtvaardigd) is het neurale equivalent van een Gettier-casus. De epistemologische vraag of gerechtvaardigde ware overtuiging voldoende is, heeft een neurologische correlaat.
+
+De fundamentele grens: predictive coding verklaart *hoe* informatie wordt verwerkt, maar niet *waarom* dit gepaard gaat met subjectieve ervaring (qualia). Het [[Hard Problem of Consciousness (Chalmers)|hard problem]] blijft onopgelost — epistemologie heeft een onherleidbare first-person dimensie die third-person neurowetenschappen niet volledig kan dekken. Zie [[Het Rekenende Kennen — Predictive Coding als Belichaamde Epistemologie]].
+
+> **Status:** Verwerkt door Wiki-Agent | **Laatste update:** 2026-07-01 | Verdieping door Discovery-Engine | 2026-07-05

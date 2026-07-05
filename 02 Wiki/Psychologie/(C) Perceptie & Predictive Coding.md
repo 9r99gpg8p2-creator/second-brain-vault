@@ -39,6 +39,9 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Schizofrenie & Psychose"
   - "02 Wiki/Filosofie/(C) Hermeneutiek.md"
   - "03 Knowledge Graph/(KG) De Interpreterende Geest — Hermeneutische Cirkel, Predictive Coding en Schizofrene Waanvorming.md"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"
+  - "02 Wiki/Filosofie/(C) Naturalisme & Wetenschappelijk Materialisme"
+  - "03 Knowledge Graph/(KG) Het Rekenende Kennen — Predictive Coding als Belichaamde Epistemologie"
 revision_history:
   - version: 1
     date: 2026-07-01
@@ -52,6 +55,10 @@ revision_history:
     date: 2026-07-04
     author: Discovery-Engine
     change: Hermeneutiek toegevoegd als filosofische parallel; KG-pagina De Interpreterende Geest toegevoegd
+  - version: 4
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: "Epistemologie, Naturalisme en KG-pagina Het Rekenende Kennen toegevoegd als related_nodes — predictive coding als belichaamde epistemologische theorie"
 ---
 
 # Perceptie & Predictive Coding

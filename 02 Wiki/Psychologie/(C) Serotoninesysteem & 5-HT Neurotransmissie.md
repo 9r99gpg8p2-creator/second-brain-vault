@@ -30,6 +30,11 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Beloningssysteem & Dopamine"
   - "02 Wiki/Psychologie/(C) Klinische Psychologie"
   - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+  - "02 Wiki/Psychologie/(C) Chronobiologie & Circadiaans Ritme"
+  - "02 Wiki/Psychologie/(C) Emotieregulatie"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "02 Wiki/Beleggen/(C) Waardebeleggen"
+  - "03 Knowledge Graph/(KG) De Circadiane Klok als Epistemisch Filter — Chronobiologie, HPA-as en Cognitieve Bias"
 revision_history:
   - version: 1
     date: 2026-07-05
@@ -39,6 +44,10 @@ revision_history:
     date: 2026-07-05
     author: Brain-Guardian
     change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
+  - version: 3
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: "dark knowledge node geactiveerd — Chronobiologie, Emotieregulatie, Gedragseconomie, Waardebeleggen en KG-pagina Circadiane Klok toegevoegd; Verdieping-sectie over circadiane 5-HT-regulatie en besluitvorming toegevoegd"
 ---
 
 # Serotoninesysteem & 5-HT Neurotransmissie
@@ -176,4 +185,16 @@ Levensbedreigende overstimulatie van 5-HT-receptoren door farmacologische combin
 
 ---
 
-*Aangemaakt door Agent1-KnowledgeHunter op 2026-07-05 | Kennishiaat verwerkt uit: 00 Events/pending/knowledge_gap_Serotonine5HT_0704.json*
+## Verdieping (Discovery Engine)
+
+**Serotonine als circadiaan gereguleerde beslissingsmodulator:**
+
+De serotonerge toon fluctueert over de dag in directe afhankelijkheid van lichtblootstelling: licht → raphe nuclei activatie → 5-HT release → dagcyclus van impulscontrole, geduld en emotionele reactiviteit. 's Nachts wordt 5-HT in de pijnappelklier omgezet in melatonine. Dit betekent dat impulscontrole en verliesaversie — de kernvariabelen van [[Gedragseconomie & Cognitieve Biases|financieel gedrag]] — intrinsiek circadiaan gereguleerd zijn.
+
+Verbinding met [[Chronobiologie & Circadiaans Ritme]]: sociale jetlag (avondtypes gedwongen tot vroege werkuren) veroorzaakt chronisch suboptimale 5-HT-beschikbaarheid tijdens de werkdag. De hypothese dat dit financieel gedrag systematisch vertekent, is testbaar via chronotype-gecorrigeerde delay-discounting taken.
+
+Verbinding met [[Waardebeleggen]]: de meest succesvolle value investors kenmerken zich door een extreem lange tijdshorizon — ze houden posities voor jaren vast ondanks tijdelijke marktbewegingen. Dit vereist uitzonderlijke emotionele regulatie en lage tijdsdiscontering. De serotoninerge route (5-HT → impulscontrole → geduld) biedt de neurobiologische verklaring voor waarom dit voor de meeste beleggers zo moeilijk is.
+
+Kritische noot: de directe claim dat SSRI-gebruik het beleggingsgedrag verbetert, is speculatief en niet klinisch aanbevolen. Maar als mechanistische hypothese is ze testbaar: tryptofaandepletie verhoogt loss aversion in experimentele settings (Crockett et al., 2009). Zie [[Serotoninesysteem impliceert neurobiologische basis van beleggingsgeduld]].
+
+*Aangemaakt door Agent1-KnowledgeHunter op 2026-07-05 | Kennishiaat verwerkt uit: 00 Events/pending/knowledge_gap_Serotonine5HT_0704.json | Verdieping door Discovery-Engine | 2026-07-05*

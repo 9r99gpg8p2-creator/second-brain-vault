@@ -44,6 +44,8 @@ related_nodes:
   - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md"
   - "02 Wiki/Geschiedenis/(C) De Verlichting.md"
   - "02 Wiki/Beleggen/(C) Waardebeleggen.md"
+  - "02 Wiki/Beleggen/(C) Antifragiliteit & Complexe Systemen (Taleb)"
+  - "03 Knowledge Graph/(KG) De Antifragiele Geest — Neuroplasticiteit, Hormesis en Posttraumatische Groei"
 revision_history:
   - version: 1
     date: 2026-07-01
@@ -57,6 +59,10 @@ revision_history:
     date: 2026-07-04
     author: Discovery-Engine
     change: related_nodes gesynchroniseerd met body wikilinks; CGT, Executieve Functies, Falsifieerbaarheid, Verlichting, Waardebeleggen toegevoegd
+  - version: 4
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: "Antifragiliteit & Complexe Systemen (Taleb) en KG-pagina De Antifragiele Geest toegevoegd als related_nodes; wikilinks naar Taleb in Verbanden-sectie"
 ---
 
 # Stoïcisme
@@ -179,5 +185,7 @@ Graham's "Mr. Market" is een Stoïcische metafoor: de markt is een onberekenbare
 - [[03 Knowledge Graph/(KG) Wat Hangt Van Ons Af — Controle, Oordeel en Innerlijk Leven]] — de Stoïcische dichotomie als universeel structuurprincipe
 - [[02 Wiki/Beleggen/(C) Waardebeleggen]] — Stoïcisme als de filosofische grondslag van waardebeleggen
 - [[02 Wiki/Psychologie/(C) Emotieregulatie]] — cognitieve herwaardering als de klinische vertaling van Stoïcische techniek
+- [[02 Wiki/Beleggen/(C) Antifragiliteit & Complexe Systemen (Taleb)]] — Taleb bouwt antifragiliteit expliciet op Stoïcische grondslagen; amor fati als philosophisch fundament van de barbell-strategie; premeditatio malorum als mentale variant van long gamma
+- [[03 Knowledge Graph/(KG) De Antifragiele Geest — Neuroplasticiteit, Hormesis en Posttraumatische Groei]] — Stoïcisme als de filosofisch-historische voorloper van antifragiliteitsdenken
 
-> Verdieping toegevoegd door Discovery-Engine | 2026-07-01
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-01 | Antifragiliteit-verbinding toegevoegd door Discovery-Engine | 2026-07-05

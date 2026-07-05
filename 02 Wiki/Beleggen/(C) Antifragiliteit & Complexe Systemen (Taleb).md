@@ -26,12 +26,26 @@ importance_score: 0.88
 novelty_score: 0.90
 knowledge_score: 0.87
 usage_score: 0.0
-related_nodes: []
+related_nodes:
+  - "02 Wiki/Beleggen/(C) Risico vs. Onzekerheid — Knight's Onderscheid"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie"
+  - "02 Wiki/Beleggen/(C) Opties & Derivaten"
+  - "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises"
+  - "02 Wiki/Beleggen/(C) Global Macro Beleggen"
+  - "02 Wiki/Filosofie/(C) Stoïcisme"
+  - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
+  - "03 Knowledge Graph/(KG) De Antifragiele Geest — Neuroplasticiteit, Hormesis en Posttraumatische Groei"
+  - "03 Knowledge Graph/(CONFLICT) Antifragiliteit vs Moderne Portefeuilletheorie"
 revision_history:
   - version: 1
     date: 2026-07-05
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: "related_nodes YAML gesynchroniseerd (10 nodes); dark knowledge node geactiveerd — verbonden met Neuroplasticiteit, Stoïcisme, Gedragseconomie, Risico/Onzekerheid, Opties, MPT, Marktpsychologie, Global Macro, KG-pagina De Antifragiele Geest; Verdieping toegevoegd"
 ---
 
 # Antifragiliteit & Complexe Systemen (Taleb)
@@ -153,4 +167,20 @@ Antifragiliteit is niet direct klinisch, maar de **systeemdenk-implicaties** zij
 - Taleb, N.N. (2018). *Skin in the Game: Hidden Asymmetries in Daily Life*. Random House.
 - Calabrese, E.J. (2018). Hormesis: the dose-response revolution. *Annual Review of Pharmacology and Toxicology*, 58, 491–515.
 
-> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-05
+## Verdieping (Discovery Engine)
+
+**Antifragiliteit als universeel principe over disciplines:**
+
+In de context van dit Second Brain verbindt antifragiliteit alle vier kerndisciplines op een structureel niveau:
+
+- **Neuroplasticiteit (Psychologie):** LTP, BDNF-upregulatie en synaptische reorganisatie zijn de neurale implementatie van hormesis. Het brein is niet ontworpen om stabiel te zijn maar om door gebruik sterker te worden. Dit maakt exposure-therapie (bij angst, PTSS) tot de meest Talebiaanse interventie in de klinische psychologie: gecontroleerde stress als herstelmotor.
+
+- **Stoïcisme (Filosofie):** Taleb erkent zijn schuld aan de Stoïci expliciet. *Amor fati* (liefde voor het noodlot) en *premeditatio malorum* (negatieve visualisatie) zijn de filosofische implementatie van de barbell-strategie: immuniseer jezelf mentaal voor tegenslagen door ze bewust door te leven. Epictetus' dichotomie van controle is *via negativa* als levensfilosofie.
+
+- **De Industriële Revolutie en creatieve destructie (Geschiedenis):** Schumpeter's "creatieve destructie" is antifragiliteit op economisch-historisch niveau: de markten die door industrialisatie vernietigd werden, maakten ruimte voor systemen die orde van grootte sterker waren. Black Swans als motor van historische vooruitgang.
+
+- **Financiële toepassingen (Beleggen):** De CONFLICT-pagina met MPT is de meest directe theoretische spanning: MPT veronderstelt normale verdeling; Taleb toont fat-tailed realiteit. De barbell strategie is niet het midden maar de combinatie van de uitersten — een fundamentele herijking van risicomanagement.
+
+**Kritische evaluatie:** De grootste zwakte van antifragiliteit als concept is de definitiegrens. Bijna elk systeem dat overleeft kan retroactief "antifragiel" worden genoemd (survivorship bias). Dit maakt het moeilijk falsifieerbaar — Popper zou er moeite mee hebben. De kracht zit niet in de definitie maar in de praktische heuristieken: barbell, via negativa, skin in the game.
+
+> Status: Verwerkt door Knowledge-Synthesizer | 2026-07-05 | Verdieping door Discovery-Engine | 2026-07-05

@@ -1,0 +1,25 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-05T16:04:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Melatonine & Slaapregulatie",
+    "discipline": "Beleggen",
+    "priority": 0.78,
+    "reason": "Melatonine is het eindproduct van het serotonine-circadiane systeem (licht → 5-HT → melatonine via pijnappelklier) en het primaire moleculaire signaal van de biologische klok. Wordt impliciet verondersteld in Chronobiologie & Circadiaans Ritme, Slaap & Geheugenconsolidatie, en het Glymfatisch Systeem, maar heeft geen eigen note. Bovendien: de melatonine-markt is een groeiend farma/beleggen-topic (nutraceuticals) — de verbinding tussen Beleggen en Chronobiologie ontbreekt als concrete note. Beleggen is de ondervertegenwoordigde discipline in het slaapcluster.",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Chronobiologie & Circadiaans Ritme.md",
+      "02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie.md",
+      "02 Wiki/Psychologie/(C) Serotoninesysteem & 5-HT Neurotransmissie.md",
+      "03 Knowledge Graph/(KG) Het Slapende Brein als Schoonmaker — Glymfatisch Systeem, Amyloidklaring en de Neurobiologie van Dementie.md"
+    ],
+    "suggested_connections": [
+      "Chronobiologie & Circadiaans Ritme",
+      "Serotoninesysteem & 5-HT Neurotransmissie",
+      "Slaap & Geheugenconsolidatie",
+      "Glymfatisch Systeem",
+      "Depressie & Neurobiologie"
+    ]
+  }
+}
