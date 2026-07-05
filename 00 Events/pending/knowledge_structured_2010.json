@@ -1,0 +1,17 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-05T20:10:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Filosofie/(C) Compatibilisme & Vrije Wil.md",
+      "02 Wiki/Psychologie/(C) Gehechtheidstheorie & Bindingsstoornissen.md",
+      "02 Wiki/Geschiedenis/(C) De Arabische Lente.md",
+      "02 Wiki/Beleggen/(C) Sovereign Debt & Staatsschuldcrises.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Causaliteit, Verwachting & Systeembreuk.md"
+    ]
+  }
+}
