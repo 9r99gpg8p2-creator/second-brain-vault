@@ -32,6 +32,10 @@ revision_history:
     date: 2026-07-04
     author: Brain-Guardian
     change: "Alexithymia, Glymfatisch Systeem en Somatische Markerstheorie toegevoegd aan neuropsychologie-tabel"
+  - version: 3
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: "Interoceptie, Persoonlijkheidsstoornissen & Cluster B, PNI en Serotoninesysteem toegevoegd aan neuropsychologie-tabel"
 ---
 
 # MOC — Psychologie BSc Jaar 1
@@ -91,6 +95,10 @@ Centrale hub voor alle vakken en verbanden uit het eerste jaar BSc Psychologie.
 | [[(C) Alexithymia & Emotieblindheid]] | Moeite met emotieherkenning, insulaire dysregulatie, transdiagnostisch kenmerk bij ASS/PTSS/verslaving |
 | [[(C) Glymfatisch Systeem]] | Paravasculaire afvalverwijdering tijdens NREM-slaap; amyloid-β, Alzheimer-risico |
 | [[(C) Somatische Markerstheorie (Damasio)]] | vmPFC, Iowa Gambling Task, lichaamssignalen als besluitvormingscompas; catastrofale impairment bij frontaal letsel |
+| [[(C) Interoceptie & Lichaamsgewaarwording]] | Insulaire cortex, interoceptieve nauwkeurigheid, embodied self, relatie met angst en emotieregulatie |
+| [[(C) Persoonlijkheidsstoornissen & Cluster B]] | Borderline, narcistisch, antisociaal, histrionisch — emotiedysregulatie, impulscontrole, neurobiologie |
+| [[(C) Psychoneuro-immunologie (PNI)]] | HPA-as, cytokinen, sickness behavior, inflammatoire depressie, IDO-kinureninepad |
+| [[(C) Serotoninesysteem & 5-HT Neurotransmissie]] | SSRI, 14 receptorsubtypes, Moncrieff 2022 — serotoninehypothese ter discussie, klinisch effectief maar mechanisme onduidelijk |
 
 ---
 

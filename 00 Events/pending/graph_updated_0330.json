@@ -1,0 +1,34 @@
+{
+  "event_type": "GraphUpdated",
+  "agent": "Agent4-BrainGuardian",
+  "timestamp": "2026-07-05T03:30:00Z",
+  "run": 7,
+  "status": "pending",
+  "data": {
+    "stats_path": "03 Knowledge Graph/stats/brain_stats.md",
+    "wiki_nodes_total": 119,
+    "wiki_nodes_new": 11,
+    "kg_nodes_total": 45,
+    "kg_nodes_new": 6,
+    "hypotheses_total": 18,
+    "hypotheses_new": 3,
+    "conflicts_total": 3,
+    "conflicts_new": 1,
+    "merged": 0,
+    "quality_checked": 8,
+    "yaml_fixed": 8,
+    "moc_updated": 4,
+    "quality_check_needed_total": 21,
+    "avg_quality_score": 0.857,
+    "avg_confidence_score": 0.884,
+    "pending_events": 48,
+    "archived_events": 0,
+    "new_conflict": "(CONFLICT) Naturalisme vs Fenomenologie.md",
+    "discipline_breakdown": {
+      "Psychologie": 37,
+      "Filosofie": 28,
+      "Geschiedenis": 27,
+      "Beleggen": 27
+    }
+  }
+}

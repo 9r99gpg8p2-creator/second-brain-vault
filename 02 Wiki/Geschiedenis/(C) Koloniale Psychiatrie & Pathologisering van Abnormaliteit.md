@@ -1,19 +1,47 @@
 ---
-title: Koloniale Psychiatrie & de Westerse Categorisering van Abnormaliteit
-discipline: Geschiedenis
-tags: [kolonialisme, psychiatrie, Fanon, postkoloniaal, wetenschapsgeschiedenis, diagnostiek]
-kleur: 🟡
-aangemaakt: 2026-07-05
-bronnen: [Fanon 1952, Fanon 1961, McCulloch 1995, Kirmayer 2006, Foucault 1961]
-links:
-  - "[[02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie]]"
-  - "[[02 Wiki/Geschiedenis/(C) Eugenica & Pseudowetenschappelijke Psychiatrie]]"
-  - "[[02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde]]"
-  - "[[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]]"
-  - "[[02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie]]"
-  - "[[02 Wiki/Filosofie/(C) Kritische Theorie & Frankfurt School]]"
-  - "[[02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie]]"
-  - "[[02 Wiki/Geschiedenis/(C) Totalitarisme als Politiek Systeem]]"
+type: concept
+id: 6d8e0f3a-7b8c-4f1d-2e3f-4a5b6c7d8e9f
+title: Koloniale Psychiatrie & Pathologisering van Abnormaliteit
+summary: "Koloniale psychiatrie gebruikte psychopathologische categorieën om gekoloniseerde volkeren als inferieur te classificeren en politiek verzet te pathologiseren; Frantz Fanon analyseerde dit als instrument van onderdrukking met directe gevolgen voor hedendaagse cross-culturele diagnostiek."
+category: Geschiedenis
+tags: [concept, geschiedenis, kolonialisme, psychiatrie, Fanon, postkoloniaal, wetenschapsgeschiedenis, diagnostiek, quality-check-needed]
+aliases: ["Colonial Psychiatry", "Fanon", "Culturele Bias DSM", "Cross-culturele Psychiatrie"]
+sources:
+  - title: "Fanon, F. (1952). Peau Noire, Masques Blancs. Éditions du Seuil."
+    trust_level: 9
+  - title: "Fanon, F. (1961). Les Damnés de la Terre. Maspero."
+    trust_level: 9
+  - title: "McCulloch, J. (1995). Colonial Psychiatry and 'The African Mind'. Cambridge University Press."
+    trust_level: 8
+  - title: "Kirmayer, L.J. (2006). Beyond the 'new cross-cultural psychiatry'. Transcultural Psychiatry, 43(1), 126–144."
+    trust_level: 8
+  - title: "Foucault, M. (1961). Histoire de la folie à l'âge classique. Plon."
+    trust_level: 9
+confidence_score: 0.83
+quality_score: 0.75
+freshness_score: 1.0
+importance_score: 0.87
+novelty_score: 1.0
+knowledge_score: 0.83
+usage_score: 0.017
+related_nodes:
+  - "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie"
+  - "02 Wiki/Geschiedenis/(C) Eugenica & Pseudowetenschappelijke Psychiatrie"
+  - "02 Wiki/Geschiedenis/(C) Dekolonisatie & Postkoloniale Orde"
+  - "02 Wiki/Psychologie/(C) Schizofrenie & Psychose"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+  - "02 Wiki/Filosofie/(C) Kritische Theorie & Frankfurt School"
+  - "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie"
+  - "02 Wiki/Geschiedenis/(C) Totalitarisme als Politiek Systeem"
+revision_history:
+  - version: 1
+    date: 2026-07-05
+    author: Knowledge-Hunter
+    change: initial creation — kennishiaat verwerkt uit knowledge_gap_KolonialePsychiatrie_1142.json
+  - version: 2
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
 ---
 
 # Koloniale Psychiatrie & de Westerse Categorisering van Abnormaliteit

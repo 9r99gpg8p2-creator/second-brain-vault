@@ -1,18 +1,44 @@
 ---
+type: concept
+id: 4c6d8e0f-5a7b-4c9d-6e7f-8a9b0c1d2e3f
 title: Psychoneuro-immunologie (PNI)
-discipline: Psychologie
-tags: [neuropsychologie, immuunsysteem, stress, inflammatie, depressie, HPA-as, klinisch]
-kleur: 🟢
-aangemaakt: 2026-07-05
-bronnen: [Ader & Cohen 1975, Glaser & Kiecolt-Glaser 2005, Dantzer et al. 2008, Slavich & Irwin 2014]
-links:
-  - "[[02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie]]"
-  - "[[02 Wiki/Psychologie/(C) Depressie & Neurobiologie]]"
-  - "[[02 Wiki/Psychologie/(C) Trauma & PTSS]]"
-  - "[[02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie]]"
-  - "[[02 Wiki/Psychologie/(C) Glymfatisch Systeem]]"
-  - "[[02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie]]"
-  - "[[02 Wiki/Psychologie/(C) Neuroplasticiteit]]"
+summary: "PNI bestudeert de bidirectionele communicatie tussen psychologische processen, zenuwstelsel en immuunsysteem; chronische stress onderdrukt immuunfunctie terwijl immuunactivatie via cytokinen sickness behavior en inflammatoire depressie induceert."
+category: Psychologie
+tags: [concept, psychologie, neuropsychologie, immuunsysteem, stress, inflammatie, depressie, HPA-as, klinisch, quality-check-needed]
+aliases: ["Psychoneuroimmunology", "PNI", "Neuroinflammatie", "Inflammatoire Depressie"]
+sources:
+  - title: "Ader, R. & Cohen, N. (1975). Behaviorally conditioned immunosuppression. Psychosomatic Medicine, 37(4), 333–340."
+    trust_level: 10
+  - title: "Glaser, R. & Kiecolt-Glaser, J.K. (2005). Stress-induced immune dysfunction: implications for health. Nature Reviews Immunology, 5(3), 243–251."
+    trust_level: 10
+  - title: "Dantzer, R. et al. (2008). From inflammation to sickness and depression. Nature Reviews Neuroscience, 9(1), 46–56."
+    trust_level: 10
+  - title: "Slavich, G.M. & Irwin, M.R. (2014). From stress to inflammation and major depressive disorder. Psychological Bulletin, 140(3), 774–815."
+    trust_level: 9
+confidence_score: 0.88
+quality_score: 0.75
+freshness_score: 1.0
+importance_score: 0.90
+novelty_score: 1.0
+knowledge_score: 0.85
+usage_score: 0.008
+related_nodes:
+  - "02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie"
+  - "02 Wiki/Psychologie/(C) Depressie & Neurobiologie"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS"
+  - "02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie"
+  - "02 Wiki/Psychologie/(C) Glymfatisch Systeem"
+  - "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie"
+  - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
+revision_history:
+  - version: 1
+    date: 2026-07-05
+    author: Knowledge-Hunter
+    change: initial creation — nieuw topic toegevoegd
+  - version: 2
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
 ---
 
 # Psychoneuro-immunologie (PNI)

@@ -1,16 +1,45 @@
 ---
+type: concept
+id: 2c5d8e1f-3a4b-4c7d-9e0f-1a2b3c4d5e6f
 title: Kelly Criterium & Optimale Positiegroottes
-discipline: Beleggen
-tags: [risicobeheer, kansrekening, portefeuille, kwantitatief-beleggen, positiegrootte]
-kleur: 🔴
-aangemaakt: 2026-07-05
-bronnen: [Kelly 1956, Thorp 1962 1969, Poundstone 2005, MacLean et al. 2010]
-links:
-  - "[[02 Wiki/Beleggen/(C) Risico vs. Onzekerheid — Knight's Onderscheid]]"
-  - "[[02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie]]"
-  - "[[02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases]]"
-  - "[[02 Wiki/Beleggen/(C) Hyperbolic Discounting & Tijdspreferentie]]"
-  - "[[02 Wiki/Beleggen/(C) Opties & Derivaten]]"
+summary: "Het Kelly Criterium (Kelly 1956) is een wiskundig framework dat de optimale kapitaalfractie bepaalt bij herhaalde kansen met bekende waarschijnlijkheden; het maximaliseert de langetermijn groeisnelheid maar vereist psychologisch uitzonderlijke discipline."
+category: Beleggen
+tags: [concept, beleggen, risicobeheer, kansrekening, portefeuille, kwantitatief-beleggen, positiegrootte, quality-check-needed]
+aliases: ["Kelly Criterion", "Full Kelly", "Half Kelly", "Optimale Positiegroottes"]
+sources:
+  - title: "Kelly, J.L. (1956). A New Interpretation of Information Rate. Bell System Technical Journal, 35(4), 917–926."
+    trust_level: 10
+  - title: "Thorp, E.O. (1962). Beat the Dealer. Blaisdell Publishing."
+    trust_level: 8
+  - title: "Thorp, E.O. (1969). Optimal gambling systems for favorable games. Review of the International Statistical Institute, 37(3), 273–293."
+    trust_level: 8
+  - title: "Poundstone, W. (2005). Fortune's Formula. Hill & Wang."
+    trust_level: 7
+  - title: "MacLean, L.C., Thorp, E.O. & Ziemba, W.T. (2010). The Kelly Capital Growth Investment Criterion. World Scientific."
+    trust_level: 9
+confidence_score: 0.85
+quality_score: 0.75
+freshness_score: 1.0
+importance_score: 0.85
+novelty_score: 1.0
+knowledge_score: 0.83
+usage_score: 0.0
+related_nodes:
+  - "02 Wiki/Beleggen/(C) Risico vs. Onzekerheid — Knight's Onderscheid"
+  - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "02 Wiki/Beleggen/(C) Hyperbolic Discounting & Tijdspreferentie"
+  - "02 Wiki/Beleggen/(C) Opties & Derivaten"
+  - "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese"
+revision_history:
+  - version: 1
+    date: 2026-07-05
+    author: Knowledge-Hunter
+    change: initial creation — nieuw topic toegevoegd
+  - version: 2
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
 ---
 
 # Kelly Criterium & Optimale Positiegroottes

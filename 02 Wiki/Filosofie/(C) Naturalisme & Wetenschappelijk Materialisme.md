@@ -1,17 +1,45 @@
 ---
+type: concept
+id: 8e1f4a5b-9c0d-4a2e-3f4a-5b6c7d8e9f0a
 title: Naturalisme & Wetenschappelijk Materialisme
-discipline: Filosofie
-tags: [filosofie-van-de-geest, materialisme, bewustzijn, naturalisme, hard-problem, qualia]
-kleur: 🔵
-aangemaakt: 2026-07-05
-bronnen: [Chalmers 1995, Nagel 1974, Dennett 1991, Churchland 1981, Quine 1969]
-links:
-  - "[[02 Wiki/Filosofie/(C) Filosofie van de Geest]]"
-  - "[[02 Wiki/Filosofie/(C) Vrije Wil & Determinisme]]"
-  - "[[02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie]]"
-  - "[[02 Wiki/Filosofie/(C) Merleau-Ponty & Corps Propre]]"
-  - "[[02 Wiki/Filosofie/(C) Metafysica & Ontologie]]"
-  - "[[02 Wiki/Psychologie/(C) Perceptie & Predictive Coding]]"
+summary: "Naturalisme stelt dat alles verklaarbaar is via de wetenschappelijke methode; het hard problem of consciousness (Chalmers 1995) — waarom gaat functionele verwerking gepaard met subjectieve ervaring? — is de grootste onopgeloste uitdaging voor materialistische theorie."
+category: Filosofie
+tags: [concept, filosofie, filosofie-van-de-geest, materialisme, bewustzijn, naturalisme, hard-problem, qualia, quality-check-needed]
+aliases: ["Fysicalisme", "Materialisme", "Hard Problem of Consciousness", "Qualia", "Naturalism"]
+sources:
+  - title: "Chalmers, D.J. (1995). Facing up to the problem of consciousness. Journal of Consciousness Studies, 2(3), 200–219."
+    trust_level: 10
+  - title: "Nagel, T. (1974). What is it like to be a bat? The Philosophical Review, 83(4), 435–450."
+    trust_level: 10
+  - title: "Dennett, D.C. (1991). Consciousness Explained. Little, Brown & Co."
+    trust_level: 9
+  - title: "Churchland, P.M. (1981). Eliminative materialism and the propositional attitudes. Journal of Philosophy, 78(2), 67–90."
+    trust_level: 9
+  - title: "Quine, W.V.O. (1969). Epistemology Naturalized. In Ontological Relativity and Other Essays. Columbia University Press."
+    trust_level: 9
+confidence_score: 0.85
+quality_score: 0.75
+freshness_score: 1.0
+importance_score: 0.90
+novelty_score: 1.0
+knowledge_score: 0.84
+usage_score: 0.008
+related_nodes:
+  - "02 Wiki/Filosofie/(C) Filosofie van de Geest"
+  - "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+  - "02 Wiki/Filosofie/(C) Merleau-Ponty & Corps Propre"
+  - "02 Wiki/Filosofie/(C) Metafysica & Ontologie"
+  - "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding"
+revision_history:
+  - version: 1
+    date: 2026-07-05
+    author: Knowledge-Hunter
+    change: initial creation — nieuw topic toegevoegd
+  - version: 2
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
 ---
 
 # Naturalisme & Wetenschappelijk Materialisme

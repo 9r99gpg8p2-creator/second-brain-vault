@@ -1,18 +1,44 @@
 ---
+type: concept
+id: 2a4b6c8d-3e5f-4a7b-5c6d-7e8f9a0b1c2d
 title: Serotoninesysteem & 5-HT Neurotransmissie
-discipline: Psychologie
-tags: [neuropsychologie, neurotransmitter, farmacologie, depressie, angststoornissen, klinisch]
-kleur: 🟢
-aangemaakt: 2026-07-05
-bronnen: [Moncrieff et al. 2022, Stahl 2021, Berger et al. 2009, Barnes & Sharp 1999]
-links:
-  - "[[02 Wiki/Psychologie/(C) Depressie & Neurobiologie]]"
-  - "[[02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen]]"
-  - "[[02 Wiki/Psychologie/(C) Gokstoornis & Impulscontrolestoornis]]"
-  - "[[02 Wiki/Psychologie/(C) Verslaving & Neurobiologie]]"
-  - "[[02 Wiki/Psychologie/(C) Beloningssysteem & Dopamine]]"
-  - "[[02 Wiki/Psychologie/(C) Klinische Psychologie]]"
-  - "[[02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie]]"
+summary: "Serotonine (5-HT) reguleert stemming, impulscontrole en cognitie via 14 receptorsubtypes; de serotoninehypothese van depressie is wetenschappelijk onbevestigd (Moncrieff et al. 2022), maar SSRI's blijven klinisch effectief — het werkingsmechanisme is onduidelijk."
+category: Psychologie
+tags: [concept, psychologie, neuropsychologie, neurotransmitter, farmacologie, depressie, angststoornissen, klinisch, quality-check-needed]
+aliases: ["5-HT", "Serotonine", "SSRI", "Serotoninehypothese", "5-hydroxytryptamine"]
+sources:
+  - title: "Moncrieff, J. et al. (2022). The serotonin theory of depression: a systematic umbrella review. Molecular Psychiatry, 27, 3249–3265."
+    trust_level: 9
+  - title: "Stahl, S.M. (2021). Stahl's Essential Psychopharmacology (5th ed.). Cambridge University Press."
+    trust_level: 9
+  - title: "Berger, M., Gray, J.A. & Roth, B.L. (2009). The expanded biology of serotonin. Annual Review of Medicine, 60, 355–366."
+    trust_level: 9
+  - title: "Barnes, N.M. & Sharp, T. (1999). A review of central 5-HT receptors and their function. Neuropharmacology, 38(8), 1083–1152."
+    trust_level: 9
+confidence_score: 0.87
+quality_score: 0.75
+freshness_score: 1.0
+importance_score: 0.92
+novelty_score: 1.0
+knowledge_score: 0.85
+usage_score: 0.025
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Depressie & Neurobiologie"
+  - "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen"
+  - "02 Wiki/Psychologie/(C) Gokstoornis & Impulscontrolestoornis"
+  - "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"
+  - "02 Wiki/Psychologie/(C) Beloningssysteem & Dopamine"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+revision_history:
+  - version: 1
+    date: 2026-07-05
+    author: Knowledge-Hunter
+    change: initial creation — kennishiaat verwerkt uit knowledge_gap_Serotonine5HT_0704.json
+  - version: 2
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
 ---
 
 # Serotoninesysteem & 5-HT Neurotransmissie

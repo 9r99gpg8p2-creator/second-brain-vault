@@ -37,6 +37,10 @@ revision_history:
     date: 2026-07-04
     author: Brain-Guardian
     change: "De Zwarte Dood, De Opkomst van het Neoliberalisme en Totalitarisme als Politiek Systeem toegevoegd aan conceptnotes en Wiki-tabel"
+  - version: 5
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: "Het Mongoolse Rijk, De Dertigjarige Oorlog, De Slavernij & Transatlantische Slavenhandel en Koloniale Psychiatrie toegevoegd aan conceptnotes en Wiki-tabel"
 ---
 
 # MOC — Geschiedenis
@@ -78,12 +82,15 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 - [[De Zwarte Dood]] — Yersinia pestis (1347–1352), 25–50% sterfte Europa, ondermijning feodale orde, katalysator voor Renaissance en Reformatie
 - [[De Islamitische Gouden Eeuw]] — algebra, optica, filosofie, geneeskunde — het behoud van klassieke kennis ca. 750–1258
 - [[Het Ottomaanse Rijk]] — millet-systeem, multiconfessionele staat, val van Constantinopel, geopolitiek erfgoed
+- [[Het Mongoolse Rijk]] — Genghis Khan, Pax Mongolica, verwoesting en handelsnetwerken, Zijderoute, demografische impact
 
 ### Vroegmodern (1400–1800)
 - [[De Renaissance]] — humanisme, Medici, Michelangelo, perspectief, antropocentrisme
 - [[De Reformatie]] — Luther, Calvijn, boekdrukkunst, protestantisme, confessionele staten
+- [[De Dertigjarige Oorlog & Verdrag van Westfalen]] — confessionele oorlog 1618–1648, Westfaalse orde, staatssoevereiniteit als internationaal principe
 - [[De Wetenschappelijke Revolutie]] — Copernicus, Galileo, Newton, empirisme, wiskundige natuurwet
 - [[De Verlichting]] — rede, individuele vrijheid, Locke, Voltaire, Rousseau, Kant
+- [[De Slavernij & Transatlantische Slavenhandel]] — Triangular Trade, Middle Passage, abolitionisme, demografische en economische gevolgen
 
 ### Revoluties & Industrialisering (1750–1900)
 - [[De Franse Revolutie]] — Ancien Régime, La Terreur, Napoleon, nationalisme
@@ -103,6 +110,7 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 ### Vakgeschiedenis
 - [[Eugenica & Pseudowetenschappelijke Psychiatrie]] — racisme als wetenschap, gedwongen sterilisatie, Holocaust-psychiatrie
 - [[Geschiedenis van de Psychiatrie]] — duiveluitdrijving → asielmodel → biopsychiatrie → evidence-based
+- [[Koloniale Psychiatrie & Pathologisering van Abnormaliteit]] — Fanon, DSM culturele bias, WEIRD-normen, pathologisering van politiek verzet, social defeat hypothesis
 
 ---
 
@@ -141,6 +149,10 @@ Centrale hub voor historische periodes, patronen en sleutelmomenten.
 | [[De Zwarte Dood]] | 1347–1352 | Yersinia pestis, 25–50% Europese sterfte, feodale systeemschok |
 | [[De Opkomst van het Neoliberalisme]] | 1940s–heden | Hayek, Friedman, Thatcher, Reagan, Washington Consensus |
 | [[Totalitarisme als Politiek Systeem]] | 1917–1953 | Arendt, instrumentele terreur, ideologische massabeweging |
+| [[Het Mongoolse Rijk]] | 1206–1368 | Genghis Khan, Pax Mongolica, handelsnetwerken, demografische verwoesting |
+| [[De Dertigjarige Oorlog & Verdrag van Westfalen]] | 1618–1648 | Confessionele oorlog, Westfaalse orde, staatssoevereiniteit |
+| [[De Slavernij & Transatlantische Slavenhandel]] | 1500–1865 | Triangular Trade, Middle Passage, abolitionisme, erfgoed |
+| [[Koloniale Psychiatrie & Pathologisering van Abnormaliteit]] | 1800–heden | Fanon, DSM-bias, WEIRD-normen, pathologisering van verzet |
 
 ---
 

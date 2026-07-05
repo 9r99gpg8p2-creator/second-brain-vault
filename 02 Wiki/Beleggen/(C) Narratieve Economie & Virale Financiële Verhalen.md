@@ -1,18 +1,44 @@
 ---
-title: Narratieve Economie & Virale Financiële Verhalen (Shiller)
-discipline: Beleggen
-tags: [gedragseconomie, narratief, Shiller, marktpsychologie, sociale-contagion, EMH]
-kleur: 🔴
-aangemaakt: 2026-07-05
-bronnen: [Shiller 2019, Shiller 2017 AEA, Akerlof & Shiller 2009, Kindleberger 1978]
-links:
-  - "[[02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises]]"
-  - "[[02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese]]"
-  - "[[02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases]]"
-  - "[[02 Wiki/Filosofie/(C) Hermeneutiek]]"
-  - "[[02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie]]"
-  - "[[02 Wiki/Psychologie/(C) Sociale Psychologie]]"
-  - "[[02 Wiki/Psychologie/(C) Perceptie & Predictive Coding]]"
+type: concept
+id: 7a3f2b1c-9d4e-4a5b-8c6d-0e1f2a3b4c5d
+title: Narratieve Economie & Virale Financiële Verhalen
+summary: "Economische narratieven verspreiden zich als virussen door sociale netwerken en sturen economisch gedrag; Shiller stelt dat economische cycli mede worden veroorzaakt door virale verhalen en niet alleen door fundamenten."
+category: Beleggen
+tags: [concept, beleggen, gedragseconomie, narratief, Shiller, marktpsychologie, sociale-contagion, EMH, quality-check-needed]
+aliases: ["Narrative Economics", "Shiller Narratieve Economie", "Economische Verhalen"]
+sources:
+  - title: "Shiller, R.J. (2019). Narrative Economics: How Stories Go Viral and Drive Major Economic Events. Princeton University Press."
+    trust_level: 9
+  - title: "Shiller, R.J. (2017). Narrative economics. American Economic Review, 107(4), 967–1004."
+    trust_level: 9
+  - title: "Akerlof, G.A. & Shiller, R.J. (2009). Animal Spirits. Princeton University Press."
+    trust_level: 9
+  - title: "Kindleberger, C.P. (1978). Manias, Panics, and Crashes. Basic Books."
+    trust_level: 8
+confidence_score: 0.82
+quality_score: 0.75
+freshness_score: 1.0
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.82
+usage_score: 0.008
+related_nodes:
+  - "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises"
+  - "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "02 Wiki/Filosofie/(C) Hermeneutiek"
+  - "02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie"
+  - "02 Wiki/Psychologie/(C) Sociale Psychologie"
+  - "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding"
+revision_history:
+  - version: 1
+    date: 2026-07-05
+    author: Knowledge-Hunter
+    change: initial creation — nieuw topic toegevoegd
+  - version: 2
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
 ---
 
 # Narratieve Economie & Virale Financiële Verhalen (Shiller)

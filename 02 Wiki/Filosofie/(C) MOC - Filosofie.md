@@ -2,7 +2,7 @@
 type: moc
 id: ce9ec1c9-fcc2-af3b-6ab7-b31dbde6c340
 title: MOC - Filosofie
-summary: "Centrale navigatiehub voor 23 filosofie-conceptnotes — epistemologie, ethiek, existentialisme, wetenschapsfilosofie, hermeneutiek, kritische theorie, postmodernisme en meer."
+summary: "Centrale navigatiehub voor 26 filosofie-conceptnotes — epistemologie, ethiek, existentialisme, wetenschapsfilosofie, fenomenologie, naturalisme, embodied cognition, hermeneutiek, kritische theorie, postmodernisme en meer."
 category: Filosofie
 tags: [moc, filosofie]
 aliases: ["MOC - Filosofie"]
@@ -41,6 +41,10 @@ revision_history:
     date: 2026-07-04
     author: Brain-Guardian
     change: "Hermeneutiek, Kritische Theorie & Frankfurt School, Postmodernisme toegevoegd aan conceptnotes sectie en Wiki-tabel; summary bijgewerkt naar 23 notes"
+  - version: 6
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: "Naturalisme & Wetenschappelijk Materialisme en Merleau-Ponty & Corps Propre toegevoegd aan conceptnotes sectie en Wiki-tabel; summary bijgewerkt naar 26 notes"
 ---
 
 # MOC — Filosofie
@@ -115,6 +119,14 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 ### Postmodernisme
 - [[Postmodernisme & De Ontbinding van Grote Narratieven]] — Lyotard, Derrida, Foucault — ongeloof tegenover metanarratieven, deconstruction, macht-kennis
 
+### Naturalisme & Filosofie van de Geest
+- [[Naturalisme & Wetenschappelijk Materialisme]] — Chalmers' hard problem, qualia, eliminatief materialisme, panpsychisme, Nagel's vleermuisargument
+- [[Merleau-Ponty & Corps Propre]] — corps propre, lichaamsschema, embodied cognition, Cartesiaanse kloof vanuit fenomenologie
+
+### Esthetiek & Rechtsfilosofie
+- [[Esthetiek & Filosofie van de Kunst]] — Kant's sublieme, Hegel, Danto, neuro-esthetica — schoonheid, kunst en esthetische ervaring
+- [[Rechtsfilosofie & Juridische Epistemologie]] — rechtspositivisme, natuurrecht, kritische rechtstheorie, neurolaw
+
 ### Nihilisme & Absurdisme
 - [[Nihilisme & Absurdisme]] — Nietzsche (passief vs. actief nihilisme), Camus' revolt als antwoord op het absurde; existentieel nihilisme en zijn klinische weerklank
 
@@ -163,6 +175,10 @@ Centrale hub voor filosofische stromingen, denkers en kernconcepten.
 | [[Hermeneutiek]] | Schleiermacher, Dilthey, Heidegger, Gadamer — interpretatie, hermeneutische cirkel |
 | [[Kritische Theorie & Frankfurt School]] | Adorno, Horkheimer, Habermas — instrumentele rationaliteit, Dialectik der Aufklärung |
 | [[Postmodernisme & De Ontbinding van Grote Narratieven]] | Lyotard, Derrida, Foucault — metanarratieven, deconstruction, macht-kennis |
+| [[Naturalisme & Wetenschappelijk Materialisme]] | Chalmers' hard problem, qualia, eliminatief materialisme, Nagel, panpsychisme |
+| [[Merleau-Ponty & Corps Propre]] | Corps propre, lichaamsschema, embodied cognition, fantoompijn, Cartesiaanse kloof |
+| [[Esthetiek & Filosofie van de Kunst]] | Kant's sublieme, Hegel, Danto, neuro-esthetica — schoonheid, kunst en esthetische ervaring |
+| [[Rechtsfilosofie & Juridische Epistemologie]] | Rechtspositivisme (Hart), natuurrecht, kritische rechtstheorie, neurolaw, bewijsproblemen |
 
 ---
 

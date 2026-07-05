@@ -1,19 +1,43 @@
 ---
-title: Merleau-Ponty & Corps Propre — Fenomenologie van het Lichaam
-discipline: Filosofie
-tags: [fenomenologie, embodied-cognition, lichaam, geest, neuropsychologie, filosofie-van-de-geest]
-kleur: 🔵
-aangemaakt: 2026-07-05
-bronnen: [Merleau-Ponty 1945, Gallagher & Zahavi 2012, Varela et al. 1991]
-links:
-  - "[[02 Wiki/Filosofie/(C) Fenomenologie]]"
-  - "[[02 Wiki/Filosofie/(C) Filosofie van de Geest]]"
-  - "[[02 Wiki/Psychologie/(C) Somatische Markerstheorie (Damasio)]]"
-  - "[[02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid]]"
-  - "[[02 Wiki/Psychologie/(C) Interoceptie & Lichaamsgewaarwording]]"
-  - "[[02 Wiki/Psychologie/(C) Perceptie & Predictive Coding]]"
-  - "[[02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind]]"
-  - "[[02 Wiki/Psychologie/(C) Trauma & PTSS]]"
+type: concept
+id: 0f3a6b7c-1d2e-4b5f-4a5b-6c7d8e9f0a1b
+title: Merleau-Ponty & Corps Propre
+summary: "Merleau-Ponty stelt dat het lichaam de primaire modus van zijn-in-de-wereld is; het corps propre — het lichaam als subjectief, ervarend en handelend wezen — lost het Cartesiaanse mind-body-probleem op en vormt de filosofische grondslag van embodied cognition."
+category: Filosofie
+tags: [concept, filosofie, fenomenologie, embodied-cognition, lichaam, geest, neuropsychologie, filosofie-van-de-geest, quality-check-needed]
+aliases: ["Corps Propre", "Embodied Cognition", "Lichaamsschema", "Phénoménologie de la Perception"]
+sources:
+  - title: "Merleau-Ponty, M. (1945). Phénoménologie de la Perception. Gallimard."
+    trust_level: 10
+  - title: "Gallagher, S. & Zahavi, D. (2012). The Phenomenological Mind (2nd ed.). Routledge."
+    trust_level: 9
+  - title: "Varela, F.J., Thompson, E. & Rosch, E. (1991). The Embodied Mind. MIT Press."
+    trust_level: 9
+confidence_score: 0.85
+quality_score: 0.75
+freshness_score: 1.0
+importance_score: 0.88
+novelty_score: 1.0
+knowledge_score: 0.83
+usage_score: 0.126
+related_nodes:
+  - "02 Wiki/Filosofie/(C) Fenomenologie"
+  - "02 Wiki/Filosofie/(C) Filosofie van de Geest"
+  - "02 Wiki/Psychologie/(C) Somatische Markerstheorie (Damasio)"
+  - "02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid"
+  - "02 Wiki/Psychologie/(C) Interoceptie & Lichaamsgewaarwording"
+  - "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding"
+  - "02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS"
+revision_history:
+  - version: 1
+    date: 2026-07-05
+    author: Knowledge-Hunter
+    change: initial creation — kennishiaat verwerkt uit knowledge_gap_MerleauPonty_1142.json
+  - version: 2
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
 ---
 
 # Merleau-Ponty & Corps Propre — Fenomenologie van het Lichaam

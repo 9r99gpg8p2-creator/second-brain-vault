@@ -33,6 +33,10 @@ revision_history:
     date: 2026-07-04
     author: Brain-Guardian
     change: "Technische Analyse, Market Microstructure & Liquiditeit en Risico vs. Onzekerheid toegevoegd aan Wiki-tabel"
+  - version: 4
+    date: 2026-07-05
+    author: Brain-Guardian
+    change: "Commodities, Valutamarkten, Kelly Criterium en Narratieve Economie toegevoegd aan Wiki-tabel"
 ---
 
 # MOC — Beleggen
@@ -110,6 +114,10 @@ Centrale hub voor beleggingsprincipes, mentale modellen en markten.
 | [[(C) Technische Analyse]] | Grafiekpatronen, indicators, EMH-spanning, behavioral finance als verklaring |
 | [[(C) Market Microstructure & Liquiditeit]] | Orderboek, market makers, bid-ask spread, prijsvorming, HFT, transactiekosten |
 | [[(C) Risico vs. Onzekerheid — Knight's Onderscheid]] | Frank Knight (1921), Knightiaanse onzekerheid, Black Swan, EMH/MPT-beperkingen |
+| [[(C) Commodities & Grondstoffen]] | Grondstofmarkten, goud, olie, supercycles, inflatiebescherming, backwardation/contango |
+| [[(C) Valutamarkten & Wisselkoersen]] | Forex, wisselkoersen, carry trade, koopkrachtpariteit, centrale bankinterventie |
+| [[(C) Kelly Criterium & Optimale Positiegroottes]] | Kelly (1956), optimale positiegroottes, bankroll management, geometrisch rendement |
+| [[(C) Narratieve Economie & Virale Financiële Verhalen]] | Shiller, economische verhalen als virussen, SIR-model, EMH-falsificatie via narratieve contagion |
 
 ---
 
