@@ -1,0 +1,17 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-05T14:45:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Dubbel Empathie Probleem (Milton 2012).md",
+      "02 Wiki/Filosofie/(C) Bioethiek & Medische Ethiek.md",
+      "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychofarmacologie.md",
+      "02 Wiki/Beleggen/(C) Antifragiliteit & Complexe Systemen (Taleb).md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Verborgen Fragiliteit — Normabias, Institutionele Blindheid en de Hoge Kosten van Niet-Zien.md"
+    ]
+  }
+}
