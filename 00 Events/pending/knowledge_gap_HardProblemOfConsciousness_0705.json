@@ -2,7 +2,7 @@
   "event_type": "KnowledgeGapDetected",
   "agent": "Agent5-Discovery",
   "timestamp": "2026-07-05T07:05:00Z",
-  "status": "pending",
+  "status": "processed",
   "data": {
     "concept": "Hard Problem of Consciousness (Chalmers)",
     "discipline": "Filosofie",
