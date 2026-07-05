@@ -33,6 +33,11 @@ related_nodes:
   - "02 Wiki/Filosofie/(C) Kritische Theorie & Frankfurt School"
   - "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie"
   - "02 Wiki/Geschiedenis/(C) Totalitarisme als Politiek Systeem"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS"
+  - "02 Wiki/Filosofie/(C) Merleau-Ponty & Corps Propre"
+  - "02 Wiki/Psychologie/(C) Sociale Psychologie"
+  - "02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie"
+  - "02 Wiki/Filosofie/(C) Fenomenologie"
 revision_history:
   - version: 1
     date: 2026-07-05
@@ -42,6 +47,10 @@ revision_history:
     date: 2026-07-05
     author: Brain-Guardian
     change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
+  - version: 3
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: gerelateerde nodes uitgebreid met Trauma & PTSS, Merleau-Ponty, Fenomenologie, HPA-as, Sociale Psychologie; Verbanden-sectie uitgebreid; Verdieping toegevoegd
 ---
 
 # Koloniale Psychiatrie & de Westerse Categorisering van Abnormaliteit
@@ -170,6 +179,11 @@ Michel Foucault's *Histoire de la folie* (1961 — hetzelfde jaar als Fanon's *D
 - **[[02 Wiki/Filosofie/(C) Kritische Theorie & Frankfurt School]]**: Foucault-connectie; macht en definitie van normaliteit
 - **[[02 Wiki/Psychologie/(C) Schizofrenie & Psychose]]**: social defeat hypothesis; verhoogde prevalentie migranten
 - **[[02 Wiki/Geschiedenis/(C) Totalitarisme als Politiek Systeem]]**: psychiatrie als staatsinstrument (USSR politieke psychiatrie)
+- **[[02 Wiki/Psychologie/(C) Trauma & PTSS]]**: Fanon beschreef PTSS-equivalenten bij Algerijnse patiënten; koloniaal geweld als systematische traumatisering van een volk
+- **[[02 Wiki/Filosofie/(C) Merleau-Ponty & Corps Propre]]**: Fanon gebruikt Merleau-Ponty's corps propre direct — het "epidermale raciale schema" is een beschadiging van het lichamelijke zelfgevoel door de kolonisatorsblik
+- **[[02 Wiki/Filosofie/(C) Fenomenologie]]**: Fanon's psychiatrische analyse is fenomenologisch gefundeerd (Sartre, Merleau-Ponty); koloniale onderdrukking als fenomenologische beschadiging van de eerste-persoons-beleving
+- **[[02 Wiki/Psychologie/(C) Sociale Psychologie]]**: Minority Stress Model (Meyer, 2003) als wetenschappelijke validatie van Fanon's intuïtie; social defeat hypothesis als mechanisme
+- **[[02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie]]**: chronische discriminatie en onderdrukking activeren de HPA-as structureel; epigenetische cortisolprogrammering als biologische erfenis van koloniale stress
 
 ---
 
@@ -188,3 +202,35 @@ Michel Foucault's *Histoire de la folie* (1961 — hetzelfde jaar als Fanon's *D
 ---
 
 *Aangemaakt door Agent1-KnowledgeHunter op 2026-07-05 | Kennishiaat verwerkt uit: 00 Events/pending/knowledge_gap_KolonialePsychiatrie_1142.json*
+
+## Verdieping (Discovery Engine)
+
+### De Corps Propre-Dimensie: Fanon en Merleau-Ponty
+
+Fanon studeerde Merleau-Ponty. Dit is geen toeval — het is de filosofische fundering van zijn psychiatrie.
+
+Merleau-Ponty's concept van het **corps propre** stelt dat wij de wereld ervaren *als* ons lichaam, niet *door* ons lichaam. Het lichaamsschema is prereflex: ik beleef mijn lichaam als handelend subject, niet als object.
+
+In de koloniale situatie wordt dit schema structureel beschadigd. Fanon's beroemde scène — "Kijk, een neger!" — is precies de moment waarop de gekoloniseerde persoon zijn corps propre verliest: zijn lichaam wordt plotseling *gezien*, geobjectiveerd, gedefinieerd door de blik van de kolonisator. Het epidermale raciale schema overschrijft het lichaamsschema.
+
+De therapeutische implicatie is radicaal: genezen van koloniale psychiatrische schade is niet slechts symptoombehandeling maar **corps propre-herstel** — het terugwinnen van het lichaam als subjectief ervarend wezen, niet als object van klinische observatie of raciale classificatie.
+
+Dit verklaart ook waarom de hermeneutische dimensie van de therapeutische relatie in cross-culturele psychiatrie zo kritisch is: een patiënt wiens corps propre is beschadigd door de objectiverende blik, ervaart de medische blik als potentieel hertraumatiserende herhaling.
+
+### HPA-as als Biologisch Mechanisme van Historisch Trauma
+
+De empirische verbinding tussen koloniale psychiatrie en hedendaagse neurowetenschappen loopt via de HPA-as.
+
+Epigenetisch onderzoek toont dat chronische stressblootstelling — structurele discriminatie, onveiligheid, sociale uitsluiting — de methylatie van glucocorticoïdreceptorgenen verandert. Dit programmeert de HPA-as voor verhoogde cortisolreactiviteit en is intergenerationeel overdraagbaar.
+
+De keten:
+1. Koloniale onderdrukking produceert chronische HPA-activatie bij gekoloniseerde populaties
+2. Epigenetische methylatieveranderingen worden overdragen aan de volgende generatie
+3. Nakomelingen starten met een biologisch hogere stressdrempel (of lager)
+4. Verhoogde psychopathologiepravalentie bij migrantengroepen en post-koloniale populaties is mede een HPA-kwestie
+
+Dit is niet speculatief: de studie van Rachel Yehuda bij nakomelingen van Holocaust-overlevenden toonde aantoonbare epigenetische HPA-veranderingen. Hetzelfde mechanisme werkt bij trans-Atlantische slavernij, koloniale onderdrukking en structureel racisme.
+
+**Forensisch-ethische implicatie**: individueel behandelen zonder maatschappelijke structuurverandering is het equivalent van de symptomen van een ziekte behandelen terwijl de bron van besmetting blijft bestaan.
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-05

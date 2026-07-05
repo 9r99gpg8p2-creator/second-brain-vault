@@ -1,0 +1,24 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-05T07:05:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Mental Accounting & Behavioral Portfolio Theory (Thaler / Shefrin & Statman)",
+    "discipline": "Beleggen",
+    "priority": 0.80,
+    "reason": "Richard Thaler's mental accounting — de neiging mensen financiën te organiseren in aparte 'mentale rekeningen' (vakantiebudget, pensioenspaarpot, noodreserve) die zij niet fungibel behandelen — is een van de meest empirisch robuuste bevindingen in gedragseconomie. Het verbindt Gedragseconomie, Emotieregulatie (compartimentalisatie als emotieregulatieve strategie), Hyperbolic Discounting (verschillende tijdshorizonten per mentale rekening) en Moderne Portefeuilletheorie (sub-optimale asset allocatie door silo-denken). Thaler's Mental Accounting is impliciet aanwezig in meerdere beleggingsnotes maar heeft geen eigen uitwerking.",
+    "mentioned_in": [
+      "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases",
+      "02 Wiki/Beleggen/(C) Hyperbolic Discounting & Tijdspreferentie",
+      "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie"
+    ],
+    "suggested_connections": [
+      "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases",
+      "02 Wiki/Beleggen/(C) Hyperbolic Discounting & Tijdspreferentie",
+      "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie",
+      "02 Wiki/Psychologie/(C) Emotieregulatie",
+      "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex"
+    ]
+  }
+}

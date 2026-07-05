@@ -1,0 +1,25 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-05T07:05:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Geschiedenis van de Psychofarmacologie",
+    "discipline": "Geschiedenis",
+    "priority": 0.82,
+    "reason": "De ontdekking van chlorpromazine (1952), lithium (Cade, 1949), SSRI's (Prozac, 1987), benzodiazepines, MAO-inhibitoren — en de conceptuele en economische krachten die de psychofarmacologische revolutie vormden — is een kritisch historisch onderwerp dat volledig ontbreekt. Het zit impliciet in Depressie & Neurobiologie, Schizofrenie & Psychose, Geschiedenis van de Psychiatrie, maar heeft geen eigen historische uitwerking. Dit is het kruispunt van farmaceutische industrie, wetenschapsgeschiedenis, Geschiedenis van de Psychiatrie en psychiatrische nosologie (DSM). Verbindt Geschiedenis, Psychologie en Beleggen (farmaceutische sector).",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Depressie & Neurobiologie",
+      "02 Wiki/Psychologie/(C) Schizofrenie & Psychose",
+      "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie"
+    ],
+    "suggested_connections": [
+      "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie",
+      "02 Wiki/Psychologie/(C) Depressie & Neurobiologie",
+      "02 Wiki/Psychologie/(C) Schizofrenie & Psychose",
+      "02 Wiki/Psychologie/(C) Serotoninesysteem & 5-HT Neurotransmissie",
+      "02 Wiki/Filosofie/(C) Neuro-ethiek",
+      "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
+    ]
+  }
+}

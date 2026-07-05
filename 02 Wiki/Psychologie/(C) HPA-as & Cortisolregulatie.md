@@ -48,6 +48,11 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie"
   - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex"
   - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
+  - "02 Wiki/Psychologie/(C) Interoceptie & Lichaamsgewaarwording"
+  - "02 Wiki/Psychologie/(C) Ruminatie & Piekeren"
+  - "02 Wiki/Filosofie/(C) Neuro-ethiek"
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
+  - "02 Wiki/Geschiedenis/(C) Koloniale Psychiatrie & Pathologisering van Abnormaliteit"
 revision_history:
   - version: 1
     date: 2026-07-03
@@ -57,6 +62,10 @@ revision_history:
     date: 2026-07-04
     author: Discovery-Engine
     change: related_nodes gesynchroniseerd met Verbanden-sectie; Verdieping toegevoegd (financiële stress, neuro-ethiek, epigenetische feedback)
+  - version: 3
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: related_nodes uitgebreid (Interoceptie, Ruminatie, Neuro-ethiek, Gedragseconomie, Koloniale Psychiatrie); Verdieping uitgebreid (Interoceptie als HPA-interface, koloniale structurele stress)
 ---
 
 # HPA-as & Cortisolregulatie
@@ -185,3 +194,11 @@ Als chronische cortisolhyperactiviteit de prefrontale cortex aantast — waardoo
 - Sociaal beleid: beleid dat chronische armoedestresstoestand negeert als context van "slechte keuzes"
 
 Verbindt naar [[02 Wiki/Filosofie/(C) Neuro-ethiek]] en [[02 Wiki/Filosofie/(C) Vrije Wil & Determinisme]].
+
+### Interoceptie als HPA-Transmissiekanaal
+
+De HPA-as produceert cortisol; cortisol signaleert via de bloedbaan en beïnvloedt de insula en de anterieure cingulaire cortex. Interoceptieve perceptie van het lichaam (hartslag, spierspanning, buikgevoel) is deels een directe representatie van HPA-activiteitsgraad. Dit betekent dat [[02 Wiki/Psychologie/(C) Interoceptie & Lichaamsgewaarwording]] niet slechts parallel aan de HPA-as loopt maar er deels de bewuste interface van is — verhoogd cortisol is *voelbaar*, en dat gevoel constitueert mede de emotionele toestand.
+
+### Koloniale en Structurele Stress
+
+De HPA-as programmeert de stressresponsdrempel epigenetisch. Chronische blootstelling aan sociale stress — discriminatie, armoede, onveiligheid — produceert duurzame HPA-hyperreactiviteit. Dit is de biologische mechanisme achter de bevindingen van de [[02 Wiki/Geschiedenis/(C) Koloniale Psychiatrie & Pathologisering van Abnormaliteit]]: de verhoogde psychopathologiepravalentie bij post-koloniale populaties en migrantengroepen is mede een HPA-kwestie, niet louter een sociale.

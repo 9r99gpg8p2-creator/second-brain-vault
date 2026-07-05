@@ -29,6 +29,10 @@ related_nodes:
   - "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding"
   - "02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind"
   - "02 Wiki/Psychologie/(C) Trauma & PTSS"
+  - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
+  - "02 Wiki/Geschiedenis/(C) Koloniale Psychiatrie & Pathologisering van Abnormaliteit"
+  - "02 Wiki/Filosofie/(C) Existentialisme"
+  - "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"
 revision_history:
   - version: 1
     date: 2026-07-05
@@ -38,6 +42,10 @@ revision_history:
     date: 2026-07-05
     author: Brain-Guardian
     change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
+  - version: 3
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: gerelateerde nodes uitgebreid (Neuroplasticiteit, Koloniale Psychiatrie, Existentialisme, Verslaving); Verbanden-sectie uitgebreid; Verdieping toegevoegd (neuroplastisch corps propre, Fanon-verbinding, verslaving-insula)
 ---
 
 # Merleau-Ponty & Corps Propre — Fenomenologie van het Lichaam
@@ -196,6 +204,10 @@ Merleau-Ponty is de pionier van wat nu **embodied cognition** heet:
 - **[[02 Wiki/Psychologie/(C) Interoceptie & Lichaamsgewaarwording]]**: insulaire cortex als neurale basis van corps propre-ervaring
 - **[[02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid]]**: alexithymia als possible corps propre-verstoring
 - **[[02 Wiki/Psychologie/(C) Perceptie & Predictive Coding]]**: Bayesiaans brein als belichaamd predictief systeem
+- **[[02 Wiki/Psychologie/(C) Neuroplasticiteit]]**: plasticiteit van het lichaamsschema (Rubber Hand Illusion, fantoomplijn-extinctie via spiegeltherapie); het corps propre is neuroplastisch herschrijfbaar
+- **[[02 Wiki/Geschiedenis/(C) Koloniale Psychiatrie & Pathologisering van Abnormaliteit]]**: Fanon gebruikt Merleau-Ponty's corps propre direct — het "epidermale raciale schema" is de invasie van het corps propre door de kolonisatorsblik
+- **[[02 Wiki/Filosofie/(C) Existentialisme]]**: Merleau-Ponty werkte samen met Sartre (*Les Temps Modernes*); zijn belichaamd zijn-in-de-wereld radicaliseert Heideggers Dasein en compliceert Sartres bliktheorie
+- **[[02 Wiki/Psychologie/(C) Verslaving & Neurobiologie]]**: craving als corps propre-invasie via de insula; de insulalaesie-studie (Naqvi 2007) als empirische validatie dat de stof het corps propre binnendringt
 
 ---
 
@@ -213,3 +225,35 @@ Merleau-Ponty is de pionier van wat nu **embodied cognition** heet:
 ---
 
 *Aangemaakt door Agent1-KnowledgeHunter op 2026-07-05 | Kennishiaat verwerkt uit: 00 Events/pending/knowledge_gap_MerleauPonty_1142.json*
+
+## Verdieping (Discovery Engine)
+
+### Neuroplasticiteit als Bewijs voor het Reviseerbare Corps Propre
+
+Het corps propre is niet statisch maar neuroplastisch herschrijfbaar — en dit is klinisch exploiteerbaar.
+
+**Spiegeltherapie bij fantoomplijn** (Ramachandran, 1992): door een geamputeerde patiënt het spiegelreflect van zijn gezonde arm als "fantoomplijn" te laten zien, kan de pijnlijke corps propre-representatie worden geherprogrammeerd. Dit is pure corps propre-neuroplasticiteit: visuele input herschrijft de interoceptief-somatosensorische representatie.
+
+**Rubber Hand Illusion** en zijn therapeutische toepassingen: bij chronische pijn, CRPS (Complex Regional Pain Syndrome) en body dysmorphia worden illusorisische lichaamsschema-manipulaties gebruikt om de maladaptieve corps propre-representatie te doorbreken.
+
+**Implicatie voor klinische neuropsychologie**: corps propre-pathologieën (conversie, hemineglect, eetstoornissen, depersonalisatie) zijn geen vaste toestanden maar plastisch herschrijfbare configuraties van het lichaamsschema. Therapie is corps propre-herschrijving via sensorische input, motorische activiteit en sociale feedback.
+
+### Fanon en de Gekoloniseerde Corps Propre: Een Directe Intellectuele Lijn
+
+Fanon studeerde Merleau-Ponty's werk aandachtig. In *Peau Noire, Masques Blancs* (1952) erkent hij dit: zijn concept van het "epidermale raciale schema" is een *uitbreiding* van Merleau-Ponty's lichaamsschema.
+
+Bij Merleau-Ponty is het lichaamsschema prereflex en eigenlijk. Bij de gekoloniseerde persoon — stelt Fanon — wordt dit schema overgeschreven door het raciale schema dat de kolonisatorsblik oplegt. Het lichaam wordt niet meer beleefd als eigenlijk subject maar als object van een externe blik.
+
+Dit is fenomenologisch precies beschreven: de gekoloniseerde persoon ervaart zijn lichaam niet meer van binnenuit (*Leib*) maar als hoe het door anderen wordt gezien (*Körper*). Corps propre-invasie via de sociale blikstructuur.
+
+Therapeutisch is dekolonisatie dan ook een corps propre-bevrijding: het terugwinnen van belichaamde subjectiviteit. Dit verbindt direct met lichaamsgerichte trauma-interventies.
+
+### Corps Propre en Verslaving: De Insula-Verbinding
+
+De insulalaesie-studie (Naqvi et al., 2007) toont dat craving — het dwingend verlangen naar een verslavende stof — een **interoceptieve corps propre-toestand** is, niet een abstracte cognitie.
+
+Vanuit Merleau-Ponty's perspectief: de verslavende stof is in het corps propre opgenomen — het lichaam herinnert zich de stof als deel van zijn motorische intentionaliteit (*I can* / *I need*). Ophouden met roken is dan niet slechts een cognitieve beslissing maar een corps propre-reconstructie: het lichaam moet zichzelf opnieuw als niet-rokend lichaamsschema leren te bewonen.
+
+Dit verklaart waarom wilsinspanning alleen onvoldoende is: de corps propre verandert niet via cognitieve besluiten maar via lichamelijke herprogrammering (gedragstherapie, somatische interventies, tijdspassage met nieuwe lichamelijke gewoontes).
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-05

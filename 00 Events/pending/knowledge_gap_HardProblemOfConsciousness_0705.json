@@ -1,0 +1,26 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-05T07:05:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Hard Problem of Consciousness (Chalmers)",
+    "discipline": "Filosofie",
+    "priority": 0.86,
+    "reason": "Chalmers' onderscheid (1995) tussen het 'gemakkelijke probleem' van bewustzijn (neurale correlaten, functionele verklaringen) en het 'harde probleem' (waarom er uberhaupt subjectieve ervaring is / qualia) wordt impliciet verondersteld in meerdere notes maar mist een eigen articulate note. Zonder dit onderscheid is de discussie in Filosofie van de Geest, Fenomenologie, Interoceptie, en de Naturalisme vs. Fenomenologie CONFLICT-note onvolledig. Dit is het centrale probleem van de bewustzijnsfilosofie en direct relevant voor de vraag of neuropsychologie het bewustzijn volledig kan verklaren.",
+    "mentioned_in": [
+      "02 Wiki/Filosofie/(C) Filosofie van de Geest",
+      "02 Wiki/Filosofie/(C) Naturalisme & Wetenschappelijk Materialisme",
+      "02 Wiki/Filosofie/(C) Fenomenologie",
+      "02 Wiki/Psychologie/(C) Interoceptie & Lichaamsgewaarwording"
+    ],
+    "suggested_connections": [
+      "02 Wiki/Filosofie/(C) Filosofie van de Geest",
+      "02 Wiki/Filosofie/(C) Fenomenologie",
+      "02 Wiki/Filosofie/(C) Naturalisme & Wetenschappelijk Materialisme",
+      "02 Wiki/Filosofie/(C) Metafysica & Ontologie",
+      "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding",
+      "02 Wiki/Psychologie/(C) Default Mode Network"
+    ]
+  }
+}

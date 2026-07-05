@@ -1,0 +1,23 @@
+{
+  "event_type": "KnowledgeGapDetected",
+  "agent": "Agent5-Discovery",
+  "timestamp": "2026-07-05T07:05:00Z",
+  "status": "pending",
+  "data": {
+    "concept": "Dubbel Empathie Probleem (Milton 2012)",
+    "discipline": "Psychologie",
+    "priority": 0.88,
+    "reason": "Milton's dubbel-empathie model (2012) herziet de gehele interpretatie van de Sally-Anne Task en Theory of Mind bij autisme: niet een eenzijdig ToM-deficit bij autistische mensen, maar een wederzijdse communicatiemismatch. Dit is een paradigmaverschuiving die direct de diagnostische geldigheid van huidige autismediagnostiek ter discussie stelt. Het is al tweemaal vermeld in de Sociale Cognitie & ToM note als 'verdieping' maar heeft geen eigen note. Het verbindt Psychologie (ASS, ToM, klinische diagnostiek), Filosofie (epistemologie, perspectivisme) en implicaties voor klinische neuropsychologische assessment.",
+    "mentioned_in": [
+      "02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind",
+      "02 Wiki/Psychologie/(C) Autisme Spectrum Stoornis (ASS)"
+    ],
+    "suggested_connections": [
+      "02 Wiki/Psychologie/(C) Autisme Spectrum Stoornis (ASS)",
+      "02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind",
+      "02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid",
+      "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie",
+      "02 Wiki/Psychologie/(C) Klinische Psychologie"
+    ]
+  }
+}

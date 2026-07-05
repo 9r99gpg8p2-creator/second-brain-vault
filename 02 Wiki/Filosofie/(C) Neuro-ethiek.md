@@ -39,11 +39,19 @@ related_nodes:
   - "02 Wiki/Filosofie/(C) Epistemologie.md"
   - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md"
   - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md"
+  - "02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie.md"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS.md"
+  - "02 Wiki/Psychologie/(C) Neurocognitieve Stoornissen & Dementie.md"
+  - "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie.md"
 revision_history:
   - version: 1
     date: 2026-07-02
     author: Knowledge-Synthesizer
     change: initial creation
+  - version: 2
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: related_nodes uitgebreid (HPA-as, Trauma & PTSS, Neurocognitieve Stoornissen & Dementie, Epigenetica); Verbanden-sectie uitgebreid
 ---
 
 # Neuro-ethiek
@@ -114,6 +122,10 @@ Neuro-ethiek is onmisbaar voor de Klinische Neuropsychologie op meerdere vlakken
 - [[Falsifieerbaarheid & Wetenschapsfilosofie]] — validiteitsgrenzen van neuro-claims in juridische en publieke context
 - [[Verslaving & Neurobiologie]] — morele verantwoordelijkheid bij hersenaandoening; gedwongen behandeling bij SUD
 - [[Eugenica & Pseudowetenschappelijke Psychiatrie]] — historische les: wetenschap kan ideologie legitimeren; Neurenberg Code als erfenis
+- [[02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie]] — chronische HPA-dysregulatie ondermijnt PFC-functie; ethische vraag of beslissingen onder structurele stresslast moreel volledig toerekenbaar zijn
+- [[02 Wiki/Psychologie/(C) Trauma & PTSS]] — ethiek van geheugenmanipulatie (propranolol); wilsbekwaamheidsassessment bij traumapatiënten; gedwongen behandeling
+- [[02 Wiki/Psychologie/(C) Neurocognitieve Stoornissen & Dementie]] — predictieve diagnostiek (APOE ε4); recht om niet te weten; persoonlijke identiteit bij Alzheimer (Locke's geheugencriterium)
+- [[02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie]] — polygene risicoscores voor psychose en verslaving: ethiek van predictieve neurodiagnostiek; stigma vs. preventie
 
 ## Bronnen
 

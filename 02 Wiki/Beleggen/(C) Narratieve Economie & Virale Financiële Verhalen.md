@@ -30,6 +30,10 @@ related_nodes:
   - "02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie"
   - "02 Wiki/Psychologie/(C) Sociale Psychologie"
   - "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding"
+  - "02 Wiki/Geschiedenis/(C) De Reformatie"
+  - "02 Wiki/Beleggen/(C) Cryptovaluta & Blockchain"
+  - "02 Wiki/Psychologie/(C) Default Mode Network"
+  - "02 Wiki/Filosofie/(C) Filosofie van de Taal"
 revision_history:
   - version: 1
     date: 2026-07-05
@@ -39,6 +43,10 @@ revision_history:
     date: 2026-07-05
     author: Brain-Guardian
     change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
+  - version: 3
+    date: 2026-07-05
+    author: Discovery-Engine
+    change: gerelateerde nodes uitgebreid (De Reformatie, Cryptovaluta, DMN, Filosofie van de Taal); Verbanden-sectie uitgebreid; Verdieping toegevoegd (Reformatie als prototype, DMN-mechanisme, performatieve taal)
 ---
 
 # Narratieve Economie & Virale Financiële Verhalen (Shiller)
@@ -201,7 +209,11 @@ Verbinding met [[02 Wiki/Filosofie/(C) Hermeneutiek]]: economische interpretatie
 - **[[02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases]]**: psychologische mechanismen van narratieve sturing
 - **[[02 Wiki/Filosofie/(C) Hermeneutiek]]**: narratieven als interpretatiekaders voor economische realiteit
 - **[[02 Wiki/Psychologie/(C) Sociale Psychologie]]**: sociale contagion en informatieasymmetrie
-- **[[03 Knowledge Graph/]]**: Narratief ↔ Sociale contagion ↔ Economische cyclus — als netwerkknooppunt
+- **[[02 Wiki/Geschiedenis/(C) De Reformatie]]**: het vroegmoderne prototype van een viraal narratief dat een collectieve prior (kerkelijke autoriteit) radicaal herziet; de drukpers als SIR-versneller
+- **[[02 Wiki/Beleggen/(C) Cryptovaluta & Blockchain]]**: Bitcoin als exemplarisch geval van narratief-gedreven waardecreatie; het "digitaal goud"-narratief als Shilleriaans epidemisch verhaal
+- **[[02 Wiki/Psychologie/(C) Default Mode Network]]**: het DMN als neurale generator van narratieve priors; het verhalende brein als biologische basis van narratief-kwetsbare markten
+- **[[02 Wiki/Filosofie/(C) Filosofie van de Taal]]**: narratieven als taalkundige constructies die realiteit niet beschrijven maar mede creëren; Austins performatieve taalhandelingen als marktpriors
+- **[[03 Knowledge Graph/(KG) Het Virale Prior — Narratieve Economie als Collectief Predictive Coding Systeem]]**: Narratieve Economie ↔ Predictive Coding ↔ DMN als collectief mechanisme
 
 ---
 
@@ -219,3 +231,40 @@ Verbinding met [[02 Wiki/Filosofie/(C) Hermeneutiek]]: economische interpretatie
 ---
 
 *Aangemaakt door Agent1-KnowledgeHunter op 2026-07-05 | Kennishiaat verwerkt uit: 00 Events/pending/knowledge_gap_NarratieveEconomie_1142.json*
+
+## Verdieping (Discovery Engine)
+
+### De Reformatie als Historisch Precedent
+
+**Shiller's theorie mist een historische dimensie.** De Reformatie (1517 ff.) is het vroegmoderne prototype van een viraal narratief met economische gevolgen.
+
+Luthers stellingen verspreidden zich via de drukpers in een tempo dat contemporaine waarnemers verbaasde — binnen weken over heel Duitsland, binnen maanden over Europa. Dit is Shiller's SIR-model avant la lettre:
+- De drukpers is de β-verhoger (infectiesnelheid)
+- Alphabetisering is de susceptibility-pool
+- De Kerk-institutie is de R₀-verlagingspoging (verbod, verbranding, Index)
+
+De economische gevolgen waren enorm: de Reformatie herschrikte religieus kapitaal, verstastte eigendomsstructuren (kerkelijke bezittingen geseculariseerd), versterkte het protestantse werkethos (Weber) en initieerde 150 jaar godsdienstoorlogen die de Europese kapitaalaccumulatie structureel beïnvloedden.
+
+**De kern:** het narratief "Je bent rechtstreeks verantwoording schuldig aan God, zonder priesterlijke bemiddeling" was niet alleen theologisch maar ook economisch revolutionair. Het verwijderde de institutionele prior-maker (de Kerk) als legitime autoriteit en creëerde ruimte voor nieuwe economische narratieven (kapitalisme, individualisme).
+
+### Het Default Mode Network als Narratieve Marktgenerator
+
+Het Default Mode Network (DMN) is neurowetenschappelijk het systeem dat narratieve priors produceert. Het DMN is actief bij:
+- Episodisch geheugen (basis van priors over economische trends)
+- Toekomstprojectie (investment thesis-constructie)
+- Sociale cognitis (wat denken anderen over de markt?)
+- Narratieve zelfconstructie ("Ik ben een lange-termijn waardebelegger")
+
+Wanneer Shiller zegt dat Bitcoin primair een narratief-fenomeen is, bedoelt hij neurobiologisch: het Bitcoin-narratief activeert het DMN van miljoenen individuen, die hun verwachtingsstructuren (priors) synchroniseren rondom een gedeeld verhaal.
+
+De Efficiënte Markt Hypothese negeert het DMN volledig. Dit is haar fundamentele falen: markten zijn niet informatie-verwerkende machines maar DMN-synchronisatienetwerken.
+
+### Taal als Marktkracht (Filosofie van de Taal)
+
+Austin's concept van **performatieve taalhandelingen** is hier relevant: taalhandelingen die niet slechts beschrijven maar *werkelijkheid creëren*. "Ik verklaar deze bank bankroet" — de zin *maakt* het waar.
+
+Economische narratieven zijn grotendeels performatief: het narratief "deze munt zal de waardeopslag van de toekomst zijn" schept, door gedeeld te worden, zijn eigen fundering. Zelfvervullende profeties zijn de economische equivalenten van Austins performatieven.
+
+Dit verbindt Shiller's empirische narratieve economie met de analytische filosofie van de taal — een verbinding die in de literatuur nauwelijks is gemaakt.
+
+> Verdieping toegevoegd door Discovery-Engine | 2026-07-05
