@@ -1,0 +1,23 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-05T12:01:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Chronobiologie & Circadiaans Ritme.md",
+      "02 Wiki/Filosofie/(C) Transhumanisme & Filosofie van de Technologie.md",
+      "02 Wiki/Beleggen/(C) Global Macro Beleggen.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Technologie, Mensverbetering & Tijd — Transhumanisme, Chronobiologie & de Grenzen van het Biologische.md"
+    ],
+    "skipped": [
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Industriële Revolutie",
+        "reason": "Duplicate — 02 Wiki/Geschiedenis/(C) De Industriële Revolutie.md already exists"
+      }
+    ]
+  }
+}
