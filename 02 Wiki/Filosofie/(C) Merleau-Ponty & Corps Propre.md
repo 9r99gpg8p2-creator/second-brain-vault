@@ -1,0 +1,191 @@
+---
+title: Merleau-Ponty & Corps Propre — Fenomenologie van het Lichaam
+discipline: Filosofie
+tags: [fenomenologie, embodied-cognition, lichaam, geest, neuropsychologie, filosofie-van-de-geest]
+kleur: 🔵
+aangemaakt: 2026-07-05
+bronnen: [Merleau-Ponty 1945, Gallagher & Zahavi 2012, Varela et al. 1991]
+links:
+  - "[[02 Wiki/Filosofie/(C) Fenomenologie]]"
+  - "[[02 Wiki/Filosofie/(C) Filosofie van de Geest]]"
+  - "[[02 Wiki/Psychologie/(C) Somatische Markerstheorie (Damasio)]]"
+  - "[[02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid]]"
+  - "[[02 Wiki/Psychologie/(C) Interoceptie & Lichaamsgewaarwording]]"
+  - "[[02 Wiki/Psychologie/(C) Perceptie & Predictive Coding]]"
+  - "[[02 Wiki/Psychologie/(C) Sociale Cognitie & Theory of Mind]]"
+  - "[[02 Wiki/Psychologie/(C) Trauma & PTSS]]"
+---
+
+# Merleau-Ponty & Corps Propre — Fenomenologie van het Lichaam
+
+## Kernidee
+
+Maurice Merleau-Ponty (1908–1961) is de filosoof van het belichaamde bestaan. Zijn centrale argument: het lichaam is niet een object dat de geest bestuurt, maar de primaire modus waarop een mens in de wereld is. Er is geen Cartesiaanse kloof tussen geest en lichaam — er is alleen het **corps propre**: het lichaam als subjectief, ervarend en handelend wezen.
+
+Dit is de filosofische grondslag van *embodied cognition* en heeft directe consequenties voor klinische neuropsychologie: stoornissen in lichaamsschema, fantoompijn, dissociatie en conversie zijn allemaal corps propre-pathologieën.
+
+---
+
+## Biografie
+
+- Geboren 1908, Rochefort-sur-Mer, Frankrijk
+- Studeerde filosofie aan de École Normale Supérieure
+- Invloed: Husserl (fenomenologie), Heidegger (zijn-in-de-wereld), Gestaltpsychologie
+- Hoogleraar kinderpsychologie aan de Sorbonne (1949–1952)
+- Hoogleraar filosofie Collège de France (1952 tot zijn dood)
+- Redacteur van *Les Temps Modernes* samen met Sartre
+- Stierf plotseling op 53-jarige leeftijd (1961)
+
+---
+
+## Historische Context: Descartes' Probleem
+
+Descartes (17e eeuw) splitste de werkelijkheid in twee substanties:
+- **Res cogitans**: denkende substantie (de geest)
+- **Res extensa**: uitgebreide substantie (het lichaam, objecten in de ruimte)
+
+Dit leidde tot het klassieke mind-body-probleem: hoe communiceert een onstoffelijke geest met een stoffelijk lichaam?
+
+Merleau-Ponty verwerpt dit vertrekpunt fundamenteel. Het probleem bestaat niet, omdat de scheiding kunstmatig is. Het lichaam is nooit een object in de wereld — het is de levende, waarnemende bron van alle ervaring.
+
+---
+
+## Corps Propre: Het Levende Lichaam
+
+Het **corps propre** (ook: *Leib* bij Husserl; eigen lichaam) onderscheidt zich van het *Körper* (het objectieve, biologische lichaam):
+
+- **Corps propre** = het lichaam zoals ik het van binnenuit beleef: als handelend, bewegend, voelend subject
+- **Körper** = het lichaam zoals een arts of anatoom het beschrijft: als object met organen en structuren
+
+> "Ik ben mijn lichaam" — niet: ik heb een lichaam.
+
+Het corps propre is:
+1. **Prereflex**: aanwezig vóór bewust denken
+2. **Habitueel**: motorische gewoonten worden onderdeel van het lichaam, niet van het bewustzijn
+3. **Intentioneel**: het lichaam is altijd al gericht op de wereld via motorische projecten
+4. **Perspectivisch**: alle waarneming is altijd vanuit een lichamelijk standpunt
+
+---
+
+## Lichaamsschema (Schéma Corporel)
+
+Het **lichaamsschema** is het prereflex, dynamisch intern model van lichaamshouding, -positie en -mogelijkheden:
+
+- Niet bewust geconstrueerd maar motorisch-habitueel opgebouwd
+- Constant bijgewerkt door proprioceptie, tactiele informatie en visuele input
+- **Gereedschap-integratie**: de stok van de blinde persoon wordt onderdeel van het lichaamsschema — de blinde "voelt" ermee, niet de stok voelen
+- Neuropsychologisch correlaat: posterieure pariëtale cortex (somatosensorische associatiecortex), rechter hemisfeer dominant
+
+### Neurowetenschappelijke validatie
+- **Rubber Hand Illusion** (Botvinick & Cohen, 1998): visuo-tactiele synchronie veroorzaakt gevoel van eigendom over rubber hand → lichaamsschema is plastisch
+- **Anosognosie** (Babinski, 1914): patiënten met hemiplegie ontkennen verlamming → lichaamsschema-stoornis
+- **Hemineglect**: rechterhemisfeer-laesie → links lichaamshelft verdwijnt uit corps propre
+
+---
+
+## Fenomenologie van de Waarneming (1945)
+
+Merleau-Ponty's hoofdwerk. Centrale stellingen:
+
+1. **Primaat van perceptie**: perceptie is de fundamentele verhouding tot de wereld; cognitie en reflectie zijn secundair
+2. **Waarneming is belichaamd**: we zien altijd vanuit een lichamelijk standpunt, niet als neutraal waarnemend subject
+3. **Gestaltkarakter van waarneming**: de wereld verschijnt als gestructureerd geheel (figuur-achtergrond), niet als ruwe sensatie
+4. **Motorische intentionaliteit**: het lichaam "begrijpt" de wereld via motorische mogelijkheden (*I can* in plaats van *I think*)
+
+### Fantoomplijn als filosofisch argument
+- Een geamputeerde persoon ervaart het verwijderde ledemaat nog steeds
+- De fantoomplijn toont dat lichaamsrepresentatie niet reduceerbaar is tot fysieke toestand
+- Het corps propre persisteert na amputatie — het lichaam herinnert zich zijn vroegere mogelijkheden
+- Neurologisch: maladaptieve neuroplasticiteit in somatosensorische cortex (Ramachandran, 1992)
+
+---
+
+## Zijn-in-de-Wereld als Belichaamd Zijn
+
+Merleau-Ponty bouwt op Heidegger's concept van *Être-au-monde* (zijn-in-de-wereld) maar radicaliseert het:
+
+- Heidegger: *Dasein* is primair; het lichaam is ondergeschikt aan het ontologische bestaan
+- Merleau-Ponty: het lichaam is het zijn-in-de-wereld; geen lichaam = geen wereld
+
+> "Je suis mon corps, et plus exactement, la mécanique du corps est une certaine façon d'être au monde."
+
+Consequenties:
+- Ruimte is niet geometrisch maar motorisch: ik ervaar de wereld als netwerk van mogelijkheden voor mijn lichaam
+- Tijd is niet klokketijd maar geleefd als habitueel, anticiperend, herinnerend lichaam
+
+---
+
+## Intersubjectiviteit en Anderen
+
+- Anderen worden primair niet via redenering herkend maar via lichamelijke resonantie
+- Ik herken de intenties van anderen in hun motorische uitdrukkingen
+- **Spiegelneuronen** (Rizzolatti & Craighero, 2004): worden vaak gezien als neurowetenschappelijk correlaat van Merleau-Ponty's intersubjectiviteitstheorie
+- **Theory of Mind**: Merleau-Ponty's embodied intersubjectiviteit gaat vooraf aan expliciet mentaliseren
+
+---
+
+## Klinische Neuropsychologie: Corps Propre-Pathologieën
+
+| Stoornis | Corps Propre-probleem |
+|---|---|
+| **Hemineglect** | Linker lichaamshelft verdwijnt uit corps propre (rechter parietaal-laesie) |
+| **Somatoparafrenie** | Gelaedeerde lichaamshelft wordt ontkend als eigen lichaam |
+| **Fantoomplijn** | Corps propre persisteert na amputatie |
+| **Conversie/FND** | Motorisch corps propre verstoord zonder structurele laesie |
+| **Depersonalisatie** | Gevoel van vervreemding van het corps propre |
+| **Eetstoornissen** | Body dysmorphia = vertekend corps propre |
+| **Chronische pijn** | Pijn als subjectief corps propre-fenomeen, niet puur nociceptief |
+
+---
+
+## Merleau-Ponty vs. Damasio
+
+Beide filosofen/wetenschappers overschrijden de Cartesiaanse kloof:
+
+| Aspect | Merleau-Ponty | Damasio |
+|---|---|---|
+| Methode | Fenomenologie (first-person) | Neurowetenschappen (third-person) |
+| Concept | Corps propre | Somatische markers |
+| Centrale stelling | Lichaam is primaire modus van zijn | Lichaam is bron van emotie en besluitvorming |
+| Relatie geest-lichaam | Er is geen scheiding | Lichaam moduleert hogere cognitie |
+| Empirische basis | Klinische neurologie (Schneider, Head) | Lesie-studies (Phineas Gage, VM-patiënten) |
+
+Beide werken zijn complementair: Merleau-Ponty geeft de filosofische ontologie; Damasio de neurowetenschappelijke empirische onderbouwing. Samen overbruggen ze de Cartesiaanse kloof van twee kanten.
+
+---
+
+## Embodied Cognition
+
+Merleau-Ponty is de pionier van wat nu **embodied cognition** heet:
+- Cognition is niet brein-computatie maar lichaam-omgeving-interactie
+- Varela, Thompson & Rosch (1991) — *The Embodied Mind* — formuleren dit als het *enactivisme*
+- Andy Clark (*Being There*, 1997): extended mind thesis — cognitie strekt zich uit tot werktuigen
+- In tegenstelling tot cognitief computationalisme (het brein als computer)
+
+---
+
+## Verbindingen
+
+- **[[02 Wiki/Filosofie/(C) Fenomenologie]]**: Merleau-Ponty als derde grote fenomenoloog (na Husserl en Heidegger)
+- **[[02 Wiki/Filosofie/(C) Filosofie van de Geest]]**: corps propre als antwoord op mind-body-probleem
+- **[[02 Wiki/Psychologie/(C) Somatische Markerstheorie (Damasio)]]**: neurowetenschappelijk parallelperspectief op belichaamd denken
+- **[[02 Wiki/Psychologie/(C) Interoceptie & Lichaamsgewaarwording]]**: insulaire cortex als neurale basis van corps propre-ervaring
+- **[[02 Wiki/Psychologie/(C) Alexithymia & Emotieblindheid]]**: alexithymia als possible corps propre-verstoring
+- **[[02 Wiki/Psychologie/(C) Perceptie & Predictive Coding]]**: Bayesiaans brein als belichaamd predictief systeem
+
+---
+
+## Feiten vs. Interpretaties
+
+| Categorie | Stelling |
+|---|---|
+| **Feit** | Merleau-Ponty schreef *Fenomenologie van de Waarneming* (1945) |
+| **Feit** | Fantoompijn en neglect tonen dat lichaamsrepresentatie niet reduceerbaar is tot anatomie |
+| **Feit** | Rubber Hand Illusion toont plasticiteit van lichaamsschema |
+| **Interpretatie** | Corps propre lost het mind-body-probleem op |
+| **Interpretatie** | Spiegelneuronen zijn het neuraal correlaat van Merleau-Ponty's intersubjectiviteit |
+| **Speculatie** | Alexithymia is primair een corps propre-stoornis |
+
+---
+
+*Aangemaakt door Agent1-KnowledgeHunter op 2026-07-05 | Kennishiaat verwerkt uit: 00 Events/pending/knowledge_gap_MerleauPonty_1142.json*

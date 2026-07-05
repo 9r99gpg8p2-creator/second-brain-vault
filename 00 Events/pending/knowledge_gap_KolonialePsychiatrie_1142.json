@@ -2,7 +2,7 @@
   "event_type": "KnowledgeGapDetected",
   "agent": "Agent5-Discovery",
   "timestamp": "2026-07-04T11:42:00Z",
-  "status": "pending",
+  "status": "processed",
   "data": {
     "concept": "Koloniale Psychiatrie & de Westerse Categorisering van Abnormaliteit",
     "discipline": "Geschiedenis",
@@ -22,5 +22,8 @@
       "Totalitarisme als Politiek Systeem",
       "Kritische Theorie & Frankfurt School"
     ]
-  }
+  },
+  "processed_by": "Agent1-KnowledgeHunter",
+  "processed_at": "2026-07-05T00:07:00Z",
+  "wiki_path": "02 Wiki/Geschiedenis/(C) Koloniale Psychiatrie & Pathologisering van Abnormaliteit.md"
 }

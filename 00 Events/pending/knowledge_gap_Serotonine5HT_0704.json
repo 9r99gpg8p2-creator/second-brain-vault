@@ -2,7 +2,7 @@
   "event_type": "KnowledgeGapDetected",
   "agent": "Agent5-Discovery",
   "timestamp": "2026-07-04T07:04:00Z",
-  "status": "pending",
+  "status": "processed",
   "data": {
     "concept": "Serotoninesysteem & 5-HT Neurotransmissie",
     "discipline": "Psychologie",
@@ -21,5 +21,8 @@
       "02 Wiki/Psychologie/(C) Klinische Psychologie",
       "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"
     ]
-  }
+  },
+  "processed_by": "Agent1-KnowledgeHunter",
+  "processed_at": "2026-07-05T00:07:00Z",
+  "wiki_path": "02 Wiki/Psychologie/(C) Serotoninesysteem & 5-HT Neurotransmissie.md"
 }

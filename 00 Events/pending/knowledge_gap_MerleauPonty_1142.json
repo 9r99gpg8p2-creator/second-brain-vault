@@ -2,7 +2,7 @@
   "event_type": "KnowledgeGapDetected",
   "agent": "Agent5-Discovery",
   "timestamp": "2026-07-04T11:42:00Z",
-  "status": "pending",
+  "status": "processed",
   "data": {
     "concept": "Merleau-Ponty & de Fenomenologie van het Lichaam (Corps Propre)",
     "discipline": "Filosofie",
@@ -20,5 +20,8 @@
       "Trauma & PTSS",
       "Perceptie & Predictive Coding"
     ]
-  }
+  },
+  "processed_by": "Agent1-KnowledgeHunter",
+  "processed_at": "2026-07-05T00:07:00Z",
+  "wiki_path": "02 Wiki/Filosofie/(C) Merleau-Ponty & Corps Propre.md"
 }
