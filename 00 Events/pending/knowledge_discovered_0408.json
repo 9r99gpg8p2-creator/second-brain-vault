@@ -1,0 +1,64 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-06T04:08:00Z",
+  "status": "pending",
+  "data": {
+    "research_path": "00 Research/2026-07-06/0408",
+    "note": "Wikipedia en arXiv geblokkeerd door netwerk-policy (host en.wikipedia.org:443 403 connect_rejected). Onderzoeksbestanden gevuld met training knowledge — inhoudelijk betrouwbaar, bronvermelding expliciet gemarkeerd als RAW DATA.",
+    "knowledge_gaps_consumed": [
+      "knowledge_gap_NeurogeneseBDNF_1604.json",
+      "knowledge_gap_EvolutionairePsychologie_1604.json"
+    ],
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Neurogenese & BDNF",
+        "wiki_path": "02 Wiki/Psychologie/(C) Neurogenese & BDNF.md",
+        "research_file": "psychologie-neurogenese-bdnf.md",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 0.95,
+        "trust_level": "hoog",
+        "key_connections": ["Neuroplasticiteit", "Depressie & Neurobiologie", "HPA-as & Cortisolregulatie", "Slaap & Geheugenconsolidatie", "Epigenetica", "Antifragiliteit"],
+        "gap_status": "pending — nog geen wiki-pagina aangemaakt deze run"
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Structuralisme & Post-structuralisme",
+        "wiki_path": "02 Wiki/Filosofie/(C) Structuralisme & Post-structuralisme.md",
+        "research_file": "filosofie-structuralisme-poststructuralisme.md",
+        "source_score": 8,
+        "confidence": 0.88,
+        "novelty": 0.90,
+        "trust_level": "hoog",
+        "key_connections": ["Postmodernisme", "Marxisme", "Hermeneutiek", "Filosofie van de Taal", "Kritische Theorie", "Narratieve Economie"],
+        "gap_status": "nieuw — geen bestaand gap-event"
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "MKUltra & CIA Psychologische Experimenten",
+        "wiki_path": "02 Wiki/Geschiedenis/(C) MKUltra & CIA Psychologische Experimenten.md",
+        "research_file": "geschiedenis-mkultra-cia-psychologie.md",
+        "source_score": 8,
+        "confidence": 0.90,
+        "novelty": 0.92,
+        "trust_level": "hoog",
+        "key_connections": ["Geschiedenis van de Psychiatrie", "Koude Oorlog", "Neuro-ethiek", "Bioethiek & Medische Ethiek", "Totalitarisme", "Trauma & PTSS"],
+        "gap_status": "nieuw — geen bestaand gap-event"
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Schaduwbankieren & Systemisch Risico",
+        "wiki_path": "02 Wiki/Beleggen/(C) Schaduwbankieren & Systemisch Risico.md",
+        "research_file": "beleggen-schaduwbankieren-systemisch-risico.md",
+        "source_score": 8,
+        "confidence": 0.85,
+        "novelty": 0.88,
+        "trust_level": "hoog",
+        "key_connections": ["Marktbubbels & Irrational Exuberance", "Sovereign Debt", "Marktpsychologie & Beurscrises", "Risico vs. Onzekerheid", "Conjunctuurcycli"],
+        "gap_status": "nieuw — geen bestaand gap-event"
+      }
+    ]
+  }
+}
