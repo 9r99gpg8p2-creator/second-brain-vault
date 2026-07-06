@@ -1,59 +1,75 @@
 {
   "event_type": "KnowledgeDiscovered",
   "agent": "Agent1-KnowledgeHunter",
-  "timestamp": "2026-07-04T00:08:00Z",
+  "timestamp": "2026-07-06T00:08:00Z",
   "status": "pending",
   "data": {
-    "research_path": "00 Research/2026-07-04/0008",
+    "research_path": "00 Research/2026-07-06/0008",
     "topics": [
       {
         "discipline": "Psychologie",
-        "topic": "Neurocognitieve Stoornissen & Dementie",
-        "wiki_path": "02 Wiki/Psychologie/(C) Neurocognitieve Stoornissen & Dementie.md",
+        "topic": "Lateralisatie & Hemisferische Specialisatie",
+        "wiki_path": "02 Wiki/Psychologie/(C) Lateralisatie & Hemisferische Specialisatie.md",
+        "source_score": 8,
+        "confidence": 0.88,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_sources": [
+          "PMC (2024) — Sperry Legacy Review",
+          "NCBI Bookshelf — Language Lateralization",
+          "Nature Reviews Neuroscience — Hemispatial Neglect"
+        ]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Het Inductieprobleem & Causaliteit (Hume)",
+        "wiki_path": "02 Wiki/Filosofie/(C) Het Inductieprobleem & Causaliteit (Hume).md",
         "source_score": 9,
         "confidence": 0.92,
         "novelty": 1.0,
         "trust_level": "hoog",
-        "connections": ["Geheugen & Amnesie", "Neuroplasticiteit", "HPA-as & Cortisolregulatie", "Executieve Functies & Prefrontale Cortex", "Slaap & Geheugenconsolidatie", "Epigenetica & Gen-Omgeving Interactie"]
-      },
-      {
-        "discipline": "Filosofie",
-        "topic": "Metafysica & Ontologie",
-        "wiki_path": "02 Wiki/Filosofie/(C) Metafysica & Ontologie.md",
-        "source_score": 8,
-        "confidence": 0.90,
-        "novelty": 1.0,
-        "trust_level": "hoog",
-        "connections": ["Vrije Wil & Determinisme", "Filosofie van de Geest", "Epistemologie & Kennistheorie", "Fenomenologie", "Dialectiek & Hegeliaanse Synthese", "Neuro-ethiek"]
+        "key_sources": [
+          "Stanford Encyclopedia of Philosophy",
+          "Internet Encyclopedia of Philosophy",
+          "Britannica"
+        ]
       },
       {
         "discipline": "Geschiedenis",
-        "topic": "Het Ottomaanse Rijk",
-        "wiki_path": "02 Wiki/Geschiedenis/(C) Het Ottomaanse Rijk.md",
-        "source_score": 8,
-        "confidence": 0.92,
+        "topic": "De Weimar Republiek (1919–1933)",
+        "wiki_path": "02 Wiki/Geschiedenis/(C) De Weimar Republiek (1919–1933).md",
+        "source_score": 9,
+        "confidence": 0.93,
         "novelty": 1.0,
         "trust_level": "hoog",
-        "connections": ["De Eerste Wereldoorlog", "De Tweede Wereldoorlog", "Dekolonisatie & Postkoloniale Orde", "De Islamitische Gouden Eeuw", "De Globalisering", "Eugenica & Pseudowetenschappelijke Psychiatrie"]
+        "key_sources": [
+          "Britannica — Weimar Republic",
+          "Deutsches Historisches Museum",
+          "Bundestag — Political Parties"
+        ]
       },
       {
         "discipline": "Beleggen",
-        "topic": "Dividendbeleggen & Dividendgroei",
-        "wiki_path": "02 Wiki/Beleggen/(C) Dividendbeleggen & Dividendgroei.md",
+        "topic": "Quantitative Easing & Onconventioneel Monetair Beleid",
+        "wiki_path": "02 Wiki/Beleggen/(C) Quantitative Easing & Onconventioneel Monetair Beleid.md",
         "source_score": 8,
-        "confidence": 0.89,
+        "confidence": 0.85,
         "novelty": 1.0,
         "trust_level": "hoog",
-        "connections": ["Waardebeleggen", "Moderne Portefeuilletheorie", "Gedragseconomie & Cognitieve Biases", "Hyperbolic Discounting & Tijdspreferentie", "Inflatie & Koopkrachtbescherming", "Valuatie & DCF-analyse"]
+        "key_sources": [
+          "Bank of England",
+          "St. Louis Fed",
+          "CEPR VoxEU"
+        ]
       }
     ],
-    "knowledge_gaps_resolved": [],
-    "knowledge_gaps_already_processed": [
-      "knowledge_gap_HPA_Cortisol_0406.json",
-      "knowledge_gap_HyperbolicDiscounting_Tijdspreferentie_0700.json",
-      "knowledge_gap_Gokstoornis_ImpulsPtrolestoornis_0406.json",
-      "knowledge_gap_Eugenica_PseudowetenschappelijkePsychiatrie_0700.json"
+    "knowledge_gaps_checked": [
+      "Alexithymia & Emotieblindheid — REEDS AANWEZIG in wiki",
+      "Compatibilisme & Vrije Wil — REEDS AANWEZIG in wiki",
+      "Dubbel Empathie Probleem — REEDS AANWEZIG in wiki",
+      "Epigenetica & Gen-Omgeving Interactie — REEDS AANWEZIG in wiki",
+      "Eugenica & Pseudowetenschappelijke Psychiatrie — REEDS AANWEZIG in wiki"
     ],
-    "note": "Alle 5 aangetroffen kennishiaten hadden reeds verwerkte wiki-pagina's. Vier nieuwe topics gekozen op basis van ontbrekende onderwerpen in de wiki."
+    "note": "Alle pending knowledge_gap events zijn reeds verwerkt. Nieuwe onderwerpen gekozen op basis van ontbrekende wiki-dekking per discipline."
   }
 }
