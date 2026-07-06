@@ -1,0 +1,17 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-06T14:18:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Werkgeheugen & Baddeley's Model.md",
+      "02 Wiki/Filosofie/(C) Causatie & Contrafactuele Redenering.md",
+      "02 Wiki/Geschiedenis/(C) De Opkomst van de Statistiek & Kansrekening.md",
+      "02 Wiki/Beleggen/(C) Shortsellen & Contraire Beleggingsstrategieën.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) De Kloof tussen Observatie en Waarheid — Werkgeheugen, Causaliteit, Statistiek en Contrarianisme.md"
+    ]
+  }
+}
