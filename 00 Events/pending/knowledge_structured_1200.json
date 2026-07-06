@@ -1,17 +1,17 @@
 {
   "event_type": "KnowledgeStructured",
   "agent": "Agent2-Synthesizer",
-  "timestamp": "2026-07-02T12:00:00Z",
+  "timestamp": "2026-07-06T12:00:00Z",
   "status": "pending",
   "data": {
     "new_nodes": [
-      "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen.md",
-      "02 Wiki/Filosofie/(C) Pragmatisme.md",
-      "02 Wiki/Geschiedenis/(C) De Russische Revolutie.md",
-      "02 Wiki/Beleggen/(C) Obligaties & Vastrentende Waarden.md"
+      "02 Wiki/Psychologie/(C) Affectieve Neurowetenschappen & Primaire Emotiesystemen (Panksepp).md",
+      "02 Wiki/Filosofie/(C) Epistemische Rechtvaardigheid & Sociale Epistemologie (Fricker).md",
+      "02 Wiki/Geschiedenis/(C) Nucleaire Afschrikking & Het Atoomtijdperk.md",
+      "02 Wiki/Beleggen/(C) Vastgoedbeleggen & Real Estate Investment Trusts (REITs).md"
     ],
     "new_connections": [
-      "03 Knowledge Graph/(KG) Instrumentalisme — Van Angst tot Actie, Van Idee tot Beleid.md"
+      "03 Knowledge Graph/(KG) Rationaliteitsgrenzen & Systeemmacht — Van Primaire Emotie tot Nucleaire Afschrikking.md"
     ]
   }
 }
