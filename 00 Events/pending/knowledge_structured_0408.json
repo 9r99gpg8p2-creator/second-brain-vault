@@ -1,0 +1,17 @@
+{
+  "event_type": "KnowledgeStructured",
+  "agent": "Agent2-Synthesizer",
+  "timestamp": "2026-07-06T04:08:00Z",
+  "status": "pending",
+  "data": {
+    "new_nodes": [
+      "02 Wiki/Psychologie/(C) Neurogenese & BDNF.md",
+      "02 Wiki/Filosofie/(C) Structuralisme & Post-structuralisme.md",
+      "02 Wiki/Geschiedenis/(C) MKUltra & CIA Psychologische Experimenten.md",
+      "02 Wiki/Beleggen/(C) Schaduwbankieren & Systemisch Risico.md"
+    ],
+    "new_connections": [
+      "03 Knowledge Graph/(KG) Structuur, Manipulatie en Veerkracht — Van Neuronen tot Markten.md"
+    ]
+  }
+}
