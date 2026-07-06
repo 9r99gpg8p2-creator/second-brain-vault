@@ -1,0 +1,104 @@
+{
+  "event_type": "KnowledgeDiscovered",
+  "agent": "Agent1-KnowledgeHunter",
+  "timestamp": "2026-07-06T12:09:00Z",
+  "status": "pending",
+  "notes": "Wikipedia-API en arXiv geblokkeerd door egressbeleid (connect_rejected). Onderzoeksbestanden gebaseerd op trainingskennis — wetenschappelijke literatuurreferenties opgenomen per bestand.",
+  "data": {
+    "research_path": "00 Research/2026-07-06/1209",
+    "topics": [
+      {
+        "discipline": "Psychologie",
+        "topic": "Werkgeheugen & Baddeley's Model",
+        "source_score": 9,
+        "confidence": 0.92,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_sources": [
+          "Baddeley & Hitch (1974) Psychology of Learning and Motivation",
+          "Baddeley (2000) Trends in Cognitive Sciences - episodic buffer",
+          "Miller (1956) Psychological Review - magical number 7",
+          "Cowan (2001) Behavioral and Brain Sciences - magical number 4"
+        ],
+        "suggested_wiki_path": "02 Wiki/Psychologie/(C) Werkgeheugen & Baddeley's Model.md",
+        "suggested_links": [
+          "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex",
+          "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie",
+          "02 Wiki/Psychologie/(C) Aandacht & Cognitieve Controle",
+          "02 Wiki/Psychologie/(C) Geheugen & Amnesie",
+          "02 Wiki/Psychologie/(C) Neuropsychologisch Assessment & Testpsychologie",
+          "02 Wiki/Psychologie/(C) Schizofrenie & Psychose"
+        ]
+      },
+      {
+        "discipline": "Filosofie",
+        "topic": "Causatie & Contrafactuele Redenering",
+        "source_score": 8,
+        "confidence": 0.88,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_sources": [
+          "Lewis (1973) Journal of Philosophy - Causation",
+          "Hume (1739) Treatise of Human Nature",
+          "Pearl (2000) Causality: Models, Reasoning, and Inference",
+          "Woodward (2003) Making Things Happen"
+        ],
+        "suggested_wiki_path": "02 Wiki/Filosofie/(C) Causatie & Contrafactuele Redenering.md",
+        "suggested_links": [
+          "02 Wiki/Filosofie/(C) Het Inductieprobleem & Causaliteit (Hume)",
+          "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie",
+          "02 Wiki/Filosofie/(C) Metafysica & Ontologie",
+          "02 Wiki/Filosofie/(C) Logica & Kritisch Denken",
+          "02 Wiki/Psychologie/(C) Psychologie als Wetenschap",
+          "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme"
+        ]
+      },
+      {
+        "discipline": "Geschiedenis",
+        "topic": "De Opkomst van de Statistiek & Kansrekening",
+        "source_score": 9,
+        "confidence": 0.90,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_sources": [
+          "Stigler (1986) History of Statistics - Harvard UP",
+          "Hacking (1990) The Taming of Chance",
+          "Fisher (1925) Statistical Methods for Research Workers",
+          "Neyman & Pearson (1933) Phil Trans Royal Society"
+        ],
+        "suggested_wiki_path": "02 Wiki/Geschiedenis/(C) De Opkomst van de Statistiek & Kansrekening.md",
+        "suggested_links": [
+          "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie",
+          "02 Wiki/Geschiedenis/(C) De Verlichting",
+          "02 Wiki/Geschiedenis/(C) Eugenica & Pseudowetenschappelijke Psychiatrie",
+          "02 Wiki/Psychologie/(C) Psychologie als Wetenschap",
+          "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie",
+          "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"
+        ]
+      },
+      {
+        "discipline": "Beleggen",
+        "topic": "Shortsellen & Contraire Beleggingsstrategieën",
+        "source_score": 8,
+        "confidence": 0.87,
+        "novelty": 1.0,
+        "trust_level": "hoog",
+        "key_sources": [
+          "Fabozzi (2004) Short Selling: Strategies, Risks, and Rewards",
+          "Shleifer & Vishny (1997) Journal of Finance - limits to arbitrage",
+          "Asquith et al. (2005) Journal of Financial Economics",
+          "D'Avolio (2002) Journal of Financial Economics - stock borrowing"
+        ],
+        "suggested_wiki_path": "02 Wiki/Beleggen/(C) Shortsellen & Contraire Beleggingsstrategieën.md",
+        "suggested_links": [
+          "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese",
+          "02 Wiki/Beleggen/(C) Marktbubbels & Irrational Exuberance",
+          "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases",
+          "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises",
+          "02 Wiki/Beleggen/(C) Market Microstructure & Liquiditeit",
+          "02 Wiki/Beleggen/(C) Waardebeleggen"
+        ]
+      }
+    ]
+  }
+}
