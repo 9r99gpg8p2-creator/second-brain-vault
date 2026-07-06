@@ -4,7 +4,7 @@ id: 6d8e0f3a-7b8c-4f1d-2e3f-4a5b6c7d8e9f
 title: Koloniale Psychiatrie & Pathologisering van Abnormaliteit
 summary: "Koloniale psychiatrie gebruikte psychopathologische categorieën om gekoloniseerde volkeren als inferieur te classificeren en politiek verzet te pathologiseren; Frantz Fanon analyseerde dit als instrument van onderdrukking met directe gevolgen voor hedendaagse cross-culturele diagnostiek."
 category: Geschiedenis
-tags: [concept, geschiedenis, kolonialisme, psychiatrie, Fanon, postkoloniaal, wetenschapsgeschiedenis, diagnostiek, quality-check-needed]
+tags: [concept, geschiedenis, kolonialisme, psychiatrie, Fanon, postkoloniaal, wetenschapsgeschiedenis, diagnostiek]
 aliases: ["Colonial Psychiatry", "Fanon", "Culturele Bias DSM", "Cross-culturele Psychiatrie"]
 sources:
   - title: "Fanon, F. (1952). Peau Noire, Masques Blancs. Éditions du Seuil."
@@ -23,7 +23,7 @@ freshness_score: 1.0
 importance_score: 0.87
 novelty_score: 1.0
 knowledge_score: 0.83
-usage_score: 0.017
+usage_score: 0.034
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie"
   - "02 Wiki/Geschiedenis/(C) Eugenica & Pseudowetenschappelijke Psychiatrie"
@@ -46,7 +46,7 @@ revision_history:
   - version: 2
     date: 2026-07-05
     author: Brain-Guardian
-    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
+    change: YAML geconverteerd naar standaard schema;  tag toegevoegd (bronnen zonder URL)
   - version: 3
     date: 2026-07-05
     author: Discovery-Engine

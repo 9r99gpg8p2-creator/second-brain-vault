@@ -4,7 +4,7 @@ id: 2e6b9c14-8d3f-4a7e-b1c4-5f8a2e6b9c14
 title: Inflatie & Koopkrachtbescherming
 summary: "Inflatie is de aanhoudende daling van koopkracht; voor beleggers telt uitsluitend het reëel rendement — het nominale rendement minus inflatie. Centrale banken sturen via rente en de Taylor-regel; historische ijkpunten tonen dat hyperinflatie sociale orde destabiliseert terwijl assets met pricing power of inflatie-koppeling koopkracht het best beschermen."
 category: Beleggen
-tags: [concept, beleggen, inflatie, koopkracht, monetair-beleid, centrale-bank, reëel-rendement, asset-allocatie, quality-check-needed]
+tags: [concept, beleggen, inflatie, koopkracht, monetair-beleid, centrale-bank, reëel-rendement, asset-allocatie]
 aliases: ["Inflation", "Koopkrachtbehoud", "Purchasing Power Protection"]
 sources:
   - url: ""
@@ -29,7 +29,7 @@ freshness_score: 0.92
 importance_score: 0.88
 novelty_score: 0.82
 knowledge_score: 0.86
-usage_score: 0.0
+usage_score: 0.034
 related_nodes:
   - "02 Wiki/Beleggen/(C) Rente & Centrale Bankpolitiek"
   - "02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie"
@@ -42,7 +42,7 @@ revision_history:
   - version: 2
     date: 2026-07-03
     author: Brain-Guardian
-    change: migrated to standard YAML schema; added quality-check-needed (source URLs absent); added scores and revision_history
+    change: migrated to standard YAML schema; added  (source URLs absent); added scores and revision_history
 ---
 
 # Inflatie & Koopkrachtbescherming

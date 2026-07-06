@@ -29,7 +29,7 @@ freshness_score: 0.84
 importance_score: 0.88
 novelty_score: 0.95
 knowledge_score: 0.89
-usage_score: 0.0469
+usage_score: 0.068
 related_nodes:
   - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md"
   - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"

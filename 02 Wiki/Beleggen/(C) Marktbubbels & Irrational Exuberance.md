@@ -1,25 +1,54 @@
 ---
-title: Marktbubbels & Irrational Exuberance
-discipline: Beleggen
 type: concept
-tags: [bubbels, Shiller, Minsky, Kindleberger, gedragseconomie, speculatie, crashes, marktpsychologie]
-aangemaakt: 2026-07-05
-agent: Agent1-KnowledgeHunter
-status: compleet
-verbonden_aan:
-  - Gedragseconomie & Cognitieve Biases
-  - Marktpsychologie & Beurscrises
-  - Efficiënte Markt Hypothese
-  - Narratieve Economie & Virale Financiële Verhalen
-  - Moderne Portefeuilletheorie
-  - Conjunctuurcycli & Macro-economie
-  - Rente & Centrale Bankpolitiek
-  - Antifragiliteit & Complexe Systemen (Taleb)
-  - Risico vs. Onzekerheid — Knight's Onderscheid
-  - Hyperbolic Discounting & Tijdspreferentie
-  - De Eerste Wereldoorlog
-  - De Tweede Wereldoorlog
-  - De Opkomst van het Neoliberalisme
+id: a7b3c2d1-5e4f-4a8b-9c6d-0e1f2a3b4c5d
+title: Marktbubbels & Irrational Exuberance
+summary: Marktbubbels zijn periodes van zelfversterkende speculatieve koersstijgingen ver boven intrinsieke waarde, gevolgd door scherpe correcties; Kindleberger, Minsky en Shiller bieden complementaire frameworks voor het begrijpen van hun anatomie en psychologische drijfkrachten.
+category: Beleggen
+tags: [concept, beleggen, bubbels, Shiller, Minsky, Kindleberger, gedragseconomie, speculatie, crashes, marktpsychologie]
+aliases: [Asset Bubble, Marktbubbel, Irrational Exuberance, Minsky Moment, CAPE ratio, Shiller PE]
+sources:
+  - title: "Kindleberger, C. P. & Aliber, R. Z. (2005). Manias, Panics and Crashes: A History of Financial Crises. Wiley."
+    trust_level: 9
+  - title: "Minsky, H. P. (1986). Stabilizing an Unstable Economy. Yale University Press."
+    trust_level: 9
+  - title: "Shiller, R. J. (2000/2015). Irrational Exuberance. Princeton University Press."
+    trust_level: 9
+  - title: "Shiller, R. J. (2019). Narrative Economics. Princeton University Press."
+    trust_level: 9
+  - title: "Reinhart, C. M. & Rogoff, K. S. (2009). This Time Is Different. Princeton University Press."
+    trust_level: 9
+  - title: "Garber, P. M. (1990). Famous first bubbles. Journal of Economic Perspectives, 4(2), 35–54."
+    trust_level: 8
+confidence_score: 0.88
+quality_score: 0.87
+freshness_score: 0.90
+importance_score: 0.91
+novelty_score: 0.82
+knowledge_score: 0.876
+usage_score: 0.0
+related_nodes:
+  - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md"
+  - "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises.md"
+  - "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese.md"
+  - "02 Wiki/Beleggen/(C) Narratieve Economie & Virale Financiële Verhalen.md"
+  - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md"
+  - "02 Wiki/Beleggen/(C) Conjunctuurcycli & Macro-economie.md"
+  - "02 Wiki/Beleggen/(C) Rente & Centrale Bankpolitiek.md"
+  - "02 Wiki/Beleggen/(C) Antifragiliteit & Complexe Systemen (Taleb).md"
+  - "02 Wiki/Beleggen/(C) Risico vs. Onzekerheid — Knight's Onderscheid.md"
+  - "02 Wiki/Beleggen/(C) Hyperbolic Discounting & Tijdspreferentie.md"
+  - "02 Wiki/Geschiedenis/(C) De Eerste Wereldoorlog.md"
+  - "02 Wiki/Geschiedenis/(C) De Tweede Wereldoorlog.md"
+  - "02 Wiki/Geschiedenis/(C) De Opkomst van het Neoliberalisme.md"
+revision_history:
+  - version: 1
+    date: 2026-07-05
+    author: Knowledge-Hunter
+    change: initial creation (non-standard schema)
+  - version: 2
+    date: 2026-07-06
+    author: Brain-Guardian
+    change: frontmatter gestandaardiseerd naar volledig YAML-schema; sources toegevoegd vanuit in-text citaties; related_nodes als bestandspaden
 ---
 
 # Marktbubbels & Irrational Exuberance

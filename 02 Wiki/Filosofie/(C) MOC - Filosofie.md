@@ -14,7 +14,7 @@ freshness_score: 0.85
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.86
-usage_score: 0.0156
+usage_score: 0.0068
 related_nodes:
   - "02 Wiki/Psychologie/(C) Psychologie als Wetenschap"
   - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"

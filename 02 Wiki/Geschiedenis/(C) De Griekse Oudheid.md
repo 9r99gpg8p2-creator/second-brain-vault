@@ -4,7 +4,7 @@ id: 5d8f3b72-1a9c-4e6d-8b2f-7c0e4a5d8f72
 title: De Griekse Oudheid
 summary: "De Griekse oudheid (±800-31 v.Chr.) legde de conceptuele fundamenten van de westerse beschaving via logos als primaire methode: rationele filosofie, democratisch zelfbestuur, empirische wetenschap en geschiedschrijving als machtspolitiek — een epistemologische revolutie die het mythologische wereldbeeld verving."
 category: Geschiedenis
-tags: [concept, geschiedenis, Griekenland, oudheid, democratie, filosofie, westerse-beschaving, stadstaten, quality-check-needed]
+tags: [concept, geschiedenis, Griekenland, oudheid, democratie, filosofie, westerse-beschaving, stadstaten]
 aliases: ["Ancient Greece", "Griekse Oudheid", "Classical Greece"]
 sources:
   - url: ""
@@ -29,7 +29,7 @@ freshness_score: 0.92
 importance_score: 0.92
 novelty_score: 0.82
 knowledge_score: 0.88
-usage_score: 0.025
+usage_score: 0.0136
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie"
   - "02 Wiki/Geschiedenis/(C) De Renaissance"
@@ -42,7 +42,7 @@ revision_history:
   - version: 2
     date: 2026-07-03
     author: Brain-Guardian
-    change: migrated to standard YAML schema; added quality-check-needed (source URLs absent); added scores and revision_history
+    change: migrated to standard YAML schema; added  (source URLs absent); added scores and revision_history
 ---
 
 # De Griekse Oudheid

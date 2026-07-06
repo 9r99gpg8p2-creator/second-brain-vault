@@ -25,7 +25,7 @@ freshness_score: 0.80
 importance_score: 0.95
 novelty_score: 1.0
 knowledge_score: 0.88
-usage_score: 0.0
+usage_score: 0.0204
 related_nodes:
   - "[[Sociale Cognitie & Theory of Mind]]"
   - "[[Executieve Functies & Prefrontale Cortex]]"

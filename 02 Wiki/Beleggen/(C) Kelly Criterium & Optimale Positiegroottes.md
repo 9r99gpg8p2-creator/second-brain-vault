@@ -4,7 +4,7 @@ id: 2c5d8e1f-3a4b-4c7d-9e0f-1a2b3c4d5e6f
 title: Kelly Criterium & Optimale Positiegroottes
 summary: "Het Kelly Criterium (Kelly 1956) is een wiskundig framework dat de optimale kapitaalfractie bepaalt bij herhaalde kansen met bekende waarschijnlijkheden; het maximaliseert de langetermijn groeisnelheid maar vereist psychologisch uitzonderlijke discipline."
 category: Beleggen
-tags: [concept, beleggen, risicobeheer, kansrekening, portefeuille, kwantitatief-beleggen, positiegrootte, quality-check-needed]
+tags: [concept, beleggen, risicobeheer, kansrekening, portefeuille, kwantitatief-beleggen, positiegrootte]
 aliases: ["Kelly Criterion", "Full Kelly", "Half Kelly", "Optimale Positiegroottes"]
 sources:
   - title: "Kelly, J.L. (1956). A New Interpretation of Information Rate. Bell System Technical Journal, 35(4), 917–926."
@@ -23,7 +23,7 @@ freshness_score: 1.0
 importance_score: 0.85
 novelty_score: 1.0
 knowledge_score: 0.83
-usage_score: 0.0
+usage_score: 0.0068
 related_nodes:
   - "02 Wiki/Beleggen/(C) Risico vs. Onzekerheid — Knight's Onderscheid"
   - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie"
@@ -39,7 +39,7 @@ revision_history:
   - version: 2
     date: 2026-07-05
     author: Brain-Guardian
-    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
+    change: YAML geconverteerd naar standaard schema;  tag toegevoegd (bronnen zonder URL)
 ---
 
 # Kelly Criterium & Optimale Positiegroottes

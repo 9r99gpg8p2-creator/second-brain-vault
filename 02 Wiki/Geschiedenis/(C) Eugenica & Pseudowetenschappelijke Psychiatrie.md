@@ -29,7 +29,7 @@ freshness_score: 0.75
 importance_score: 0.90
 novelty_score: 0.95
 knowledge_score: 0.90
-usage_score: 0.0469
+usage_score: 0.0612
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie.md"
   - "02 Wiki/Geschiedenis/(C) De Tweede Wereldoorlog.md"

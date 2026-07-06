@@ -21,7 +21,7 @@ freshness_score: 0.70
 importance_score: 0.85
 novelty_score: 1.0
 knowledge_score: 0.90
-usage_score: 0.0
+usage_score: 0.0204
 related_nodes:
   - "[[De Wetenschappelijke Revolutie]]"
   - "[[De Renaissance]]"

@@ -25,7 +25,7 @@ freshness_score: 0.90
 importance_score: 0.90
 novelty_score: 1.0
 knowledge_score: 0.92
-usage_score: 0.0
+usage_score: 0.0068
 related_nodes:
   - "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese.md"
   - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md"

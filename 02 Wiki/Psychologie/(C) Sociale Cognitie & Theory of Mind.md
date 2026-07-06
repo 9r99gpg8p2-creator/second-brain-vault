@@ -25,7 +25,7 @@ freshness_score: 0.95
 importance_score: 0.95
 novelty_score: 0.95
 knowledge_score: 0.94
-usage_score: 0.097
+usage_score: 0.0408
 related_nodes:
   - "02 Wiki/Psychologie/(C) Default Mode Network.md"
   - "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md"

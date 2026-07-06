@@ -4,7 +4,7 @@ id: 8e1f4a5b-9c0d-4a2e-3f4a-5b6c7d8e9f0a
 title: Naturalisme & Wetenschappelijk Materialisme
 summary: "Naturalisme stelt dat alles verklaarbaar is via de wetenschappelijke methode; het hard problem of consciousness (Chalmers 1995) — waarom gaat functionele verwerking gepaard met subjectieve ervaring? — is de grootste onopgeloste uitdaging voor materialistische theorie."
 category: Filosofie
-tags: [concept, filosofie, filosofie-van-de-geest, materialisme, bewustzijn, naturalisme, hard-problem, qualia, quality-check-needed]
+tags: [concept, filosofie, filosofie-van-de-geest, materialisme, bewustzijn, naturalisme, hard-problem, qualia]
 aliases: ["Fysicalisme", "Materialisme", "Hard Problem of Consciousness", "Qualia", "Naturalism"]
 sources:
   - title: "Chalmers, D.J. (1995). Facing up to the problem of consciousness. Journal of Consciousness Studies, 2(3), 200–219."
@@ -23,7 +23,7 @@ freshness_score: 1.0
 importance_score: 0.90
 novelty_score: 1.0
 knowledge_score: 0.84
-usage_score: 0.008
+usage_score: 0.034
 related_nodes:
   - "02 Wiki/Filosofie/(C) Filosofie van de Geest"
   - "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme"
@@ -39,7 +39,7 @@ revision_history:
   - version: 2
     date: 2026-07-05
     author: Brain-Guardian
-    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
+    change: YAML geconverteerd naar standaard schema;  tag toegevoegd (bronnen zonder URL)
 ---
 
 # Naturalisme & Wetenschappelijk Materialisme

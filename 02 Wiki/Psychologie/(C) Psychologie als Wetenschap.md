@@ -4,7 +4,7 @@ id: 441e385d-4a20-9858-019c-40394943b0ba
 title: Psychologie als Wetenschap
 summary: "Wetenschapsfilosofie, onderzoeksmethoden en testtheorie als fundament van de psychologie."
 category: Psychologie
-tags: [concept, psychologie, wetenschap, jaar-1, blok-4, quality-check-needed]
+tags: [concept, psychologie, wetenschap, jaar-1, blok-4]
 aliases: ["Psychologie als Wetenschap"]
 sources:
   - type: raw
@@ -19,7 +19,7 @@ freshness_score: 0.8
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.833
-usage_score: 0.1406
+usage_score: 0.0612
 related_nodes:
   - "02 Wiki/Psychologie/(C) TOE - Statistiek"
   - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
@@ -32,7 +32,7 @@ revision_history:
   - version: 2
     date: 2026-07-02
     author: Brain-Guardian
-    change: kwaliteitscontrole — uitgebreid met NHST-analyse, replicatiecrisis mechanismen, Bayesiaanse alternatieven; quality-check-needed tag toegevoegd; nieuwe wikilinks naar Falsifieerbaarheid, Epistemologie, Logica
+    change: kwaliteitscontrole — uitgebreid met NHST-analyse, replicatiecrisis mechanismen, Bayesiaanse alternatieven;  tag toegevoegd; nieuwe wikilinks naar Falsifieerbaarheid, Epistemologie, Logica
 ---
 
 # Psychologie als Wetenschap

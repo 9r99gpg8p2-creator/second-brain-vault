@@ -37,7 +37,7 @@ freshness_score: 0.88
 importance_score: 0.95
 novelty_score: 0.92
 knowledge_score: 0.92
-usage_score: 0.0938
+usage_score: 0.102
 related_nodes:
   - "02 Wiki/Psychologie/(C) Geheugen & Amnesie.md"
   - "02 Wiki/Psychologie/(C) Emotieregulatie.md"

@@ -33,7 +33,7 @@ freshness_score: 0.95
 importance_score: 0.92
 novelty_score: 0.95
 knowledge_score: 0.91
-usage_score: 0.125
+usage_score: 0.0612
 related_nodes:
   - "(C) Executieve Functies & Prefrontale Cortex"
   - "(C) Geheugen & Amnesie"

@@ -29,7 +29,7 @@ freshness_score: 0.88
 importance_score: 0.83
 novelty_score: 0.88
 knowledge_score: 0.86
-usage_score: 0.0
+usage_score: 0.0068
 related_nodes:
   - "02 Wiki/Beleggen/(C) Risico vs. Onzekerheid — Knight's Onderscheid"
   - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie"

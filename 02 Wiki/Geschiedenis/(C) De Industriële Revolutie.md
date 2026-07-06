@@ -21,7 +21,7 @@ freshness_score: 0.80
 importance_score: 0.92
 novelty_score: 1.0
 knowledge_score: 0.92
-usage_score: 0.125
+usage_score: 0.0544
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) De Verlichting.md"
   - "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie.md"

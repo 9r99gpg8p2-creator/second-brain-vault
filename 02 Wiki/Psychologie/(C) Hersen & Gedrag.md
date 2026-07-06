@@ -4,7 +4,7 @@ id: e7508238-1282-d7d5-7c09-ada6fa1962ab
 title: Hersen & Gedrag
 summary: "De relatie tussen hersenstructuren en gedrag — van neuroanatomie tot neuropsychologische stoornissen."
 category: Psychologie
-tags: [concept, psychologie, neuropsychologie, jaar-1, blok-1, quality-check-needed]
+tags: [concept, psychologie, neuropsychologie, jaar-1, blok-1]
 aliases: ["Hersen & Gedrag"]
 sources:
   - type: raw
@@ -19,7 +19,7 @@ freshness_score: 0.8
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.833
-usage_score: 0.1719
+usage_score: 0.0476
 related_nodes:
   - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
   - "02 Wiki/Psychologie/(C) Ontwikkelingspsychologie"
@@ -32,7 +32,7 @@ revision_history:
   - version: 2
     date: 2026-07-02
     author: Brain-Guardian
-    change: kwaliteitscontrole — uitgebreid met neurotransmittersystemen, neuropsychologische syndromen, neuroimaging methoden; quality-check-needed tag toegevoegd; wikilinks naar Neuroplasticiteit, Schizofrenie, ADHD, Beloningssysteem
+    change: kwaliteitscontrole — uitgebreid met neurotransmittersystemen, neuropsychologische syndromen, neuroimaging methoden;  tag toegevoegd; wikilinks naar Neuroplasticiteit, Schizofrenie, ADHD, Beloningssysteem
 ---
 
 # Hersen & Gedrag

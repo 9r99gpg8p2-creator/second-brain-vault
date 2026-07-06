@@ -25,7 +25,7 @@ freshness_score: 0.80
 importance_score: 0.88
 novelty_score: 0.88
 knowledge_score: 0.89
-usage_score: 0.0469
+usage_score: 0.0952
 related_nodes:
   - "02 Wiki/Filosofie/(C) Filosofie van de Geest"
   - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"

@@ -33,7 +33,7 @@ freshness_score: 0.82
 importance_score: 0.87
 novelty_score: 0.91
 knowledge_score: 0.90
-usage_score: 0.0
+usage_score: 0.0136
 related_nodes:
   - "02 Wiki/Filosofie/(C) Nihilisme & Absurdisme.md"
   - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md"

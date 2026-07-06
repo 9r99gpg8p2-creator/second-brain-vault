@@ -25,7 +25,7 @@ freshness_score: 0.80
 importance_score: 0.90
 novelty_score: 0.93
 knowledge_score: 0.90
-usage_score: 0.0
+usage_score: 0.0136
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) De Islamitische Gouden Eeuw.md"
   - "02 Wiki/Geschiedenis/(C) De Zwarte Dood.md"

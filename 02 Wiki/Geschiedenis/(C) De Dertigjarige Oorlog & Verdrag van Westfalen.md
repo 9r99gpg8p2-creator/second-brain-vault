@@ -4,7 +4,7 @@ id: 4b7c9d2e-5a6b-4e8f-0c1d-2a3b4c5d6e7f
 title: De Dertigjarige Oorlog & Verdrag van Westfalen
 summary: "De Dertigjarige Oorlog (1618–1648) was de meest verwoestende Europese oorlog vóór de 20e eeuw — begonnen als religieus conflict, geëindigd als machtsstrijd; het Verdrag van Westfalen wordt traditioneel gezien als grondslag van het moderne statenstelsel."
 category: Geschiedenis
-tags: [concept, geschiedenis, vroegmoderne-geschiedenis, oorlog, religie, soevereiniteit, diplomatie, Europa, quality-check-needed]
+tags: [concept, geschiedenis, vroegmoderne-geschiedenis, oorlog, religie, soevereiniteit, diplomatie, Europa]
 aliases: ["Thirty Years War", "Vrede van Westfalen", "Westfaalse Orde", "Vrede van Münster"]
 sources:
   - title: "Parker, G. (1984). The Thirty Years' War. Routledge."
@@ -21,7 +21,7 @@ freshness_score: 1.0
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.83
-usage_score: 0.008
+usage_score: 0.0068
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) De Reformatie"
   - "02 Wiki/Geschiedenis/(C) De Verlichting"
@@ -36,7 +36,7 @@ revision_history:
   - version: 2
     date: 2026-07-05
     author: Brain-Guardian
-    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
+    change: YAML geconverteerd naar standaard schema;  tag toegevoegd (bronnen zonder URL)
 ---
 
 # De Dertigjarige Oorlog (1618–1648) & Verdrag van Westfalen

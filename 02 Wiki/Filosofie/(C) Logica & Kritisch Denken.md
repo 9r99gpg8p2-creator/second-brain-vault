@@ -29,7 +29,7 @@ freshness_score: 0.85
 importance_score: 0.90
 novelty_score: 0.90
 knowledge_score: 0.91
-usage_score: 0.0625
+usage_score: 0.0476
 related_nodes:
   - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md"
   - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md"

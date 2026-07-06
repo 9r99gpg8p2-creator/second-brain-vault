@@ -29,7 +29,7 @@ freshness_score: 0.90
 importance_score: 0.95
 novelty_score: 0.80
 knowledge_score: 0.92
-usage_score: 0.0
+usage_score: 0.0748
 related_nodes:
   - "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie.md"
   - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"

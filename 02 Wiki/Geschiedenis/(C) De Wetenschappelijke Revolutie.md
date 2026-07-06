@@ -23,7 +23,7 @@ freshness_score: 0.8
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.875
-usage_score: 0.2031
+usage_score: 0.102
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) MOC - Geschiedenis"
   - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie"

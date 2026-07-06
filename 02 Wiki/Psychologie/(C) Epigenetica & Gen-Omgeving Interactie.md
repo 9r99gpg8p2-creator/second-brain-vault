@@ -4,7 +4,7 @@ id: 9a4c2e81-3b7d-4f6a-b5e8-1d2c9f0a4e81
 title: Epigenetica & Gen-Omgeving Interactie
 summary: "Epigenetica bestudeert hoe de omgeving genexpressie wijzigt zonder de DNA-sequentie te veranderen — via methylatie, histon-modificatie en ncRNA — en hoe vroeg trauma, prenatale stress en verzorging stabiele epigenomische patronen vestigen die klinisch relevant zijn voor PTSS, depressie en verslaving."
 category: Psychologie
-tags: [concept, psychologie, epigenetica, neuropsychologie, ontwikkeling, trauma, neuroplasticiteit, gen-omgeving, quality-check-needed]
+tags: [concept, psychologie, epigenetica, neuropsychologie, ontwikkeling, trauma, neuroplasticiteit, gen-omgeving]
 aliases: ["Epigenetics", "Gene-Environment Interaction", "GxE"]
 sources:
   - url: ""
@@ -25,7 +25,7 @@ freshness_score: 0.92
 importance_score: 0.90
 novelty_score: 0.88
 knowledge_score: 0.87
-usage_score: 0.0
+usage_score: 0.0204
 related_nodes:
   - "02 Wiki/Psychologie/(C) Neuroplasticiteit"
   - "02 Wiki/Psychologie/(C) Trauma & PTSS"
@@ -43,7 +43,7 @@ revision_history:
   - version: 2
     date: 2026-07-03
     author: Brain-Guardian
-    change: migrated to standard YAML schema; added quality-check-needed (source URLs absent); added scores and revision_history
+    change: migrated to standard YAML schema; added  (source URLs absent); added scores and revision_history
   - version: 3
     date: 2026-07-05
     author: Discovery-Engine

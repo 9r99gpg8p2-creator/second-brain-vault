@@ -13,7 +13,7 @@ freshness_score: 0.0
 importance_score: 0.0
 novelty_score: 0.0
 knowledge_score: 0.0
-usage_score: 0.3906
+usage_score: 0.1769
 related_nodes:
   - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie"
 revision_history:

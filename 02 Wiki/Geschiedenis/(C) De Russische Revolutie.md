@@ -33,7 +33,7 @@ freshness_score: 0.85
 importance_score: 0.95
 novelty_score: 0.94
 knowledge_score: 0.92
-usage_score: 0.0312
+usage_score: 0.0204
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) De Koude Oorlog.md"
   - "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract.md"

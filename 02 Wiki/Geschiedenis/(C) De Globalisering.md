@@ -25,7 +25,7 @@ freshness_score: 0.82
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.85
-usage_score: 0.0
+usage_score: 0.034
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) De Industriële Revolutie.md"
   - "02 Wiki/Geschiedenis/(C) De Koude Oorlog.md"

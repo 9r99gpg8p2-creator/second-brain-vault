@@ -25,7 +25,7 @@ freshness_score: 0.85
 importance_score: 0.90
 novelty_score: 0.90
 knowledge_score: 0.90
-usage_score: 0.0938
+usage_score: 0.068
 related_nodes: []
 revision_history:
   - version: 1

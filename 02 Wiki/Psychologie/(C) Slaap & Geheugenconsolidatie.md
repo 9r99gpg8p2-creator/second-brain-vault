@@ -25,7 +25,7 @@ freshness_score: 0.95
 importance_score: 0.93
 novelty_score: 0.90
 knowledge_score: 0.93
-usage_score: 0.125
+usage_score: 0.068
 related_nodes:
   - "02 Wiki/Psychologie/(C) Geheugen & Amnesie"
   - "02 Wiki/Psychologie/(C) Neuroplasticiteit"

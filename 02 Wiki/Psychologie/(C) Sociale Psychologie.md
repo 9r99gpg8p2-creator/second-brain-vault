@@ -4,7 +4,7 @@ id: 1472aa62-8f1e-d2db-ea0a-d5c82564a519
 title: Sociale Psychologie
 summary: "Hoe mensen denken, voelen en handelen in sociale situaties — invloed van de sociale omgeving op gedrag."
 category: Psychologie
-tags: [concept, psychologie, sociale-psychologie, jaar-1, blok-2, quality-check-needed]
+tags: [concept, psychologie, sociale-psychologie, jaar-1, blok-2]
 aliases: ["Sociale Psychologie"]
 sources:
   - type: raw
@@ -16,7 +16,7 @@ freshness_score: 0.8
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.782
-usage_score: 0.2656
+usage_score: 0.1156
 related_nodes:
   - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"
   - "02 Wiki/Psychologie/(C) Ontwikkelingspsychologie"

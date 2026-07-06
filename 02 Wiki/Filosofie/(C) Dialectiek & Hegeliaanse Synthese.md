@@ -25,7 +25,7 @@ freshness_score: 0.85
 importance_score: 0.88
 novelty_score: 0.95
 knowledge_score: 0.90
-usage_score: 0.0
+usage_score: 0.0272
 related_nodes:
   - "02 Wiki/Filosofie/(C) Marxisme & Historisch Materialisme"
   - "02 Wiki/Filosofie/(C) Politieke Filosofie & Sociaal Contract"

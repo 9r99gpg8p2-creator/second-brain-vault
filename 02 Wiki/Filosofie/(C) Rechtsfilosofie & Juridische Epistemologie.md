@@ -33,7 +33,7 @@ freshness_score: 0.80
 importance_score: 0.84
 novelty_score: 0.95
 knowledge_score: 0.85
-usage_score: 0.0
+usage_score: 0.0136
 related_nodes:
   - "02 Wiki/Filosofie/(C) Neuro-ethiek"
   - "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme"

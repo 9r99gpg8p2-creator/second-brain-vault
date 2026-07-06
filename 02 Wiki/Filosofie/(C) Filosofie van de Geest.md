@@ -27,7 +27,7 @@ freshness_score: 0.8
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.865
-usage_score: 0.25
+usage_score: 0.1497
 related_nodes:
   - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
   - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"

@@ -37,7 +37,7 @@ freshness_score: 0.90
 importance_score: 0.82
 novelty_score: 0.95
 knowledge_score: 0.88
-usage_score: 0.0
+usage_score: 0.0136
 related_nodes:
   - "02 Wiki/Psychologie/(C) Verslaving & Neurobiologie"
   - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex"

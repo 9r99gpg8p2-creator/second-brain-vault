@@ -21,7 +21,7 @@ freshness_score: 0.85
 importance_score: 0.82
 novelty_score: 1.0
 knowledge_score: 0.78
-usage_score: 0.0
+usage_score: 0.0068
 related_nodes:
   - "[[Gedragseconomie & Cognitieve Biases]]"
   - "[[Marktpsychologie & Beurscrises]]"

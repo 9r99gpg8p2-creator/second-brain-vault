@@ -4,7 +4,7 @@ id: 99fc6c5e-7eae-3d3e-af26-930baae63ef3
 title: TOE - Statistiek
 summary: "Statistische methoden toegepast op psychologisch onderzoek — van beschrijvende statistiek tot inferentiële toetsen in JASP."
 category: Psychologie
-tags: [concept, statistiek, onderzoek, jaar-1, blok-3, quality-check-needed]
+tags: [concept, statistiek, onderzoek, jaar-1, blok-3]
 aliases: ["TOE - Statistiek"]
 sources:
   - type: raw
@@ -16,7 +16,7 @@ freshness_score: 0.8
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.782
-usage_score: 0.0312
+usage_score: 0.0136
 related_nodes:
   - "02 Wiki/Psychologie/(C) Psychologie als Wetenschap"
   - "02 Wiki/Psychologie/(C) Cognitie & Gedrag"

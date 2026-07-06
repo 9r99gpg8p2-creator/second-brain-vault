@@ -4,7 +4,7 @@ id: 7a3f2b1c-9d4e-4a5b-8c6d-0e1f2a3b4c5d
 title: Narratieve Economie & Virale Financiële Verhalen
 summary: "Economische narratieven verspreiden zich als virussen door sociale netwerken en sturen economisch gedrag; Shiller stelt dat economische cycli mede worden veroorzaakt door virale verhalen en niet alleen door fundamenten."
 category: Beleggen
-tags: [concept, beleggen, gedragseconomie, narratief, Shiller, marktpsychologie, sociale-contagion, EMH, quality-check-needed]
+tags: [concept, beleggen, gedragseconomie, narratief, Shiller, marktpsychologie, sociale-contagion, EMH]
 aliases: ["Narrative Economics", "Shiller Narratieve Economie", "Economische Verhalen"]
 sources:
   - title: "Shiller, R.J. (2019). Narrative Economics: How Stories Go Viral and Drive Major Economic Events. Princeton University Press."
@@ -21,7 +21,7 @@ freshness_score: 1.0
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.82
-usage_score: 0.008
+usage_score: 0.0068
 related_nodes:
   - "02 Wiki/Beleggen/(C) Marktpsychologie & Beurscrises"
   - "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese"
@@ -42,7 +42,7 @@ revision_history:
   - version: 2
     date: 2026-07-05
     author: Brain-Guardian
-    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
+    change: YAML geconverteerd naar standaard schema;  tag toegevoegd (bronnen zonder URL)
   - version: 3
     date: 2026-07-05
     author: Discovery-Engine

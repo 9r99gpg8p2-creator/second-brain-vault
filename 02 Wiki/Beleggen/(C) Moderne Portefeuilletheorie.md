@@ -4,7 +4,7 @@ id: a1c4e827-3d9f-4e0b-b2a5-8f1c2d3e4567
 title: Moderne Portefeuilletheorie
 summary: "MPT (Markowitz, 1952) is het wiskundige raamwerk voor optimale portefeuillesamenstelling via mean-variance optimalisatie; diversificatie reduceert niet-systematisch risico terwijl CAPM (Sharpe, 1964) de verwachte rendementen koppelt aan marktrisico (beta)."
 category: Beleggen
-tags: [concept, beleggen, portefeuilletheorie, markowitz, MPT, risicobeheer, diversificatie, CAPM, gedragseconomie, efficiënte-grens, beta, sharpe-ratio, quality-check-needed]
+tags: [concept, beleggen, portefeuilletheorie, markowitz, MPT, risicobeheer, diversificatie, CAPM, gedragseconomie, efficiënte-grens, beta, sharpe-ratio]
 aliases: ["MPT", "Mean-Variance Analysis", "Moderne Portefeuilletheorie", "Portfolio Theory", "CAPM"]
 sources:
   - url: https://doi.org/10.2307/2975974
@@ -29,7 +29,7 @@ freshness_score: 0.80
 importance_score: 0.92
 novelty_score: 0.88
 knowledge_score: 0.87
-usage_score: 0.1719
+usage_score: 0.102
 related_nodes:
   - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"
   - "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese"
@@ -47,7 +47,7 @@ revision_history:
   - version: 2
     date: 2026-07-02
     author: Brain-Guardian
-    change: "kwaliteitscontrole — YAML schema herbouwd naar standaard; bronnen toegevoegd (Markowitz 1952, Sharpe 1964, Fama-French 1992); related_nodes gesynchroniseerd; Bronnen-sectie toegevoegd aan body; quality-check-needed tag"
+    change: "kwaliteitscontrole — YAML schema herbouwd naar standaard; bronnen toegevoegd (Markowitz 1952, Sharpe 1964, Fama-French 1992); related_nodes gesynchroniseerd; Bronnen-sectie toegevoegd aan body;  tag"
 ---
 
 # Moderne Portefeuilletheorie (MPT)

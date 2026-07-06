@@ -25,7 +25,7 @@ freshness_score: 0.78
 importance_score: 0.88
 novelty_score: 0.90
 knowledge_score: 0.87
-usage_score: 0.0
+usage_score: 0.034
 related_nodes:
   - "02 Wiki/Beleggen/(C) Risico vs. Onzekerheid — Knight's Onderscheid"
   - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases"

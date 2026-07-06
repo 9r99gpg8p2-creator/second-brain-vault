@@ -4,7 +4,7 @@ id: 2a4b6c8d-3e5f-4a7b-5c6d-7e8f9a0b1c2d
 title: Serotoninesysteem & 5-HT Neurotransmissie
 summary: "Serotonine (5-HT) reguleert stemming, impulscontrole en cognitie via 14 receptorsubtypes; de serotoninehypothese van depressie is wetenschappelijk onbevestigd (Moncrieff et al. 2022), maar SSRI's blijven klinisch effectief — het werkingsmechanisme is onduidelijk."
 category: Psychologie
-tags: [concept, psychologie, neuropsychologie, neurotransmitter, farmacologie, depressie, angststoornissen, klinisch, quality-check-needed]
+tags: [concept, psychologie, neuropsychologie, neurotransmitter, farmacologie, depressie, angststoornissen, klinisch]
 aliases: ["5-HT", "Serotonine", "SSRI", "Serotoninehypothese", "5-hydroxytryptamine"]
 sources:
   - title: "Moncrieff, J. et al. (2022). The serotonin theory of depression: a systematic umbrella review. Molecular Psychiatry, 27, 3249–3265."
@@ -21,7 +21,7 @@ freshness_score: 1.0
 importance_score: 0.92
 novelty_score: 1.0
 knowledge_score: 0.85
-usage_score: 0.025
+usage_score: 0.034
 related_nodes:
   - "02 Wiki/Psychologie/(C) Depressie & Neurobiologie"
   - "02 Wiki/Psychologie/(C) Angststoornissen & Neurowetenschappen"
@@ -43,7 +43,7 @@ revision_history:
   - version: 2
     date: 2026-07-05
     author: Brain-Guardian
-    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
+    change: YAML geconverteerd naar standaard schema;  tag toegevoegd (bronnen zonder URL)
   - version: 3
     date: 2026-07-05
     author: Discovery-Engine

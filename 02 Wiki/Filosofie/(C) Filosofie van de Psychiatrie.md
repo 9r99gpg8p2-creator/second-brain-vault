@@ -1,23 +1,50 @@
 ---
-title: Filosofie van de Psychiatrie
-discipline: Filosofie
 type: concept
-tags: [psychiatrie, ziektebegrip, nosologie, Szasz, Jaspers, Foucault, bioethiek, DSM, normativisme]
-aangemaakt: 2026-07-05
-agent: Agent1-KnowledgeHunter
-status: compleet
-verbonden_aan:
-  - Filosofie van de Geest
-  - Epistemologie & Kennistheorie
-  - Bioethiek & Medische Ethiek
-  - Neuro-ethiek
-  - Fenomenologie
-  - Kritische Theorie & Frankfurt School
-  - Falsifieerbaarheid & Wetenschapsfilosofie
-  - Vrije Wil & Determinisme — Forensisch
-  - Geschiedenis van de Psychiatrie
-  - Klinische Psychologie
-  - Neuropsychologisch Assessment & Testpsychologie
+id: b8c4d3e2-6f5a-4b9c-0d7e-1f2a3b4c5d6e
+title: Filosofie van de Psychiatrie
+summary: De filosofie van de psychiatrie beantwoordt de vraag wat psychische ziekte fundamenteel is — biologisch feit, culturele constructie of hybride — en evalueert de epistemische en ethische legitimiteit van psychiatrische diagnostiek via Boorse, Wakefield, Szasz, Foucault en Jaspers.
+category: Filosofie
+tags: [concept, filosofie, psychiatrie, ziektebegrip, nosologie, Szasz, Jaspers, Foucault, bioethiek, DSM, normativisme]
+aliases: [Philosophy of Psychiatry, Ziektebegrip, Nosologie, Harmful Dysfunction Analysis, Anti-psychiatrie]
+sources:
+  - title: "Szasz, T. S. (1961). The Myth of Mental Illness. Harper & Row."
+    trust_level: 8
+  - title: "Foucault, M. (1961). Folie et déraison: Histoire de la folie à l'âge classique. Plon."
+    trust_level: 8
+  - title: "Boorse, C. (1977). Health as a theoretical concept. Philosophy of Science, 44(4), 542–573."
+    trust_level: 8
+  - title: "Wakefield, J. C. (1992). The concept of mental disorder. American Psychologist, 47(3), 373–388."
+    trust_level: 9
+  - title: "Jaspers, K. (1913/1959). Allgemeine Psychopathologie. Springer."
+    trust_level: 9
+confidence_score: 0.87
+quality_score: 0.86
+freshness_score: 0.90
+importance_score: 0.92
+novelty_score: 0.83
+knowledge_score: 0.876
+usage_score: 0.0204
+related_nodes:
+  - "02 Wiki/Filosofie/(C) Filosofie van de Geest.md"
+  - "02 Wiki/Filosofie/(C) Epistemologie & Kennistheorie.md"
+  - "02 Wiki/Filosofie/(C) Bioethiek & Medische Ethiek.md"
+  - "02 Wiki/Filosofie/(C) Neuro-ethiek.md"
+  - "02 Wiki/Filosofie/(C) Fenomenologie.md"
+  - "02 Wiki/Filosofie/(C) Kritische Theorie & Frankfurt School.md"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md"
+  - "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme — Forensisch.md"
+  - "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie.md"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie.md"
+  - "02 Wiki/Psychologie/(C) Neuropsychologisch Assessment & Testpsychologie.md"
+revision_history:
+  - version: 1
+    date: 2026-07-05
+    author: Knowledge-Hunter
+    change: initial creation (non-standard schema)
+  - version: 2
+    date: 2026-07-06
+    author: Brain-Guardian
+    change: frontmatter gestandaardiseerd naar volledig YAML-schema; sources toegevoegd vanuit in-text citaties; related_nodes als bestandspaden
 ---
 
 # Filosofie van de Psychiatrie

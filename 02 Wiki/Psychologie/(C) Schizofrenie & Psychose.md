@@ -33,7 +33,7 @@ freshness_score: 0.95
 importance_score: 0.92
 novelty_score: 1.0
 knowledge_score: 0.91
-usage_score: 0.0781
+usage_score: 0.068
 related_nodes:
   - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"
   - "02 Wiki/Psychologie/(C) Default Mode Network.md"

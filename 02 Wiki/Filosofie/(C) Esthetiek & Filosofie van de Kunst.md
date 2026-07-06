@@ -29,7 +29,7 @@ freshness_score: 0.82
 importance_score: 0.85
 novelty_score: 0.90
 knowledge_score: 0.87
-usage_score: 0.0
+usage_score: 0.0136
 related_nodes:
   - "02 Wiki/Filosofie/(C) Filosofie van de Geest.md"
   - "02 Wiki/Filosofie/(C) Epistemologie.md"

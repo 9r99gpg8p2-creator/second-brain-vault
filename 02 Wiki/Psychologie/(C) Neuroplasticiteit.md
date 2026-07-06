@@ -4,7 +4,7 @@ id: f83a2d91-4e7b-4c2a-b8f3-6d9e0a1c5b74
 title: Neuroplasticiteit
 summary: "Neuroplasticiteit is het vermogen van het zenuwstelsel om zich structureel en functioneel te reorganiseren als reactie op ervaringen, leren, letsel of omgevingsinvloeden — het theoretische fundament van cognitieve revalidatie en leren gedurende de gehele levensspan."
 category: Psychologie
-tags: [concept, psychologie, neuropsychologie, neurowetenschap, plasticiteit, geheugen, leren, LTP, BDNF, revalidatie, quality-check-needed]
+tags: [concept, psychologie, neuropsychologie, neurowetenschap, plasticiteit, geheugen, leren, LTP, BDNF, revalidatie]
 aliases: ["Neuroplasticiteit", "Hersenplasticiteit", "Neurale Plasticiteit", "Brain Plasticity"]
 sources:
   - url: https://doi.org/10.1017/S0140525X00005657
@@ -25,7 +25,7 @@ freshness_score: 0.85
 importance_score: 0.92
 novelty_score: 0.90
 knowledge_score: 0.87
-usage_score: 0.2031
+usage_score: 0.1429
 related_nodes:
   - "02 Wiki/Psychologie/(C) Geheugen & Amnesie"
   - "02 Wiki/Psychologie/(C) Slaap & Geheugenconsolidatie"
@@ -47,7 +47,7 @@ revision_history:
   - version: 2
     date: 2026-07-02
     author: Brain-Guardian
-    change: "kwaliteitscontrole — YAML schema herbouwd naar standaard; bronnen toegevoegd (Hebb, Kandel, Merzenich); related_nodes gesynchroniseerd met body wikilinks; quality-check-needed tag toegevoegd (uitbreiden met externe literatuur)"
+    change: "kwaliteitscontrole — YAML schema herbouwd naar standaard; bronnen toegevoegd (Hebb, Kandel, Merzenich); related_nodes gesynchroniseerd met body wikilinks;  tag toegevoegd (uitbreiden met externe literatuur)"
   - version: 3
     date: 2026-07-05
     author: Discovery-Engine

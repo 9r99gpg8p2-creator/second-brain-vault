@@ -25,8 +25,9 @@ freshness_score: 0.93
 importance_score: 0.92
 novelty_score: 0.88
 knowledge_score: 0.91
-usage_score: 0.1406
-related_nodes: []
+usage_score: 0.0748
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Beloningssysteem & Dopamine.md"
 revision_history:
   - version: 1
     date: 2026-07-01

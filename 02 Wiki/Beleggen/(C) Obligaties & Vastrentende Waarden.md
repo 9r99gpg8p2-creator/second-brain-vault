@@ -33,7 +33,7 @@ freshness_score: 0.93
 importance_score: 0.88
 novelty_score: 0.93
 knowledge_score: 0.90
-usage_score: 0.0312
+usage_score: 0.0136
 related_nodes:
   - "02 Wiki/Beleggen/(C) Moderne Portefeuilletheorie.md"
   - "02 Wiki/Beleggen/(C) Rente & Centrale Bankpolitiek.md"

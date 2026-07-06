@@ -4,7 +4,7 @@ id: 4c6d8e0f-5a7b-4c9d-6e7f-8a9b0c1d2e3f
 title: Psychoneuro-immunologie (PNI)
 summary: "PNI bestudeert de bidirectionele communicatie tussen psychologische processen, zenuwstelsel en immuunsysteem; chronische stress onderdrukt immuunfunctie terwijl immuunactivatie via cytokinen sickness behavior en inflammatoire depressie induceert."
 category: Psychologie
-tags: [concept, psychologie, neuropsychologie, immuunsysteem, stress, inflammatie, depressie, HPA-as, klinisch, quality-check-needed]
+tags: [concept, psychologie, neuropsychologie, immuunsysteem, stress, inflammatie, depressie, HPA-as, klinisch]
 aliases: ["Psychoneuroimmunology", "PNI", "Neuroinflammatie", "Inflammatoire Depressie"]
 sources:
   - title: "Ader, R. & Cohen, N. (1975). Behaviorally conditioned immunosuppression. Psychosomatic Medicine, 37(4), 333–340."
@@ -21,7 +21,7 @@ freshness_score: 1.0
 importance_score: 0.90
 novelty_score: 1.0
 knowledge_score: 0.85
-usage_score: 0.008
+usage_score: 0.0068
 related_nodes:
   - "02 Wiki/Psychologie/(C) HPA-as & Cortisolregulatie"
   - "02 Wiki/Psychologie/(C) Depressie & Neurobiologie"
@@ -38,7 +38,7 @@ revision_history:
   - version: 2
     date: 2026-07-05
     author: Brain-Guardian
-    change: YAML geconverteerd naar standaard schema; quality-check-needed tag toegevoegd (bronnen zonder URL)
+    change: YAML geconverteerd naar standaard schema;  tag toegevoegd (bronnen zonder URL)
 ---
 
 # Psychoneuro-immunologie (PNI)

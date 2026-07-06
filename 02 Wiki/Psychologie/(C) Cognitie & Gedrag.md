@@ -4,7 +4,7 @@ id: 6d5da124-03b7-23f6-c856-fb7cb703936b
 title: Cognitie & Gedrag
 summary: "Cognitieve processen die gedrag sturen — waarneming, aandacht, geheugen, taal en besluitvorming."
 category: Psychologie
-tags: [concept, psychologie, cognitie, jaar-1, blok-2, quality-check-needed]
+tags: [concept, psychologie, cognitie, jaar-1, blok-2]
 aliases: ["Cognitie & Gedrag"]
 sources:
   - type: raw
@@ -19,7 +19,7 @@ freshness_score: 0.8
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.782
-usage_score: 0.2656
+usage_score: 0.0952
 related_nodes:
   - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
   - "02 Wiki/Psychologie/(C) Sociale Psychologie"

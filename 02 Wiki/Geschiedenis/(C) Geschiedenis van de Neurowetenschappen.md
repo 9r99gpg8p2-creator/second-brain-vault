@@ -1,22 +1,45 @@
 ---
-title: Geschiedenis van de Neurowetenschappen
-discipline: Geschiedenis
 type: concept
-tags: [neurowetenschappen, hersenen, geschiedenis, wetenschapsgeschiedenis, Cajal, Broca, fMRI, neuroimaging]
-aangemaakt: 2026-07-05
-agent: Agent1-KnowledgeHunter
-status: compleet
-verbonden_aan:
-  - De Wetenschappelijke Revolutie
-  - Geschiedenis van de Psychiatrie
-  - Geschiedenis van de Psychofarmacologie
-  - Falsifieerbaarheid & Wetenschapsfilosofie
-  - Neuroplasticiteit
-  - Geheugen & Amnesie
-  - Executieve Functies & Prefrontale Cortex
-  - Neurale Correlaten van Bewustzijn
-  - Perceptie & Predictive Coding
-  - Epigenetica & Gen-Omgeving Interactie
+id: c9d5e4f3-7a6b-4c0d-1e8f-2a3b4c5d6e7f
+title: Geschiedenis van de Neurowetenschappen
+summary: De geschiedenis van de neurowetenschappen volgt de evolutie van hersenbegrip van Hippocrates via Cajal's neuronale doctrine en Broca's taalgebied tot Kandel's moleculaire geheugenopslag en moderne neuroimaging — waarbij elke paradigmaverschuiving mogelijk werd gemaakt door een nieuwe meetmethode.
+category: Geschiedenis
+tags: [concept, geschiedenis, neurowetenschappen, hersenen, wetenschapsgeschiedenis, Cajal, Broca, fMRI, neuroimaging]
+aliases: [History of Neuroscience, Neurowetenschappen Geschiedenis, Santiago Ramón y Cajal, Broca-gebied, Kandel]
+sources:
+  - title: "Finger, S. (2000). Minds Behind the Brain: A History of the Pioneers and Their Discoveries. Oxford University Press."
+    trust_level: 9
+  - title: "Kandel, E. R., Schwartz, J. H., & Jessell, T. M. (2000). Principles of Neural Science (4th ed.). McGraw-Hill."
+    trust_level: 10
+  - title: "Bear, M. F., Connors, B. W., & Paradiso, M. A. (2016). Neuroscience: Exploring the Brain (4th ed.). Wolters Kluwer."
+    trust_level: 9
+confidence_score: 0.88
+quality_score: 0.87
+freshness_score: 0.90
+importance_score: 0.89
+novelty_score: 0.78
+knowledge_score: 0.864
+usage_score: 0.0136
+related_nodes:
+  - "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie.md"
+  - "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychiatrie.md"
+  - "02 Wiki/Geschiedenis/(C) Geschiedenis van de Psychofarmacologie.md"
+  - "02 Wiki/Filosofie/(C) Falsifieerbaarheid & Wetenschapsfilosofie.md"
+  - "02 Wiki/Psychologie/(C) Neuroplasticiteit.md"
+  - "02 Wiki/Psychologie/(C) Geheugen & Amnesie.md"
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md"
+  - "02 Wiki/Psychologie/(C) Neurale Correlaten van Bewustzijn.md"
+  - "02 Wiki/Psychologie/(C) Perceptie & Predictive Coding.md"
+  - "02 Wiki/Psychologie/(C) Epigenetica & Gen-Omgeving Interactie.md"
+revision_history:
+  - version: 1
+    date: 2026-07-05
+    author: Knowledge-Hunter
+    change: initial creation (non-standard schema)
+  - version: 2
+    date: 2026-07-06
+    author: Brain-Guardian
+    change: frontmatter gestandaardiseerd naar volledig YAML-schema; sources toegevoegd vanuit in-text citaties; related_nodes als bestandspaden
 ---
 
 # Geschiedenis van de Neurowetenschappen

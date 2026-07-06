@@ -29,7 +29,7 @@ freshness_score: 0.92
 importance_score: 0.93
 novelty_score: 0.92
 knowledge_score: 0.90
-usage_score: 0.0
+usage_score: 0.0272
 related_nodes:
   - "02 Wiki/Filosofie/(C) Hard Problem of Consciousness (Chalmers)"
   - "02 Wiki/Filosofie/(C) Filosofie van de Geest"

@@ -23,7 +23,7 @@ freshness_score: 0.8
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.865
-usage_score: 0.3125
+usage_score: 0.1837
 related_nodes:
   - "02 Wiki/Filosofie/(C) MOC - Filosofie"
   - "02 Wiki/Psychologie/(C) Psychologie als Wetenschap"

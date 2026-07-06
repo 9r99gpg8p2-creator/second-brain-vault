@@ -4,7 +4,7 @@ id: 3f7a1b29-6c4e-4d8f-a2b1-9e0c5d3f7a1b
 title: Deugdethiek & Aristotelische Ethiek
 summary: "Deugdethiek stelt de vraag 'Wat voor persoon moet ik zijn?' — niet welke regels te volgen of welke gevolgen te maximaliseren; deugden zijn stabiele karakterdisposities die moreel goed handelen constitueren, met Aristoteles' eudaimonia als hoogste goed."
 category: Filosofie
-tags: [concept, filosofie, ethiek, deugdethiek, Aristoteles, eudaimonia, karakter, morele-psychologie, quality-check-needed]
+tags: [concept, filosofie, ethiek, deugdethiek, Aristoteles, eudaimonia, karakter, morele-psychologie]
 aliases: ["Virtue Ethics", "Aristotelische Ethiek", "Eudaimonia"]
 sources:
   - url: ""
@@ -29,7 +29,7 @@ freshness_score: 0.92
 importance_score: 0.88
 novelty_score: 0.80
 knowledge_score: 0.84
-usage_score: 0.025
+usage_score: 0.0136
 related_nodes:
   - "02 Wiki/Filosofie/(C) Ethiek"
   - "02 Wiki/Filosofie/(C) Utilitarisme & Consequentialisme"
@@ -43,7 +43,7 @@ revision_history:
   - version: 2
     date: 2026-07-03
     author: Brain-Guardian
-    change: migrated to standard YAML schema; added quality-check-needed (source URLs absent); added scores and revision_history
+    change: migrated to standard YAML schema; added  (source URLs absent); added scores and revision_history
 ---
 
 # Deugdethiek & Aristotelische Ethiek

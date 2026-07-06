@@ -37,7 +37,7 @@ freshness_score: 0.88
 importance_score: 0.93
 novelty_score: 0.92
 knowledge_score: 0.91
-usage_score: 0.0
+usage_score: 0.0408
 related_nodes:
   - "02 Wiki/Psychologie/(C) Depressie & Neurobiologie"
   - "02 Wiki/Psychologie/(C) Trauma & PTSS"

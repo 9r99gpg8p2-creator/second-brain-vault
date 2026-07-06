@@ -1,22 +1,50 @@
 ---
-title: Neuropsychologisch Assessment & Testpsychologie
-discipline: Psychologie
 type: concept
-tags: [neuropsychologie, assessment, diagnostiek, cognitie, klinisch, tests]
-aangemaakt: 2026-07-05
-agent: Agent1-KnowledgeHunter
-status: compleet
-verbonden_aan:
-  - Executieve Functies & Prefrontale Cortex
-  - Geheugen & Amnesie
-  - Aandacht & Cognitieve Controle
-  - Neurocognitieve Stoornissen & Dementie
-  - ADHD & Executieve Disfunctie
-  - Trauma & PTSS
-  - Schizofrenie & Psychose
-  - Klinische Psychologie
-  - Psychologie als Wetenschap
-  - Vrije Wil & Determinisme — Forensisch
+id: d0e6f5a4-8b7c-4d1e-2f9a-3b4c5d6e7f8a
+title: Neuropsychologisch Assessment & Testpsychologie
+summary: Neuropsychologisch assessment is een gestandaardiseerde evaluatieprocedure die via genormeerde tests cognitieve functies in kaart brengt om te differentiëren tussen normale veroudering, neurologische aandoeningen en psychiatrische stoornissen; de integratie van Luria's kwalitatieve benadering met de psychometrische traditie van Halstead-Reitan vormt het moderne klinische fundament.
+category: Psychologie
+tags: [concept, psychologie, neuropsychologie, assessment, diagnostiek, cognitie, klinisch, tests, testpsychologie]
+aliases: [Neuropsychological Assessment, Testpsychologie, Klinische Neuropsychologie, WAIS, Halstead-Reitan, Lezak]
+sources:
+  - title: "Lezak, M. D., Howieson, D. B., Bigler, E. D., & Tranel, D. (2012). Neuropsychological Assessment (5th ed.). Oxford University Press."
+    trust_level: 10
+  - title: "Luria, A. R. (1966). Higher Cortical Functions in Man. Basic Books."
+    trust_level: 9
+  - title: "Reitan, R. M. & Wolfson, D. (1985). The Halstead-Reitan Neuropsychological Test Battery. Neuropsychology Press."
+    trust_level: 9
+  - title: "Strauss, E., Sherman, E. M. S., & Spreen, O. (2006). A Compendium of Neuropsychological Tests (3rd ed.). Oxford University Press."
+    trust_level: 9
+  - title: "Shallice, T. & Burgess, P. W. (1991). Deficits in strategy application following frontal lobe damage in man. Brain, 114(2), 727–741."
+    trust_level: 9
+confidence_score: 0.88
+quality_score: 0.87
+freshness_score: 0.90
+importance_score: 0.90
+novelty_score: 0.80
+knowledge_score: 0.870
+usage_score: 0.0068
+related_nodes:
+  - "02 Wiki/Psychologie/(C) Executieve Functies & Prefrontale Cortex.md"
+  - "02 Wiki/Psychologie/(C) Geheugen & Amnesie.md"
+  - "02 Wiki/Psychologie/(C) Aandacht & Cognitieve Controle.md"
+  - "02 Wiki/Psychologie/(C) Neurocognitieve Stoornissen & Dementie.md"
+  - "02 Wiki/Psychologie/(C) ADHD & Executieve Disfunctie.md"
+  - "02 Wiki/Psychologie/(C) Trauma & PTSS.md"
+  - "02 Wiki/Psychologie/(C) Schizofrenie & Psychose.md"
+  - "02 Wiki/Psychologie/(C) Klinische Psychologie.md"
+  - "02 Wiki/Psychologie/(C) Psychologie als Wetenschap.md"
+  - "02 Wiki/Filosofie/(C) Vrije Wil & Determinisme — Forensisch.md"
+  - "02 Wiki/Geschiedenis/(C) Geschiedenis van de Neurowetenschappen.md"
+revision_history:
+  - version: 1
+    date: 2026-07-05
+    author: Knowledge-Hunter
+    change: initial creation (non-standard schema)
+  - version: 2
+    date: 2026-07-06
+    author: Brain-Guardian
+    change: frontmatter gestandaardiseerd naar volledig YAML-schema; sources toegevoegd vanuit in-text citaties; related_nodes als bestandspaden
 ---
 
 # Neuropsychologisch Assessment & Testpsychologie

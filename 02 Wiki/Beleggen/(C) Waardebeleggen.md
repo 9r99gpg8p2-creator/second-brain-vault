@@ -25,7 +25,7 @@ freshness_score: 0.82
 importance_score: 0.90
 novelty_score: 1.0
 knowledge_score: 0.91
-usage_score: 0.0938
+usage_score: 0.0748
 related_nodes:
   - "02 Wiki/Beleggen/(C) Gedragseconomie & Cognitieve Biases.md"
   - "02 Wiki/Beleggen/(C) Efficiënte Markt Hypothese.md"

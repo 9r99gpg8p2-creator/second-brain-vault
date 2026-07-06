@@ -4,7 +4,7 @@ id: a94369bb-2c9b-3a7a-e7f2-a4977d4e0ed8
 title: Klinische Psychologie
 summary: "Classificatie, diagnostiek en behandeling van psychische stoornissen — van theorie naar adviesrapport."
 category: Psychologie
-tags: [concept, psychologie, klinisch, jaar-1, blok-4, quality-check-needed]
+tags: [concept, psychologie, klinisch, jaar-1, blok-4]
 aliases: ["Klinische Psychologie"]
 sources:
   - type: raw
@@ -22,7 +22,7 @@ freshness_score: 0.8
 importance_score: 0.88
 novelty_score: 1.0
 knowledge_score: 0.833
-usage_score: 0.3125
+usage_score: 0.1361
 related_nodes:
   - "02 Wiki/Psychologie/(C) Hersen & Gedrag"
   - "02 Wiki/Psychologie/(C) Sociale Psychologie"
@@ -35,7 +35,7 @@ revision_history:
   - version: 2
     date: 2026-07-02
     author: Brain-Guardian
-    change: kwaliteitscontrole — uitgebreid met DSM vs ICD analyse, evidence-based behandelingen per stoornis, diagnostische cyclus; quality-check-needed tag toegevoegd; wikilinks naar Schizofrenie, Trauma & PTSS, ADHD, Emotieregulatie
+    change: kwaliteitscontrole — uitgebreid met DSM vs ICD analyse, evidence-based behandelingen per stoornis, diagnostische cyclus;  tag toegevoegd; wikilinks naar Schizofrenie, Trauma & PTSS, ADHD, Emotieregulatie
 ---
 
 # Klinische Psychologie

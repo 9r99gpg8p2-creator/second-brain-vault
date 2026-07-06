@@ -25,7 +25,7 @@ freshness_score: 0.80
 importance_score: 0.92
 novelty_score: 0.88
 knowledge_score: 0.87
-usage_score: 0.2812
+usage_score: 0.0952
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) De Wetenschappelijke Revolutie"
   - "02 Wiki/Geschiedenis/(C) De Franse Revolutie"

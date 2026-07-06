@@ -25,7 +25,7 @@ freshness_score: 0.75
 importance_score: 0.88
 novelty_score: 0.92
 knowledge_score: 0.87
-usage_score: 0.0
+usage_score: 0.0136
 related_nodes:
   - "02 Wiki/Geschiedenis/(C) De Reformatie.md"
   - "02 Wiki/Geschiedenis/(C) De Renaissance.md"

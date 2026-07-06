@@ -33,7 +33,7 @@ freshness_score: 0.85
 importance_score: 0.92
 novelty_score: 1.0
 knowledge_score: 0.91
-usage_score: 0.0
+usage_score: 0.0204
 related_nodes:
   - "[[De Tweede Wereldoorlog]]"
   - "[[De Globalisering]]"
